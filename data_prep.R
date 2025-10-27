@@ -3,8 +3,7 @@ library(tidyverse)
 options("encoding" = "UTF-8")
 
 
-full_data <- read_csv("data_ready.csv") %>%
-  filter(Language %in% c("French", "US", "UK", "Finnish", "Japanese", "Urdu"))
+full_data <- read_csv("data_ready.csv") 
 
 full_data %>% group_by(Subject, Language) %>% tally()
 
@@ -236,24 +235,24 @@ full_data <- full_data %>% mutate(TargetCV = str_replace_all(str_replace_all(IPA
                                                                        "[e a ɑ u ə ɔ ɛ o i ø y ɥ œ æ ɤ]", "V"), "[^V]", "C"),
                                 TargetCV = as.factor(TargetCV))
 
-# target_structures_sample <- as.data.frame(levels(full_data$TargetCV)) # list all structures in the data
-# 
-# target_structures_sample <- target_structures_sample %>%
-#   rename("TargetCV" = `levels(full_data$TargetCV)`)
-# 
-# target_structures_sample$TargetCV_edited <- gsub("ː", "", target_structures_sample$TargetCV)
-# target_structures_sample$TargetCV_edited <- gsub("VVVV", "V", target_structures_sample$TargetCV_edited)  
-# target_structures_sample$TargetCV_edited <- gsub("VVV", "V", target_structures_sample$TargetCV_edited)  
-# target_structures_sample$TargetCV_edited <- gsub("VV", "V", target_structures_sample$TargetCV_edited)
-# target_structures_sample$TargetCV_edited <- gsub("[(G g)]", "C", target_structures_sample$TargetCV_edited)  # counting glides as consonants, consistent with above
-# target_structures_sample$TargetCV_edited <- gsub("CCCC", "C", target_structures_sample$TargetCV_edited)  
-# target_structures_sample$TargetCV_edited <- gsub("CCC", "C", target_structures_sample$TargetCV_edited)  
-# target_structures_sample$TargetCV_edited <- gsub("CC", "C", target_structures_sample$TargetCV_edited)  
-# target_structures_sample$TargetCV_edited <- gsub("^", "", target_structures_sample$TargetCV_edited)
-# 
-# 
-# target_structures_sample <- target_structures_sample %>%
-#   mutate(TargetCV_edited = as.factor(TargetCV_edited))
+target_structures_sample <- as.data.frame(levels(full_data$TargetCV)) # list all structures in the data
+
+target_structures_sample <- target_structures_sample %>%
+  rename("TargetCV" = `levels(full_data$TargetCV)`)
+
+target_structures_sample$TargetCV_edited <- gsub("ː", "", target_structures_sample$TargetCV)
+target_structures_sample$TargetCV_edited <- gsub("VVVV", "V", target_structures_sample$TargetCV_edited)
+target_structures_sample$TargetCV_edited <- gsub("VVV", "V", target_structures_sample$TargetCV_edited)
+target_structures_sample$TargetCV_edited <- gsub("VV", "V", target_structures_sample$TargetCV_edited)
+target_structures_sample$TargetCV_edited <- gsub("[(G g)]", "C", target_structures_sample$TargetCV_edited)  # counting glides as consonants, consistent with above
+target_structures_sample$TargetCV_edited <- gsub("CCCC", "C", target_structures_sample$TargetCV_edited)
+target_structures_sample$TargetCV_edited <- gsub("CCC", "C", target_structures_sample$TargetCV_edited)
+target_structures_sample$TargetCV_edited <- gsub("CC", "C", target_structures_sample$TargetCV_edited)
+target_structures_sample$TargetCV_edited <- gsub("^", "", target_structures_sample$TargetCV_edited)
+
+
+target_structures_sample <- target_structures_sample %>%
+  mutate(TargetCV_edited = as.factor(TargetCV_edited))
 
 full_data <- full_data %>% mutate(ActualCV = str_replace_all(str_replace_all(IPAactual, 
                                                                        "[ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ]",
@@ -279,12 +278,10 @@ actual_structures_sample$ActualCV_edited <- gsub("^", "", actual_structures_samp
 actual_structures_sample <- actual_structures_sample %>%
   mutate(ActualCV_edited = as.factor(ActualCV_edited))
 
-full_data <- full_data %>% #left_join(target_structures_sample) %>%
+full_data <- full_data %>% left_join(target_structures_sample) %>%
   left_join(actual_structures_sample)  # join with main dataframe
 
 full_data %>% group_by(nsyl_actual) %>% tally()  # some 10-syl words which are vocal play - remove anything above 5 syls (apareil photo)
-
-#full_data <- full_data %>% filter(nsyl_actual <6)  ## might want to change this later to include all words
 
 ### split the syllables for alignment
 
@@ -296,14 +293,7 @@ full_data$geminate_A <- as.numeric(grepl("-", full_data$Vremoved_actual))
 
 ####################################################################################
 
-### worry about this bit later (and run script through target forms, which will need writing) 
-### if we decide to use target forms 
-
-#full_data <- full_data %>% mutate(nsyl_actual = ifelse(geminate_A == 1, nsyl_actual+1, nsyl_actual))
-
-## start with target non-geminates and non-complex clusters (which need dealing with separately)
-
-## complex_clusters <- full_data %>% dplyr::filter(grepl("=", IPAtarget))
+## Target forms - needs adding
 
 #######################################################################################
 
