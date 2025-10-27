@@ -1,0 +1,1215 @@
+Speaker,gloss1,degree,threshold,data_type
+Adeline,au revoir602,1,0.25,target
+Adeline,au revoir603,1,0.25,target
+Adeline,au revoir604,1,0.25,target
+Adeline,au revoir605,1,0.25,target
+Adeline,au revoir606,1,0.25,target
+Adeline,au revoir607,1,0.25,target
+Adeline,au revoir608,1,0.25,target
+Adeline,au revoir609,1,0.25,target
+Adeline,bain1,5,0.25,target
+Adeline,bain2,5,0.25,target
+Adeline,bisou245,4,0.25,target
+Adeline,bisou246,4,0.25,target
+Adeline,bisou247,4,0.25,target
+Adeline,bisou248,4,0.25,target
+Adeline,bisou249,4,0.25,target
+Adeline,bobo250,4,0.25,target
+Adeline,bobo251,4,0.25,target
+Adeline,bobo252,4,0.25,target
+Adeline,boum10,3,0.25,target
+Adeline,boum11,3,0.25,target
+Adeline,boum12,3,0.25,target
+Adeline,boum13,3,0.25,target
+Adeline,boum14,3,0.25,target
+Adeline,boum15,3,0.25,target
+Adeline,boum3,3,0.25,target
+Adeline,boum4,3,0.25,target
+Adeline,boum5,3,0.25,target
+Adeline,boum6,3,0.25,target
+Adeline,boum7,3,0.25,target
+Adeline,boum8,3,0.25,target
+Adeline,boum9,3,0.25,target
+Adeline,brosse16,2,0.25,target
+Adeline,champs17,5,0.25,target
+Adeline,chapeau253,3,0.25,target
+Adeline,chapeau254,3,0.25,target
+Adeline,chapeau255,3,0.25,target
+Adeline,chapeau256,3,0.25,target
+Adeline,chapeau257,3,0.25,target
+Adeline,chapeau258,3,0.25,target
+Adeline,chapeau259,3,0.25,target
+Adeline,chapeau260,3,0.25,target
+Adeline,chapeau261,3,0.25,target
+Adeline,chat18,5,0.25,target
+Adeline,chat19,5,0.25,target
+Adeline,chat20,5,0.25,target
+Adeline,chat21,5,0.25,target
+Adeline,chat22,5,0.25,target
+Adeline,chat23,5,0.25,target
+Adeline,chat24,5,0.25,target
+Adeline,chat25,5,0.25,target
+Adeline,chat26,5,0.25,target
+Adeline,chat27,5,0.25,target
+Adeline,chat28,5,0.25,target
+Adeline,coucou262,2,0.25,target
+Adeline,coucou263,2,0.25,target
+Adeline,coucou264,2,0.25,target
+Adeline,coucou265,2,0.25,target
+Adeline,coucou266,2,0.25,target
+Adeline,coucou267,2,0.25,target
+Adeline,coucou268,2,0.25,target
+Adeline,coucou269,2,0.25,target
+Adeline,coucou270,2,0.25,target
+Adeline,coucou271,2,0.25,target
+Adeline,dodo272,2,0.25,target
+Adeline,en dehors273,3,0.25,target
+Adeline,encore274,3,0.25,target
+Adeline,encore275,3,0.25,target
+Adeline,encore276,3,0.25,target
+Adeline,encore277,3,0.25,target
+Adeline,encore278,3,0.25,target
+Adeline,encore279,3,0.25,target
+Adeline,encore280,3,0.25,target
+Adeline,encore281,3,0.25,target
+Adeline,encore282,3,0.25,target
+Adeline,encore283,3,0.25,target
+Adeline,encore284,3,0.25,target
+Adeline,encore285,3,0.25,target
+Adeline,encore286,3,0.25,target
+Adeline,encore287,3,0.25,target
+Adeline,lave29,2,0.25,target
+Adeline,là30,5,0.25,target
+Adeline,là31,5,0.25,target
+Adeline,là32,5,0.25,target
+Adeline,là33,5,0.25,target
+Adeline,là34,5,0.25,target
+Adeline,là35,5,0.25,target
+Adeline,maman288,1,0.25,target
+Adeline,maman289,1,0.25,target
+Adeline,maman290,1,0.25,target
+Adeline,miaou36,2,0.25,target
+Adeline,miaou37,2,0.25,target
+Adeline,miaou38,2,0.25,target
+Adeline,moi39,2,0.25,target
+Adeline,non40,4,0.25,target
+Adeline,non41,4,0.25,target
+Adeline,oh42,7,0.25,target
+Adeline,oh43,7,0.25,target
+Adeline,oh44,7,0.25,target
+Adeline,oiseau291,2,0.25,target
+Adeline,papa292,3,0.25,target
+Adeline,papa293,3,0.25,target
+Adeline,papa294,3,0.25,target
+Adeline,parti295,1,0.25,target
+Adeline,tiens45,1,0.25,target
+Adeline,tiens46,1,0.25,target
+Adeline,tiens47,1,0.25,target
+Adeline,tiens48,1,0.25,target
+Adeline,trois49,1,0.25,target
+Adeline,vachou296,1,0.25,target
+Adeline,voilà297,2,0.25,target
+Adeline,voilà298,2,0.25,target
+Adeline,voiture299,2,0.25,target
+Adeline,voiture300,2,0.25,target
+Adeline,vroum50,2,0.25,target
+Charles,allo301,4,0.25,target
+Charles,allo302,4,0.25,target
+Charles,allo303,4,0.25,target
+Charles,assis304,5,0.25,target
+Charles,assis305,5,0.25,target
+Charles,attend306,4,0.25,target
+Charles,attend307,4,0.25,target
+Charles,attend308,4,0.25,target
+Charles,au revoir309,1,0.25,target
+Charles,au revoir310,1,0.25,target
+Charles,auto311,4,0.25,target
+Charles,auto312,4,0.25,target
+Charles,auto313,4,0.25,target
+Charles,balle51,2,0.25,target
+Charles,boire52,2,0.25,target
+Charles,boire53,2,0.25,target
+Charles,boire54,2,0.25,target
+Charles,boire55,2,0.25,target
+Charles,boire56,2,0.25,target
+Charles,boire57,2,0.25,target
+Charles,boire58,2,0.25,target
+Charles,boire59,2,0.25,target
+Charles,boire60,2,0.25,target
+Charles,boire61,2,0.25,target
+Charles,boire62,2,0.25,target
+Charles,boire63,2,0.25,target
+Charles,boire64,2,0.25,target
+Charles,boire65,2,0.25,target
+Charles,boire66,2,0.25,target
+Charles,boire67,2,0.25,target
+Charles,boum68,2,0.25,target
+Charles,boum69,2,0.25,target
+Charles,boum70,2,0.25,target
+Charles,boum71,2,0.25,target
+Charles,c'est beau314,5,0.25,target
+Charles,c'est beau315,5,0.25,target
+Charles,c'est beau316,5,0.25,target
+Charles,c'est bon317,5,0.25,target
+Charles,chapeau318,6,0.25,target
+Charles,chapeau319,6,0.25,target
+Charles,chapeau320,6,0.25,target
+Charles,chapeau321,6,0.25,target
+Charles,chapeau322,6,0.25,target
+Charles,chapeau323,6,0.25,target
+Charles,chaud79,4,0.25,target
+Charles,chaud80,4,0.25,target
+Charles,chaussures324,5,0.25,target
+Charles,chaussures325,5,0.25,target
+Charles,coucou326,1,0.25,target
+Charles,coucou327,1,0.25,target
+Charles,coucou328,1,0.25,target
+Charles,coucou329,1,0.25,target
+Charles,coucou330,1,0.25,target
+Charles,garçon331,1,0.25,target
+Charles,garçon332,1,0.25,target
+Charles,garçon333,1,0.25,target
+Charles,garçon334,1,0.25,target
+Charles,garçon335,1,0.25,target
+Charles,garçon336,1,0.25,target
+Charles,garçon337,1,0.25,target
+Charles,lapin338,3,0.25,target
+Charles,lapin339,3,0.25,target
+Charles,lapin340,3,0.25,target
+Charles,lapin341,3,0.25,target
+Charles,lapin342,3,0.25,target
+Charles,lapin343,3,0.25,target
+Charles,lapin344,3,0.25,target
+Charles,lapin345,3,0.25,target
+Charles,lapin346,3,0.25,target
+Charles,lapin347,3,0.25,target
+Charles,lapin348,3,0.25,target
+Charles,lapin349,3,0.25,target
+Charles,lapin350,3,0.25,target
+Charles,les yeux351,1,0.25,target
+Charles,lolo352,2,0.25,target
+Charles,lolo353,2,0.25,target
+Charles,maman354,1,0.25,target
+Charles,maman355,1,0.25,target
+Charles,maman356,1,0.25,target
+Charles,maman357,1,0.25,target
+Charles,maman358,1,0.25,target
+Charles,maman359,1,0.25,target
+Charles,maman360,1,0.25,target
+Charles,maman361,1,0.25,target
+Charles,maman362,1,0.25,target
+Charles,maman363,1,0.25,target
+Charles,miammiam388,1,0.25,target
+Charles,miammiam389,1,0.25,target
+Charles,miammiam390,1,0.25,target
+Charles,miammiam391,1,0.25,target
+Charles,miammiam392,1,0.25,target
+Charles,miammiam393,1,0.25,target
+Charles,non-non364,1,0.25,target
+Charles,non-non365,1,0.25,target
+Charles,non-non366,1,0.25,target
+Charles,non-non367,1,0.25,target
+Charles,non-non368,1,0.25,target
+Charles,non-non369,1,0.25,target
+Charles,non-non370,1,0.25,target
+Charles,non-non371,1,0.25,target
+Charles,non-non372,1,0.25,target
+Charles,non-non373,1,0.25,target
+Charles,non-non374,1,0.25,target
+Charles,non-non375,1,0.25,target
+Charles,non-non376,1,0.25,target
+Charles,oiseau377,2,0.25,target
+Charles,oiseau378,2,0.25,target
+Charles,papa379,3,0.25,target
+Charles,papa380,3,0.25,target
+Charles,papa381,3,0.25,target
+Charles,poupée382,3,0.25,target
+Charles,tiens81,2,0.25,target
+Charles,tiens82,2,0.25,target
+Charles,tiens83,2,0.25,target
+Charles,tiens84,2,0.25,target
+Charles,tiens85,2,0.25,target
+Charles,tiens86,2,0.25,target
+Charles,tiens87,2,0.25,target
+Charles,tiens88,2,0.25,target
+Charles,tiens89,2,0.25,target
+Charles,tiens90,2,0.25,target
+Charles,tiens91,2,0.25,target
+Charles,tiens92,2,0.25,target
+Charles,tiens93,2,0.25,target
+Charles,tiens94,2,0.25,target
+Charles,tiens95,2,0.25,target
+Charles,tiens96,2,0.25,target
+Charles,tiens97,2,0.25,target
+Charles,tiens98,2,0.25,target
+Charles,va pas383,5,0.25,target
+Charles,va pas384,5,0.25,target
+Charles,va pas385,5,0.25,target
+Charles,va pas386,5,0.25,target
+Charles,va pas387,5,0.25,target
+Charles,voire100,2,0.25,target
+Charles,voire101,2,0.25,target
+Charles,voire102,2,0.25,target
+Charles,voire103,2,0.25,target
+Charles,voire99,2,0.25,target
+Charles,ça72,4,0.25,target
+Charles,ça73,4,0.25,target
+Charles,ça74,4,0.25,target
+Charles,ça75,4,0.25,target
+Charles,ça76,4,0.25,target
+Charles,ça77,4,0.25,target
+Charles,ça78,4,0.25,target
+Gaël,Gael?114,5,0.25,target
+Gaël,accrocher610,2,0.25,target
+Gaël,accrocher611,2,0.25,target
+Gaël,ballon394,4,0.25,target
+Gaël,bleu104,3,0.25,target
+Gaël,bleu105,3,0.25,target
+Gaël,bleu106,3,0.25,target
+Gaël,bleu107,3,0.25,target
+Gaël,bleu108,3,0.25,target
+Gaël,bleu109,3,0.25,target
+Gaël,bleu110,3,0.25,target
+Gaël,bleu111,3,0.25,target
+Gaël,bébé395,4,0.25,target
+Gaël,bébé396,4,0.25,target
+Gaël,bébé397,4,0.25,target
+Gaël,bébé398,4,0.25,target
+Gaël,bébé399,4,0.25,target
+Gaël,bébé400,4,0.25,target
+Gaël,bébé401,4,0.25,target
+Gaël,bébé402,4,0.25,target
+Gaël,bébé403,4,0.25,target
+Gaël,bébé404,4,0.25,target
+Gaël,bébé405,4,0.25,target
+Gaël,bébé406,4,0.25,target
+Gaël,c'est ça407,7,0.25,target
+Gaël,c'est ça408,7,0.25,target
+Gaël,c'est ça409,7,0.25,target
+Gaël,c'est ça410,7,0.25,target
+Gaël,c'est ça411,7,0.25,target
+Gaël,c'est ça412,7,0.25,target
+Gaël,c'est ça413,7,0.25,target
+Gaël,c'est ça414,7,0.25,target
+Gaël,c'est ça415,7,0.25,target
+Gaël,c'est ça416,7,0.25,target
+Gaël,c'est ça417,7,0.25,target
+Gaël,c'est ça418,7,0.25,target
+Gaël,c'est ça419,7,0.25,target
+Gaël,c'est ça420,7,0.25,target
+Gaël,c'est ça421,7,0.25,target
+Gaël,c'est ça422,7,0.25,target
+Gaël,c'est ça423,7,0.25,target
+Gaël,c'est ça424,7,0.25,target
+Gaël,c'est ça425,7,0.25,target
+Gaël,c'est ça426,7,0.25,target
+Gaël,casser427,4,0.25,target
+Gaël,casser428,4,0.25,target
+Gaël,chercher429,3,0.25,target
+Gaël,chercher430,3,0.25,target
+Gaël,chercher431,3,0.25,target
+Gaël,dedans432,6,0.25,target
+Gaël,deux112,11,0.25,target
+Gaël,dodo433,6,0.25,target
+Gaël,dormir434,4,0.25,target
+Gaël,feu113,9,0.25,target
+Gaël,grelot437,6,0.25,target
+Gaël,gros115,9,0.25,target
+Gaël,gros116,9,0.25,target
+Gaël,gros117,9,0.25,target
+Gaël,grosse118,5,0.25,target
+Gaël,ici438,7,0.25,target
+Gaël,ici439,7,0.25,target
+Gaël,la dame la612,1,0.25,target
+Gaël,là bas440,3,0.25,target
+Gaël,là bas441,3,0.25,target
+Gaël,là119,10,0.25,target
+Gaël,là120,10,0.25,target
+Gaël,là121,10,0.25,target
+Gaël,là122,10,0.25,target
+Gaël,là123,10,0.25,target
+Gaël,là124,10,0.25,target
+Gaël,là125,10,0.25,target
+Gaël,là126,10,0.25,target
+Gaël,là127,10,0.25,target
+Gaël,là128,10,0.25,target
+Gaël,là129,10,0.25,target
+Gaël,là130,10,0.25,target
+Gaël,là131,10,0.25,target
+Gaël,là132,10,0.25,target
+Gaël,là133,10,0.25,target
+Gaël,là134,10,0.25,target
+Gaël,là135,10,0.25,target
+Gaël,là136,10,0.25,target
+Gaël,là137,10,0.25,target
+Gaël,machine442,1,0.25,target
+Gaël,machine443,1,0.25,target
+Gaël,maman444,1,0.25,target
+Gaël,maman445,1,0.25,target
+Gaël,maman446,1,0.25,target
+Gaël,maman447,1,0.25,target
+Gaël,maman448,1,0.25,target
+Gaël,maman449,1,0.25,target
+Gaël,maman450,1,0.25,target
+Gaël,non138,9,0.25,target
+Gaël,non139,9,0.25,target
+Gaël,ouais140,8,0.25,target
+Gaël,ouais141,8,0.25,target
+Gaël,ouais142,8,0.25,target
+Gaël,ouais143,8,0.25,target
+Gaël,ouais144,8,0.25,target
+Gaël,ouais145,8,0.25,target
+Gaël,ouais146,8,0.25,target
+Gaël,oui147,8,0.25,target
+Gaël,oui148,8,0.25,target
+Gaël,oui149,8,0.25,target
+Gaël,oui150,8,0.25,target
+Gaël,oui151,8,0.25,target
+Gaël,oui152,8,0.25,target
+Gaël,oui153,8,0.25,target
+Gaël,oui154,8,0.25,target
+Gaël,ouvre155,5,0.25,target
+Gaël,ouvre156,5,0.25,target
+Gaël,ouvre157,5,0.25,target
+Gaël,ouvre158,5,0.25,target
+Gaël,ouvre159,5,0.25,target
+Gaël,ouvre160,5,0.25,target
+Gaël,ouvrir451,5,0.25,target
+Gaël,ouvrir452,5,0.25,target
+Gaël,ouvrir453,5,0.25,target
+Gaël,ouvrir454,5,0.25,target
+Gaël,ouvrir455,5,0.25,target
+Gaël,ouvrir456,5,0.25,target
+Gaël,papa457,3,0.25,target
+Gaël,papa458,3,0.25,target
+Gaël,papa459,3,0.25,target
+Gaël,pas161,12,0.25,target
+Gaël,pas162,12,0.25,target
+Gaël,plus163,3,0.25,target
+Gaël,roue164,9,0.25,target
+Gaël,roue165,9,0.25,target
+Gaël,rouge166,5,0.25,target
+Gaël,sou167,11,0.25,target
+Gaël,sou168,11,0.25,target
+Gaël,sou169,11,0.25,target
+Gaël,tas170,12,0.25,target
+Gaël,tas171,12,0.25,target
+Gaël,tas172,12,0.25,target
+Gaël,tas173,12,0.25,target
+Gaël,tas174,12,0.25,target
+Gaël,tout seul460,2,0.25,target
+Gaël,trax175,1,0.25,target
+Gaël,vert176,9,0.25,target
+Gaël,voiture461,1,0.25,target
+Gaël,voiture462,1,0.25,target
+Gaël,écrit435,6,0.25,target
+Gaël,écrit436,6,0.25,target
+Laurent,Didier504,2,0.25,target
+Laurent,Kola512,7,0.25,target
+Laurent,Kola513,7,0.25,target
+Laurent,Kola514,7,0.25,target
+Laurent,Kola515,7,0.25,target
+Laurent,Kola516,7,0.25,target
+Laurent,allo463,6,0.25,target
+Laurent,allo464,6,0.25,target
+Laurent,allo465,6,0.25,target
+Laurent,aîe177,4,0.25,target
+Laurent,aîe178,4,0.25,target
+Laurent,aîe179,4,0.25,target
+Laurent,aîe180,4,0.25,target
+Laurent,ballon466,5,0.25,target
+Laurent,ballon467,5,0.25,target
+Laurent,boire181,2,0.25,target
+Laurent,boire182,2,0.25,target
+Laurent,brosse183,1,0.25,target
+Laurent,brosse184,1,0.25,target
+Laurent,bébé468,4,0.25,target
+Laurent,caca469,5,0.25,target
+Laurent,canard coincoin470,3,0.25,target
+Laurent,canard coincoin471,3,0.25,target
+Laurent,canard coincoin472,3,0.25,target
+Laurent,canard dans l'eau616,1,0.25,target
+Laurent,chapeau473,4,0.25,target
+Laurent,chapeau474,4,0.25,target
+Laurent,chapeau475,4,0.25,target
+Laurent,chapeau476,4,0.25,target
+Laurent,chapeau477,4,0.25,target
+Laurent,chapeau478,4,0.25,target
+Laurent,chapeau479,4,0.25,target
+Laurent,chapeau480,4,0.25,target
+Laurent,chapeau481,4,0.25,target
+Laurent,chapeau482,4,0.25,target
+Laurent,chaussures483,5,0.25,target
+Laurent,chaussures484,5,0.25,target
+Laurent,chaussures485,5,0.25,target
+Laurent,coucou là613,2,0.25,target
+Laurent,coucou486,5,0.25,target
+Laurent,coucou487,5,0.25,target
+Laurent,coucou488,5,0.25,target
+Laurent,coucou489,5,0.25,target
+Laurent,cuillère490,1,0.25,target
+Laurent,cuillère491,1,0.25,target
+Laurent,cuillère492,1,0.25,target
+Laurent,de l'eau493,5,0.25,target
+Laurent,de l'eau494,5,0.25,target
+Laurent,de l'eau495,5,0.25,target
+Laurent,de l'eau496,5,0.25,target
+Laurent,de l'eau497,5,0.25,target
+Laurent,de l'eau498,5,0.25,target
+Laurent,de l'eau499,5,0.25,target
+Laurent,de l'eau500,5,0.25,target
+Laurent,de l'eau501,5,0.25,target
+Laurent,de l'eau502,5,0.25,target
+Laurent,de l'eau503,5,0.25,target
+Laurent,dodo505,5,0.25,target
+Laurent,donne [nano]615,1,0.25,target
+Laurent,gateau506,5,0.25,target
+Laurent,gateau507,5,0.25,target
+Laurent,gateau508,5,0.25,target
+Laurent,gateau509,5,0.25,target
+Laurent,gateau510,5,0.25,target
+Laurent,hihan535,1,0.25,target
+Laurent,kekette511,2,0.25,target
+Laurent,la dame là614,1,0.25,target
+Laurent,maman517,1,0.25,target
+Laurent,maman518,1,0.25,target
+Laurent,maman519,1,0.25,target
+Laurent,maman520,1,0.25,target
+Laurent,maman521,1,0.25,target
+Laurent,miam530,1,0.25,target
+Laurent,miam531,1,0.25,target
+Laurent,miam532,1,0.25,target
+Laurent,miam533,1,0.25,target
+Laurent,miam534,1,0.25,target
+Laurent,moi185,2,0.25,target
+Laurent,moi186,2,0.25,target
+Laurent,moi187,2,0.25,target
+Laurent,moi188,2,0.25,target
+Laurent,nano522,3,0.25,target
+Laurent,nano523,3,0.25,target
+Laurent,nano524,3,0.25,target
+Laurent,non189,2,0.25,target
+Laurent,non190,2,0.25,target
+Laurent,non191,2,0.25,target
+Laurent,non192,2,0.25,target
+Laurent,non193,2,0.25,target
+Laurent,papa525,3,0.25,target
+Laurent,papa526,3,0.25,target
+Laurent,tiens194,1,0.25,target
+Laurent,tiens195,1,0.25,target
+Laurent,voilà527,1,0.25,target
+Laurent,voilà528,1,0.25,target
+Laurent,voilà529,1,0.25,target
+Noël,ballon536,1,0.25,target
+Noël,ballon537,1,0.25,target
+Noël,banane538,1,0.25,target
+Noël,banane539,1,0.25,target
+Noël,banane540,1,0.25,target
+Noël,banane541,1,0.25,target
+Noël,biberon?542,2,0.25,target
+Noël,canard543,1,0.25,target
+Noël,canard544,1,0.25,target
+Noël,canard545,1,0.25,target
+Noël,canard546,1,0.25,target
+Noël,canard547,1,0.25,target
+Noël,chapeaux548,3,0.25,target
+Noël,couches201,1,0.25,target
+Noël,couches202,1,0.25,target
+Noël,couches203,1,0.25,target
+Noël,couches204,1,0.25,target
+Noël,dodo549,1,0.25,target
+Noël,donne205,1,0.25,target
+Noël,donne206,1,0.25,target
+Noël,fraise207,1,0.25,target
+Noël,gateau550,2,0.25,target
+Noël,gateau551,2,0.25,target
+Noël,gateau552,2,0.25,target
+Noël,gateau553,2,0.25,target
+Noël,gateau554,2,0.25,target
+Noël,gateau555,2,0.25,target
+Noël,gateau556,2,0.25,target
+Noël,gateau557,2,0.25,target
+Noël,gateau558,2,0.25,target
+Noël,gateau559,2,0.25,target
+Noël,gateau560,2,0.25,target
+Noël,lapin561,2,0.25,target
+Noël,lapin562,2,0.25,target
+Noël,lapin563,2,0.25,target
+Noël,lapin564,2,0.25,target
+Noël,lapin565,2,0.25,target
+Noël,lapin566,2,0.25,target
+Noël,lapin567,2,0.25,target
+Noël,lapin568,2,0.25,target
+Noël,lapin569,2,0.25,target
+Noël,lapin570,2,0.25,target
+Noël,lapin571,2,0.25,target
+Noël,lapin572,2,0.25,target
+Noël,lapin573,2,0.25,target
+Noël,l’eau208,4,0.25,target
+Noël,l’eau209,4,0.25,target
+Noël,l’eau210,4,0.25,target
+Noël,l’eau211,4,0.25,target
+Noël,l’eau212,4,0.25,target
+Noël,l’eau213,4,0.25,target
+Noël,l’eau214,4,0.25,target
+Noël,main215,3,0.25,target
+Noël,main216,3,0.25,target
+Noël,main217,3,0.25,target
+Noël,maman574,2,0.25,target
+Noël,maman575,2,0.25,target
+Noël,maman576,2,0.25,target
+Noël,maman577,2,0.25,target
+Noël,non218,4,0.25,target
+Noël,non219,4,0.25,target
+Noël,pain220,5,0.25,target
+Noël,pain221,5,0.25,target
+Noël,pain222,5,0.25,target
+Noël,pain223,5,0.25,target
+Noël,pain224,5,0.25,target
+Noël,paletot590,1,0.25,target
+Noël,paletot591,1,0.25,target
+Noël,paletot592,1,0.25,target
+Noël,papa593,4,0.25,target
+Noël,par là594,2,0.25,target
+Noël,peinture595,2,0.25,target
+Noël,peinture596,2,0.25,target
+Noël,peinture597,2,0.25,target
+Noël,poire225,2,0.25,target
+Noël,poire226,2,0.25,target
+Noël,pomme227,2,0.25,target
+Noël,pomme228,2,0.25,target
+Noël,pomme229,2,0.25,target
+Noël,poule230,2,0.25,target
+Noël,poule231,2,0.25,target
+Noël,poum232,2,0.25,target
+Noël,poupée598,4,0.25,target
+Noël,poupée599,4,0.25,target
+Noël,savon600,2,0.25,target
+Noël,savon601,2,0.25,target
+Noël,tiens233,1,0.25,target
+Noël,tiens234,1,0.25,target
+Noël,tiens235,1,0.25,target
+Noël,tiens236,1,0.25,target
+Noël,tiens237,1,0.25,target
+Noël,tiens238,1,0.25,target
+Noël,tiens239,1,0.25,target
+Noël,tiens240,1,0.25,target
+Noël,tiens241,1,0.25,target
+Noël,tiens242,1,0.25,target
+Noël,tiens243,1,0.25,target
+Noël,tiens244,1,0.25,target
+Noël,wouf wouf578,1,0.25,target
+Noël,wouf wouf579,1,0.25,target
+Noël,wouf wouf580,1,0.25,target
+Noël,wouf wouf581,1,0.25,target
+Noël,wouf wouf582,1,0.25,target
+Noël,wouf wouf583,1,0.25,target
+Noël,wouf wouf584,1,0.25,target
+Noël,wouf wouf585,1,0.25,target
+Noël,wouf wouf586,1,0.25,target
+Noël,wouf wouf587,1,0.25,target
+Noël,wouf wouf588,1,0.25,target
+Noël,wouf wouf589,1,0.25,target
+Noël,ça196,4,0.25,target
+Noël,ça197,4,0.25,target
+Noël,ça198,4,0.25,target
+Noël,ça199,4,0.25,target
+Noël,ça200,4,0.25,target
+Adeline,au revoir635,2,0.25,actual
+Adeline,au revoir840,10,0.25,actual
+Adeline,au revoir841,10,0.25,actual
+Adeline,au revoir842,9,0.25,actual
+Adeline,au revoir843,2,0.25,actual
+Adeline,au revoir844,10,0.25,actual
+Adeline,au revoir845,9,0.25,actual
+Adeline,au revoir846,10,0.25,actual
+Adeline,bain636,9,0.25,actual
+Adeline,bain847,3,0.25,actual
+Adeline,bisou848,9,0.25,actual
+Adeline,bisou849,9,0.25,actual
+Adeline,bisou850,11,0.25,actual
+Adeline,bisou851,11,0.25,actual
+Adeline,bisou852,11,0.25,actual
+Adeline,bobo1182,4,0.25,actual
+Adeline,bobo1183,6,0.25,actual
+Adeline,bobo1184,6,0.25,actual
+Adeline,boum637,10,0.25,actual
+Adeline,boum638,9,0.25,actual
+Adeline,boum639,9,0.25,actual
+Adeline,boum640,9,0.25,actual
+Adeline,boum641,10,0.25,actual
+Adeline,boum642,10,0.25,actual
+Adeline,boum643,10,0.25,actual
+Adeline,boum644,10,0.25,actual
+Adeline,boum645,10,0.25,actual
+Adeline,boum853,9,0.25,actual
+Adeline,boum854,8,0.25,actual
+Adeline,boum855,9,0.25,actual
+Adeline,boum990,4,0.25,actual
+Adeline,brosse856,10,0.25,actual
+Adeline,champs857,11,0.25,actual
+Adeline,chapeau858,9,0.25,actual
+Adeline,chapeau859,9,0.25,actual
+Adeline,chapeau860,9,0.25,actual
+Adeline,chapeau861,9,0.25,actual
+Adeline,chapeau862,9,0.25,actual
+Adeline,chapeau863,9,0.25,actual
+Adeline,chapeau864,8,0.25,actual
+Adeline,chapeau865,9,0.25,actual
+Adeline,chapeau866,9,0.25,actual
+Adeline,chat1185,1,0.25,actual
+Adeline,chat1196,1,0.25,actual
+Adeline,chat646,8,0.25,actual
+Adeline,chat647,8,0.25,actual
+Adeline,chat648,10,0.25,actual
+Adeline,chat867,10,0.25,actual
+Adeline,chat868,8,0.25,actual
+Adeline,chat869,10,0.25,actual
+Adeline,chat870,10,0.25,actual
+Adeline,chat991,5,0.25,actual
+Adeline,chat992,3,0.25,actual
+Adeline,coucou1187,9,0.25,actual
+Adeline,coucou871,9,0.25,actual
+Adeline,coucou993,3,0.25,actual
+Adeline,coucou994,3,0.25,actual
+Adeline,coucou995,3,0.25,actual
+Adeline,coucou996,3,0.25,actual
+Adeline,coucou997,3,0.25,actual
+Adeline,coucou998,3,0.25,actual
+Adeline,coucou999,2,0.25,actual
+Adeline,dodo1000,2,0.25,actual
+Adeline,en dehors872,9,0.25,actual
+Adeline,encore649,8,0.25,actual
+Adeline,encore873,9,0.25,actual
+Adeline,encore874,9,0.25,actual
+Adeline,encore875,9,0.25,actual
+Adeline,encore876,9,0.25,actual
+Adeline,encore877,9,0.25,actual
+Adeline,encore878,9,0.25,actual
+Adeline,encore879,9,0.25,actual
+Adeline,encore880,9,0.25,actual
+Adeline,encore881,9,0.25,actual
+Adeline,encore882,9,0.25,actual
+Adeline,encore883,9,0.25,actual
+Adeline,encore884,9,0.25,actual
+Adeline,encore885,1,0.25,actual
+Adeline,lave650,7,0.25,actual
+Adeline,là1001,3,0.25,actual
+Adeline,là651,7,0.25,actual
+Adeline,là652,7,0.25,actual
+Adeline,là653,7,0.25,actual
+Adeline,là654,7,0.25,actual
+Adeline,là655,9,0.25,actual
+Adeline,maman1002,2,0.25,actual
+Adeline,maman1003,2,0.25,actual
+Adeline,maman1004,2,0.25,actual
+Adeline,miaou656,8,0.25,actual
+Adeline,miaou657,8,0.25,actual
+Adeline,miaou658,7,0.25,actual
+Adeline,moi659,7,0.25,actual
+Adeline,non660,5,0.25,actual
+Adeline,non661,5,0.25,actual
+Adeline,oh617,10,0.25,actual
+Adeline,oh618,10,0.25,actual
+Adeline,oh619,10,0.25,actual
+Adeline,oiseau886,2,0.25,actual
+Adeline,papa1005,4,0.25,actual
+Adeline,papa1006,4,0.25,actual
+Adeline,papa1188,3,0.25,actual
+Adeline,parti887,11,0.25,actual
+Adeline,tiens662,8,0.25,actual
+Adeline,tiens663,8,0.25,actual
+Adeline,tiens664,8,0.25,actual
+Adeline,tiens665,8,0.25,actual
+Adeline,trois666,8,0.25,actual
+Adeline,vachou888,8,0.25,actual
+Adeline,voilà1007,2,0.25,actual
+Adeline,voilà889,8,0.25,actual
+Adeline,voiture890,11,0.25,actual
+Adeline,voiture891,11,0.25,actual
+Adeline,vroum667,6,0.25,actual
+Charles,allo892,7,0.25,actual
+Charles,allo893,7,0.25,actual
+Charles,allo894,7,0.25,actual
+Charles,assis620,3,0.25,actual
+Charles,assis895,6,0.25,actual
+Charles,attend1008,1,0.25,actual
+Charles,attend896,10,0.25,actual
+Charles,au revoir668,3,0.25,actual
+Charles,au revoir897,2,0.25,actual
+Charles,auto1009,10,0.25,actual
+Charles,auto622,2,0.25,actual
+Charles,auto898,10,0.25,actual
+Charles,balle669,6,0.25,actual
+Charles,boire670,3,0.25,actual
+Charles,boire671,3,0.25,actual
+Charles,boire672,3,0.25,actual
+Charles,boire673,2,0.25,actual
+Charles,boire674,12,0.25,actual
+Charles,boire675,3,0.25,actual
+Charles,boire676,3,0.25,actual
+Charles,boire677,3,0.25,actual
+Charles,boire678,3,0.25,actual
+Charles,boire679,3,0.25,actual
+Charles,boire680,3,0.25,actual
+Charles,boire681,3,0.25,actual
+Charles,boire682,3,0.25,actual
+Charles,boire683,3,0.25,actual
+Charles,boire899,2,0.25,actual
+Charles,boire900,2,0.25,actual
+Charles,boum684,4,0.25,actual
+Charles,boum685,4,0.25,actual
+Charles,boum686,2,0.25,actual
+Charles,boum687,4,0.25,actual
+Charles,c'est beau1010,10,0.25,actual
+Charles,c'est beau695,12,0.25,actual
+Charles,c'est beau901,7,0.25,actual
+Charles,c'est bon696,2,0.25,actual
+Charles,chapeau1011,8,0.25,actual
+Charles,chapeau1012,7,0.25,actual
+Charles,chapeau902,7,0.25,actual
+Charles,chapeau903,7,0.25,actual
+Charles,chapeau904,7,0.25,actual
+Charles,chapeau905,7,0.25,actual
+Charles,chaud697,10,0.25,actual
+Charles,chaud698,10,0.25,actual
+Charles,chaussures1013,4,0.25,actual
+Charles,chaussures906,1,0.25,actual
+Charles,coucou1014,3,0.25,actual
+Charles,coucou1015,3,0.25,actual
+Charles,coucou1016,3,0.25,actual
+Charles,coucou1017,3,0.25,actual
+Charles,coucou1018,3,0.25,actual
+Charles,garçon1019,10,0.25,actual
+Charles,garçon1020,12,0.25,actual
+Charles,garçon1021,9,0.25,actual
+Charles,garçon1022,10,0.25,actual
+Charles,garçon1023,10,0.25,actual
+Charles,garçon1024,10,0.25,actual
+Charles,garçon907,10,0.25,actual
+Charles,lapin1025,10,0.25,actual
+Charles,lapin1026,5,0.25,actual
+Charles,lapin908,7,0.25,actual
+Charles,lapin909,7,0.25,actual
+Charles,lapin910,7,0.25,actual
+Charles,lapin911,7,0.25,actual
+Charles,lapin912,7,0.25,actual
+Charles,lapin913,7,0.25,actual
+Charles,lapin914,7,0.25,actual
+Charles,lapin915,7,0.25,actual
+Charles,lapin916,7,0.25,actual
+Charles,lapin917,7,0.25,actual
+Charles,lapin918,7,0.25,actual
+Charles,les yeux919,7,0.25,actual
+Charles,lolo1028,1,0.25,actual
+Charles,maman1029,2,0.25,actual
+Charles,maman1030,1,0.25,actual
+Charles,maman1031,2,0.25,actual
+Charles,maman1032,2,0.25,actual
+Charles,maman1033,2,0.25,actual
+Charles,maman1034,2,0.25,actual
+Charles,maman1035,2,0.25,actual
+Charles,maman1036,2,0.25,actual
+Charles,maman1037,2,0.25,actual
+Charles,maman1038,2,0.25,actual
+Charles,miammiam623,5,0.25,actual
+Charles,miammiam624,5,0.25,actual
+Charles,miammiam625,5,0.25,actual
+Charles,miammiam626,5,0.25,actual
+Charles,miammiam719,4,0.25,actual
+Charles,miammiam720,4,0.25,actual
+Charles,non-non1039,2,0.25,actual
+Charles,non-non1040,4,0.25,actual
+Charles,non-non1041,2,0.25,actual
+Charles,non-non1042,2,0.25,actual
+Charles,non-non1043,2,0.25,actual
+Charles,non-non1044,2,0.25,actual
+Charles,non-non1045,2,0.25,actual
+Charles,non-non1046,2,0.25,actual
+Charles,non-non1047,2,0.25,actual
+Charles,non-non1048,2,0.25,actual
+Charles,non-non1049,2,0.25,actual
+Charles,non-non920,6,0.25,actual
+Charles,oiseau921,7,0.25,actual
+Charles,oiseau922,7,0.25,actual
+Charles,papa1050,3,0.25,actual
+Charles,papa1051,3,0.25,actual
+Charles,papa1052,3,0.25,actual
+Charles,poupée1053,3,0.25,actual
+Charles,tiens700,11,0.25,actual
+Charles,tiens701,11,0.25,actual
+Charles,tiens702,11,0.25,actual
+Charles,tiens703,10,0.25,actual
+Charles,tiens704,11,0.25,actual
+Charles,tiens705,11,0.25,actual
+Charles,tiens706,11,0.25,actual
+Charles,tiens707,11,0.25,actual
+Charles,tiens708,11,0.25,actual
+Charles,tiens709,11,0.25,actual
+Charles,tiens710,11,0.25,actual
+Charles,tiens711,11,0.25,actual
+Charles,tiens712,11,0.25,actual
+Charles,tiens713,11,0.25,actual
+Charles,tiens714,11,0.25,actual
+Charles,tiens715,11,0.25,actual
+Charles,tiens716,11,0.25,actual
+Charles,tiens717,11,0.25,actual
+Charles,va pas1054,8,0.25,actual
+Charles,va pas923,7,0.25,actual
+Charles,va pas924,7,0.25,actual
+Charles,va pas925,7,0.25,actual
+Charles,va pas926,7,0.25,actual
+Charles,voire1055,5,0.25,actual
+Charles,voire718,3,0.25,actual
+Charles,voire928,2,0.25,actual
+Charles,voire929,2,0.25,actual
+Charles,ça688,6,0.25,actual
+Charles,ça689,10,0.25,actual
+Charles,ça690,10,0.25,actual
+Charles,ça691,9,0.25,actual
+Charles,ça692,1,0.25,actual
+Charles,ça693,10,0.25,actual
+Charles,ça694,10,0.25,actual
+Gaël,accrocher1056,6,0.25,actual
+Gaël,accrocher1057,6,0.25,actual
+Gaël,ballon1058,1,0.25,actual
+Gaël,bleu721,11,0.25,actual
+Gaël,bleu722,2,0.25,actual
+Gaël,bleu723,2,0.25,actual
+Gaël,bleu724,2,0.25,actual
+Gaël,bleu725,2,0.25,actual
+Gaël,bleu726,2,0.25,actual
+Gaël,bleu727,2,0.25,actual
+Gaël,bleu728,2,0.25,actual
+Gaël,bébé1059,4,0.25,actual
+Gaël,bébé1060,4,0.25,actual
+Gaël,bébé1061,4,0.25,actual
+Gaël,bébé1062,4,0.25,actual
+Gaël,bébé1063,4,0.25,actual
+Gaël,bébé1064,4,0.25,actual
+Gaël,bébé1065,4,0.25,actual
+Gaël,bébé1066,4,0.25,actual
+Gaël,bébé1067,4,0.25,actual
+Gaël,bébé1068,4,0.25,actual
+Gaël,bébé1069,4,0.25,actual
+Gaël,bébé1070,4,0.25,actual
+Gaël,c'est ça1071,8,0.25,actual
+Gaël,c'est ça627,3,0.25,actual
+Gaël,c'est ça930,13,0.25,actual
+Gaël,c'est ça931,13,0.25,actual
+Gaël,c'est ça932,13,0.25,actual
+Gaël,c'est ça933,13,0.25,actual
+Gaël,c'est ça934,13,0.25,actual
+Gaël,c'est ça935,13,0.25,actual
+Gaël,c'est ça936,13,0.25,actual
+Gaël,c'est ça937,13,0.25,actual
+Gaël,c'est ça938,13,0.25,actual
+Gaël,c'est ça939,13,0.25,actual
+Gaël,c'est ça940,13,0.25,actual
+Gaël,c'est ça941,13,0.25,actual
+Gaël,c'est ça942,13,0.25,actual
+Gaël,c'est ça943,13,0.25,actual
+Gaël,c'est ça944,13,0.25,actual
+Gaël,c'est ça945,13,0.25,actual
+Gaël,c'est ça946,13,0.25,actual
+Gaël,c'est ça947,13,0.25,actual
+Gaël,casser1072,8,0.25,actual
+Gaël,casser948,13,0.25,actual
+Gaël,chercher1073,7,0.25,actual
+Gaël,chercher949,10,0.25,actual
+Gaël,chercher950,13,0.25,actual
+Gaël,dedans951,10,0.25,actual
+Gaël,deux729,11,0.25,actual
+Gaël,dodo1074,6,0.25,actual
+Gaël,dormir730,11,0.25,actual
+Gaël,feu954,6,0.25,actual
+Gaël,grelot955,7,0.25,actual
+Gaël,gros956,3,0.25,actual
+Gaël,gros957,3,0.25,actual
+Gaël,gros958,3,0.25,actual
+Gaël,grosse959,1,0.25,actual
+Gaël,ici628,3,0.25,actual
+Gaël,ici960,13,0.25,actual
+Gaël,la dame la1189,3,0.25,actual
+Gaël,là bas961,12,0.25,actual
+Gaël,là bas962,12,0.25,actual
+Gaël,là731,8,0.25,actual
+Gaël,là732,8,0.25,actual
+Gaël,là733,8,0.25,actual
+Gaël,là734,8,0.25,actual
+Gaël,là735,8,0.25,actual
+Gaël,là736,8,0.25,actual
+Gaël,là737,8,0.25,actual
+Gaël,là738,8,0.25,actual
+Gaël,là739,8,0.25,actual
+Gaël,là740,8,0.25,actual
+Gaël,là741,8,0.25,actual
+Gaël,là742,8,0.25,actual
+Gaël,là743,8,0.25,actual
+Gaël,là744,8,0.25,actual
+Gaël,là745,8,0.25,actual
+Gaël,là746,8,0.25,actual
+Gaël,là747,8,0.25,actual
+Gaël,là748,8,0.25,actual
+Gaël,là749,8,0.25,actual
+Gaël,machine750,9,0.25,actual
+Gaël,machine963,10,0.25,actual
+Gaël,maman1076,2,0.25,actual
+Gaël,maman1077,2,0.25,actual
+Gaël,maman1078,2,0.25,actual
+Gaël,maman1079,2,0.25,actual
+Gaël,maman751,10,0.25,actual
+Gaël,maman752,10,0.25,actual
+Gaël,maman964,9,0.25,actual
+Gaël,non753,7,0.25,actual
+Gaël,non754,7,0.25,actual
+Gaël,ouais755,7,0.25,actual
+Gaël,ouais756,7,0.25,actual
+Gaël,ouais757,7,0.25,actual
+Gaël,ouais758,7,0.25,actual
+Gaël,ouais759,7,0.25,actual
+Gaël,ouais760,7,0.25,actual
+Gaël,ouais761,7,0.25,actual
+Gaël,oui762,7,0.25,actual
+Gaël,oui763,7,0.25,actual
+Gaël,oui764,7,0.25,actual
+Gaël,oui765,7,0.25,actual
+Gaël,oui766,7,0.25,actual
+Gaël,oui767,7,0.25,actual
+Gaël,oui768,7,0.25,actual
+Gaël,oui769,7,0.25,actual
+Gaël,ouvre629,2,0.25,actual
+Gaël,ouvre630,2,0.25,actual
+Gaël,ouvre631,2,0.25,actual
+Gaël,ouvre770,1,0.25,actual
+Gaël,ouvre965,4,0.25,actual
+Gaël,ouvre966,4,0.25,actual
+Gaël,ouvrir967,4,0.25,actual
+Gaël,ouvrir968,4,0.25,actual
+Gaël,ouvrir969,1,0.25,actual
+Gaël,ouvrir970,4,0.25,actual
+Gaël,ouvrir971,1,0.25,actual
+Gaël,ouvrir972,1,0.25,actual
+Gaël,papa1080,3,0.25,actual
+Gaël,papa771,1,0.25,actual
+Gaël,papa973,2,0.25,actual
+Gaël,pas974,9,0.25,actual
+Gaël,pas975,9,0.25,actual
+Gaël,plus976,2,0.25,actual
+Gaël,roue977,7,0.25,actual
+Gaël,roue978,7,0.25,actual
+Gaël,sou979,13,0.25,actual
+Gaël,sou980,13,0.25,actual
+Gaël,sou981,13,0.25,actual
+Gaël,tas772,12,0.25,actual
+Gaël,tas773,12,0.25,actual
+Gaël,tas774,12,0.25,actual
+Gaël,tas982,13,0.25,actual
+Gaël,tas983,13,0.25,actual
+Gaël,tout seul1082,7,0.25,actual
+Gaël,vert776,7,0.25,actual
+Gaël,voiture1083,7,0.25,actual
+Gaël,voiture1084,7,0.25,actual
+Gaël,écrit952,4,0.25,actual
+Gaël,écrit953,4,0.25,actual
+Laurent,Didier1112,4,0.25,actual
+Laurent,Kola1119,15,0.25,actual
+Laurent,Kola1120,15,0.25,actual
+Laurent,Kola1121,15,0.25,actual
+Laurent,Kola1122,10,0.25,actual
+Laurent,Kola1123,15,0.25,actual
+Laurent,allo1085,13,0.25,actual
+Laurent,allo1197,1,0.25,actual
+Laurent,allo985,17,0.25,actual
+Laurent,aîe632,15,0.25,actual
+Laurent,aîe777,9,0.25,actual
+Laurent,aîe778,9,0.25,actual
+Laurent,aîe984,16,0.25,actual
+Laurent,ballon1086,16,0.25,actual
+Laurent,ballon779,1,0.25,actual
+Laurent,boire1198,4,0.25,actual
+Laurent,brosse1088,18,0.25,actual
+Laurent,brosse1089,16,0.25,actual
+Laurent,bébé1087,14,0.25,actual
+Laurent,caca1090,9,0.25,actual
+Laurent,canard coincoin1091,11,0.25,actual
+Laurent,canard coincoin1092,15,0.25,actual
+Laurent,canard coincoin1222,1,0.25,actual
+Laurent,canard dans l'eau1225,2,0.25,actual
+Laurent,chapeau1093,18,0.25,actual
+Laurent,chapeau1094,14,0.25,actual
+Laurent,chapeau1095,10,0.25,actual
+Laurent,chapeau1096,12,0.25,actual
+Laurent,chapeau1097,18,0.25,actual
+Laurent,chapeau1098,18,0.25,actual
+Laurent,chapeau1190,3,0.25,actual
+Laurent,chapeau1199,6,0.25,actual
+Laurent,chapeau1200,3,0.25,actual
+Laurent,chapeau1201,6,0.25,actual
+Laurent,chaussures1099,14,0.25,actual
+Laurent,coucou là1202,2,0.25,actual
+Laurent,coucou1100,9,0.25,actual
+Laurent,coucou1101,9,0.25,actual
+Laurent,coucou1102,9,0.25,actual
+Laurent,coucou1103,12,0.25,actual
+Laurent,cuillère1104,15,0.25,actual
+Laurent,cuillère1105,13,0.25,actual
+Laurent,cuillère1224,1,0.25,actual
+Laurent,de l'eau1106,17,0.25,actual
+Laurent,de l'eau1108,18,0.25,actual
+Laurent,de l'eau1109,15,0.25,actual
+Laurent,de l'eau1110,18,0.25,actual
+Laurent,de l'eau1111,15,0.25,actual
+Laurent,de l'eau1203,1,0.25,actual
+Laurent,de l'eau1204,1,0.25,actual
+Laurent,de l'eau1205,1,0.25,actual
+Laurent,de l'eau1227,2,0.25,actual
+Laurent,dodo1113,14,0.25,actual
+Laurent,donne [nano]1206,2,0.25,actual
+Laurent,gateau1114,9,0.25,actual
+Laurent,gateau1115,9,0.25,actual
+Laurent,gateau1116,9,0.25,actual
+Laurent,gateau1117,3,0.25,actual
+Laurent,hihan989,10,0.25,actual
+Laurent,kekette1118,9,0.25,actual
+Laurent,la dame là1228,2,0.25,actual
+Laurent,maman1124,12,0.25,actual
+Laurent,maman1125,12,0.25,actual
+Laurent,maman1126,12,0.25,actual
+Laurent,maman1229,2,0.25,actual
+Laurent,maman986,14,0.25,actual
+Laurent,miam1137,2,0.25,actual
+Laurent,miam1138,12,0.25,actual
+Laurent,miam1139,12,0.25,actual
+Laurent,miam1140,5,0.25,actual
+Laurent,miam787,4,0.25,actual
+Laurent,moi1127,9,0.25,actual
+Laurent,moi1128,8,0.25,actual
+Laurent,moi1230,2,0.25,actual
+Laurent,moi987,14,0.25,actual
+Laurent,nano1129,8,0.25,actual
+Laurent,nano1130,8,0.25,actual
+Laurent,nano1131,8,0.25,actual
+Laurent,non1132,8,0.25,actual
+Laurent,non781,8,0.25,actual
+Laurent,non782,8,0.25,actual
+Laurent,non783,8,0.25,actual
+Laurent,non784,8,0.25,actual
+Laurent,papa1133,7,0.25,actual
+Laurent,papa1134,9,0.25,actual
+Laurent,tiens785,11,0.25,actual
+Laurent,tiens786,11,0.25,actual
+Laurent,voilà1135,12,0.25,actual
+Laurent,voilà1136,5,0.25,actual
+Laurent,voilà988,17,0.25,actual
+Noël,ballon1141,5,0.25,actual
+Noël,ballon788,6,0.25,actual
+Noël,banane1142,7,0.25,actual
+Noël,banane1143,13,0.25,actual
+Noël,banane789,6,0.25,actual
+Noël,banane790,17,0.25,actual
+Noël,canard1144,4,0.25,actual
+Noël,canard1145,4,0.25,actual
+Noël,canard1146,10,0.25,actual
+Noël,canard1191,2,0.25,actual
+Noël,canard796,3,0.25,actual
+Noël,chapeaux1147,12,0.25,actual
+Noël,couches797,10,0.25,actual
+Noël,couches798,12,0.25,actual
+Noël,couches799,7,0.25,actual
+Noël,couches800,7,0.25,actual
+Noël,dodo1148,7,0.25,actual
+Noël,donne801,6,0.25,actual
+Noël,donne802,6,0.25,actual
+Noël,fraise1149,6,0.25,actual
+Noël,gateau1150,12,0.25,actual
+Noël,gateau1151,12,0.25,actual
+Noël,gateau1207,1,0.25,actual
+Noël,gateau1208,3,0.25,actual
+Noël,gateau1210,17,0.25,actual
+Noël,gateau1211,6,0.25,actual
+Noël,gateau1212,2,0.25,actual
+Noël,gateau1213,3,0.25,actual
+Noël,gateau1214,6,0.25,actual
+Noël,lapin1152,12,0.25,actual
+Noël,lapin1153,12,0.25,actual
+Noël,lapin1154,12,0.25,actual
+Noël,lapin1155,9,0.25,actual
+Noël,lapin1156,12,0.25,actual
+Noël,lapin1157,4,0.25,actual
+Noël,lapin1158,12,0.25,actual
+Noël,lapin1159,12,0.25,actual
+Noël,lapin1160,12,0.25,actual
+Noël,lapin1161,12,0.25,actual
+Noël,lapin1162,12,0.25,actual
+Noël,lapin1193,2,0.25,actual
+Noël,lapin1215,3,0.25,actual
+Noël,l’eau803,11,0.25,actual
+Noël,l’eau804,11,0.25,actual
+Noël,l’eau805,12,0.25,actual
+Noël,l’eau806,12,0.25,actual
+Noël,l’eau807,12,0.25,actual
+Noël,l’eau808,10,0.25,actual
+Noël,l’eau809,10,0.25,actual
+Noël,main1163,8,0.25,actual
+Noël,main810,11,0.25,actual
+Noël,main811,1,0.25,actual
+Noël,maman1164,4,0.25,actual
+Noël,maman1194,3,0.25,actual
+Noël,maman1216,4,0.25,actual
+Noël,maman1217,2,0.25,actual
+Noël,non812,10,0.25,actual
+Noël,non813,10,0.25,actual
+Noël,pain1173,3,0.25,actual
+Noël,pain815,17,0.25,actual
+Noël,pain816,17,0.25,actual
+Noël,pain817,17,0.25,actual
+Noël,pain818,3,0.25,actual
+Noël,paletot1174,12,0.25,actual
+Noël,paletot1219,4,0.25,actual
+Noël,paletot1220,4,0.25,actual
+Noël,papa1175,12,0.25,actual
+Noël,par là1176,8,0.25,actual
+Noël,peinture1177,5,0.25,actual
+Noël,peinture1178,4,0.25,actual
+Noël,peinture819,7,0.25,actual
+Noël,poire820,17,0.25,actual
+Noël,poire821,7,0.25,actual
+Noël,pomme822,17,0.25,actual
+Noël,pomme823,6,0.25,actual
+Noël,pomme824,17,0.25,actual
+Noël,poule825,12,0.25,actual
+Noël,poule826,17,0.25,actual
+Noël,poum827,6,0.25,actual
+Noël,poupée1179,12,0.25,actual
+Noël,poupée828,17,0.25,actual
+Noël,savon1180,6,0.25,actual
+Noël,savon634,7,0.25,actual
+Noël,tiens1181,2,0.25,actual
+Noël,tiens829,8,0.25,actual
+Noël,tiens830,6,0.25,actual
+Noël,tiens831,8,0.25,actual
+Noël,tiens832,8,0.25,actual
+Noël,tiens833,8,0.25,actual
+Noël,tiens834,8,0.25,actual
+Noël,tiens835,8,0.25,actual
+Noël,tiens836,8,0.25,actual
+Noël,tiens837,6,0.25,actual
+Noël,tiens838,8,0.25,actual
+Noël,tiens839,8,0.25,actual
+Noël,wouf wouf1165,7,0.25,actual
+Noël,wouf wouf1166,7,0.25,actual
+Noël,wouf wouf1167,7,0.25,actual
+Noël,wouf wouf1169,6,0.25,actual
+Noël,wouf wouf1170,7,0.25,actual
+Noël,wouf wouf1171,8,0.25,actual
+Noël,wouf wouf1172,7,0.25,actual
+Noël,wouf wouf1195,2,0.25,actual
+Noël,wouf wouf1218,3,0.25,actual
+Noël,wouf wouf633,7,0.25,actual
+Noël,wouf wouf814,12,0.25,actual
+Noël,ça791,12,0.25,actual
+Noël,ça792,11,0.25,actual
+Noël,ça793,12,0.25,actual
+Noël,ça794,7,0.25,actual
+Noël,ça795,12,0.25,actual

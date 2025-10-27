@@ -1,0 +1,4518 @@
+ID,Subject,Age,Gloss,geminate_A,IPAactual,nsyl_actual
+1,Adeline,25,oh,FALSE,o,1
+2,Adeline,25,oh,FALSE,o,1
+3,Adeline,25,oh,FALSE,o,1
+4,Charles,18,assis,FALSE,aç,1
+5,Charles,18,attend,FALSE,aʥm,1
+6,Charles,18,auto,FALSE,at,1
+7,Charles,18,miammiam,FALSE,am,1
+8,Charles,18,miammiam,FALSE,ʌm,1
+9,Charles,18,miammiam,FALSE,am,1
+10,Charles,18,miammiam,FALSE,am,1
+11,Gaël,22,c'est ça,FALSE,es,1
+12,Gaël,22,ici,FALSE,is,1
+13,Gaël,22,ouvre,FALSE,euv,1
+14,Gaël,22,ouvre,FALSE,euvr,1
+15,Gaël,22,ouvre,FALSE,euvr,1
+16,Laurent,17,aîe,FALSE,a:i,1
+17,Noël,18,wouf wouf,FALSE,ʉaʉa,1
+18,Noël,18,savon,FALSE,ə:ɥɵ,1
+19,Alice,16,eye,FALSE,ɑ:ɪ,1
+20,Deborah,16,A,FALSE,ei,1
+21,Deborah,16,eye,FALSE,eɪ,1
+22,Deborah,16,eye,FALSE,eɪ,1
+23,Deborah,16,hi,FALSE,ɑɪ,1
+24,Deborah,16,hot,FALSE,ɑ,1
+25,Emily,15,up,FALSE,ɑʊ,1
+26,Emily,15,A,FALSE,e:,1
+27,Emily,15,I,FALSE,ɑɪ,1
+28,Emily,15,I,FALSE,ɑɪ,1
+29,Emily,15,I,FALSE,ɑɪ,1
+30,Emily,15,I,FALSE,ɑɪ,1
+31,Emily,15,I,FALSE,ɑɪ,1
+32,Emily,15,I,FALSE,ɑɪ,1
+33,Emily,15,I,FALSE,ɑɪ,1
+34,Emily,15,I,FALSE,ɑɪ,1
+35,Sean,15,blocks,FALSE,ɑk,1
+36,Sean,15,fish,FALSE,ɪʃ,1
+37,Sean,15,oh,FALSE,əo:,1
+38,Ella,16,horsey,FALSE,ɔʃɸ,1
+39,Ella,16,on,FALSE,ɔn,1
+40,Ella,16,on,FALSE,an,1
+41,Ella,16,on,FALSE,ɑn,1
+42,Ella,16,on,FALSE,ɔn,1
+43,Ella,16,on,FALSE,ɔn,1
+44,Flora,18,off,FALSE,ɑxɸ,1
+45,Flora,18,oh/ooh,FALSE,ɔʊ,1
+46,Flora,18,oh/ooh,FALSE,ɔʊ,1
+47,Flora,18,oh/ooh,FALSE,ɔ,1
+48,Ivy,17,ow,FALSE,aʉw,1
+49,Jude,15,fish,FALSE,ɪɕ,1
+50,Jude,15,loveʔhug,FALSE,a::,1
+51,Jude,15,quack quack,FALSE,a a:,1
+52,Jude,15,quack quack,FALSE,a a,1
+53,Jude,15,woof,FALSE,u,1
+54,Patrick,18,hat,FALSE,æʔ,1
+55,Patrick,18,off,FALSE,ɔʔ,1
+56,Patrick,18,off,FALSE,ɔ:ʔɸ,1
+57,Patrick,18,off,FALSE,ɔhɸ,1
+58,Patrick,18,off,FALSE,ɔʔ,1
+59,Patrick,18,off,FALSE,ɔʔ,1
+60,Patrick,18,ow,FALSE,a:ʔ,1
+61,Rachel,17,house,FALSE,aːʊθ,1
+62,Tania,18,/ spoon,FALSE,ʊ:,1
+63,Tania,18,arm,FALSE,ʌm,1
+64,Tania,18,eye,FALSE,æ:i,1
+65,Tania,18,where,FALSE,a:,1
+66,Tania,18,where,FALSE,æ:h,1
+67,Tania,18,where,FALSE,æ:,1
+68,Tobias,18,honk honk,FALSE,ʊ  ɒ,1
+69,Tobias,18,honk honk,FALSE,ɒː  ɒx,1
+70,Tobias,18,woof woof,FALSE,ʊ,1
+71,Tobias,18,hoo-hoo [owl noise],FALSE,ʊ  ʊːɸ,1
+72,Atte,20,Atti,FALSE,at,1
+73,Atte,20,auto,FALSE,au,1
+74,Eelis,20,ei,FALSE,ei,1
+75,Eelis,20,suu,FALSE,u:,1
+76,Eelis,20,suu,FALSE,u:,1
+77,Eelis,20,suu,FALSE,u:,1
+78,Eliisa,15,hauva,FALSE,aua,1
+79,Eliisa,15,hauva,FALSE,aua:,1
+80,Eliisa,15,hauva,FALSE,au,1
+81,Mira,17,ei,FALSE,ei,1
+82,Mira,17,ei,FALSE,ei,1
+83,Mira,17,miao,FALSE,au:,1
+84,Mira,17,miao,FALSE,au,1
+85,Mira,17,miao,FALSE,au:,1
+86,Mira,17,miao,FALSE,au,1
+87,Sini,15,ei,FALSE,ei,1
+88,Sini,15,ei ole,FALSE,eio,1
+89,Sini,15,ei ole,FALSE,eio:,1
+90,Hiromi,21,ha,FALSE,aː,1
+91,Hiromi,21,iː,FALSE,iː,1
+92,Takeru,21,ah,FALSE,a:a,1
+93,Takeru,21,ah,FALSE,a:a,1
+94,Takeru,21,aye-aye,FALSE,aiai,1
+95,Takeru,21,that,FALSE,ae,1
+96,Takeru,21,that,FALSE,ae,1
+97,Takeru,21,that,FALSE,ae,1
+98,Takeru,21,yes,FALSE,ai,1
+99,Takeru,21,yes,FALSE,ai,1
+100,Takeru,21,yes,FALSE,ai,1
+101,Haruo,20,bɯbɯ,FALSE,ʊ:,1
+102,Haruo,20,joiɕo,FALSE,ɪʃ,1
+103,Kazuko,15,ashi,FALSE,ɑʧıʔ,1
+104,Afan,22,ajao,FALSE,au,1
+105,Afan,22,baba,FALSE,a:,1
+106,Afan,22,baba,FALSE,a:,1
+107,Afan,22,baba,FALSE,a:,1
+108,Afan,22,baba,FALSE,a:,1
+109,Afan,22,baba,FALSE,a:,1
+110,Afan,22,baba,FALSE,a:,1
+111,Afan,22,han,FALSE,a:,1
+112,Afan,22,han,FALSE,a:,1
+113,Afan,22,han,FALSE,a:,1
+114,Radia,19,aur,FALSE,a:l,1
+115,Radia,19,ayee!,FALSE,a:i,1
+116,Shazim,25,yay,FALSE,e:,1
+117,Shazim,25,ayee!,FALSE,a:i,1
+118,Shazim,25,ayee!,FALSE,əi:,1
+119,Shazim,25,ayee!,FALSE,a:i:,1
+120,Shazim,25,EYES,FALSE,a:i:,1
+121,Shazim,25,aur,FALSE,a:i,1
+122,Shazim,25,aur,FALSE,əi,1
+123,Shazim,25,Kashmir,FALSE,i:ʃ,1
+124,Shazim,25,HORSE,FALSE,a:ʃ,1
+125,Basile,20,ah,FALSE,a,1
+126,Basile,20,nonnon,FALSE,ɔ,1
+127,Basile,20,oh,FALSE,o,1
+128,Basile,20,oh,FALSE,o,1
+129,Julien,19,Ah,FALSE,a,1
+130,Julien,19,ah,FALSE,a,1
+131,Julien,19,ah,FALSE,a,1
+132,Julien,19,ah,FALSE,a,1
+133,Julien,19,ah,FALSE,a,1
+134,Julien,19,ça,FALSE,a,1
+135,Julien,19,hop,FALSE,ɔp,1
+136,Julien,19,hop,FALSE,ɔp,1
+137,Julien,19,hop,FALSE,ɔp,1
+138,Julien,19,hop,FALSE,ɔp,1
+139,Julien,19,hop,FALSE,ɔp,1
+140,Julien,19,hop,FALSE,ɔp,1
+141,Julien,19,hop,FALSE,ɔp,1
+142,Julien,19,hop-là,FALSE,ap,1
+143,Vincent,18,allô,FALSE,ao,1
+144,Vincent,18,hop,FALSE,ap,1
+145,Vincent,18,"l'autre, autres",FALSE,ot,1
+146,Taro,23,pakɯn,FALSE,apŋ,1
+147,Taro,23,pakɯn,FALSE,apŋ,1
+148,Taro,23,pakɯn,FALSE,apŋ,1
+149,Taro,23,pakɯn,FALSE,apŋ,1
+150,Taro,23,pakɯn,FALSE,apŋ,1
+151,Taro,23,pakɯn,FALSE,apŋ,1
+152,Taro,23,pakɯn,FALSE,apŋ,1
+153,Adeline,25,au revoir,FALSE,bwa,1
+154,Adeline,25,bain,FALSE,da,1
+155,Adeline,25,boum,FALSE,bu,1
+156,Adeline,25,boum,FALSE,pu,1
+157,Adeline,25,boum,FALSE,pu,1
+158,Adeline,25,boum,FALSE,pu,1
+159,Adeline,25,boum,FALSE,bu,1
+160,Adeline,25,boum,FALSE,bu,1
+161,Adeline,25,boum,FALSE,bu,1
+162,Adeline,25,boum,FALSE,bu,1
+163,Adeline,25,boum,FALSE,bu,1
+164,Adeline,25,chat,FALSE,va,1
+165,Adeline,25,chat,FALSE,va,1
+166,Adeline,25,chat,FALSE,ba,1
+167,Adeline,25,encore,FALSE,kɔ,1
+168,Adeline,25,lave,FALSE,la,1
+169,Adeline,25,là,FALSE,la,1
+170,Adeline,25,là,FALSE,la,1
+171,Adeline,25,là,FALSE,la,1
+172,Adeline,25,là,FALSE,la,1
+173,Adeline,25,là,FALSE,da,1
+174,Adeline,25,miaou,FALSE,vau,1
+175,Adeline,25,miaou,FALSE,vau,1
+176,Adeline,25,miaou,FALSE,mau,1
+177,Adeline,25,moi,FALSE,ma,1
+178,Adeline,25,non,FALSE,no,1
+179,Adeline,25,non,FALSE,no,1
+180,Adeline,25,tiens,FALSE,ta,1
+181,Adeline,25,tiens,FALSE,ta,1
+182,Adeline,25,tiens,FALSE,ta,1
+183,Adeline,25,tiens,FALSE,ta,1
+184,Adeline,25,trois,FALSE,ka,1
+185,Adeline,25,vroum,FALSE,wu,1
+186,Charles,18,au revoir,FALSE,vwa,1
+187,Charles,18,balle,FALSE,pa,1
+188,Charles,18,boire,FALSE,bwa,1
+189,Charles,18,boire,FALSE,vwa,1
+190,Charles,18,boire,FALSE,vwɜ,1
+191,Charles,18,boire,FALSE,bya,1
+192,Charles,18,boire,FALSE,vwa,1
+193,Charles,18,boire,FALSE,vwa,1
+194,Charles,18,boire,FALSE,vwa,1
+195,Charles,18,boire,FALSE,vwa,1
+196,Charles,18,boire,FALSE,vwa,1
+197,Charles,18,boire,FALSE,vwa,1
+198,Charles,18,boire,FALSE,vwa,1
+199,Charles,18,boire,FALSE,vwa,1
+200,Charles,18,boire,FALSE,vwa,1
+201,Charles,18,boum,FALSE,bum,1
+202,Charles,18,boum,FALSE,bøm,1
+203,Charles,18,boum,FALSE,bøm,1
+204,Charles,18,ça,FALSE,ʃa,1
+205,Charles,18,ça,FALSE,sa,1
+206,Charles,18,ça,FALSE,tʃa,1
+207,Charles,18,c'est beau,FALSE,bɔ,1
+208,Charles,18,chaud,FALSE,ʃo,1
+209,Charles,18,chaud,FALSE,ʃo,1
+210,Charles,18,non-non,FALSE,nən,1
+211,Charles,18,tiens,FALSE,ta,1
+212,Charles,18,tiens,FALSE,tæ,1
+213,Charles,18,tiens,FALSE,tə,1
+214,Charles,18,tiens,FALSE,ʤa,1
+215,Charles,18,tiens,FALSE,ta,1
+216,Charles,18,tiens,FALSE,ta,1
+217,Charles,18,tiens,FALSE,ta,1
+218,Charles,18,tiens,FALSE,ta,1
+219,Charles,18,tiens,FALSE,ta,1
+220,Charles,18,tiens,FALSE,ta,1
+221,Charles,18,tiens,FALSE,ta,1
+222,Charles,18,tiens,FALSE,ta,1
+223,Charles,18,tiens,FALSE,ta,1
+224,Charles,18,tiens,FALSE,ta,1
+225,Charles,18,tiens,FALSE,ta,1
+226,Charles,18,tiens,FALSE,ta,1
+227,Charles,18,tiens,FALSE,ta,1
+228,Charles,18,tiens,FALSE,ta,1
+229,Charles,18,voire,FALSE,vwa,1
+230,Charles,18,miammiam,FALSE,hæm,1
+231,Charles,18,miammiam,FALSE,hæm,1
+232,Gaël,22,bleu,FALSE,be:e,1
+233,Gaël,22,bleu,FALSE,blœ,1
+234,Gaël,22,bleu,FALSE,ble:,1
+235,Gaël,22,bleu,FALSE,blœ:e,1
+236,Gaël,22,bleu,FALSE,blœ:,1
+237,Gaël,22,bleu,FALSE,blœ:e,1
+238,Gaël,22,bleu,FALSE,blœ:,1
+239,Gaël,22,bleu,FALSE,blœ:,1
+240,Gaël,22,deux,FALSE,dœ,1
+241,Gaël,22,dormir,FALSE,doʁ,1
+242,Gaël,22,là,FALSE,la,1
+243,Gaël,22,là,FALSE,la,1
+244,Gaël,22,là,FALSE,la,1
+245,Gaël,22,là,FALSE,la,1
+246,Gaël,22,là,FALSE,la,1
+247,Gaël,22,là,FALSE,la,1
+248,Gaël,22,là,FALSE,la,1
+249,Gaël,22,là,FALSE,la,1
+250,Gaël,22,là,FALSE,la,1
+251,Gaël,22,là,FALSE,la,1
+252,Gaël,22,là,FALSE,la,1
+253,Gaël,22,là,FALSE,la,1
+254,Gaël,22,là,FALSE,la,1
+255,Gaël,22,là,FALSE,la,1
+256,Gaël,22,là,FALSE,la,1
+257,Gaël,22,là,FALSE,la,1
+258,Gaël,22,là,FALSE,la,1
+259,Gaël,22,là,FALSE,la,1
+260,Gaël,22,là,FALSE,la,1
+261,Gaël,22,machine,FALSE,ʃe,1
+262,Gaël,22,maman,FALSE,ma,1
+263,Gaël,22,maman,FALSE,ma,1
+264,Gaël,22,non,FALSE,no,1
+265,Gaël,22,non,FALSE,no,1
+266,Gaël,22,ouais,FALSE,wɛ,1
+267,Gaël,22,ouais,FALSE,we,1
+268,Gaël,22,ouais,FALSE,wɛ,1
+269,Gaël,22,ouais,FALSE,wɛ,1
+270,Gaël,22,ouais,FALSE,wɛ,1
+271,Gaël,22,ouais,FALSE,wɛ,1
+272,Gaël,22,ouais,FALSE,wɛ,1
+273,Gaël,22,oui,FALSE,wi,1
+274,Gaël,22,oui,FALSE,we,1
+275,Gaël,22,oui,FALSE,wi,1
+276,Gaël,22,oui,FALSE,wi,1
+277,Gaël,22,oui,FALSE,wi,1
+278,Gaël,22,oui,FALSE,wi,1
+279,Gaël,22,oui,FALSE,wi,1
+280,Gaël,22,oui,FALSE,wi,1
+281,Gaël,22,ouvre,FALSE,vχe,1
+282,Gaël,22,papa,FALSE,pap,1
+283,Gaël,22,tas,FALSE,ta,1
+284,Gaël,22,tas,FALSE,ta:,1
+285,Gaël,22,tas,FALSE,ta,1
+286,Gaël,22,trax,FALSE,χras,1
+287,Gaël,22,vert,FALSE,vɛ,1
+288,Laurent,17,aîe,FALSE,ʔa:i:,1
+289,Laurent,17,aîe,FALSE,ʔai,1
+290,Laurent,17,ballon,FALSE,bəl,1
+291,Laurent,17,gateau,FALSE,kto,1
+292,Laurent,17,non,FALSE,na,1
+293,Laurent,17,non,FALSE,nəa:ɛ,1
+294,Laurent,17,non,FALSE,na:ø,1
+295,Laurent,17,non,FALSE,nɔ,1
+296,Laurent,17,tiens,FALSE,ta,1
+297,Laurent,17,tiens,FALSE,ta,1
+298,Laurent,17,miam,FALSE,ma:m,1
+299,Noël,18,ballon,FALSE,βan,1
+300,Noël,18,banane,FALSE,pɛ,1
+301,Noël,18,ça,FALSE,ta,1
+302,Noël,18,ça,FALSE,ʔa,1
+303,Noël,18,ça,FALSE,tə,1
+304,Noël,18,ça,FALSE,ȶə,1
+305,Noël,18,ça,FALSE,ta,1
+306,Noël,18,canard,FALSE,tɛt,1
+307,Noël,18,couches,FALSE,tɵ,1
+308,Noël,18,couches,FALSE,ƫɵ,1
+309,Noël,18,couches,FALSE,ƫɵ,1
+310,Noël,18,donne,FALSE,dʌn,1
+311,Noël,18,donne,FALSE,dɔn,1
+312,Noël,18,l’eau,FALSE,ʎo,1
+313,Noël,18,l’eau,FALSE,ʎʌ,1
+314,Noël,18,l’eau,FALSE,lʌ,1
+315,Noël,18,l’eau,FALSE,lɵ,1
+316,Noël,18,l’eau,FALSE,lo:,1
+317,Noël,18,l’eau,FALSE,ɭo,1
+318,Noël,18,l’eau,FALSE,ɭo,1
+319,Noël,18,main,FALSE,ma:ɛ,1
+320,Noël,18,main,FALSE,mna,1
+321,Noël,18,non,FALSE,nɔ,1
+322,Noël,18,non,FALSE,nɔ,1
+323,Noël,18,wouf wouf,FALSE,wø:a,1
+324,Noël,18,pain,FALSE,pa,1
+325,Noël,18,pain,FALSE,pʌ,1
+326,Noël,18,pain,FALSE,pʌ,1
+327,Noël,18,pain,FALSE,pap,1
+328,Noël,18,peinture,FALSE,pan,1
+329,Noël,18,poire,FALSE,pə,1
+330,Noël,18,poire,FALSE,pœn,1
+331,Noël,18,pomme,FALSE,pə,1
+332,Noël,18,pomme,FALSE,pam,1
+333,Noël,18,pomme,FALSE,pø,1
+334,Noël,18,poule,FALSE,pɜ:ɛ,1
+335,Noël,18,poum,FALSE,pʌm,1
+336,Noël,18,poupée,FALSE,pɜa,1
+337,Noël,18,tiens,FALSE,ƫɛn,1
+338,Noël,18,tiens,FALSE,tən,1
+339,Noël,18,tiens,FALSE,tøn,1
+340,Noël,18,tiens,FALSE,tʌn,1
+341,Noël,18,tiens,FALSE,tʌn,1
+342,Noël,18,tiens,FALSE,tɛn,1
+343,Noël,18,tiens,FALSE,ƫɛn,1
+344,Noël,18,tiens,FALSE,tɛn,1
+345,Noël,18,tiens,FALSE,tɛn,1
+346,Alice,16,pa,FALSE,pɑ,1
+347,Alice,16,pa,FALSE,fɑ,1
+348,Alice,16,pa,FALSE,pɑ,1
+349,Alice,16,apple,FALSE,ʔæʔ,1
+350,Alice,16,apple,FALSE,ʔɑʔ,1
+351,Alice,16,apple,FALSE,ʔæʔ,1
+352,Alice,16,apple,FALSE,ʔɑʔ,1
+353,Alice,16,belly,FALSE,vei,1
+354,Alice,16,blanket,FALSE,kɛt,1
+355,Alice,16,bottle,FALSE,bɑdI,1
+356,Alice,16,bottle,FALSE,bɑ:dI,1
+357,Alice,16,bottle,FALSE,bɑdI,1
+358,Alice,16,bottle,FALSE,bɑdI,1
+359,Alice,16,bottle,FALSE,bɑdI,1
+360,Alice,16,bottle,FALSE,bɑ:dI,1
+361,Alice,16,bottle,FALSE,bɑ:dI,1
+362,Alice,16,bye,FALSE,bɑɪ,1
+363,Alice,16,clean,FALSE,tind,1
+364,Alice,16,duck,FALSE,tæʔ,1
+365,Alice,16,egg,FALSE,ʔeɪ,1
+366,Alice,16,egg,FALSE,he:I,1
+367,Alice,16,egg,FALSE,ʔeɪ,1
+368,Alice,16,egg,FALSE,ʔeɪ,1
+369,Alice,16,egg,FALSE,ʔeɪ,1
+370,Alice,16,egg,FALSE,ʔeɪ,1
+371,Alice,16,egg,FALSE,ʔeɪ,1
+372,Alice,16,egg,FALSE,he:I,1
+373,Alice,16,eye,FALSE,ʔɑɪ,1
+374,Alice,16,eye,FALSE,kʔɑɪ:,1
+375,Alice,16,eye,FALSE,ʔɑɪ,1
+376,Alice,16,hat,FALSE,ʔɑ,1
+377,Alice,16,hat,FALSE,ʔɑ,1
+378,Alice,16,hello,FALSE,loʊ,1
+379,Alice,16,key,FALSE,çi,1
+380,Alice,16,man,FALSE,mæ̃:,1
+381,Alice,16,meat,FALSE,miʔ,1
+382,Alice,16,no,FALSE,næ,1
+383,Alice,16,Oscar,FALSE,ʔɑʔ,1
+384,Alice,16,Oscar,FALSE,ʔɑʔ,1
+385,Alice,16,Oscar,FALSE,ʔɑʔ,1
+386,Alice,16,Oscar,FALSE,ʔɑʔ,1
+387,Alice,16,Oscar,FALSE,ʔɑʔ,1
+388,Alice,16,plate,FALSE,pɛɪ,1
+389,Alice,16,plate,FALSE,pɛɪ,1
+390,Alice,16,plate,FALSE,fɑɪ,1
+391,Alice,16,shoe,FALSE,çi,1
+392,Alice,16,tea,FALSE,ti:,1
+393,Alice,16,up,FALSE,ʔɑ:p,1
+394,Alice,16,up,FALSE,ʔʌ:p,1
+395,Deborah,16,baa,FALSE,bɑ:,1
+396,Deborah,16,ball,FALSE,bɔe,1
+397,Deborah,16,ball,FALSE,bɔ:əw,1
+398,Deborah,16,ball,FALSE,bɑ,1
+399,Deborah,16,book,FALSE,bʌʔ,1
+400,Deborah,16,book,FALSE,bʌʔ,1
+401,Deborah,16,bus,FALSE,mbʌʔ,1
+402,Deborah,16,bye,FALSE,bɑɪ,1
+403,Deborah,16,car,FALSE,kwɑɪ,1
+404,Deborah,16,car,FALSE,kɑ,1
+405,Deborah,16,car,FALSE,kɑ:i,1
+406,Deborah,16,car,FALSE,kɑ,1
+407,Deborah,16,car,FALSE,kɑ,1
+408,Deborah,16,cheese,FALSE,tʃi,1
+409,Deborah,16,cheese,FALSE,ki,1
+410,Deborah,16,cheese,FALSE,sʃi,1
+411,Deborah,16,cow,FALSE,kə,1
+412,Deborah,16,eye,FALSE,ʔe,1
+413,Deborah,16,giraffe,FALSE,dIdæ,1
+414,Deborah,16,good,FALSE,gʊ,1
+415,Deborah,16,good,FALSE,kʊ,1
+416,Deborah,16,hello,FALSE,hwo,1
+417,Deborah,16,hi,FALSE,hɑɪ,1
+418,Deborah,16,hi,FALSE,hɑɪ,1
+419,Deborah,16,hi,FALSE,hɑɪ,1
+420,Deborah,16,my/mine,FALSE,mɑɪ,1
+421,Deborah,16,okay,FALSE,gɛ,1
+422,Deborah,16,okay,FALSE,gɛ,1
+423,Deborah,16,one,FALSE,wɑɪ,1
+424,Deborah,16,one,FALSE,wɑɪ,1
+425,Deborah,16,spaghetti,FALSE,kIgwɛ,1
+426,Deborah,16,teeth,FALSE,ti,1
+427,Deborah,16,teeth,FALSE,sθi,1
+428,Deborah,16,two,FALSE,tu,1
+429,Emily,15,ɑll gone,FALSE,kɑ:,1
+430,Emily,15,ɑpple,FALSE,bɪ:,1
+431,Emily,15,ɑpple,FALSE,bɪ:,1
+432,Emily,15,beɑds,FALSE,pi,1
+433,Emily,15,beɑds,FALSE,pi,1
+434,Emily,15,bib,FALSE,bɪ,1
+435,Emily,15,bib,FALSE,pɪ:,1
+436,Emily,15,box,FALSE,pɑ:,1
+437,Emily,15,box,FALSE,pɑə,1
+438,Emily,15,Burt,FALSE,pœ,1
+439,Emily,15,Burt,FALSE,pœ,1
+440,Emily,15,Burt,FALSE,pœ,1
+441,Emily,15,Burt,FALSE,pœ,1
+442,Emily,15,Burt,FALSE,pœ,1
+443,Emily,15,button,FALSE,bɑ:,1
+444,Emily,15,cɑr,FALSE,kɑ:,1
+445,Emily,15,more,FALSE,mɔə,1
+446,Emily,15,more,FALSE,mœ,1
+447,Emily,15,more,FALSE,mɛ,1
+448,Emily,15,more,FALSE,mʌ,1
+449,Emily,15,more,FALSE,mʌ,1
+450,Emily,15,more,FALSE,mʌ,1
+451,Emily,15,no,FALSE,no,1
+452,Emily,15,no,FALSE,nʌ,1
+453,Emily,15,no,FALSE,nɔ,1
+454,Emily,15,no,FALSE,nɑ:,1
+455,Emily,15,no,FALSE,no,1
+456,Emily,15,no,FALSE,no,1
+457,Emily,15,no,FALSE,nɑ:,1
+458,Emily,15,ten,FALSE,tɪ̃:,1
+459,Emily,15,toes,FALSE,tɪ,1
+460,Emily,15,truck,FALSE,kæk,1
+461,Emily,15,A,FALSE,ʔeɪ,1
+462,Emily,15,A,FALSE,ʔeɪ,1
+463,Emily,15,A,FALSE,ʔeɪ,1
+464,Emily,15,B,FALSE,pi:,1
+465,Emily,15,B,FALSE,pi:,1
+466,Emily,15,B,FALSE,pi:,1
+467,Emily,15,B,FALSE,pi:,1
+468,Emily,15,B,FALSE,pi:,1
+469,Emily,15,B,FALSE,pi:,1
+470,Emily,15,B,FALSE,pi:,1
+471,Emily,15,B,FALSE,pi:,1
+472,Emily,15,C,FALSE,sɪ,1
+473,Molly,16,baa,FALSE,pæ:,1
+474,Molly,16,baa,FALSE,pæ:,1
+475,Molly,16,bead,FALSE,pi:,1
+476,Molly,16,bead,FALSE,pi,1
+477,Molly,16,bead,FALSE,pi,1
+478,Molly,16,bead,FALSE,pi,1
+479,Molly,16,bead,FALSE,pi,1
+480,Molly,16,bead,FALSE,pi,1
+481,Molly,16,bead,FALSE,pi,1
+482,Molly,16,bead,FALSE,pi,1
+483,Molly,16,block,FALSE,pʊk,1
+484,Molly,16,block,FALSE,pɑk,1
+485,Molly,16,block,FALSE,pɑt,1
+486,Molly,16,block,FALSE,pʊk,1
+487,Molly,16,block,FALSE,pɑk,1
+488,Molly,16,block,FALSE,pɑt,1
+489,Molly,16,block,FALSE,pɑt,1
+490,Molly,16,block,FALSE,pɑk,1
+491,Molly,16,book,FALSE,pʊk,1
+492,Molly,16,book,FALSE,pʊk,1
+493,Molly,16,book,FALSE,pʊk,1
+494,Molly,16,book,FALSE,pʊk,1
+495,Molly,16,book,FALSE,pʊk,1
+496,Molly,16,Brett,FALSE,pɑt,1
+497,Molly,16,Brett,FALSE,bɑt,1
+498,Molly,16,Brett,FALSE,pɑt,1
+499,Molly,16,Brett,FALSE,pɑt,1
+500,Molly,16,Brett,FALSE,bɑt,1
+501,Molly,16,Brett,FALSE,pɑt,1
+502,Molly,16,Brett,FALSE,pɑt,1
+503,Molly,16,Brett,FALSE,pɑt,1
+504,Molly,16,Brett,FALSE,pɑt,1
+505,Molly,16,click,FALSE,kɪk,1
+506,Molly,16,click,FALSE,ki,1
+507,Molly,16,click,FALSE,kæk,1
+508,Molly,16,click,FALSE,ki,1
+509,Molly,16,ear,FALSE,he:,1
+510,Molly,16,ear,FALSE,he:,1
+511,Molly,16,ear,FALSE,he:,1
+512,Molly,16,ear,FALSE,he:,1
+513,Molly,16,glasses,FALSE,tɑk,1
+514,Molly,16,glasses,FALSE,kɑt,1
+515,Molly,16,glasses,FALSE,kɛt,1
+516,Molly,16,glasses,FALSE,kɑt,1
+517,Molly,16,glasses,FALSE,kɑk,1
+518,Molly,16,glasses,FALSE,kɑk,1
+519,Molly,16,glasses,FALSE,kɑɪk,1
+520,Molly,16,glasses,FALSE,kɑt,1
+521,Molly,16,glasses,FALSE,kɑk,1
+522,Molly,16,glasses,FALSE,kɑk,1
+523,Molly,16,glasses,FALSE,kɑk,1
+524,Molly,16,hi,FALSE,ʔɑi,1
+525,Molly,16,hi,FALSE,ʔɑɪ:,1
+526,Molly,16,hi,FALSE,hɑɪ,1
+527,Molly,16,hi,FALSE,ʔɑɪ:,1
+528,Molly,16,house,FALSE,hɑut,1
+529,Molly,16,house,FALSE,hɑut,1
+530,Molly,16,moo,FALSE,mu:,1
+531,Molly,16,moo,FALSE,mɔ:,1
+532,Molly,16,moo,FALSE,məʊ:,1
+533,Molly,16,moo,FALSE,mœ:,1
+534,Molly,16,moo,FALSE,mʌː,1
+535,Molly,16,moo,FALSE,mu:,1
+536,Molly,16,moo,FALSE,mu:,1
+537,Molly,16,moo,FALSE,mu:,1
+538,Molly,16,moo,FALSE,mu:,1
+539,Molly,16,moo,FALSE,mɔ:,1
+540,Molly,16,moo,FALSE,mɔ:,1
+541,Molly,16,moo,FALSE,mœ:,1
+542,Molly,16,moo,FALSE,mœ:,1
+543,Molly,16,nose,FALSE,no:,1
+544,Molly,16,oink,FALSE,ho: k,1
+545,Molly,16,peek,FALSE,pik,1
+546,Molly,16,peek,FALSE,pɪtʃ,1
+547,Molly,16,peek,FALSE,pik,1
+548,Molly,16,peek,FALSE,pik,1
+549,Molly,16,peek,FALSE,pik,1
+550,Molly,16,peek,FALSE,pik,1
+551,Molly,16,peek,FALSE,pik,1
+552,Molly,16,piano,FALSE,pɑu,1
+553,Molly,16,piano,FALSE,pɑu,1
+554,Molly,16,pig,FALSE,pɪk,1
+555,Molly,16,red,FALSE,wɑ:t,1
+556,Molly,16,red,FALSE,hwɑʔ,1
+557,Molly,16,rug,FALSE,wɑ:k,1
+558,Molly,16,rug,FALSE,wɑ:k,1
+559,Molly,16,rug,FALSE,wɑ:k,1
+560,Molly,16,Ruth,FALSE,hwʊt,1
+561,Molly,16,Ruth,FALSE,wʊt,1
+562,Molly,16,Ruth,FALSE,ʔut,1
+563,Molly,16,Ruth,FALSE,hʊt,1
+564,Molly,16,Ruth,FALSE,hʌt,1
+565,Molly,16,Ruth,FALSE,wʌt,1
+566,Molly,16,stuck,FALSE,kɑk,1
+567,Molly,16,stuck,FALSE,kɑk,1
+568,Molly,16,tail,FALSE,teʊ,1
+569,Molly,16,tail,FALSE,tɛʊ,1
+570,Molly,16,tail,FALSE,teʊ,1
+571,Molly,16,tail,FALSE,te:ʊ,1
+572,Molly,16,tail,FALSE,teʊ,1
+573,Molly,16,tail,FALSE,teʊ,1
+574,Molly,16,tail,FALSE,teʊ,1
+575,Molly,16,tail,FALSE,teʊ,1
+576,Molly,16,tail,FALSE,teʊ,1
+577,Molly,16,tail,FALSE,teʊ,1
+578,Molly,16,tail,FALSE,teʊ,1
+579,Molly,16,that,FALSE,tɑt,1
+580,Molly,16,that,FALSE,tɑt,1
+581,Molly,16,three,FALSE,wi:,1
+582,Molly,16,three,FALSE,wi:,1
+583,Molly,16,two,FALSE,t¸ʊ,1
+584,Molly,16,two,FALSE,t¸ju,1
+585,Molly,16,vroom,FALSE,brʌm,1
+586,Molly,16,vroom,FALSE,bʊm,1
+587,Molly,16,woof,FALSE,vu,1
+588,Molly,16,woof,FALSE,wu,1
+589,Molly,16,woof,FALSE,bu,1
+590,Molly,16,woof,FALSE,wu,1
+591,Molly,16,woof,FALSE,wu,1
+592,Molly,16,woof,FALSE,wu,1
+593,Molly,16,woof,FALSE,wu,1
+594,Molly,16,woof,FALSE,wu,1
+595,Molly,16,woof,FALSE,wu,1
+596,Molly,16,woof,FALSE,wu,1
+597,Molly,16,work,FALSE,hʌk,1
+598,Molly,16,work,FALSE,hʌk,1
+599,Molly,16,work,FALSE,hʌk,1
+600,Molly,16,work,FALSE,hʌk,1
+601,Molly,16,work,FALSE,hʌk,1
+602,Molly,16,work,FALSE,hʌk,1
+603,Sean,15,baa,FALSE,bɑ,1
+604,Sean,15,baa,FALSE,bɑ,1
+605,Sean,15,berries,FALSE,bɛ:ts,1
+606,Sean,15,bird,FALSE,pɚʃ,1
+607,Sean,15,bird,FALSE,pɚç,1
+608,Sean,15,bird,FALSE,bwɪ:ts,1
+609,Sean,15,bird,FALSE,pwɤ:ts,1
+610,Sean,15,bird,FALSE,bil,1
+611,Sean,15,bird,FALSE,pɚʃ,1
+612,Sean,15,blocks,FALSE,pɑk,1
+613,Sean,15,blocks,FALSE,pʌk,1
+614,Sean,15,blocks,FALSE,pɑt,1
+615,Sean,15,blocks,FALSE,jɑk,1
+616,Sean,15,blocks,FALSE,kwɑk,1
+617,Sean,15,blocks,FALSE,bɑ,1
+618,Sean,15,blocks,FALSE,pɑk,1
+619,Sean,15,blocks,FALSE,bɑ,1
+620,Sean,15,blue,FALSE,bwe:,1
+621,Sean,15,blue,FALSE,bʊ,1
+622,Sean,15,book,FALSE,pɤ:,1
+623,Sean,15,book,FALSE,bɨk,1
+624,Sean,15,book,FALSE,jɛk,1
+625,Sean,15,bug,FALSE,βɑɪ,1
+626,Sean,15,bug,FALSE,βɑɪ,1
+627,Sean,15,bug,FALSE,mbʌkl,1
+628,Sean,15,cracker,FALSE,ʔœɑk,1
+629,Sean,15,cracker,FALSE,dʒɑk,1
+630,Sean,15,dog,FALSE,dɑʊ,1
+631,Sean,15,dog,FALSE,tɑ,1
+632,Sean,15,dog,FALSE,tao,1
+633,Sean,15,duck,FALSE,tʌk,1
+634,Sean,15,duck,FALSE,tæk,1
+635,Sean,15,duck,FALSE,tʌk,1
+636,Sean,15,duck,FALSE,tʌk,1
+637,Sean,15,fish,FALSE,vəf,1
+638,Sean,15,fish,FALSE,fø:tʃ,1
+639,Sean,15,fish,FALSE,jɪʃ,1
+640,Sean,15,horse,FALSE,ʔɪʃ,1
+641,Sean,15,horse,FALSE,ʔɯʃ,1
+642,Sean,15,horse,FALSE,tɯʃ,1
+643,Sean,15,horse,FALSE,hɪ:ʃ,1
+644,Sean,15,horse,FALSE,ʔɪʃ,1
+645,Sean,15,horse,FALSE,ʔɪʃ,1
+646,Sean,15,horse,FALSE,ʔɪʃ,1
+647,Sean,15,horse,FALSE,ʔɪʃ,1
+648,Sean,15,horse,FALSE,ʔɪʃ,1
+649,Sean,15,horse,FALSE,ʔɪʃ,1
+650,Sean,15,Ian,FALSE,ni,1
+651,Sean,15,Ian,FALSE,ni,1
+652,Sean,15,look,FALSE,jɛk,1
+653,Sean,15,look,FALSE,ljʊk,1
+654,Sean,15,look,FALSE,jɛk,1
+655,Sean,15,look,FALSE,jɛk,1
+656,Sean,15,mama,FALSE,mɑ,1
+657,Sean,15,mama,FALSE,mɔ:,1
+658,Sean,15,mama,FALSE,mɑ,1
+659,Sean,15,mama,FALSE,mɑ,1
+660,Sean,15,moo,FALSE,ʔo:,1
+661,Sean,15,moo,FALSE,mɔ,1
+662,Sean,15,moo,FALSE,mœ:,1
+663,Sean,15,moo,FALSE,ʔo:,1
+664,Sean,15,moo,FALSE,ʔo:,1
+665,Sean,15,more,FALSE,mɔ,1
+666,Sean,15,more,FALSE,mɔʔ,1
+667,Sean,15,more,FALSE,mɑ,1
+668,Sean,15,more,FALSE,mɔ,1
+669,Sean,15,more,FALSE,mɔ,1
+670,Sean,15,more,FALSE,mɔ,1
+671,Sean,15,more,FALSE,mɔ,1
+672,Sean,15,more,FALSE,mɔ,1
+673,Sean,15,more,FALSE,mɔ,1
+674,Sean,15,more,FALSE,mɔ,1
+675,Sean,15,more,FALSE,mɔ,1
+676,Sean,15,more,FALSE,mɔ,1
+677,Sean,15,more,FALSE,mɔ,1
+678,Sean,15,more,FALSE,mɔ,1
+679,Sean,15,more,FALSE,mɑ,1
+680,Sean,15,more,FALSE,mɑ,1
+681,Sean,15,more,FALSE,mɑ,1
+682,Sean,15,more,FALSE,mɑ,1
+683,Sean,15,mouse,FALSE,mɑ,1
+684,Sean,15,mouse,FALSE,mɑʊ̥,1
+685,Sean,15,mouse,FALSE,mɑ:ɨ,1
+686,Sean,15,mouse,FALSE,mæ,1
+687,Sean,15,mouse,FALSE,mɑ:s,1
+688,Sean,15,mouse,FALSE,mɑ,1
+689,Sean,15,mouse,FALSE,mɑ,1
+690,Sean,15,oh,FALSE,ʔɔ,1
+691,Sean,15,oh,FALSE,ʔɔ,1
+692,Sean,15,oh,FALSE,ʔɔ,1
+693,Sean,15,oh,FALSE,ʔɔ,1
+694,Sean,15,quack,FALSE,ʔɑʔ,1
+695,Sean,15,quack,FALSE,ʔɑ:,1
+696,Sean,15,rabbit,FALSE,pæts,1
+697,Sean,15,rabbit,FALSE,bɑ:p,1
+698,Sean,15,rabbit,FALSE,plɛp,1
+699,Sean,15,stuck,FALSE,nɑk,1
+700,Sean,15,this,FALSE,dɪs,1
+701,Sean,15,this,FALSE,dʌɪs,1
+702,Sean,15,this,FALSE,dɪs,1
+703,Sean,15,this,FALSE,dɪs,1
+704,Sean,15,"woof, wow-wow",FALSE,wɑʊ,1
+705,Timmy,unknown,bɑll,FALSE,bæ:,1
+706,Timmy,unknown,bɑll,FALSE,bæʔ,1
+707,Timmy,unknown,bɑlloon,FALSE,bɛ:ʊ,1
+708,Timmy,unknown,bɑlloon,FALSE,bɛi:,1
+709,Timmy,unknown,bɑlloon,FALSE,bɛ:,1
+710,Timmy,unknown,bee,FALSE,bi,1
+711,Timmy,unknown,boɑt,FALSE,bɛʔ,1
+712,Timmy,unknown,cɑr,FALSE,kɑ,1
+713,Timmy,unknown,cɑr,FALSE,gɑ,1
+714,Timmy,unknown,coffee,FALSE,gɑgŋ,1
+715,Timmy,unknown,Drew,FALSE,du,1
+716,Timmy,unknown,hi,FALSE,ʔɑi:,1
+717,Timmy,unknown,hi,FALSE,ʔɑi:,1
+718,Timmy,unknown,hi,FALSE,ʔɑi:,1
+719,Timmy,unknown,hot,FALSE,ʔɑʔ,1
+720,Timmy,unknown,hot,FALSE,ʔɑʔ,1
+721,Timmy,unknown,juice,FALSE,"d,u",1
+722,Timmy,unknown,key,FALSE,gɪ,1
+723,Timmy,unknown,key,FALSE,gɪ,1
+724,Timmy,unknown,key,FALSE,gɪ,1
+725,Timmy,unknown,key,FALSE,gɪ,1
+726,Timmy,unknown,knee,FALSE,ni,1
+727,Timmy,unknown,knee,FALSE,ni,1
+728,Timmy,unknown,knee,FALSE,ni,1
+729,Timmy,unknown,knee,FALSE,ni,1
+730,Timmy,unknown,knee,FALSE,ni,1
+731,Timmy,unknown,moo,FALSE,mɛʊ:,1
+732,Timmy,unknown,moo,FALSE,mʌʊ:,1
+733,Timmy,unknown,"moon, sun",FALSE,mɛu:m,1
+734,Timmy,unknown,peg,FALSE,bæ,1
+735,Timmy,unknown,sun,FALSE,næ,1
+736,Timmy,unknown,toe,FALSE,du,1
+737,Timmy,unknown,toot-toot,FALSE,du,1
+738,Cara,17,aw,FALSE,ʔɛːː,1
+739,Cara,17,car,FALSE,kɑː,1
+740,Cara,17,car,FALSE,kxɑː,1
+741,Cara,17,cat,FALSE,kɒʔ,1
+742,Cara,17,cat,FALSE,kɒʔ,1
+743,Cara,17,clock,FALSE,gɔʔk,1
+744,Cara,17,crash,FALSE,tnap,1
+745,Cara,17,crash,FALSE,ndan,1
+746,Cara,17,crash,FALSE,dæːn,1
+747,Cara,17,crash,FALSE,dæ̃ːn,1
+748,Cara,17,crash,FALSE,dæn,1
+749,Cara,17,crash,FALSE,dan,1
+750,Cara,17,crash,FALSE,tɛːkŋ,1
+751,Cara,17,crash,FALSE,dæːkŋ,1
+752,Cara,17,Daddy,FALSE,gŋŋ,1
+753,Cara,17,go,FALSE,gəʊ,1
+754,Cara,17,hat,FALSE,həʔ,1
+755,Cara,17,miaow,FALSE,wɛːu,1
+756,Cara,17,miaow,FALSE,weʊ,1
+757,Cara,17,miaow,FALSE,peʊ,1
+758,Cara,17,no,FALSE,nɛː,1
+759,Cara,17,no,FALSE,neʊ,1
+760,Cara,17,no,FALSE,neʊ,1
+761,Cara,17,no,FALSE,neʊ,1
+762,Cara,17,no,FALSE,neʊ,1
+763,Cara,17,no,FALSE,neʊ,1
+764,Cara,17,no,FALSE,neʊ,1
+765,Cara,17,rabbit,FALSE,wɛʔkŋ,1
+766,Cara,17,rabbit,FALSE,wɛʔkŋ,1
+767,Cara,17,stick / spoon,FALSE,tɪk,1
+768,Cara,17,stick / spoon,FALSE,ʃʉk,1
+769,Cara,17,stone,FALSE,ʔndəʊ,1
+770,Cara,17,stone,FALSE,daʊ,1
+771,Cara,17,stone,FALSE,təʊː,1
+772,Cara,17,stone,FALSE,deʊ,1
+773,Cara,17,wow,FALSE,wɛʊ,1
+774,Ella,16,ball,FALSE,mbaʊ,1
+775,Ella,16,ball,FALSE,baʊʔ,1
+776,Ella,16,ball,FALSE,mbɑʊʔh,1
+777,Ella,16,ball,FALSE,baʊʔ,1
+778,Ella,16,bed,FALSE,mεʔt,1
+779,Ella,16,bed,FALSE,bεt,1
+780,Ella,16,brush,FALSE,ʔrɪʃ,1
+781,Ella,16,bye,FALSE,mbaɪ:,1
+782,Ella,16,cake,FALSE,kaɪ:ik,1
+783,Ella,16,cake,FALSE,ke:ik,1
+784,Ella,16,cake,FALSE,keɪ:k,1
+785,Ella,16,cake,FALSE,keɪ:ɪk,1
+786,Ella,16,cake,FALSE,kekx,1
+787,Ella,16,cake,FALSE,ke:ik,1
+788,Ella,16,cake,FALSE,keɪ:k,1
+789,Ella,16,cup,FALSE,hʌp,1
+790,Ella,16,cup,FALSE,hʌp,1
+791,Ella,16,door,FALSE,dɔx,1
+792,Ella,16,door,FALSE,dɔ:,1
+793,Ella,16,fall,FALSE,hʷaʊʔ,1
+794,Ella,16,hair,FALSE,hæʔ,1
+795,Ella,16,hair,FALSE,haʔ,1
+796,Ella,16,hair,FALSE,hεə:,1
+797,Ella,16,hair,FALSE,ha:ə:a:,1
+798,Ella,16,hair,FALSE,haʔ,1
+799,Ella,16,hair,FALSE,haʔ,1
+800,Ella,16,house,FALSE,haʊ:uʃ,1
+801,Ella,16,house,FALSE,haʊfɸ,1
+802,Ella,16,house,FALSE,haʊz,1
+803,Ella,16,in,FALSE,ʔwɪn,1
+804,Ella,16,in,FALSE,wɪnʔ,1
+805,Ella,16,in,FALSE,ʔwi:n,1
+806,Ella,16,in,FALSE,ʔwɪn,1
+807,Ella,16,in,FALSE,ʔwɪn,1
+808,Ella,16,me,FALSE,mi,1
+809,Ella,16,Michelle,FALSE,ksʃəʊ,1
+810,Ella,16,Michelle,FALSE,ʃəʊ:,1
+811,Ella,16,Michelle,FALSE,sʃəʊ:,1
+812,Ella,16,Michelle,FALSE,ʔʃəʊ:,1
+813,Ella,16,Michelle,FALSE,ʃa:ɪɫ,1
+814,Ella,16,on,FALSE,nɑn,1
+815,Ella,16,plate,FALSE,fɫets,1
+816,Ella,16,play,FALSE,pleɪ:,1
+817,Ella,16,play,FALSE,pleɪ:,1
+818,Ella,16,aah,FALSE,ʔɑ::h,1
+819,Flora,18,baby,FALSE,bεɪp,1
+820,Flora,18,baby,FALSE,pεɪp,1
+821,Flora,18,ball,FALSE,bo:,1
+822,Flora,18,bed,FALSE,bεɪt,1
+823,Flora,18,bed,FALSE,bεtk,1
+824,Flora,18,bed,FALSE,pɪt,1
+825,Flora,18,bed,FALSE,bεt,1
+826,Flora,18,bed,FALSE,bεɪp,1
+827,Flora,18,bib,FALSE,bɪ:p,1
+828,Flora,18,bib,FALSE,pɪp,1
+829,Flora,18,bib,FALSE,bεɪp,1
+830,Flora,18,bib,FALSE,bɪp,1
+831,Flora,18,bib,FALSE,bɪp,1
+832,Flora,18,bib,FALSE,bɪp,1
+833,Flora,18,bib,FALSE,bεp,1
+834,Flora,18,bib,FALSE,bɪp,1
+835,Flora,18,bib,FALSE,bɪp,1
+836,Flora,18,bib,FALSE,bɪp,1
+837,Flora,18,bib,FALSE,bεp,1
+838,Flora,18,bib,FALSE,beɪp,1
+839,Flora,18,boo,FALSE,pə:,1
+840,Flora,18,bye,FALSE,baɪ,1
+841,Flora,18,girl,FALSE,taʊ:,1
+842,Flora,18,hat,FALSE,hæt,1
+843,Flora,18,hat,FALSE,hat,1
+844,Flora,18,hat,FALSE,hæt,1
+845,Flora,18,hat,FALSE,tjæt,1
+846,Flora,18,hat,FALSE,hæ:t,1
+847,Flora,18,head,FALSE,hæts,1
+848,Flora,18,keys,FALSE,tiç,1
+849,Flora,18,keys,FALSE,ntis,1
+850,Flora,18,keys,FALSE,tsiç,1
+851,Flora,18,milk,FALSE,mεʊk,1
+852,Flora,18,milk,FALSE,mεʊx,1
+853,Flora,18,milk,FALSE,mɪʊk,1
+854,Flora,18,milk,FALSE,mεʊk,1
+855,Flora,18,milk,FALSE,mɪʊʔx,1
+856,Flora,18,milk,FALSE,mɪʊk,1
+857,Flora,18,milk,FALSE,mɪʊk,1
+858,Flora,18,milk,FALSE,mɪʊk,1
+859,Flora,18,milk,FALSE,mɪʊʔ,1
+860,Flora,18,milk,FALSE,mɪʊ:,1
+861,Flora,18,monkey,FALSE,mɔntI,1
+862,Flora,18,monkey,FALSE,mɔŋkI,1
+863,Flora,18,mouse,FALSE,baʊs,1
+864,Flora,18,mum,FALSE,mɔm,1
+865,Flora,18,mum,FALSE,mɔm,1
+866,Flora,18,no,FALSE,nɪ,1
+867,Flora,18,no,FALSE,nɔː,1
+868,Flora,18,no,FALSE,nɔ,1
+869,Flora,18,no,FALSE,nəʊ,1
+870,Flora,18,no,FALSE,nə,1
+871,Flora,18,no,FALSE,nʌ,1
+872,Flora,18,no,FALSE,hnəʉ,1
+873,Flora,18,no,FALSE,nʌ:,1
+874,Flora,18,no,FALSE,ʔnə,1
+875,Flora,18,off,FALSE,ʔɒf,1
+876,Flora,18,off,FALSE,ʔɑʔf,1
+877,Flora,18,off,FALSE,hɑ:f,1
+878,Flora,18,off,FALSE,wɑf,1
+879,Flora,18,oh/ooh,FALSE,ʔɔ,1
+880,Flora,18,oh/ooh,FALSE,ʔo,1
+881,Flora,18,oh/ooh,FALSE,ʔɔ,1
+882,Flora,18,oh/ooh,FALSE,ʔɔ,1
+883,Flora,18,oh/ooh,FALSE,ʔo:,1
+884,Flora,18,oh/ooh,FALSE,ʔɔ,1
+885,Flora,18,oh/ooh,FALSE,ʔɔ,1
+886,Flora,18,oh/ooh,FALSE,ʔɔ,1
+887,Flora,18,on,FALSE,ʔʌn,1
+888,Flora,18,push,FALSE,pʊʃ,1
+889,Flora,18,sleep,FALSE,pεɪp,1
+890,Flora,18,sleep,FALSE,bi:p,1
+891,Flora,18,sleep,FALSE,bi:p,1
+892,Flora,18,snake,FALSE,tæik,1
+893,Flora,18,snake,FALSE,næɪk,1
+894,Flora,18,ta,FALSE,tæ:,1
+895,Flora,18,there,FALSE,dε,1
+896,Flora,18,up,FALSE,wəp,1
+897,Flora,18,up,FALSE,ʔʌpɸpɸ,1
+898,Flora,18,where,FALSE,wε:,1
+899,Flora,18,yeah,FALSE,jʌː,1
+900,Flora,18,yeah,FALSE,jε,1
+901,Flora,18,yeah,FALSE,hjεə,1
+902,Flora,18,yeah,FALSE,jæ,1
+903,Flora,18,yeah,FALSE,çjε,1
+904,Flora,18,yeah,FALSE,jə,1
+905,Flora,18,yeah,FALSE,njə,1
+906,Flora,18,yeah,FALSE,njε,1
+907,Flora,18,yeah,FALSE,njε,1
+908,Flora,18,yeah,FALSE,jɑ,1
+909,Flora,18,yeah,FALSE,jɑ,1
+910,Flora,18,yeah,FALSE,mjæ,1
+911,Flora,18,yeah,FALSE,jε,1
+912,Flora,18,yeah,FALSE,jɑ,1
+913,Flora,18,yeah,FALSE,ja,1
+914,Flora,18,yeah,FALSE,jɑ,1
+915,Flora,18,yeah,FALSE,jɑ:,1
+916,Flora,18,yeah,FALSE,jə,1
+917,Flora,18,yeah,FALSE,jɑ,1
+918,Flora,18,yeah,FALSE,jε,1
+919,Flora,18,yeah,FALSE,mjæ,1
+920,Flora,18,yeah,FALSE,nε:,1
+921,Flora,18,yeah,FALSE,jɪ,1
+922,Flora,18,yeah,FALSE,jɑ,1
+923,Flora,18,yeah,FALSE,hnjɑ,1
+924,Flora,18,yeah,FALSE,jε,1
+925,Flora,18,yeah,FALSE,jε,1
+926,Flora,18,yeah,FALSE,jε,1
+927,Flora,18,yeah,FALSE,jε,1
+928,Flora,18,yeah,FALSE,jʌː,1
+929,Flora,18,yeah,FALSE,jε,1
+930,Flora,18,yeah,FALSE,jε,1
+931,Flora,18,yeah,FALSE,jε,1
+932,Flora,18,yes,FALSE,dɪç,1
+933,Flora,18,yes,FALSE,jεʔs,1
+934,Ivy,17,bag,FALSE,beɪ:,1
+935,Ivy,17,bag,FALSE,baɪⁿ,1
+936,Ivy,17,door,FALSE,dəʊɸ,1
+937,Ivy,17,door,FALSE,dəʊ::,1
+938,Ivy,17,door,FALSE,dəʊ::,1
+939,Ivy,17,door,FALSE,dəʊ::,1
+940,Ivy,17,down,FALSE,daʊʷm,1
+941,Ivy,17,more,FALSE,məʊ:,1
+942,Ivy,17,more,FALSE,məʊ:ŋ,1
+943,Ivy,17,no,FALSE,dnəʊ,1
+944,Ivy,17,star,FALSE,dɒ:,1
+945,Ivy,17,star,FALSE,dɑ:,1
+946,Ivy,17,star,FALSE,dɒ:ə,1
+947,Ivy,17,star,FALSE,dɑ:ə,1
+948,Ivy,17,woof,FALSE,wəʔɸ,1
+949,Ivy,17,yay!,FALSE,jaɪç,1
+950,Ivy,17,yeah,FALSE,jə,1
+951,Jude,15,ball,FALSE,bɔ,1
+952,Jude,15,ball,FALSE,bəʊ,1
+953,Jude,15,ball,FALSE,bʌ,1
+954,Jude,15,ball,FALSE,mbɔ,1
+955,Jude,15,ball,FALSE,boʊ,1
+956,Jude,15,ball,FALSE,pɔ,1
+957,Jude,15,ball,FALSE,bɔ,1
+958,Jude,15,ball,FALSE,bɔ,1
+959,Jude,15,ball,FALSE,bɔ,1
+960,Jude,15,ball,FALSE,bɔ,1
+961,Jude,15,ball,FALSE,bɔ,1
+962,Jude,15,ball,FALSE,bəʊ,1
+963,Jude,15,blue,FALSE,bʌ ʔ,1
+964,Jude,15,blue,FALSE,ʙʌ,1
+965,Jude,15,book,FALSE,bʊ,1
+966,Jude,15,book,FALSE,bʊx,1
+967,Jude,15,book,FALSE,bʊ,1
+968,Jude,15,book,FALSE,bʊ,1
+969,Jude,15,cake,FALSE,kxi:,1
+970,Jude,15,cake,FALSE,kχɪ,1
+971,Jude,15,car,FALSE,ka:,1
+972,Jude,15,car,FALSE,ta:,1
+973,Jude,15,car,FALSE,ga,1
+974,Jude,15,car,FALSE,da,1
+975,Jude,15,car,FALSE,ta:,1
+976,Jude,15,car,FALSE,ta:,1
+977,Jude,15,cheese,FALSE,ki,1
+978,Jude,15,cheese,FALSE,xi:,1
+979,Jude,15,circle,FALSE,tsɬu,1
+980,Jude,15,circle,FALSE,tstə,1
+981,Jude,15,circle,FALSE,t t,1
+982,Jude,15,circle,FALSE,ktɬʉ,1
+983,Jude,15,circle,FALSE,tstə,1
+984,Jude,15,circle,FALSE,tçtɕ,1
+985,Jude,15,circle,FALSE,txtx,1
+986,Jude,15,circle,FALSE,cɪcç,1
+987,Jude,15,circle,FALSE,tkɪ,1
+988,Jude,15,flower,FALSE,la,1
+989,Jude,15,hiya,FALSE,haɪəә,1
+990,Jude,15,mouth,FALSE,ma,1
+991,Jude,15,mouth,FALSE,mba,1
+992,Jude,15,night-night,FALSE,nәnə,1
+993,Jude,15,no,FALSE,nɔ,1
+994,Jude,15,no,FALSE,do:,1
+995,Jude,15,sky,FALSE,ka,1
+996,Jude,15,sky,FALSE,ca,1
+997,Jude,15,square,FALSE,wɛ,1
+998,Jude,15,square,FALSE,wɛ,1
+999,Jude,15,star,FALSE,da:,1
+1000,Jude,15,star,FALSE,ta,1
+1001,Jude,15,star,FALSE,da:,1
+1002,Jude,15,star,FALSE,da:,1
+1003,Jude,15,stuck,FALSE,tɕʌ,1
+1004,Jude,15,ta,FALSE,ta:,1
+1005,Jude,15,teeth,FALSE,ti:,1
+1006,Jude,15,teeth,FALSE,ti:,1
+1007,Jude,15,there,FALSE,dɛ:,1
+1008,Jude,15,there,FALSE,jɛ:,1
+1009,Jude,15,there,FALSE,ɟɛ,1
+1010,Jude,15,there,FALSE,βæ,1
+1011,Jude,15,there,FALSE,nlɛ,1
+1012,Jude,15,ticktock,FALSE,tɬæ,1
+1013,Jude,15,trousers,FALSE,tәtɕɪ,1
+1014,Jude,15,yay,FALSE,jɛə,1
+1015,Jude,15,"yeah, yes",FALSE,jɛ,1
+1016,Jude,15,"yeah, yes",FALSE,ja,1
+1017,Jude,15,"yeah, yes",FALSE,jɛ:,1
+1018,Jude,15,"yeah, yes",FALSE,jɛ,1
+1019,Jude,15,sheep sound,FALSE,wa,1
+1020,Jude,15,tiger roar,FALSE,ra:,1
+1021,Lewis,18,ball,FALSE,dɒː,1
+1022,Lewis,18,ball,FALSE,dɒːː,1
+1023,Lewis,18,ball,FALSE,dʌː,1
+1024,Lewis,18,ball,FALSE,ʤɒːʊ,1
+1025,Lewis,18,ball,FALSE,dɒː,1
+1026,Lewis,18,ball,FALSE,dɒːː,1
+1027,Lewis,18,ball,FALSE,dɒːː,1
+1028,Lewis,18,bricks,FALSE,kek,1
+1029,Lewis,18,cake,FALSE,kɪʔx,1
+1030,Lewis,18,car,FALSE,dɑʔ,1
+1031,Lewis,18,car,FALSE,dɑː,1
+1032,Lewis,18,car,FALSE,taːə,1
+1033,Lewis,18,car,FALSE,dɑː,1
+1034,Lewis,18,car,FALSE,dɑː,1
+1035,Lewis,18,chair,FALSE,deə,1
+1036,Lewis,18,clock,FALSE,kɒːk,1
+1037,Lewis,18,clock,FALSE,kɒk,1
+1038,Lewis,18,clock,FALSE,kəɒʔx,1
+1039,Lewis,18,clock,FALSE,kʊːk,1
+1040,Lewis,18,clock,FALSE,kɒk,1
+1041,Lewis,18,gone,FALSE,gɒm,1
+1042,Lewis,18,gone,FALSE,gɒm,1
+1043,Lewis,18,gone,FALSE,gɒm,1
+1044,Lewis,18,gone,FALSE,gɒm,1
+1045,Lewis,18,hot,FALSE,hɒk,1
+1046,Lewis,18,hot,FALSE,xɔːk,1
+1047,Lewis,18,hot,FALSE,hɒk,1
+1048,Lewis,18,hot,FALSE,xɔːk,1
+1049,Lewis,18,jam,FALSE,stɜm,1
+1050,Lewis,18,juice,FALSE,tɜːʒ,1
+1051,Lewis,18,juice,FALSE,tsɜːɫɸ,1
+1052,Lewis,18,keys,FALSE,ʃəɪ,1
+1053,Lewis,18,no,FALSE,nɔə,1
+1054,Lewis,18,spade,FALSE,dəːʣ,1
+1055,Lewis,18,star,FALSE,dæː,1
+1056,Lewis,18,star,FALSE,daɑː,1
+1057,Lewis,18,star,FALSE,dɑː,1
+1058,Lewis,18,star,FALSE,dɑː,1
+1059,Lewis,18,sun,FALSE,dɒːʊ,1
+1060,Lewis,18,sun,FALSE,dəʊ,1
+1061,Lewis,18,sun,FALSE,dɒ,1
+1062,Lewis,18,there,FALSE,dɛː,1
+1063,Lewis,18,there,FALSE,dɛː,1
+1064,Lewis,18,train,FALSE,tɪʊ,1
+1065,Patrick,18,baa,FALSE,ʔba:,1
+1066,Patrick,18,ball,FALSE,bɔn,1
+1067,Patrick,18,book,FALSE,bəʊ,1
+1068,Patrick,18,box,FALSE,bɑʔ,1
+1069,Patrick,18,cat,FALSE,ʔgɑ,1
+1070,Patrick,18,cat,FALSE,ga,1
+1071,Patrick,18,cat,FALSE,dgaʔ,1
+1072,Patrick,18,cat,FALSE,ga,1
+1073,Patrick,18,go,FALSE,dɔ:u,1
+1074,Patrick,18,go,FALSE,dəʊ,1
+1075,Patrick,18,hat,FALSE,hæ,1
+1076,Patrick,18,hat,FALSE,hæʔ,1
+1077,Patrick,18,hat,FALSE,haʔ,1
+1078,Patrick,18,hat,FALSE,hæʔ,1
+1079,Patrick,18,more,FALSE,mɔ:ɪ,1
+1080,Patrick,18,no,FALSE,nεə:,1
+1081,Patrick,18,no,FALSE,mneʊʔ,1
+1082,Patrick,18,no,FALSE,nɑ:h,1
+1083,Patrick,18,no,FALSE,nεəʊ,1
+1084,Patrick,18,no,FALSE,nəʊʔ,1
+1085,Patrick,18,wheel,FALSE,nwi əʊ:əʊ,1
+1086,Rachel,17,away,FALSE,waːeɪθ,1
+1087,Rachel,17,back,FALSE,pɜʔt,1
+1088,Rachel,17,bye,FALSE,ɸaːːɪ,1
+1089,Rachel,17,bye,FALSE,bɛːiː,1
+1090,Rachel,17,bye,FALSE,baːeɪ,1
+1091,Rachel,17,bye,FALSE,waːeiː,1
+1092,Rachel,17,bye,FALSE,baeiː,1
+1093,Rachel,17,cat,FALSE,gaʔtθ,1
+1094,Rachel,17,cold,FALSE,kɔːf,1
+1095,Rachel,17,Daisy,FALSE,dðiː,1
+1096,Rachel,17,door,FALSE,dɒ,1
+1097,Rachel,17,door,FALSE,dɒː,1
+1098,Rachel,17,door,FALSE,tɒx,1
+1099,Rachel,17,door,FALSE,dɒ,1
+1100,Rachel,17,door,FALSE,dɒː,1
+1101,Rachel,17,door,FALSE,daɒx,1
+1102,Rachel,17,door,FALSE,daːɒ,1
+1103,Rachel,17,door,FALSE,dɒ,1
+1104,Rachel,17,door,FALSE,dɒː,1
+1105,Rachel,17,door,FALSE,dɒ,1
+1106,Rachel,17,door,FALSE,dɒː,1
+1107,Rachel,17,down,FALSE,dɒʊ,1
+1108,Rachel,17,down,FALSE,taːʊ,1
+1109,Rachel,17,go,FALSE,gəːʊ,1
+1110,Rachel,17,go,FALSE,gaʊ,1
+1111,Rachel,17,jump,FALSE,dəuːp,1
+1112,Rachel,17,night night,FALSE,næːnʔ,1
+1113,Rachel,17,night night,FALSE,naːː,1
+1114,Rachel,17,please,FALSE,meɪθ,1
+1115,Rachel,17,please,FALSE,pɪːθ,1
+1116,Rachel,17,please,FALSE,peɪθ,1
+1117,Tania,18,bus,FALSE,pʌ:s,1
+1118,Tania,18,bus,FALSE,pæ:s,1
+1119,Tania,18,bus,FALSE,pa:s,1
+1120,Tania,18,bus,FALSE,ps,1
+1121,Tania,18,bus,FALSE,pçpə,1
+1122,Tania,18,bus,FALSE,bεs,1
+1123,Tania,18,bus,FALSE,bʊʃ,1
+1124,Tania,18,bus,FALSE,pʃ,1
+1125,Tania,18,bus,FALSE,pʃ,1
+1126,Tania,18,shoe,FALSE,səʊ,1
+1127,Tania,18,shoe,FALSE,səʊ,1
+1128,Tania,18,shoe,FALSE,sʊ:,1
+1129,Tania,18,/ spoon,FALSE,bʊ,1
+1130,Tania,18,/ spoon,FALSE,pʊ:,1
+1131,Tania,18,/ spoon,FALSE,pæʊ,1
+1132,Tania,18,/ spoon,FALSE,bʊ,1
+1133,Tania,18,/ spoon,FALSE,pʊ:,1
+1134,Tania,18,/ spoon,FALSE,pʉ:,1
+1135,Tania,18,/ spoon,FALSE,pʉ:,1
+1136,Tania,18,/ spoon,FALSE,pʊ:,1
+1137,Tania,18,bag,FALSE,bæ:i,1
+1138,Tania,18,bag,FALSE,bai,1
+1139,Tania,18,bag,FALSE,bæ,1
+1140,Tania,18,bag,FALSE,bæi,1
+1141,Tania,18,bag,FALSE,bi,1
+1142,Tania,18,bag,FALSE,bæi,1
+1143,Tania,18,bag,FALSE,bæi,1
+1144,Tania,18,ball,FALSE,pʊə:,1
+1145,Tania,18,ball,FALSE,pʊ,1
+1146,Tania,18,ball,FALSE,pʊ,1
+1147,Tania,18,ball,FALSE,pʉh,1
+1148,Tania,18,ball,FALSE,pʉɸ,1
+1149,Tania,18,big,FALSE,pi:,1
+1150,Tania,18,big,FALSE,bi:,1
+1151,Tania,18,book,FALSE,bʊʔ,1
+1152,Tania,18,book,FALSE,bʉʔ,1
+1153,Tania,18,book,FALSE,bʊ,1
+1154,Tania,18,book,FALSE,ba,1
+1155,Tania,18,book,FALSE,bʊʔ,1
+1156,Tania,18,book,FALSE,bʊ,1
+1157,Tania,18,book,FALSE,bʊ,1
+1158,Tania,18,book,FALSE,bʊ,1
+1159,Tania,18,bum,FALSE,bæm,1
+1160,Tania,18,Daisy,FALSE,ti,1
+1161,Tania,18,Daisy,FALSE,tzi,1
+1162,Tania,18,Daisy,FALSE,ze:,1
+1163,Tania,18,moo,FALSE,mʊ:,1
+1164,Tania,18,more,FALSE,mɑ,1
+1165,Tania,18,more,FALSE,məʔ,1
+1166,Tania,18,no,FALSE,no,1
+1167,Tania,18,no,FALSE,nɔ,1
+1168,Tania,18,no,FALSE,naʔ,1
+1169,Tania,18,no,FALSE,nəʔ,1
+1170,Tania,18,ow,FALSE,ʔæʊ,1
+1171,Tania,18,ow,FALSE,ʔæʉ,1
+1172,Tania,18,ow,FALSE,ʔæʊ,1
+1173,Tania,18,ow,FALSE,ʔæʊ,1
+1174,Tania,18,ow,FALSE,ʔæʉ,1
+1175,Tania,18,pig,FALSE,gi,1
+1176,Tania,18,pig,FALSE,pi:,1
+1177,Tania,18,push,FALSE,pʊʃ,1
+1178,Tania,18,push,FALSE,bɪs,1
+1179,Tania,18,push,FALSE,pʉç,1
+1180,Tania,18,sofa,FALSE,fə,1
+1181,Tania,18,sofa,FALSE,hæf,1
+1182,Tania,18,sofa,FALSE,fə,1
+1183,Tania,18,stones,FALSE,dʌ:,1
+1184,Tania,18,stones,FALSE,tjʊ,1
+1185,Tania,18,there,FALSE,tæ:,1
+1186,Tania,18,tree,FALSE,di:,1
+1187,Tania,18,woof,FALSE,ʔʊf,1
+1188,Tania,18,yeah,FALSE,jεh,1
+1189,Tania,18,yeah,FALSE,jε:,1
+1190,Tania,18,yeah,FALSE,ʔjεʔ,1
+1191,Tania,18,yeah,FALSE,jε,1
+1192,Tania,18,yeah,FALSE,jεh,1
+1193,Tania,18,yeah,FALSE,jε:,1
+1194,Tania,18,yeah,FALSE,jε,1
+1195,Tania,18,yeah,FALSE,jε,1
+1196,Tania,18,yes,FALSE,jεʔs,1
+1197,Tania,18,miaow,FALSE,jæ:ʊh,1
+1198,Tobias,18,baa,FALSE,bɒːx,1
+1199,Tobias,18,baa,FALSE,ʙɒː,1
+1200,Tobias,18,baa,FALSE,bəɒ,1
+1201,Tobias,18,baa,FALSE,bɒːx,1
+1202,Tobias,18,baa,FALSE,bɒːx,1
+1203,Tobias,18,ball,FALSE,pəu,1
+1204,Tobias,18,ball,FALSE,bɪʊ,1
+1205,Tobias,18,bear,FALSE,bɛː,1
+1206,Tobias,18,bear,FALSE,bəɛ,1
+1207,Tobias,18,bear,FALSE,pfɛːɪ,1
+1208,Tobias,18,bear,FALSE,beː,1
+1209,Tobias,18,bear,FALSE,bɛː,1
+1210,Tobias,18,bear,FALSE,bɛː,1
+1211,Tobias,18,bear,FALSE,bɛː,1
+1212,Tobias,18,bear,FALSE,bɛː,1
+1213,Tobias,18,blocks,FALSE,bʷɒʔ,1
+1214,Tobias,18,book,FALSE,bʊʔ,1
+1215,Tobias,18,bus,FALSE,baɪst,1
+1216,Tobias,18,bus,FALSE,bəθ,1
+1217,Tobias,18,bus,FALSE,mbəː,1
+1218,Tobias,18,cat,FALSE,ɢaʔ,1
+1219,Tobias,18,honk honk,FALSE,ʔɒː,1
+1220,Tobias,18,mouse,FALSE,mʊə,1
+1221,Tobias,18,plane,FALSE,beɪ,1
+1222,Tobias,18,plane,FALSE,beːɪ,1
+1223,Tobias,18,quack quack,FALSE,ʔaʔ,1
+1224,Tobias,18,ta,FALSE,dʊ,1
+1225,Tobias,18,that,FALSE,dæʔ,1
+1226,Tobias,18,that,FALSE,daʔ,1
+1227,Tobias,18,that,FALSE,diʔ,1
+1228,Tobias,18,that,FALSE,ndæʔ,1
+1229,Tobias,18,that,FALSE,sʲaʔ,1
+1230,Tobias,18,that,FALSE,sʲaʔ,1
+1231,Tobias,18,that,FALSE,θaʔ,1
+1232,Tobias,18,that,FALSE,θʉəʔ,1
+1233,Tobias,18,that,FALSE,dæʔ,1
+1234,Tobias,18,that,FALSE,daʔ,1
+1235,Tobias,18,that,FALSE,daʔ,1
+1236,Tobias,18,that,FALSE,daʔ,1
+1237,Tobias,18,that,FALSE,daʔ,1
+1238,Tobias,18,there,FALSE,dɒɛː,1
+1239,Tobias,18,woof woof,FALSE,ŋgʊ  ʊ,1
+1240,Tobias,18,eek eek,FALSE,bʷi  i,1
+1241,Eelis,20,bää,FALSE,bo,1
+1242,Eelis,20,bää,FALSE,bo,1
+1243,Eelis,20,kiikkaa,FALSE,ki:,1
+1244,Eelis,20,kiinni,FALSE,ki:,1
+1245,Eelis,20,kiinni,FALSE,ki,1
+1246,Eelis,20,kiinni,FALSE,gi:,1
+1247,Eelis,20,kiinni,FALSE,ki:,1
+1248,Eelis,20,kiinni,FALSE,ki:,1
+1249,Eelis,20,kiinni,FALSE,ki:,1
+1250,Eelis,20,kiinni,FALSE,ki:,1
+1251,Eelis,20,kiinni,FALSE,ki:,1
+1252,Eelis,20,kiitos,FALSE,gi:,1
+1253,Eelis,20,loppu,FALSE,çpu,1
+1254,Eelis,20,loppu,FALSE,çpu,1
+1255,Eelis,20,noin,FALSE,noi,1
+1256,Eelis,20,noin,FALSE,noin,1
+1257,Eelis,20,noin,FALSE,noi,1
+1258,Eelis,20,noin,FALSE,noin,1
+1259,Eelis,20,omppu,FALSE,çpu,1
+1260,Eelis,20,pää,FALSE,po,1
+1261,Eelis,20,pois,FALSE,boi,1
+1262,Eelis,20,pois,FALSE,poi,1
+1263,Eelis,20,pois,FALSE,boi,1
+1264,Eelis,20,pois,FALSE,boi,1
+1265,Eelis,20,pois,FALSE,boi,1
+1266,Eelis,20,pois,FALSE,boi,1
+1267,Eelis,20,pois,FALSE,boi,1
+1268,Eelis,20,pois,FALSE,poi,1
+1269,Eelis,20,poppa,FALSE,pçpa,1
+1270,Eelis,20,puu,FALSE,pu:,1
+1271,Eelis,20,tuo,FALSE,tu:,1
+1272,Eelis,20,tuo,FALSE,tu:,1
+1273,Eelis,20,tuu,FALSE,tu:,1
+1274,Eliisa,15,bää,FALSE,pää,1
+1275,Eliisa,15,bää,FALSE,pää,1
+1276,Eliisa,15,bää,FALSE,pää,1
+1277,Eliisa,15,hauva,FALSE,hau:,1
+1278,Eliisa,15,kiikkuu,FALSE,ki:,1
+1279,Eliisa,15,kirja,FALSE,ki:a,1
+1280,Eliisa,15,kirja,FALSE,ki:,1
+1281,Eliisa,15,kirja,FALSE,ki:a,1
+1282,Eliisa,15,mummu /muumu,FALSE,mçm,1
+1283,Eliisa,15,muumi,FALSE,mu:i,1
+1284,Eliisa,15,muumi,FALSE,mu:i,1
+1285,Eliisa,15,tuo,FALSE,tuo,1
+1286,Eliisa,15,tuo,FALSE,tu:,1
+1287,Eliisa,15,tuo,FALSE,tu,1
+1288,Eliisa,15,tuo,FALSE,tuo,1
+1289,Eliisa,15,tuo,FALSE,tuo,1
+1290,Mira,17,kuu,FALSE,ku:,1
+1291,Mira,17,Myy,FALSE,mʉ:,1
+1292,Mira,17,tyttö,FALSE,tʉ:o,1
+1293,Mira,17,tyyny,FALSE,nʉ:n,1
+1294,Sini,15,kirja,FALSE,ki:a,1
+1295,Sini,15,kirja,FALSE,ki:,1
+1296,Sini,15,korva,FALSE,ko:a,1
+1297,Sini,15,pallo,FALSE,pa:,1
+1298,Sini,15,pois,FALSE,poiç,1
+1299,Sini,15,puu,FALSE,pu:,1
+1300,Sini,15,tässä,FALSE,tæ,1
+1301,Hiromi,21,baːniː,FALSE,baːi,1
+1302,Hiromi,21,boːɾɯ,FALSE,boː,1
+1303,Hiromi,21,boːɾɯ,FALSE,boː,1
+1304,Hiromi,21,fiɕːɯ,FALSE,piʃ,1
+1305,Hiromi,21,kawaiː,FALSE,kai,1
+1306,Hiromi,21,kawaiː,FALSE,kai,1
+1307,Hiromi,21,koɾe,FALSE,koe,1
+1308,Hiromi,21,koɾe,FALSE,kɤɛ,1
+1309,Hiromi,21,koɾe,FALSE,goe,1
+1310,Hiromi,21,koɾe,FALSE,koe,1
+1311,Hiromi,21,panda,FALSE,paː,1
+1312,Hiromi,21,panda,FALSE,baː,1
+1313,Hiromi,21,panda,FALSE,paː,1
+1314,Hiromi,21,ʨoːʨo,FALSE,cʏc:ɕʏ,1
+1315,Hiromi,21,baː,FALSE,baː,1
+1316,Hiromi,21,ɕiː,FALSE,ɕiː,1
+1317,Hiromi,21,ɕiː,FALSE,ɕiː,1
+1318,Hiromi,21,ɕiː,FALSE,ɕiː,1
+1319,Hiromi,21,gao,FALSE,gao,1
+1320,Hiromi,21,gao,FALSE,gao,1
+1321,Hiromi,21,gao,FALSE,gao,1
+1322,Hiromi,21,gao,FALSE,gao,1
+1323,Hiromi,21,gao,FALSE,gao,1
+1324,Hiromi,21,gao,FALSE,gao,1
+1325,Hiromi,21,gao,FALSE,gao,1
+1326,Hiromi,21,gao,FALSE,gao,1
+1327,Hiromi,21,me,FALSE,meː,1
+1328,Hiromi,21,me,FALSE,meh,1
+1329,Hiromi,21,me,FALSE,meː,1
+1330,Hiromi,21,me,FALSE,meː,1
+1331,Hiromi,21,me,FALSE,meː,1
+1332,Hiromi,21,me,FALSE,meː,1
+1333,Hiromi,21,moː,FALSE,moː,1
+1334,Hiromi,21,moː,FALSE,moː,1
+1335,Hiromi,21,moː,FALSE,moː,1
+1336,Hiromi,21,moː,FALSE,moː,1
+1337,Hiromi,21,nai,FALSE,naæ,1
+1338,Hiromi,21,ʨɯ,FALSE,cʲu,1
+1339,Hiromi,21,ʨɯ,FALSE,cʲu,1
+1340,Hiromi,21,ʨɯ,FALSE,cʲu,1
+1341,Hiromi,21,te,FALSE,teː,1
+1342,Hiromi,21,te,FALSE,teː,1
+1343,Hiromi,21,te,FALSE,teː,1
+1344,Hiromi,21,kaŋgaɾɯː,FALSE,gaː,1
+1345,Hiromi,21,koɾe ne,FALSE,kɤɛ,1
+1346,Takeru,21,Barney,FALSE,baː,1
+1347,Takeru,21,ball,FALSE,bʌːi,1
+1348,Takeru,21,ball,FALSE,bʷoːʌ,1
+1349,Takeru,21,vroom,FALSE,bɯː,1
+1350,Takeru,21,vroom,FALSE,bɯː,1
+1351,Takeru,21,vroom,FALSE,bɯː,1
+1352,Takeru,21,choochoo,FALSE,ıɕʔʑi,1
+1353,Takeru,21,juice,FALSE,dʲɯː,1
+1354,Takeru,21,juice,FALSE,ʑʲɯː,1
+1355,Takeru,21,juice,FALSE,ʑʉː,1
+1356,Takeru,21,yes,FALSE,hai [*11],1
+1357,Takeru,21,yes,FALSE,hai [*11],1
+1358,Takeru,21,yes,FALSE,hai [*11],1
+1359,Takeru,21,yes,FALSE,hai [*11],1
+1360,Takeru,21,yes,FALSE,hai [*11],1
+1361,Takeru,21,yes,FALSE,hai [*11],1
+1362,Takeru,21,yes,FALSE,hai [*11],1
+1363,Takeru,21,yes,FALSE,hai [*11],1
+1364,Takeru,21,yes,FALSE,hai [*11],1
+1365,Takeru,21,yes,FALSE,hai [*11],1
+1366,Takeru,21,yes,FALSE,hai [*11],1
+1367,Takeru,21,ouch,FALSE,tai,1
+1368,Takeru,21,moo/cow,FALSE,moː,1
+1369,Takeru,21,moo/cow,FALSE,moː,1
+1370,Takeru,21,more,FALSE,moː,1
+1371,Takeru,21,"gone, isn't any",FALSE,nai,1
+1372,Takeru,21,"gone, isn't any",FALSE,nai,1
+1373,Takeru,21,"gone, isn't any",FALSE,nai,1
+1374,Takeru,21,what,FALSE,nanı,1
+1375,Takeru,21,what,FALSE,nanı,1
+1376,Takeru,21,what,FALSE,nanı,1
+1377,Takeru,21,what,FALSE,nanı,1
+1378,Takeru,21,what,FALSE,nanı,1
+1379,Takeru,21,what,FALSE,nanı,1
+1380,Takeru,21,what,FALSE,nanı,1
+1381,Takeru,21,what,FALSE,nanı,1
+1382,Takeru,21,what,FALSE,nanı,1
+1383,Takeru,21,what,FALSE,nanı,1
+1384,Takeru,21,what,FALSE,nanı,1
+1385,Takeru,21,what,FALSE,nanı,1
+1386,Takeru,21,what,FALSE,nanı,1
+1387,Takeru,21,what,FALSE,nanı,1
+1388,Takeru,21,discourse marker,FALSE,neː,1
+1389,Takeru,21,discourse marker,FALSE,nɛː,1
+1390,Haruo,20,bɯbɯ,FALSE,bʊ,1
+1391,Haruo,20,dame,FALSE,mɛ:,1
+1392,Haruo,20,doN,FALSE,dʌm,1
+1393,Haruo,20,doN,FALSE,dɔn,1
+1394,Haruo,20,doN,FALSE,dæ:,1
+1395,Haruo,20,dʑampɯ,FALSE,dʲʌ:n,1
+1396,Haruo,20,dʑampɯ,FALSE,dʲanp,1
+1397,Haruo,20,dʑampɯ,FALSE,dæmp,1
+1398,Haruo,20,haro:,FALSE,hɯ:,1
+1399,Haruo,20,ija,FALSE,ja:,1
+1400,Haruo,20,joiɕo,FALSE,jəʃ,1
+1401,Haruo,20,joiɕo,FALSE,hɯʃ,1
+1402,Haruo,20,joiɕo,FALSE,ʃɯ,1
+1403,Haruo,20,mo:,FALSE,mo:,1
+1404,Haruo,20,nai,FALSE,na:ɪ,1
+1405,Haruo,20,nai,FALSE,na:ɪ:,1
+1406,Haruo,20,nai,FALSE,naɪ,1
+1407,Haruo,20,gao,FALSE,gɯa:ɔ,1
+1408,Haruo,20,goroN,FALSE,gɯ:m,1
+1409,Haruo,20,goroN,FALSE,gɯ:m,1
+1410,Kazuko,15,arigato,FALSE,tʰɔ,1
+1411,Kazuko,15,bubu,FALSE,bʊ:,1
+1412,Kazuko,15,bubu,FALSE,bʊ,1
+1413,Kazuko,15,buta/bubu,FALSE,bʊ,1
+1414,Kazuko,15,hai,FALSE,hɑɪ,1
+1415,Kazuko,15,hai,FALSE,hɑɪ,1
+1416,Kazuko,15,hai,FALSE,hɑɪʔ,1
+1417,Kazuko,15,hai,FALSE,hɑɪ,1
+1418,Kazuko,15,hai,FALSE,hɑɪʔ,1
+1419,Kazuko,15,haro:,FALSE,haɔ:,1
+1420,Kazuko,15,hito,FALSE,hɪʔ,1
+1421,Kazuko,15,hito,FALSE,hɪʔ,1
+1422,Kazuko,15,inai,FALSE,nɑ:ɪ,1
+1423,Kazuko,15,jaa,FALSE,da:,1
+1424,Kazuko,15,nai,FALSE,njɑ,1
+1425,Afan,22,mama,FALSE,ma,1
+1426,Afan,22,mama,FALSE,ma,1
+1427,Afan,22,han,FALSE,de:,1
+1428,Afan,22,han,FALSE,de:,1
+1429,Afan,22,han,FALSE,de:,1
+1430,Afan,22,han,FALSE,de:,1
+1431,Afan,22,han,FALSE,de:,1
+1432,Afan,22,yay,FALSE,de:,1
+1433,Afan,22,yay,FALSE,de:,1
+1434,Afan,22,yay,FALSE,de:,1
+1435,Afan,22,na/ nahin,FALSE,na,1
+1436,Afan,22,na/ nahin,FALSE,nəi,1
+1437,Afan,22,na/ nahin,FALSE,na:,1
+1438,Afan,22,na/ nahin,FALSE,na,1
+1439,Afan,22,na/ nahin,FALSE,na,1
+1440,Afan,22,na/ nahin,FALSE,na,1
+1441,Afan,22,na/ nahin,FALSE,na,1
+1442,Afan,22,do,FALSE,do,1
+1443,Afan,22,do,FALSE,du:,1
+1444,Afan,22,phool,FALSE,pu:,1
+1445,Afan,22,phool,FALSE,pu:,1
+1446,Afan,22,phool,FALSE,pu:,1
+1447,Afan,22,phool,FALSE,pu:,1
+1448,Afan,22,phool,FALSE,pu:,1
+1449,Afan,22,"mimmi BT,",FALSE,mi,1
+1450,Afan,22,idhar,FALSE,da:,1
+1451,Afan,22,bhaye,FALSE,bai,1
+1452,Afan,22,gaye,FALSE,gəi,1
+1453,Afan,22,gaye,FALSE,gi,1
+1454,Afan,22,ta,FALSE,ta:,1
+1455,Afan,22,JUICE,FALSE,dʒu:,1
+1456,Afan,22,chai,FALSE,ta:e:,1
+1457,Afan,22,chai,FALSE,tʃai,1
+1458,Afan,22,chai,FALSE,da:i,1
+1459,Afan,22,jaaee,FALSE,da:e,1
+1460,Afan,22,dawaye,FALSE,da:i,1
+1461,Afan,22,dawaye,FALSE,da:i,1
+1462,Afan,22,dawaye,FALSE,da:i,1
+1463,Afan,22,COW,FALSE,ka:o,1
+1464,Afan,22,COW,FALSE,ka:o,1
+1465,Afan,22,baal,FALSE,ba:,1
+1466,Afan,22,baal,FALSE,ba:,1
+1467,Afan,22,mam BT,FALSE,ma:m,1
+1468,Afan,22,vo,FALSE,vo,1
+1469,Afan,22,yay hai,FALSE,je: œ,1
+1470,Radia,19,BALL,FALSE,ba:l,1
+1471,Radia,19,BALL,FALSE,ba:,1
+1472,Radia,19,band,FALSE,ba:n,1
+1473,Radia,19,daal,FALSE,da:l,1
+1474,Radia,19,"one, two, three",FALSE,ti:,1
+1475,Radia,19,nahin,FALSE,nəi,1
+1476,Radia,19,yay,FALSE,je:,1
+1477,Radia,19,davayee,FALSE,da:i:,1
+1478,Shazim,25,BALL,FALSE,ba:l,1
+1479,Shazim,25,BALL,FALSE,ta:l,1
+1480,Shazim,25,BALL,FALSE,da:l,1
+1481,Shazim,25,yay,FALSE,te:,1
+1482,Shazim,25,yay,FALSE,de:,1
+1483,Shazim,25,yay,FALSE,je:,1
+1484,Shazim,25,yay,FALSE,di:,1
+1485,Shazim,25,yay,FALSE,ti:,1
+1486,Shazim,25,miyon BT,FALSE,mao,1
+1487,Shazim,25,bhayee,FALSE,ba:i:,1
+1488,Shazim,25,JUICE,FALSE,di:ʃ,1
+1489,Shazim,25,LION,FALSE,la:,1
+1490,Shazim,25,COW,FALSE,ta:u,1
+1491,Shazim,25,COW,FALSE,tʃa:o,1
+1492,Shazim,25,COW,FALSE,qao,1
+1493,Shazim,25,NO,FALSE,nũ:,1
+1494,Basile,20,bottes,FALSE,po,1
+1495,Basile,20,bottes,FALSE,bo,1
+1496,Basile,20,bottes,FALSE,bo,1
+1497,Basile,20,boum,FALSE,pu,1
+1498,Basile,20,ça,FALSE,ʒa,1
+1499,Basile,20,ça,FALSE,ʒa,1
+1500,Basile,20,ça,FALSE,ʒa,1
+1501,Basile,20,ça,FALSE,ʒa,1
+1502,Basile,20,ça,FALSE,ʒa,1
+1503,Basile,20,ça,FALSE,ʒa,1
+1504,Basile,20,ça,FALSE,ʒa,1
+1505,Basile,20,ça,FALSE,ʒa,1
+1506,Basile,20,canard/coin-coin,FALSE,ka,1
+1507,Basile,20,là,FALSE,la,1
+1508,Basile,20,l'eau,FALSE,lo,1
+1509,Basile,20,l'eau,FALSE,lo,1
+1510,Basile,20,l'eau,FALSE,lo,1
+1511,Basile,20,l'eau,FALSE,lo,1
+1512,Basile,20,loup,FALSE,lo,1
+1513,Basile,20,livre,FALSE,lə,1
+1514,Basile,20,livre,FALSE,le,1
+1515,Basile,20,livre,FALSE,li,1
+1516,Basile,20,livre,FALSE,lə,1
+1517,Basile,20,livre,FALSE,lə,1
+1518,Basile,20,livre,FALSE,li,1
+1519,Basile,20,oh,FALSE,pa,1
+1520,Basile,20,paf,FALSE,pa,1
+1521,Basile,20,paf,FALSE,pa,1
+1522,Basile,20,paf,FALSE,pa,1
+1523,Basile,20,paf,FALSE,pa,1
+1524,Basile,20,page,FALSE,pa,1
+1525,Basile,20,page,FALSE,pa,1
+1526,Basile,20,page,FALSE,pa,1
+1527,Basile,20,page,FALSE,pa,1
+1528,Basile,20,page,FALSE,pa,1
+1529,Basile,20,pin pon,FALSE,pu,1
+1530,Basile,20,pin pon,FALSE,po,1
+1531,Basile,20,pin pon,FALSE,pu,1
+1532,Basile,20,pin pon,FALSE,pu,1
+1533,Basile,20,pin pon,FALSE,po,1
+1534,Basile,20,poire/pomme,FALSE,pu,1
+1535,Julien,19,Clé,FALSE,kˡe,1
+1536,Julien,19,Clé,FALSE,ke,1
+1537,Julien,19,Là,FALSE,wa,1
+1538,Julien,19,Là,FALSE,wa,1
+1539,Julien,19,Miaou,FALSE,maum,1
+1540,Julien,19,Miaou,FALSE,maɔ,1
+1541,Julien,19,Miaou,FALSE,mau,1
+1542,Julien,19,Non,FALSE,da,1
+1543,Julien,19,Non,FALSE,na,1
+1544,Julien,19,Non,FALSE,nɑ,1
+1545,Julien,19,Non,FALSE,nɔ,1
+1546,Julien,19,Non,FALSE,nɔ,1
+1547,Julien,19,Non,FALSE,nɔ,1
+1548,Julien,19,Non,FALSE,nɔ,1
+1549,Julien,19,ouais,FALSE,we,1
+1550,Julien,19,ouais,FALSE,we,1
+1551,Julien,19,boum,FALSE,bu,1
+1552,Julien,19,ça,FALSE,ʃa,1
+1553,Julien,19,ça,FALSE,ka,1
+1554,Julien,19,ça,FALSE,ɕa,1
+1555,Julien,19,ça,FALSE,ɕa,1
+1556,Julien,19,là,FALSE,dʲa,1
+1557,Julien,19,là,FALSE,da,1
+1558,Julien,19,là,FALSE,la,1
+1559,Julien,19,là,FALSE,la,1
+1560,Julien,19,là,FALSE,la,1
+1561,Julien,19,mouton,FALSE,to,1
+1562,Julien,19,mouton,FALSE,to,1
+1563,Julien,19,non,FALSE,do,1
+1564,Julien,19,non,FALSE,dɔ,1
+1565,Julien,19,non,FALSE,nɔ,1
+1566,Julien,19,non,FALSE,nɔ,1
+1567,Julien,19,non,FALSE,nɔ,1
+1568,Julien,19,non,FALSE,nɔ,1
+1569,Julien,19,non,FALSE,nɔ,1
+1570,Julien,19,non,FALSE,nɔ,1
+1571,Julien,19,non,FALSE,nɔ,1
+1572,Julien,19,non,FALSE,nɔ,1
+1573,Julien,19,non,FALSE,nɔ,1
+1574,Julien,19,non,FALSE,nɔ,1
+1575,Julien,19,non,FALSE,nɔ,1
+1576,Julien,19,non,FALSE,nɔ,1
+1577,Vincent,18,non,FALSE,nɑ,1
+1578,Vincent,18,non,FALSE,nɑ,1
+1579,Vincent,18,non,FALSE,nɑ,1
+1580,Vincent,18,non,FALSE,nɔ,1
+1581,Vincent,18,non,FALSE,nɔ,1
+1582,Vincent,18,non,FALSE,nɑ,1
+1583,Vincent,18,non,FALSE,nɑ,1
+1584,Vincent,18,train,FALSE,kʁɛ,1
+1585,Vincent,18,train,FALSE,tʁɛ,1
+1586,Vincent,18,train,FALSE,kʁɛ,1
+1587,Vincent,18,train,FALSE,kʁɛ,1
+1588,Vincent,18,boum,FALSE,bum,1
+1589,Vincent,18,boum,FALSE,bum,1
+1590,Vincent,18,là,FALSE,la,1
+1591,Vincent,18,là,FALSE,la,1
+1592,Vincent,18,là,FALSE,la,1
+1593,Vincent,18,là-haut,FALSE,lao,1
+1594,Vincent,18,là-haut,FALSE,lao,1
+1595,Vincent,18,là-haut,FALSE,lao,1
+1596,Vincent,18,ouais,FALSE,wɛ,1
+1597,Vincent,18,ouais,FALSE,vɛ,1
+1598,Vincent,18,ouais,FALSE,wɛ,1
+1599,Vincent,18,ouais,FALSE,wɛ,1
+1600,Vincent,18,rouge,FALSE,luʃ,1
+1601,Vincent,18,rouge,FALSE,luʃ,1
+1602,Vincent,18,rouge,FALSE,luʃ,1
+1603,Vincent,18,vert,FALSE,vɛ,1
+1604,Taro,23,bo:rɯ,FALSE,bɔ,1
+1605,Taro,23,bo:rɯ,FALSE,bɔʔ,1
+1606,Taro,23,bo:rɯ,FALSE,pom,1
+1607,Taro,23,bo:rɯ,FALSE,pom,1
+1608,Taro,23,hai,FALSE,haɪ,1
+1609,Taro,23,hai,FALSE,haɪ,1
+1610,Taro,23,hon,FALSE,həʔ,1
+1611,Taro,23,hon,FALSE,həʔ,1
+1612,Taro,23,hon,FALSE,həʔ,1
+1613,Taro,23,njan,FALSE,njæ,1
+1614,Taro,23,njan,FALSE,njæ,1
+1615,Taro,23,njan,FALSE,njæ,1
+1616,Taro,23,ok:iɕita,FALSE,taʔ,1
+1617,Taro,23,pakɯn,FALSE,hapŋ,1
+1618,Taro,23,pakɯn,FALSE,hapŋ,1
+1619,Taro,23,pakɯn,FALSE,hapŋ,1
+1620,Taro,23,pakɯn,FALSE,hapŋ,1
+1621,Taro,23,pakɯn,FALSE,hapŋ,1
+1622,Taro,23,wani,FALSE,waɪ,1
+1623,Taro,23,wani,FALSE,waɪ,1
+1624,Taro,23,wani,FALSE,wʌ:ɪ,1
+1625,Taro,23,wani,FALSE,wa:,1
+1626,Taro,23,wani,FALSE,waɪ,1
+1627,Taro,23,wani,FALSE,waɪ,1
+1628,Taro,23,wani,FALSE,waɪ,1
+1629,Taro,23,wani,FALSE,waɪ,1
+1630,Taro,23,wani,FALSE,waɪ,1
+1631,Taro,23,wani,FALSE,waɪ,1
+1632,Taro,23,wani,FALSE,waɪ,1
+1633,Taro,23,wani,FALSE,waɪ,1
+1634,Taro,23,wani,FALSE,waɪ,1
+1635,Adeline,25,au revoir,FALSE,ova,2
+1636,Adeline,25,au revoir,FALSE,ova,2
+1637,Adeline,25,au revoir,FALSE,ɔpa,2
+1638,Adeline,25,au revoir,FALSE,ovwa,2
+1639,Adeline,25,au revoir,FALSE,o va,2
+1640,Adeline,25,au revoir,FALSE,o pa,2
+1641,Adeline,25,au revoir,FALSE,o va,2
+1642,Adeline,25,bain,FALSE,adla,2
+1643,Adeline,25,bisou,FALSE,ado,2
+1644,Adeline,25,bisou,FALSE,ɛdu,2
+1645,Adeline,25,bisou,FALSE,atu,2
+1646,Adeline,25,bisou,FALSE,ətu,2
+1647,Adeline,25,bisou,FALSE,atu,2
+1648,Adeline,25,boum,FALSE,ɔpu,2
+1649,Adeline,25,boum,FALSE,a bu,2
+1650,Adeline,25,boum,FALSE,apu,2
+1651,Adeline,25,brosse,FALSE,ə gʁɔ,2
+1652,Adeline,25,champs,FALSE,otɔ,2
+1653,Adeline,25,chapeau,FALSE,apo,2
+1654,Adeline,25,chapeau,FALSE,apo,2
+1655,Adeline,25,chapeau,FALSE,apo,2
+1656,Adeline,25,chapeau,FALSE,apo,2
+1657,Adeline,25,chapeau,FALSE,ə apu,2
+1658,Adeline,25,chapeau,FALSE,apu,2
+1659,Adeline,25,chapeau,FALSE,abo,2
+1660,Adeline,25,chapeau,FALSE,afo,2
+1661,Adeline,25,chapeau,FALSE,apu,2
+1662,Adeline,25,chat,FALSE,ə a va,2
+1663,Adeline,25,chat,FALSE,a ba,2
+1664,Adeline,25,chat,FALSE,a va,2
+1665,Adeline,25,chat,FALSE,o va,2
+1666,Adeline,25,coucou,FALSE,aku,2
+1667,Adeline,25,en dehors,FALSE,o da,2
+1668,Adeline,25,encore,FALSE,ɔkɔ,2
+1669,Adeline,25,encore,FALSE,ɔkɔ,2
+1670,Adeline,25,encore,FALSE,ɔkɔ,2
+1671,Adeline,25,encore,FALSE,ɔkɔ,2
+1672,Adeline,25,encore,FALSE,ɔkɔ,2
+1673,Adeline,25,encore,FALSE,ɔkɔ,2
+1674,Adeline,25,encore,FALSE,ɔkɔ,2
+1675,Adeline,25,encore,FALSE,ɔkɔ,2
+1676,Adeline,25,encore,FALSE,ɔkɔ,2
+1677,Adeline,25,encore,FALSE,ɔkɔ,2
+1678,Adeline,25,encore,FALSE,ako,2
+1679,Adeline,25,encore,FALSE,okɔ,2
+1680,Adeline,25,encore,FALSE,ɔlkɔ,2
+1681,Adeline,25,oiseau,FALSE,əʒlo,2
+1682,Adeline,25,parti,FALSE,ate,2
+1683,Adeline,25,vachou,FALSE,oʒu,2
+1684,Adeline,25,voilà,FALSE,ala,2
+1685,Adeline,25,voiture,FALSE,atu,2
+1686,Adeline,25,voiture,FALSE,atu,2
+1687,Charles,18,allo,FALSE,alo,2
+1688,Charles,18,attend,FALSE,atæ,2
+1689,Charles,18,au revoir,FALSE,avwa,2
+1690,Charles,18,auto,FALSE,a:to,2
+1691,Charles,18,boire,FALSE,ɔvwa,2
+1692,Charles,18,c'est beau,FALSE,abo,2
+1693,Charles,18,chapeau,FALSE,apo,2
+1694,Charles,18,chapeau,FALSE,a:pø,2
+1695,Charles,18,chapeau,FALSE,a:pø,2
+1696,Charles,18,chapeau,FALSE,a:pø,2
+1697,Charles,18,chaussures,FALSE,ɛdʒo,2
+1698,Charles,18,garçon,FALSE,aʐa,2
+1699,Charles,18,garçon,FALSE,aʃə,2
+1700,Charles,18,lapin,FALSE,apa,2
+1701,Charles,18,lapin,FALSE,a:pa,2
+1702,Charles,18,lapin,FALSE,apa,2
+1703,Charles,18,lapin,FALSE,apa,2
+1704,Charles,18,lapin,FALSE,apa,2
+1705,Charles,18,lapin,FALSE,apa,2
+1706,Charles,18,lapin,FALSE,apa,2
+1707,Charles,18,lapin,FALSE,apa,2
+1708,Charles,18,lapin,FALSE,apa,2
+1709,Charles,18,lapin,FALSE,apa,2
+1710,Charles,18,lapin,FALSE,apa,2
+1711,Charles,18,les yeux,FALSE,aʒo:,2
+1712,Charles,18,non-non,FALSE,ɔno,2
+1713,Charles,18,oiseau,FALSE,abo:,2
+1714,Charles,18,oiseau,FALSE,apo,2
+1715,Charles,18,va pas,FALSE,apa,2
+1716,Charles,18,va pas,FALSE,apæ,2
+1717,Charles,18,va pas,FALSE,apa,2
+1718,Charles,18,va pas,FALSE,apa,2
+1719,Charles,18,voire,FALSE,abvwa,2
+1720,Charles,18,voire,FALSE,avwa,2
+1721,Gaël,22,c'est ça,FALSE,esa,2
+1722,Gaël,22,c'est ça,FALSE,esa:,2
+1723,Gaël,22,c'est ça,FALSE,əsa,2
+1724,Gaël,22,c'est ça,FALSE,əsea,2
+1725,Gaël,22,c'est ça,FALSE,esa,2
+1726,Gaël,22,c'est ça,FALSE,esa,2
+1727,Gaël,22,c'est ça,FALSE,esa,2
+1728,Gaël,22,c'est ça,FALSE,esa,2
+1729,Gaël,22,c'est ça,FALSE,esa,2
+1730,Gaël,22,c'est ça,FALSE,esa,2
+1731,Gaël,22,c'est ça,FALSE,esa,2
+1732,Gaël,22,c'est ça,FALSE,esa,2
+1733,Gaël,22,c'est ça,FALSE,esa,2
+1734,Gaël,22,c'est ça,FALSE,esa,2
+1735,Gaël,22,c'est ça,FALSE,əsa,2
+1736,Gaël,22,c'est ça,FALSE,əsa,2
+1737,Gaël,22,c'est ça,FALSE,əsa,2
+1738,Gaël,22,c'est ça,FALSE,əsa,2
+1739,Gaël,22,casser,FALSE,ase,2
+1740,Gaël,22,chercher,FALSE,aʃe,2
+1741,Gaël,22,chercher,FALSE,ase,2
+1742,Gaël,22,dedans,FALSE,ada,2
+1743,Gaël,22,écrit,FALSE,eχri,2
+1744,Gaël,22,écrit,FALSE,iχri,2
+1745,Gaël,22,feu,FALSE,əfœ:,2
+1746,Gaël,22,grelot,FALSE,eχo,2
+1747,Gaël,22,gros,FALSE,egro:,2
+1748,Gaël,22,gros,FALSE,egro,2
+1749,Gaël,22,gros,FALSE,egro,2
+1750,Gaël,22,grosse,FALSE,egrəs,2
+1751,Gaël,22,ici,FALSE,isi,2
+1752,Gaël,22,là bas,FALSE,aba,2
+1753,Gaël,22,là bas,FALSE,aba,2
+1754,Gaël,22,machine,FALSE,aʃe,2
+1755,Gaël,22,maman,FALSE,ama,2
+1756,Gaël,22,ouvre,FALSE,auvre,2
+1757,Gaël,22,ouvre,FALSE,œvre,2
+1758,Gaël,22,ouvrir,FALSE,oχri,2
+1759,Gaël,22,ouvrir,FALSE,uχri,2
+1760,Gaël,22,ouvrir,FALSE,uvχri,2
+1761,Gaël,22,ouvrir,FALSE,auvri,2
+1762,Gaël,22,ouvrir,FALSE,uvχre,2
+1763,Gaël,22,ouvrir,FALSE,uvχri,2
+1764,Gaël,22,papa,FALSE,epap,2
+1765,Gaël,22,pas,FALSE,epa,2
+1766,Gaël,22,pas,FALSE,apa,2
+1767,Gaël,22,plus,FALSE,aplœ,2
+1768,Gaël,22,roue,FALSE,iχu,2
+1769,Gaël,22,roue,FALSE,iχu,2
+1770,Gaël,22,sou,FALSE,esu,2
+1771,Gaël,22,sou,FALSE,esu,2
+1772,Gaël,22,sou,FALSE,esu,2
+1773,Gaël,22,tas,FALSE,ota,2
+1774,Gaël,22,tas,FALSE,ota,2
+1775,Laurent,17,aîe,FALSE,a:jœ,2
+1776,Laurent,17,allo,FALSE,alo,2
+1777,Laurent,17,maman,FALSE,ama,2
+1778,Laurent,17,moi,FALSE,əma,2
+1779,Laurent,17,voilà,FALSE,ɥala,2
+1780,Laurent,17,hihan,FALSE,apɨ,2
+1781,Alice,16,bottle,FALSE,əbɑdI,2
+1782,Alice,16,bottle,FALSE,əbɑdI,2
+1783,Alice,16,lady,FALSE,ijei,2
+1784,Alice,16,mommy,FALSE,ʌ̃mi,2
+1785,Alice,16,mommy,FALSE,ɑʊni,2
+1786,Alice,16,mommy,FALSE,ʌ:ɲi,2
+1787,Deborah,16,ball,FALSE,ɑbɑ,2
+1788,Deborah,16,ball,FALSE,əbɔ:,2
+1789,Deborah,16,ball,FALSE,ʌwɑ:,2
+1790,Deborah,16,cracker,FALSE,ɔki,2
+1791,Deborah,16,hello,FALSE,ʌwo,2
+1792,Deborah,16,hello,FALSE,owə,2
+1793,Deborah,16,more,FALSE,əmɔ:,2
+1794,Deborah,16,uh-oh,FALSE,ʌʔoʊ,2
+1795,Deborah,16,uh-oh,FALSE,ɑ:ʔu,2
+1796,Deborah,16,uh-oh,FALSE,ʌʔo,2
+1797,Deborah,16,uh-oh,FALSE,ʌʔoʊ,2
+1798,Deborah,16,uh-oh,FALSE,ʌʔo,2
+1799,Deborah,16,what's that?,FALSE,ʌsæ,2
+1800,Emily,15,ɑll gone,FALSE,ɑ:kɪ,2
+1801,Emily,15,ɑpple,FALSE,ɑpi,2
+1802,Emily,15,ɑpple,FALSE,ɑpi,2
+1803,Emily,15,Ernie,FALSE,ʌɪntɛ,2
+1804,Emily,15,overɑlls,FALSE,o:jɪ,2
+1805,Sean,15,mama,FALSE,ɑmɑm,2
+1806,Timmy,unknown,juice,FALSE,ədu,2
+1807,Timmy,unknown,knee,FALSE,əni:,2
+1808,Timmy,unknown,neck,FALSE,ɪnæ,2
+1809,Timmy,unknown,neck,FALSE,ɪnæ,2
+1810,Timmy,unknown,plum,FALSE,əvæ:,2
+1811,Timmy,unknown,sun,FALSE,inæ,2
+1812,Timmy,unknown,sun,FALSE,ijæ̃:,2
+1813,Timmy,unknown,light,FALSE,igɑ,2
+1814,Timmy,unknown,light,FALSE,ɪkæ,2
+1815,Timmy,unknown,light,FALSE,igɛ:,2
+1816,Timmy,unknown,light,FALSE,igɑ,2
+1817,Timmy,unknown,light,FALSE,igɑ,2
+1818,Timmy,unknown,light,FALSE,igɑ,2
+1819,Timmy,unknown,light,FALSE,igɑ,2
+1820,Timmy,unknown,light,FALSE,igɑ,2
+1821,Cara,17,woof,FALSE,ʊ  ʊɪɸ,2
+1822,Ella,16,apple,FALSE,æpəʊɫ,2
+1823,Ella,16,brush,FALSE,ɪsʃɔ:,2
+1824,Ella,16,cuddle,FALSE,ʊdəʊɫ,2
+1825,Ella,16,glasses,FALSE,aʔsi:,2
+1826,Ella,16,glasses,FALSE,ijaʃ,2
+1827,Ella,16,horsey,FALSE,ɔʃi,2
+1828,Ella,16,horsey,FALSE,ɔsʃi,2
+1829,Ella,16,horsey,FALSE,ɔʃʷip,2
+1830,Ella,16,horsey,FALSE,ɑsʃi,2
+1831,Ella,16,horsey,FALSE,ɔʃi,2
+1832,Ella,16,horsey,FALSE,ɔʃi,2
+1833,Ella,16,horsey,FALSE,ɔsʃi,2
+1834,Ella,16,in,FALSE,əwɪnt,2
+1835,Ella,16,in,FALSE,əʔwɪnt,2
+1836,Ella,16,open,FALSE,ɑʔpə:,2
+1837,Ella,16,out,FALSE,əʉʔte,2
+1838,Ella,16,spoon,FALSE,ɪmu:n,2
+1839,Ella,16,aah,FALSE,a:ʔaʊ:,2
+1840,Ella,16,aah,FALSE,aʔɑ:,2
+1841,Ella,16,ah ah,FALSE,ɑʔæ,2
+1842,Ella,16,woof woof,FALSE,ijuf,2
+1843,Flora,18,hat on,FALSE,ætən,2
+1844,Flora,18,hello,FALSE,æla:,2
+1845,Flora,18,keys,FALSE,ɪtis,2
+1846,Ivy,17,balloon,FALSE,ɪwu:un,2
+1847,Ivy,17,caterpillar,FALSE,əbε,2
+1848,Ivy,17,cinderella,FALSE,uɪɹa,2
+1849,Ivy,17,cinderella,FALSE,u:iɹæ,2
+1850,Ivy,17,elephant,FALSE,εjəvɸ,2
+1851,Ivy,17,elephant,FALSE,iju:ʂ,2
+1852,Ivy,17,giraffe,FALSE,əwɑ:ə,2
+1853,Ivy,17,giraffe,FALSE,əwɑ:ə,2
+1854,Ivy,17,hat,FALSE,ɪshε,2
+1855,Ivy,17,lion,FALSE,əja:ə:iç,2
+1856,Ivy,17,miaow,FALSE,i:ʔjaʊ:,2
+1857,Ivy,17,miaow,FALSE,ijaʊ:ŋ,2
+1858,Ivy,17,miaow,FALSE,i:ʔjaʊ:,2
+1859,Ivy,17,tree,FALSE,ɑ:ʧi:ə:i,2
+1860,Ivy,17,whee,FALSE,əwi::ç,2
+1861,Ivy,17,whee,FALSE,əwi:n,2
+1862,Ivy,17,yeah,FALSE,ijæ,2
+1863,Ivy,17,yeah,FALSE,ijæɦ,2
+1864,Ivy,17,quack quack,FALSE,əvɒ:,2
+1865,Jude,15,apple,FALSE,aba,2
+1866,Jude,15,apple,FALSE,abi,2
+1867,Jude,15,apple,FALSE,apɪ,2
+1868,Jude,15,apple,FALSE,aboʊ,2
+1869,Jude,15,ball,FALSE,abɔ,2
+1870,Jude,15,ball,FALSE,ʌbɔɛ,2
+1871,Jude,15,ball,FALSE,əbɔʊ,2
+1872,Jude,15,ball,FALSE,ʌbɔ,2
+1873,Jude,15,ball,FALSE,əmbaʊ,2
+1874,Jude,15,ball,FALSE,abɔ,2
+1875,Jude,15,ball,FALSE,abɔ,2
+1876,Jude,15,ball,FALSE,abɔ,2
+1877,Jude,15,ball,FALSE,abɔ,2
+1878,Jude,15,ball,FALSE,abɔ,2
+1879,Jude,15,ball,FALSE,ʌbɔ,2
+1880,Jude,15,ball,FALSE,ʌbɔ,2
+1881,Jude,15,Emma,FALSE,æmæ,2
+1882,Jude,15,football,FALSE,abaʔ,2
+1883,Jude,15,football,FALSE,əbɒ,2
+1884,Jude,15,hello,FALSE,aijɔ,2
+1885,Jude,15,hiya,FALSE,aija,2
+1886,Jude,15,in 'ere,FALSE,ɪnɛ,2
+1887,Jude,15,in 'ere,FALSE,ɪjɛ,2
+1888,Jude,15,orange,FALSE,ɒwi,2
+1889,Jude,15,there,FALSE,əwɛ:,2
+1890,Jude,15,ticktock,FALSE,ɪɬa,2
+1891,Jude,15,uh-oh,FALSE,aʔau,2
+1892,Jude,15,uh-oh,FALSE,ʌʔɔ:,2
+1893,Jude,15,uh-oh,FALSE,ʌʔɔ,2
+1894,Jude,15,monkey sd.,FALSE,ʌʔoʊ,2
+1895,Jude,15,woof,FALSE,ɔʔoʊ,2
+1896,Lewis,18,all gone,FALSE,əgɒːmʔ,2
+1897,Lewis,18,all gone,FALSE,əːwɒmʔ,2
+1898,Lewis,18,all gone,FALSE,ɒɹʌʔ,2
+1899,Lewis,18,all gone,FALSE,əʊgɒʔm,2
+1900,Lewis,18,bricks,FALSE,ɔːəxɪːʔx,2
+1901,Lewis,18,oh no,FALSE,ɒːːnɔː,2
+1902,Lewis,18,oh no,FALSE,ɑːnɔː,2
+1903,Lewis,18,oh no,FALSE,ɒːnɔː,2
+1904,Lewis,18,oh no,FALSE,ɔːːnɔːː,2
+1905,Lewis,18,oh no,FALSE,ɔːnɔː,2
+1906,Lewis,18,oh no,FALSE,ɔːnɔə,2
+1907,Lewis,18,oh no,FALSE,ɔːnɔə,2
+1908,Lewis,18,oh no,FALSE,əːːnɔː,2
+1909,Lewis,18,oh no,FALSE,ɜːnɔːː,2
+1910,Lewis,18,oh no,FALSE,eʊnɔːː,2
+1911,Lewis,18,oh no,FALSE,ɔːːnɔːː,2
+1912,Lewis,18,oh no,FALSE,ɔːnɔː,2
+1913,Lewis,18,uh-oh,FALSE,ɔəʔɔːː,2
+1914,Lewis,18,uh-oh,FALSE,ɔʔɔːːː,2
+1915,Lewis,18,uh-oh,FALSE,ɜːːːʔɔːː,2
+1916,Lewis,18,uh-oh,FALSE,əʔɔːː,2
+1917,Lewis,18,uh-oh,FALSE,ʊːɒʔɔːː,2
+1918,Lewis,18,uh-oh,FALSE,ʊːʔɔːʔ,2
+1919,Lewis,18,uh-oh,FALSE,ʌʔɔːː,2
+1920,Lewis,18,uh-oh,FALSE,ʊʔɔ,2
+1921,Lewis,18,choo-choo,FALSE,ʉɸhʊː,2
+1922,Lewis,18,whee,FALSE,ɜːwʊːɸ,2
+1923,Patrick,18,hat,FALSE,ɪʔæ,2
+1924,Patrick,18,hat,FALSE,əɹæʔ,2
+1925,Patrick,18,hello,FALSE,əɹaʊ:,2
+1926,Patrick,18,horsey,FALSE,ɔʔʷi:,2
+1927,Patrick,18,horsey,FALSE,ɔgʷi:,2
+1928,Patrick,18,horsey,FALSE,ɔʔi::,2
+1929,Patrick,18,horsey,FALSE,ɔʔi::,2
+1930,Patrick,18,knee,FALSE,əni:,2
+1931,Patrick,18,more,FALSE,əmɔh,2
+1932,Patrick,18,more,FALSE,ɪməʊⁿ,2
+1933,Patrick,18,no,FALSE,ɪnəʊ,2
+1934,Patrick,18,no,FALSE,ənəʊ,2
+1935,Patrick,18,no,FALSE,iɳεʊʔ,2
+1936,Patrick,18,no,FALSE,ənəʊn,2
+1937,Patrick,18,no,FALSE,ɪnəʊ,2
+1938,Patrick,18,no,FALSE,ənəʊ,2
+1939,Patrick,18,ow,FALSE,i:ʔaʉ:,2
+1940,Patrick,18,ow,FALSE,ə:ʔɔ:ʊ,2
+1941,Patrick,18,ow,FALSE,i:ʔə:ʔ,2
+1942,Patrick,18,ow,FALSE,a:ʷəʊ,2
+1943,Patrick,18,uh oh,FALSE,ʌhʔɑ:əʊ,2
+1944,Patrick,18,uh oh,FALSE,ɔʔəʊ:,2
+1945,Patrick,18,uh oh,FALSE,ʌhʔəʊ:,2
+1946,Patrick,18,uh oh,FALSE,ɔʔəʊ:,2
+1947,Patrick,18,uh oh,FALSE,ʌhʔəʊ:,2
+1948,Patrick,18,quack quack,FALSE,ɪ εɢ ɪ a,2
+1949,Patrick,18,quack quack,FALSE,ɑɢ aʔ,2
+1950,Patrick,18,squeak squeak,FALSE,u:ʔɹi:k,2
+1951,Rachel,17,duck,FALSE,ʊŋkəkx,2
+1952,Rachel,17,hello,FALSE,aɪjɔ,2
+1953,Rachel,17,house,FALSE,ɒwəs,2
+1954,Tania,18,asleep,FALSE,ɪsɪ:,2
+1955,Tania,18,Iggle-piggle,FALSE,ɔgɪk,2
+1956,Tania,18,where,FALSE,æ:wə,2
+1957,Tobias,18,eeyore,FALSE,iːjɔː,2
+1958,Tobias,18,eeyore,FALSE,iːjɔ,2
+1959,Tobias,18,eeyore,FALSE,iːjʊ,2
+1960,Tobias,18,eeyore,FALSE,ijɔː,2
+1961,Tobias,18,honk honk,FALSE,ɒ  ʔəː,2
+1962,Tobias,18,honk honk,FALSE,əʊɣ  ɜː,2
+1963,Tobias,18,honk honk,FALSE,ɒ ɒ ɒ,2
+1964,Tobias,18,neenaw,FALSE,iːːna,2
+1965,Tobias,18,that,FALSE,ədaʔ,2
+1966,Tobias,18,there,FALSE,ɪdɛː,2
+1967,Tobias,18,what's that,FALSE,ɪzsaʔ,2
+1968,Tobias,18,what's that,FALSE,ɪzʲaʔ,2
+1969,Tobias,18,woof woof,FALSE,ɪʊ  ʊɸ,2
+1970,Tobias,18,woof woof,FALSE,ə̃ ə̃ɸ,2
+1971,Atte,20,ääni,FALSE,æ:ni,2
+1972,Atte,20,äiti,FALSE,æiti,2
+1973,Atte,20,äiti,FALSE,æiti,2
+1974,Atte,20,äiti,FALSE,æiti,2
+1975,Atte,20,api,FALSE,api,2
+1976,Atte,20,api,FALSE,api,2
+1977,Atte,20,api,FALSE,api,2
+1978,Atte,20,api,FALSE,api,2
+1979,Atte,20,api,FALSE,api,2
+1980,Atte,20,auto,FALSE,auto,2
+1981,Atte,20,auto,FALSE,autoa,2
+1982,Atte,20,auto,FALSE,auto:,2
+1983,Atte,20,auto,FALSE,auto,2
+1984,Atte,20,auto,FALSE,auto,2
+1985,Atte,20,auto,FALSE,auto,2
+1986,Atte,20,auto,FALSE,auto,2
+1987,Atte,20,auto,FALSE,auto,2
+1988,Atte,20,auto,FALSE,auto,2
+1989,Atte,20,auto,FALSE,auto,2
+1990,Atte,20,auto,FALSE,auto,2
+1991,Atte,20,auto,FALSE,auto,2
+1992,Atte,20,auto,FALSE,auto,2
+1993,Atte,20,auto,FALSE,auto,2
+1994,Atte,20,auto,FALSE,auto,2
+1995,Atte,20,auto,FALSE,auto,2
+1996,Atte,20,auto,FALSE,auto,2
+1997,Atte,20,auto,FALSE,auto,2
+1998,Atte,20,auto,FALSE,auto,2
+1999,Atte,20,auto,FALSE,auto,2
+2000,Atte,20,auto,FALSE,auto,2
+2001,Atte,20,auto,FALSE,auto,2
+2002,Atte,20,isi,FALSE,içi,2
+2003,Atte,20,isi,FALSE,aiçi,2
+2004,Atte,20,isi,FALSE,ihi,2
+2005,Atte,20,isi,FALSE,içi,2
+2006,Atte,20,isi,FALSE,içi,2
+2007,Atte,20,isi,FALSE,içi,2
+2008,Atte,20,isi,FALSE,içi,2
+2009,Atte,20,isi,FALSE,içi,2
+2010,Atte,20,kala,FALSE,ala,2
+2011,Atte,20,sammui,FALSE,autum,2
+2012,Atte,20,sammui,FALSE,autum,2
+2013,Atte,20,sammui,FALSE,autum,2
+2014,Atte,20,sammui,FALSE,autum,2
+2015,Atte,20,sammui,FALSE,autum,2
+2016,Eelis,20,Eetu,FALSE,e:tu,2
+2017,Eelis,20,Eetu,FALSE,e:tu,2
+2018,Eelis,20,räppäa,FALSE,opo,2
+2019,Eliisa,15,"haloo, hallo",FALSE,a.o,2
+2020,Eliisa,15,"haloo, hallo",FALSE,a.o:,2
+2021,Eliisa,15,isi,FALSE,içi,2
+2022,Eliisa,15,isi,FALSE,ihi,2
+2023,Eliisa,15,isi,FALSE,içi,2
+2024,Eliisa,15,isi,FALSE,içi,2
+2025,Eliisa,15,isi,FALSE,içi,2
+2026,Eliisa,15,isi,FALSE,içi,2
+2027,Eliisa,15,isi,FALSE,içi,2
+2028,Eliisa,15,isi,FALSE,içi,2
+2029,Eliisa,15,isi,FALSE,içi,2
+2030,Eliisa,15,isi,FALSE,içi,2
+2031,Eliisa,15,isi,FALSE,içi,2
+2032,Eliisa,15,isi,FALSE,içi,2
+2033,Eliisa,15,juusto,FALSE,u:stu,2
+2034,Eliisa,15,juusto,FALSE,u:hto,2
+2035,Eliisa,15,juusto,FALSE,u:sto,2
+2036,Eliisa,15,juusto,FALSE,u:stu,2
+2037,Eliisa,15,juusto,FALSE,u:stu,2
+2038,Eliisa,15,juusto,FALSE,u:stu,2
+2039,Eliisa,15,juusto,FALSE,u:stu,2
+2040,Eliisa,15,juusto,FALSE,u:stu,2
+2041,Eliisa,15,juusto,FALSE,u:stu,2
+2042,Eliisa,15,juusto,FALSE,u:stu,2
+2043,Eliisa,15,juusto,FALSE,u:sto,2
+2044,Eliisa,15,oho,FALSE,oho,2
+2045,Eliisa,15,oho,FALSE,uhu,2
+2046,Eliisa,15,oho,FALSE,oho,2
+2047,Eliisa,15,oho,FALSE,oho,2
+2048,Eliisa,15,piiloon,FALSE,i.o:,2
+2049,Mira,17,täällä,FALSE,æ:læ,2
+2050,Sini,15,heihei,FALSE,ei.ei,2
+2051,Sini,15,jugurtti,FALSE,uku,2
+2052,Sini,15,juna,FALSE,u.a,2
+2053,Sini,15,leipä,FALSE,eipæ,2
+2054,Sini,15,nami,FALSE,ami,2
+2055,Sini,15,napa,FALSE,apa,2
+2056,Sini,15,viili,FALSE,i:.i,2
+2057,Sini,15,hauhau,FALSE,au.au,2
+2058,Hiromi,21,ãnjo,FALSE,aija,2
+2059,Hiromi,21,ãnjo,FALSE,aija,2
+2060,Takeru,21,aye-aye,FALSE,aijai,2
+2061,Takeru,21,that,FALSE,aɾe,2
+2062,Takeru,21,found it,FALSE,aʑaː,2
+2063,Takeru,21,choochoo,FALSE,içʔʝi,2
+2064,Takeru,21,flower,FALSE,ana,2
+2065,Takeru,21,good,FALSE,iː ne,2
+2066,Takeru,21,good,FALSE,iː ne,2
+2067,Takeru,21,ouch,FALSE,itai,2
+2068,Takeru,21,do it!,FALSE,aːte,2
+2069,Takeru,21,big,FALSE,oːkiː,2
+2070,Takeru,21,put it there,FALSE,oite,2
+2071,Haruo,20,açi,FALSE,ʌttjʰɪ:,2
+2072,Haruo,20,are,FALSE,aɾe:,2
+2073,Haruo,20,are,FALSE,aja::,2
+2074,Haruo,20,are,FALSE,aɾa:,2
+2075,Haruo,20,are,FALSE,aɾe:,2
+2076,Haruo,20,are,FALSE,aɾe:,2
+2077,Haruo,20,at:a,FALSE,atta [wh],2
+2078,Haruo,20,ija,FALSE,ɪja,2
+2079,Haruo,20,ija,FALSE,ɪjɔ:,2
+2080,Haruo,20,ija,FALSE,ɪjaɔ,2
+2081,Haruo,20,ija,FALSE,ɪ:jaʰ,2
+2082,Haruo,20,ija,FALSE,ɪja,2
+2083,Haruo,20,itai,FALSE,ɪta:ɪ:,2
+2084,Haruo,20,itai,FALSE,ətɑ:ɪ,2
+2085,Haruo,20,itai,FALSE,ɪda:ɪ,2
+2086,Haruo,20,itai,FALSE,ɪ:daɪ,2
+2087,Kazuko,15,ame,FALSE,ɑmʰɪʔ,2
+2088,Kazuko,15,ame,FALSE,ɑmɪʰ,2
+2089,Kazuko,15,ame,FALSE,ʌmɪ,2
+2090,Kazuko,15,ame,FALSE,ʌmɪ,2
+2091,Kazuko,15,ashi,FALSE,ɑʧɪʔ,2
+2092,Kazuko,15,ashi,FALSE,ɑʤɪʔ,2
+2093,Kazuko,15,ashi,FALSE,agʰiʔ,2
+2094,Kazuko,15,ashi,FALSE,ɑʧɪʔ,2
+2095,Kazuko,15,ashi,FALSE,ɑʧɪʔ,2
+2096,Kazuko,15,ashi,FALSE,ɑ:ʤɪʔ,2
+2097,Kazuko,15,ashi,FALSE,ɑ:ʤɪʔ,2
+2098,Kazuko,15,ashi,FALSE,ɑkʰɪʔ,2
+2099,Kazuko,15,ashi,FALSE,ɑ:kʰɪʔ,2
+2100,Kazuko,15,ashi,FALSE,ɑ:ʤɪʔ,2
+2101,Kazuko,15,ashi,FALSE,ɑkʰɪʔ,2
+2102,Kazuko,15,ashi,FALSE,agɪʔ,2
+2103,Kazuko,15,ashi,FALSE,ɑ:kʰɪʔ,2
+2104,Kazuko,15,ashi,FALSE,ʌkʰɪʔ,2
+2105,Kazuko,15,ashi,FALSE,ɑʧɪʔ,2
+2106,Kazuko,15,ashi,FALSE,ʌʧɪn,2
+2107,Kazuko,15,ashi,FALSE,ʌʧɪ:,2
+2108,Kazuko,15,ashi,FALSE,ʌɟɪ:,2
+2109,Kazuko,15,ashi,FALSE,ɑkʰɪ:,2
+2110,Kazuko,15,ashi,FALSE,adʲɪʔ,2
+2111,Kazuko,15,ashi,FALSE,ɑ:ʧɪ,2
+2112,Kazuko,15,ashi,FALSE,ɑ:ʧɪ,2
+2113,Kazuko,15,haro:,FALSE,adɔ:,2
+2114,Kazuko,15,haro:,FALSE,ʌdɔ:,2
+2115,Kazuko,15,haro:,FALSE,aɾɔ:,2
+2116,Kazuko,15,oheso,FALSE,ɔɪʤɔʔ,2
+2117,Kazuko,15,oheso,FALSE,ʌɪtʰɔʔ,2
+2118,Kazuko,15,oheso,FALSE,ɔɪ:tɔʔ,2
+2119,Kazuko,15,omutsu,FALSE,ɔmʊʔ,2
+2120,Kazuko,15,oningyo-chan,FALSE,ɔtʰɔʔn,2
+2121,Kazuko,15,ouma-chan,FALSE,oʊəoʊəta,2
+2122,Kazuko,15,ouma-chan,FALSE,oʊata,2
+2123,Kazuko,15,ouma-chan,FALSE,oʊata,2
+2124,Kazuko,15,ouma-chan,FALSE,ɔɪʔtʰɔʔ,2
+2125,Afan,22,AUNTI,FALSE,ənti,2
+2126,Afan,22,anda,FALSE,ənɖɑ,2
+2127,Afan,22,anda,FALSE,ənɖɑ,2
+2128,Afan,22,UNCLE,FALSE,ənka,2
+2129,Afan,22,UNCLE,FALSE,ənkəl,2
+2130,Afan,22,UNCLE,FALSE,ənka,2
+2131,Afan,22,UNCLE,FALSE,ənka,2
+2132,Afan,22,UNCLE,FALSE,ənka,2
+2133,Afan,22,UNCLE,FALSE,ənka,2
+2134,Afan,22,UNCLE,FALSE,ənka,2
+2135,Radia,19,oho!,FALSE,əxo,2
+2136,Radia,19,acha,FALSE,əʃə,2
+2137,Shazim,25,EYES,FALSE,a:ja:,2
+2138,Shazim,25,ajao,FALSE,a:du,2
+2139,Shazim,25,AEROPLANE,FALSE,aoplæn,2
+2140,Shazim,25,AEROPLANE,FALSE,a:ple:n,2
+2141,Shazim,25,yay kya hai,FALSE,e:tʃiə e,2
+2142,Shazim,25,yay kya hai,FALSE,atla:,2
+2143,Shazim,25,yay kya hai,FALSE,e:ta:,2
+2144,Shazim,25,yay kya hai,FALSE,e:tja:,2
+2145,Shazim,25,yay kya hai,FALSE,idja:,2
+2146,Shazim,25,yay kya hai,FALSE,i:tja e,2
+2147,Shazim,25,yay maon hai,FALSE,i: məu,2
+2148,Basile,20,ça,FALSE,aʒa,2
+2149,Basile,20,ça,FALSE,əʒa,2
+2150,Basile,20,ça,FALSE,əɬa,2
+2151,Basile,20,ça,FALSE,əða,2
+2152,Basile,20,ça,FALSE,aʒa,2
+2153,Basile,20,ça,FALSE,aʒa,2
+2154,Basile,20,ça,FALSE,aʒa,2
+2155,Basile,20,ça,FALSE,aʒa,2
+2156,Basile,20,ça,FALSE,aʒa,2
+2157,Basile,20,ça,FALSE,əʒa,2
+2158,Basile,20,ça,FALSE,əʒa,2
+2159,Basile,20,canard/coin-coin,FALSE,akɔ,2
+2160,Basile,20,canard/coin-coin,FALSE,əka,2
+2161,Basile,20,encore,FALSE,ɔkɔ,2
+2162,Basile,20,encore,FALSE,ako,2
+2163,Basile,20,là,FALSE,əla,2
+2164,Basile,20,l'eau,FALSE,elu,2
+2165,Basile,20,l'eau,FALSE,ə lo,2
+2166,Basile,20,loup,FALSE,ə lə,2
+2167,Basile,20,livre,FALSE,ələ,2
+2168,Basile,20,livre,FALSE,əle,2
+2169,Basile,20,maman,FALSE,ema,2
+2170,Basile,20,maman,FALSE,ə lø,2
+2171,Basile,20,pin pon,FALSE,apo,2
+2172,Julien,19,cassé,FALSE,ake,2
+2173,Julien,19,hop-là,FALSE,ap a,2
+2174,Julien,19,là,FALSE,ə la,2
+2175,Julien,19,mouton,FALSE,ɔto,2
+2176,Julien,19,mouton,FALSE,əto,2
+2177,Vincent,18,non,FALSE,ə nɔ,2
+2178,Vincent,18,train,FALSE,oe tʁɛ,2
+2179,Vincent,18,train,FALSE,a kʁɛ,2
+2180,Vincent,18,train,FALSE,a kʁɛ,2
+2181,Vincent,18,train,FALSE,a kʁɛ,2
+2182,Vincent,18,train,FALSE,a kʁɛ,2
+2183,Vincent,18,allô,FALSE,alo,2
+2184,Vincent,18,allô,FALSE,alə,2
+2185,Vincent,18,allô,FALSE,alɔ,2
+2186,Vincent,18,bravo,FALSE,awo,2
+2187,Vincent,18,bravo,FALSE,avo,2
+2188,Vincent,18,bravo,FALSE,avo,2
+2189,Vincent,18,bravo,FALSE,avo,2
+2190,Vincent,18,caché,FALSE,aɕe,2
+2191,Vincent,18,ici,FALSE,iʃi,2
+2192,Vincent,18,là,FALSE,əla,2
+2193,Vincent,18,le pain,FALSE,a pɛ,2
+2194,Vincent,18,le pain,FALSE,ə pɛ,2
+2195,Vincent,18,le pain,FALSE,a pɛ,2
+2196,Vincent,18,un deux,FALSE,a dø,2
+2197,Vincent,18,voilà,FALSE,ala,2
+2198,Vincent,18,voilà,FALSE,ala,2
+2199,Taro,23,at:sɯi,FALSE,aʔʨʊɪ,2
+2200,Taro,23,itai,FALSE,ʌɪta:ɪ,2
+2201,Taro,23,itai,FALSE,ʌɪtaʔ,2
+2202,Taro,23,itai,FALSE,aɪta:,2
+2203,Adeline,25,boum,FALSE,bubu,2
+2204,Adeline,25,chat,FALSE,pa a va,2
+2205,Adeline,25,chat,FALSE,la va,2
+2206,Adeline,25,coucou,FALSE,kuku,2
+2207,Adeline,25,coucou,FALSE,kuku,2
+2208,Adeline,25,coucou,FALSE,kuku,2
+2209,Adeline,25,coucou,FALSE,kuku,2
+2210,Adeline,25,coucou,FALSE,kuku,2
+2211,Adeline,25,coucou,FALSE,kuku,2
+2212,Adeline,25,coucou,FALSE,kuɣu,2
+2213,Adeline,25,dodo,FALSE,tutu,2
+2214,Adeline,25,là,FALSE,da ta,2
+2215,Adeline,25,maman,FALSE,mamɑ,2
+2216,Adeline,25,maman,FALSE,mamɑ,2
+2217,Adeline,25,maman,FALSE,mamɑ,2
+2218,Adeline,25,papa,FALSE,papa,2
+2219,Adeline,25,papa,FALSE,papa,2
+2220,Adeline,25,voilà,FALSE,wala,2
+2221,Charles,18,attend,FALSE,ʔaʨə,2
+2222,Charles,18,auto,FALSE,hɔto,2
+2223,Charles,18,c'est beau,FALSE,habo:,2
+2224,Charles,18,c'est bon,FALSE,habo,2
+2225,Charles,18,chapeau,FALSE,hapo,2
+2226,Charles,18,chaussures,FALSE,ʒaʒo,2
+2227,Charles,18,coucou,FALSE,tʉtʉ,2
+2228,Charles,18,coucou,FALSE,toto,2
+2229,Charles,18,coucou,FALSE,tʉtʉ,2
+2230,Charles,18,coucou,FALSE,toto,2
+2231,Charles,18,coucou,FALSE,toto,2
+2232,Charles,18,garçon,FALSE,haʒœ,2
+2233,Charles,18,garçon,FALSE,haʐœ,2
+2234,Charles,18,garçon,FALSE,haʃɔ,2
+2235,Charles,18,garçon,FALSE,haʒœ,2
+2236,Charles,18,garçon,FALSE,haʒœ,2
+2237,Charles,18,lapin,FALSE,haba,2
+2238,Charles,18,lapin,FALSE,ɦapa,2
+2239,Charles,18,lolo,FALSE,ʎoʎo,2
+2240,Charles,18,lolo,FALSE,biʎə,2
+2241,Charles,18,maman,FALSE,mama,2
+2242,Charles,18,maman,FALSE,mhamə,2
+2243,Charles,18,maman,FALSE,mʌma,2
+2244,Charles,18,maman,FALSE,mɛma,2
+2245,Charles,18,maman,FALSE,mama,2
+2246,Charles,18,maman,FALSE,mama,2
+2247,Charles,18,maman,FALSE,mama,2
+2248,Charles,18,maman,FALSE,mama,2
+2249,Charles,18,maman,FALSE,mama,2
+2250,Charles,18,maman,FALSE,mama,2
+2251,Charles,18,non-non,FALSE,nɔnɔ,2
+2252,Charles,18,non-non,FALSE,hənɔ,2
+2253,Charles,18,non-non,FALSE,nɛna,2
+2254,Charles,18,non-non,FALSE,nono,2
+2255,Charles,18,non-non,FALSE,nəno,2
+2256,Charles,18,non-non,FALSE,nəno,2
+2257,Charles,18,non-non,FALSE,nəno,2
+2258,Charles,18,non-non,FALSE,nəno,2
+2259,Charles,18,non-non,FALSE,nəno,2
+2260,Charles,18,non-non,FALSE,nəno,2
+2261,Charles,18,non-non,FALSE,nəno,2
+2262,Charles,18,papa,FALSE,papa,2
+2263,Charles,18,papa,FALSE,papa,2
+2264,Charles,18,papa,FALSE,papa,2
+2265,Charles,18,poupée,FALSE,bapa,2
+2266,Charles,18,va pas,FALSE,hapa,2
+2267,Charles,18,voire,FALSE,ɦəva,2
+2268,Gaël,22,accrocher,FALSE,xʁoʃe,2
+2269,Gaël,22,accrocher,FALSE,xoʃe,2
+2270,Gaël,22,ballon,FALSE,lalo:,2
+2271,Gaël,22,bébé,FALSE,bebe,2
+2272,Gaël,22,bébé,FALSE,bebe,2
+2273,Gaël,22,bébé,FALSE,bebe,2
+2274,Gaël,22,bébé,FALSE,bebe,2
+2275,Gaël,22,bébé,FALSE,bebe,2
+2276,Gaël,22,bébé,FALSE,bebe,2
+2277,Gaël,22,bébé,FALSE,bebe,2
+2278,Gaël,22,bébé,FALSE,bebe,2
+2279,Gaël,22,bébé,FALSE,bebe,2
+2280,Gaël,22,bébé,FALSE,bebe,2
+2281,Gaël,22,bébé,FALSE,bebe,2
+2282,Gaël,22,bébé,FALSE,bebe,2
+2283,Gaël,22,c'est ça,FALSE,sesa,2
+2284,Gaël,22,casser,FALSE,sase,2
+2285,Gaël,22,chercher,FALSE,ʃaʃe,2
+2286,Gaël,22,dodo,FALSE,dodo,2
+2287,Gaël,22,Gael?,FALSE,gaʔal,2
+2288,Gaël,22,maman,FALSE,mama,2
+2289,Gaël,22,maman,FALSE,mama,2
+2290,Gaël,22,maman,FALSE,mama,2
+2291,Gaël,22,maman,FALSE,mama,2
+2292,Gaël,22,papa,FALSE,papa,2
+2293,Gaël,22,rouge,FALSE,rojo,2
+2294,Gaël,22,tout seul,FALSE,tusɛ,2
+2295,Gaël,22,voiture,FALSE,tɛty,2
+2296,Gaël,22,voiture,FALSE,tɛty,2
+2297,Laurent,17,allo,FALSE,ʔøalo,2
+2298,Laurent,17,ballon,FALSE,palɔ,2
+2299,Laurent,17,bébé,FALSE,bəbə,2
+2300,Laurent,17,brosse,FALSE,bəla,2
+2301,Laurent,17,brosse,FALSE,pʌla,2
+2302,Laurent,17,caca,FALSE,kɒka,2
+2303,Laurent,17,canard coincoin,FALSE,kɔɭa,2
+2304,Laurent,17,canard coincoin,FALSE,kɔlɔa,2
+2305,Laurent,17,chapeau,FALSE,bolo,2
+2306,Laurent,17,chapeau,FALSE,bobo,2
+2307,Laurent,17,chapeau,FALSE,pobo,2
+2308,Laurent,17,chapeau,FALSE,bɔɟə,2
+2309,Laurent,17,chapeau,FALSE,bøilø,2
+2310,Laurent,17,chapeau,FALSE,bølo,2
+2311,Laurent,17,chaussures,FALSE,ʃoʃy,2
+2312,Laurent,17,coucou,FALSE,kuku,2
+2313,Laurent,17,coucou,FALSE,kukɔ:,2
+2314,Laurent,17,coucou,FALSE,kɤkɤ,2
+2315,Laurent,17,coucou,FALSE,tɤdɤ,2
+2316,Laurent,17,cuillère,FALSE,kola,2
+2317,Laurent,17,cuillère,FALSE,kɔja,2
+2318,Laurent,17,de l'eau,FALSE,dəlo,2
+2319,Laurent,17,de l'eau,FALSE,ʔθdəlo,2
+2320,Laurent,17,de l'eau,FALSE,tola,2
+2321,Laurent,17,de l'eau,FALSE,bəlo,2
+2322,Laurent,17,de l'eau,FALSE,tølo,2
+2323,Laurent,17,Didier,FALSE,dədjɨ,2
+2324,Laurent,17,dodo,FALSE,dodɔ,2
+2325,Laurent,17,gateau,FALSE,tato,2
+2326,Laurent,17,gateau,FALSE,təto,2
+2327,Laurent,17,gateau,FALSE,tatø,2
+2328,Laurent,17,gateau,FALSE,totot,2
+2329,Laurent,17,kekette,FALSE,kake,2
+2330,Laurent,17,Kola,FALSE,kɔla,2
+2331,Laurent,17,Kola,FALSE,kəla,2
+2332,Laurent,17,Kola,FALSE,kolɛ̃,2
+2333,Laurent,17,Kola,FALSE,xola,2
+2334,Laurent,17,Kola,FALSE,kola,2
+2335,Laurent,17,maman,FALSE,mama,2
+2336,Laurent,17,maman,FALSE,mʌmɛ,2
+2337,Laurent,17,maman,FALSE,mamʌ,2
+2338,Laurent,17,moi,FALSE,pɔmaɥa,2
+2339,Laurent,17,moi,FALSE,jemo,2
+2340,Laurent,17,nano,FALSE,nano,2
+2341,Laurent,17,nano,FALSE,nanʌ,2
+2342,Laurent,17,nano,FALSE,na:nʌ,2
+2343,Laurent,17,non,FALSE,na:nɔ,2
+2344,Laurent,17,papa,FALSE,papa,2
+2345,Laurent,17,papa,FALSE,bapa,2
+2346,Laurent,17,voilà,FALSE,ba:laʔ,2
+2347,Laurent,17,miam,FALSE,mənam,2
+2348,Laurent,17,miam,FALSE,mʌmɛ,2
+2349,Laurent,17,miam,FALSE,mamæ,2
+2350,Laurent,17,miam,FALSE,mamam,2
+2351,Noël,18,ballon,FALSE,banɵ,2
+2352,Noël,18,banane,FALSE,baɖa,2
+2353,Noël,18,banane,FALSE,bəʤæ,2
+2354,Noël,18,canard,FALSE,tɛta,2
+2355,Noël,18,canard,FALSE,tætæ,2
+2356,Noël,18,canard,FALSE,batæ,2
+2357,Noël,18,chapeaux,FALSE,pʌpʌ,2
+2358,Noël,18,dodo,FALSE,ƫəƫo,2
+2359,Noël,18,fraise,FALSE,wʉʒʉ,2
+2360,Noël,18,gateau,FALSE,taƫɵ,2
+2361,Noël,18,gateau,FALSE,taƫo,2
+2362,Noël,18,lapin,FALSE,pəpa,2
+2363,Noël,18,lapin,FALSE,papɛ,2
+2364,Noël,18,lapin,FALSE,papa,2
+2365,Noël,18,lapin,FALSE,papʌ,2
+2366,Noël,18,lapin,FALSE,papɛm,2
+2367,Noël,18,lapin,FALSE,papɛ,2
+2368,Noël,18,lapin,FALSE,papɛ,2
+2369,Noël,18,lapin,FALSE,papɛ,2
+2370,Noël,18,lapin,FALSE,papɛ,2
+2371,Noël,18,lapin,FALSE,papɛ,2
+2372,Noël,18,main,FALSE,pæma,2
+2373,Noël,18,maman,FALSE,mama,2
+2374,Noël,18,wouf wouf,FALSE,wawa,2
+2375,Noël,18,wouf wouf,FALSE,wowɔ,2
+2376,Noël,18,wouf wouf,FALSE,wawɔ,2
+2377,Noël,18,wouf wouf,FALSE,ʔɵvwa,2
+2378,Noël,18,wouf wouf,FALSE,ʔɔwo,2
+2379,Noël,18,wouf wouf,FALSE,wɤwo,2
+2380,Noël,18,wouf wouf,FALSE,pøwa,2
+2381,Noël,18,wouf wouf,FALSE,wøwa,2
+2382,Noël,18,pain,FALSE,ʔapæ,2
+2383,Noël,18,paletot,FALSE,papa,2
+2384,Noël,18,papa,FALSE,papa,2
+2385,Noël,18,par là,FALSE,pɜɭa,2
+2386,Noël,18,peinture,FALSE,papan,2
+2387,Noël,18,peinture,FALSE,pəpal,2
+2388,Noël,18,poupée,FALSE,pəpe,2
+2389,Noël,18,savon,FALSE,ʔəwə,2
+2390,Noël,18,tiens,FALSE,tɛtɛɲ,2
+2391,Alice,16,baby,FALSE,beɪbi,2
+2392,Alice,16,baby,FALSE,beɪbi,2
+2393,Alice,16,baby,FALSE,beɪbi,2
+2394,Alice,16,baby,FALSE,beɪbi,2
+2395,Alice,16,baby,FALSE,beɪbi,2
+2396,Alice,16,bang,FALSE,pɑ̃i,2
+2397,Alice,16,bottle,FALSE,bɑdiç,2
+2398,Alice,16,bottle,FALSE,pɑ:di,2
+2399,Alice,16,bottle,FALSE,pɑ:di,2
+2400,Alice,16,bunny,FALSE,beɪŋji,2
+2401,Alice,16,clean,FALSE,ti:ni,2
+2402,Alice,16,daddy,FALSE,dɑ:di,2
+2403,Alice,16,daddy,FALSE,dɑ:di,2
+2404,Alice,16,down,FALSE,dɑ̃ʊ̃,2
+2405,Alice,16,down,FALSE,dɑ̃ʊ̃,2
+2406,Alice,16,elephant,FALSE,ʔeɪjɪ,2
+2407,Alice,16,elephant,FALSE,ʔɑī:jʌ,2
+2408,Alice,16,elephant,FALSE,ʔɑi:njə,2
+2409,Alice,16,elephant,FALSE,ʔæ:ɪjɪ,2
+2410,Alice,16,flowers,FALSE,pɑ:ji,2
+2411,Alice,16,flowers,FALSE,padi,2
+2412,Alice,16,flowers,FALSE,fa:di,2
+2413,Alice,16,lady,FALSE,jɛ:ji,2
+2414,Alice,16,lady,FALSE,lɛji,2
+2415,Alice,16,mommy,FALSE,mɑ:ɲi,2
+2416,Alice,16,mommy,FALSE,mɑ:ɲi,2
+2417,Alice,16,plate,FALSE,pɑɪjɪʒ,2
+2418,Alice,16,shiny,FALSE,tɑ:ji,2
+2419,Alice,16,shiny,FALSE,daji,2
+2420,Alice,16,shiny,FALSE,hetɑɪɲ,2
+2421,Deborah,16,around&around,FALSE,waʊwaʊ,2
+2422,Deborah,16,around&around,FALSE,waʊwʌ,2
+2423,Deborah,16,baby,FALSE,be:bi,2
+2424,Deborah,16,baby,FALSE,be:bi,2
+2425,Deborah,16,baby,FALSE,bibi,2
+2426,Deborah,16,baby,FALSE,bebi,2
+2427,Deborah,16,baby,FALSE,be:bi,2
+2428,Deborah,16,baby,FALSE,be:bi,2
+2429,Deborah,16,baby,FALSE,be:bi,2
+2430,Deborah,16,baby,FALSE,be:bi,2
+2431,Deborah,16,baby,FALSE,be:bi,2
+2432,Deborah,16,baby,FALSE,be:bi,2
+2433,Deborah,16,baby,FALSE,be:bi,2
+2434,Deborah,16,baby,FALSE,be:bi,2
+2435,Deborah,16,baby,FALSE,be:bi,2
+2436,Deborah,16,baby,FALSE,be:bi,2
+2437,Deborah,16,baby,FALSE,be:bi,2
+2438,Deborah,16,baby,FALSE,be:bi,2
+2439,Deborah,16,baby,FALSE,be:bi,2
+2440,Deborah,16,baby,FALSE,be:bi,2
+2441,Deborah,16,baby,FALSE,be:bi,2
+2442,Deborah,16,baby,FALSE,be:bi,2
+2443,Deborah,16,baby,FALSE,be:bi,2
+2444,Deborah,16,baby,FALSE,be:bi,2
+2445,Deborah,16,baby,FALSE,be:bi,2
+2446,Deborah,16,baby,FALSE,be:bi,2
+2447,Deborah,16,bagel,FALSE,bʌbu,2
+2448,Deborah,16,belly button,FALSE,zbewə,2
+2449,Deborah,16,belly button,FALSE,kIzebʌ,2
+2450,Deborah,16,belly button,FALSE,zəbʌ,2
+2451,Deborah,16,bunny,FALSE,baɪ̃:ɪ,2
+2452,Deborah,16,bus,FALSE,bʌbʌ,2
+2453,Deborah,16,bye,FALSE,gubɑɪ,2
+2454,Deborah,16,car,FALSE,ʃɪ kɑ,2
+2455,Deborah,16,cock-a-doodle-do,FALSE,dʌʔdu,2
+2456,Deborah,16,cracker,FALSE,wæwə,2
+2457,Deborah,16,kittycat,FALSE,kɪkæ,2
+2458,Deborah,16,"mommy, mama",FALSE,mɑmi,2
+2459,Deborah,16,"mommy, mama",FALSE,mʌmɑ,2
+2460,Deborah,16,pickle,FALSE,bɑbɑ,2
+2461,Emily,15,Bɑmbi,FALSE,pɑpi,2
+2462,Emily,15,Bɑmbi,FALSE,bɑ:əpi,2
+2463,Emily,15,beɑds,FALSE,ʔɪbɪ,2
+2464,Emily,15,beɑds,FALSE,ʔʊβi,2
+2465,Emily,15,button,FALSE,pʌte,2
+2466,Emily,15,button,FALSE,pɑ:ti,2
+2467,Emily,15,cɑr,FALSE,kɑ:ʔɑ,2
+2468,Emily,15,choochoo,FALSE,tʊtœ,2
+2469,Emily,15,Cookie,FALSE,kɛkɛ,2
+2470,Emily,15,Cookie,FALSE,həki,2
+2471,Emily,15,Ernie,FALSE,hœʌnjʌ,2
+2472,Emily,15,no,FALSE,nono,2
+2473,Emily,15,no,FALSE,nænʌ,2
+2474,Emily,15,no,FALSE,nəno,2
+2475,Emily,15,no,FALSE,nʌnʌ,2
+2476,Emily,15,no,FALSE,nəno,2
+2477,Emily,15,no,FALSE,nʌnʌ,2
+2478,Emily,15,no,FALSE,nʌnʌ,2
+2479,Emily,15,Oscɑr,FALSE,ʔɑ:kɛ,2
+2480,Emily,15,P,FALSE,pɪhɪ,2
+2481,Emily,15,tickle-tickle,FALSE,tjøkɨ,2
+2482,Emily,15,tick-tock,FALSE,tɪtɪ,2
+2483,Emily,15,walking,FALSE,wɔki,2
+2484,Emily,15,wɑter,FALSE,wɑ:wi,2
+2485,Emily,15,wɑter,FALSE,wɑ:mɪ,2
+2486,Emily,15,wɑter,FALSE,hwɑ:wə,2
+2487,Emily,15,wɑter,FALSE,wɑ:wi,2
+2488,Emily,15,wɑter,FALSE,wɑ:wi,2
+2489,Emily,15,wɑter,FALSE,wɑ:wi,2
+2490,Emily,15,wɑter,FALSE,wɑ:wi,2
+2491,Emily,15,wɑter,FALSE,wɑ:wi,2
+2492,Emily,15,wɑter,FALSE,wɑ:mɪ,2
+2493,Molly,16,baby,FALSE,pebi,2
+2494,Molly,16,baby,FALSE,pebi,2
+2495,Molly,16,camera,FALSE,kɑmə,2
+2496,Molly,16,choochoo,FALSE,tutu,2
+2497,Molly,16,choochoo,FALSE,tutu,2
+2498,Molly,16,choochoo,FALSE,tu: tu,2
+2499,Molly,16,choochoo,FALSE,tutu,2
+2500,Molly,16,choochoo,FALSE,tutu,2
+2501,Molly,16,choochoo,FALSE,tutu,2
+2502,Molly,16,choochoo,FALSE,tutu,2
+2503,Molly,16,choochoo,FALSE,tutu,2
+2504,Molly,16,click,FALSE,kɪki,2
+2505,Molly,16,click,FALSE,kæki,2
+2506,Molly,16,click,FALSE,kækæ,2
+2507,Molly,16,click,FALSE,kæki,2
+2508,Molly,16,click,FALSE,kæki,2
+2509,Molly,16,click,FALSE,kækæ,2
+2510,Molly,16,click,FALSE,kækæ,2
+2511,Molly,16,glasses,FALSE,kækæ,2
+2512,Molly,16,glasses,FALSE,kɑki,2
+2513,Molly,16,glasses,FALSE,tɑkɪ,2
+2514,Molly,16,glasses,FALSE,kækæ,2
+2515,Molly,16,glasses,FALSE,kɑkɪ,2
+2516,Molly,16,glasses,FALSE,kɑʔkɪ,2
+2517,Molly,16,glasses,FALSE,kɑki,2
+2518,Molly,16,glasses,FALSE,tɑkɪ,2
+2519,Molly,16,glasses,FALSE,tɑkɪ,2
+2520,Molly,16,glasses,FALSE,tɑkɪ,2
+2521,Molly,16,glasses,FALSE,kækæ,2
+2522,Molly,16,glasses,FALSE,kɑki,2
+2523,Molly,16,good girl,FALSE,gʊgə:,2
+2524,Molly,16,good girl,FALSE,gʊgə:,2
+2525,Molly,16,gran'ma,FALSE,mɛʊwʌ,2
+2526,Molly,16,gran'pa,FALSE,kæpɔ,2
+2527,Molly,16,green,FALSE,kɤ:ni,2
+2528,Molly,16,green,FALSE,kɤ:ni,2
+2529,Molly,16,mama,FALSE,ʔəmæ,2
+2530,Molly,16,mama,FALSE,mɑmɑ,2
+2531,Molly,16,mama,FALSE,mɑmɑ,2
+2532,Molly,16,open,FALSE,hɔpɔ,2
+2533,Molly,16,open,FALSE,hɔpɔ,2
+2534,Molly,16,open,FALSE,hɔpɔ,2
+2535,Molly,16,open,FALSE,hɔpɔ,2
+2536,Molly,16,picture,FALSE,pœpœ,2
+2537,Molly,16,picture,FALSE,pœkœ,2
+2538,Molly,16,picture,FALSE,pœpœ,2
+2539,Molly,16,picture,FALSE,pœpœ,2
+2540,Molly,16,walk-walk,FALSE,hɔkɑ,2
+2541,Molly,16,walk-walk,FALSE,wɔkæ,2
+2542,Molly,16,walk-walk,FALSE,wɑkə,2
+2543,Molly,16,walk-walk,FALSE,wɔkə,2
+2544,Molly,16,walk-walk,FALSE,wɑkwɑk,2
+2545,Molly,16,walk-walk,FALSE,wɑkə,2
+2546,Molly,16,walk-walk,FALSE,wɔkə,2
+2547,Sean,15,baa,FALSE,pɑbɑ,2
+2548,Sean,15,berries,FALSE,bɛbiʃ,2
+2549,Sean,15,bird,FALSE,pɚbwɚ,2
+2550,Sean,15,blocks,FALSE,tɛnpɤk,2
+2551,Sean,15,blocks,FALSE,ʔəbæ,2
+2552,Sean,15,blue,FALSE,bælʊ,2
+2553,Sean,15,book,FALSE,tebyk,2
+2554,Sean,15,butterfly,FALSE,bɑ:ijɑɪ,2
+2555,Sean,15,butterfly,FALSE,pʌjʌɪ,2
+2556,Sean,15,cock-a-coodle-do,FALSE,dudldu,2
+2557,Sean,15,mama,FALSE,mɔmɔ,2
+2558,Sean,15,mama,FALSE,mɑmɑp,2
+2559,Sean,15,mama,FALSE,mɔmɔ,2
+2560,Sean,15,moo,FALSE,nomɔ,2
+2561,Sean,15,snowman,FALSE,mɪmɪ:,2
+2562,Sean,15,this,FALSE,dʒɨdʒɨʃ,2
+2563,Timmy,unknown,bɑlloon,FALSE,ʔæbæ,2
+2564,Timmy,unknown,bɑlloon,FALSE,bɛbɛ,2
+2565,Timmy,unknown,bottle / 'bobby',FALSE,bɑbi,2
+2566,Timmy,unknown,bubble,FALSE,bæby,2
+2567,Timmy,unknown,bubble,FALSE,ʔæby:,2
+2568,Timmy,unknown,bubble,FALSE,bɛvy,2
+2569,Timmy,unknown,bubble,FALSE,bɑpy̥,2
+2570,Timmy,unknown,bubble,FALSE,bæbβy,2
+2571,Timmy,unknown,bubble,FALSE,bæby,2
+2572,Timmy,unknown,bubble,FALSE,bæby,2
+2573,Timmy,unknown,bubble,FALSE,bæby,2
+2574,Timmy,unknown,bubble,FALSE,bæby,2
+2575,Timmy,unknown,bubble,FALSE,bæby,2
+2576,Timmy,unknown,bubble,FALSE,bæby,2
+2577,Timmy,unknown,bubble,FALSE,bæby,2
+2578,Timmy,unknown,bubble,FALSE,bæby,2
+2579,Timmy,unknown,bubble,FALSE,bæby,2
+2580,Timmy,unknown,bubble,FALSE,bæby,2
+2581,Timmy,unknown,bubble,FALSE,bæby,2
+2582,Timmy,unknown,bubble,FALSE,bæby,2
+2583,Timmy,unknown,bubble,FALSE,bæby,2
+2584,Timmy,unknown,bubble,FALSE,bæby,2
+2585,Timmy,unknown,bubble,FALSE,bæby,2
+2586,Timmy,unknown,bubble,FALSE,bæby,2
+2587,Timmy,unknown,bubble,FALSE,bæby,2
+2588,Timmy,unknown,coffee,FALSE,gɑ:gi,2
+2589,Timmy,unknown,computer,FALSE,kugɪ,2
+2590,Timmy,unknown,lizɑrd,FALSE,jɑɪjɑʔ,2
+2591,Timmy,unknown,owl sound 'hoo-hoo',FALSE,ʔʊ:bʊ:,2
+2592,Timmy,unknown,light,FALSE,jæ:gæ,2
+2593,Cara,17,baba,FALSE,baba,2
+2594,Cara,17,baba,FALSE,bəba,2
+2595,Cara,17,baby,FALSE,mbɑːbe,2
+2596,Cara,17,baby,FALSE,bæbai,2
+2597,Cara,17,baby,FALSE,bɛːbeɪ,2
+2598,Cara,17,banana,FALSE,mɛːnə,2
+2599,Cara,17,banana,FALSE,meɪnə,2
+2600,Cara,17,banana,FALSE,meɪnɛ,2
+2601,Cara,17,banana,FALSE,mɛːnə,2
+2602,Cara,17,car,FALSE,kɑːxɑ,2
+2603,Cara,17,mama,FALSE,məːma,2
+2604,Cara,17,mama,FALSE,mæmæː,2
+2605,Cara,17,mama,FALSE,mɛmə,2
+2606,Cara,17,miaow,FALSE,wɪjaʊːː,2
+2607,Cara,17,no,FALSE,nɛːnəʊʔ,2
+2608,Cara,17,there you are,FALSE,dɪːwaʊ,2
+2609,Cara,17,there you are,FALSE,deəwɛː,2
+2610,Cara,17,there you are,FALSE,deʊpə,2
+2611,Cara,17,woof,FALSE,hʊ  hʊɸ,2
+2612,Ella,16,baby,FALSE,beɪ:bi:,2
+2613,Ella,16,baby,FALSE,beɪbɪn,2
+2614,Ella,16,baby,FALSE,beɪʔbiç,2
+2615,Ella,16,baby,FALSE,beɪ:bi:,2
+2616,Ella,16,baby,FALSE,beɪbɪn,2
+2617,Ella,16,bed,FALSE,bεʷɪ,2
+2618,Ella,16,bed,FALSE,bεte,2
+2619,Ella,16,bottle,FALSE,bɑta:ɫ,2
+2620,Ella,16,bottle,FALSE,bʷataʉ:,2
+2621,Ella,16,bottle,FALSE,bɑtɪɫ,2
+2622,Ella,16,bottle,FALSE,wɑta:ə,2
+2623,Ella,16,bottle,FALSE,mɑtəʊ:,2
+2624,Ella,16,bottle,FALSE,wɑtəl,2
+2625,Ella,16,bottle,FALSE,ʔɑtəl,2
+2626,Ella,16,bottle,FALSE,bɔtɑʉ,2
+2627,Ella,16,bottle,FALSE,bɑtʊɫ,2
+2628,Ella,16,bottle,FALSE,pɑtɜɫ,2
+2629,Ella,16,bottle,FALSE,mbɑtəl,2
+2630,Ella,16,bottle,FALSE,bɑta:ɫ,2
+2631,Ella,16,bye,FALSE,ba:ʔaɪ:,2
+2632,Ella,16,bye,FALSE,baʔbaɪ:,2
+2633,Ella,16,bye,FALSE,ba:baɪx,2
+2634,Ella,16,bye,FALSE,ba baɪs,2
+2635,Ella,16,bye,FALSE,baʔbaɪ:,2
+2636,Ella,16,bye,FALSE,baʔdʷaɪ:,2
+2637,Ella,16,bye,FALSE,baʔbaɪ,2
+2638,Ella,16,daddy,FALSE,dadiç,2
+2639,Ella,16,door,FALSE,dɔʔɪ,2
+2640,Ella,16,glasses,FALSE,kaʔʃi,2
+2641,Ella,16,hot,FALSE,hæʔʧu,2
+2642,Ella,16,hot,FALSE,hæʧu,2
+2643,Ella,16,house,FALSE,haʊwuz,2
+2644,Ella,16,house,FALSE,haʊʷus,2
+2645,Ella,16,house,FALSE,haʊwuɬ,2
+2646,Ella,16,house,FALSE,haʊwuʂ,2
+2647,Ella,16,house,FALSE,həʉʷus,2
+2648,Ella,16,house,FALSE,haʊʷus,2
+2649,Ella,16,mummy,FALSE,mʊmiⁿ,2
+2650,Ella,16,mummy,FALSE,mʊmiç,2
+2651,Ella,16,mummy,FALSE,mʊmis,2
+2652,Ella,16,mummy,FALSE,mʊmi:z,2
+2653,Ella,16,mummy,FALSE,mʊmiʒ,2
+2654,Ella,16,pap pap,FALSE,mbæʔpa:p,2
+2655,Ella,16,pap pap,FALSE,pæʔpap,2
+2656,Ella,16,piggie,FALSE,pɪgi:,2
+2657,Ella,16,piggie,FALSE,pεpi,2
+2658,Ella,16,piggie,FALSE,pɪdgiç,2
+2659,Ella,16,piggie,FALSE,pɪge,2
+2660,Ella,16,piggie,FALSE,pɪgi:,2
+2661,Ella,16,plate,FALSE,ja:tə,2
+2662,Ella,16,plate,FALSE,kəlets,2
+2663,Ella,16,plate,FALSE,məje:ʧ,2
+2664,Ella,16,plate,FALSE,fəleɪʧ,2
+2665,Ella,16,toast,FALSE,kəjəʊs,2
+2666,Ella,16,toast,FALSE,kətəʊɸs,2
+2667,Ella,16,toast,FALSE,kətəʊɸs,2
+2668,Ella,16,ah ah,FALSE,hæʔæʔ,2
+2669,Flora,18,baby,FALSE,mbibi,2
+2670,Flora,18,baby,FALSE,bibi,2
+2671,Flora,18,baby,FALSE,mpeɪbɪ,2
+2672,Flora,18,baby,FALSE,bipi,2
+2673,Flora,18,baby,FALSE,bibi,2
+2674,Flora,18,baby,FALSE,bibi,2
+2675,Flora,18,baby,FALSE,pipi,2
+2676,Flora,18,baby,FALSE,pibi,2
+2677,Flora,18,baby,FALSE,bɪbɪ,2
+2678,Flora,18,baby,FALSE,bεbε,2
+2679,Flora,18,balloon,FALSE,bɪlɔn,2
+2680,Flora,18,banana,FALSE,nɑnɑ,2
+2681,Flora,18,) bib on,FALSE,bɪbən,2
+2682,Flora,18,) bib on,FALSE,bibɑn,2
+2683,Flora,18,) bib on,FALSE,bɪbɑnt,2
+2684,Flora,18,) bib on,FALSE,bɪbən,2
+2685,Flora,18,) bib on,FALSE,bɪbən,2
+2686,Flora,18,) bib on,FALSE,bɪ:bən,2
+2687,Flora,18,) bib on,FALSE,bɪban,2
+2688,Flora,18,) bib on,FALSE,bɪbə:n,2
+2689,Flora,18,) bib on,FALSE,bɪbən,2
+2690,Flora,18,) bib on,FALSE,bɪ:bən,2
+2691,Flora,18,) bib on,FALSE,bɪban,2
+2692,Flora,18,) bib on,FALSE,bɪbən,2
+2693,Flora,18,) bib on,FALSE,bɪbən,2
+2694,Flora,18,) bib on,FALSE,bɪdə:m,2
+2695,Flora,18,) bib on,FALSE,bɪmpʌm,2
+2696,Flora,18,) bib on,FALSE,bɪba:nt,2
+2697,Flora,18,) bib on,FALSE,bɪbæn,2
+2698,Flora,18,) bib on,FALSE,bɪəbən,2
+2699,Flora,18,) bib on,FALSE,bɪbən,2
+2700,Flora,18,) bib on,FALSE,bibən,2
+2701,Flora,18,) bib on,FALSE,bɪ:bən,2
+2702,Flora,18,) bib on,FALSE,biban,2
+2703,Flora,18,) bib on,FALSE,bibən,2
+2704,Flora,18,) bib on,FALSE,bɪbət,2
+2705,Flora,18,) bib on,FALSE,bɪbɑn,2
+2706,Flora,18,) bib on,FALSE,bɪbant,2
+2707,Flora,18,) bib on,FALSE,bɪbən,2
+2708,Flora,18,) bib on,FALSE,bibən,2
+2709,Flora,18,) bib on,FALSE,pɪbən,2
+2710,Flora,18,) bib on,FALSE,bɪbən,2
+2711,Flora,18,) bib on,FALSE,bibən,2
+2712,Flora,18,) bib on,FALSE,bɪban,2
+2713,Flora,18,) bib on,FALSE,bɪntbən,2
+2714,Flora,18,blanket,FALSE,wəbæŋk,2
+2715,Flora,18,bunny,FALSE,pʌni,2
+2716,Flora,18,cuddles,FALSE,tatəʉs,2
+2717,Flora,18,cuddles,FALSE,dadɔs,2
+2718,Flora,18,cuddles,FALSE,dɔdɔs,2
+2719,Flora,18,cuddles,FALSE,sada:s,2
+2720,Flora,18,cuddles,FALSE,tədəs,2
+2721,Flora,18,cuddles,FALSE,dædɔɪs,2
+2722,Flora,18,Elma,FALSE,ʔəʊmε,2
+2723,Flora,18,giraffe,FALSE,puwæʊ,2
+2724,Flora,18,giraffe,FALSE,puwæɸ,2
+2725,Flora,18,giraffe,FALSE,pʊwæf,2
+2726,Flora,18,hat on,FALSE,hætɪnt,2
+2727,Flora,18,hat on,FALSE,hætɪn,2
+2728,Flora,18,hat on,FALSE,hætɪt,2
+2729,Flora,18,hat on,FALSE,hætɪn,2
+2730,Flora,18,hat on,FALSE,hætɪn,2
+2731,Flora,18,hat on,FALSE,hætɪːn,2
+2732,Flora,18,keys,FALSE,mətiʃ,2
+2733,Flora,18,lion,FALSE,jæjən,2
+2734,Flora,18,lion,FALSE,jæ:jəʊ:,2
+2735,Flora,18,monkey,FALSE,mɔŋkɪ,2
+2736,Flora,18,monkey,FALSE,bʌŋkεi,2
+2737,Flora,18,monkey,FALSE,hmɔŋkiç,2
+2738,Flora,18,monkey,FALSE,pɔŋkɪ,2
+2739,Flora,18,monkey,FALSE,mɔŋkɪ,2
+2740,Flora,18,monkey,FALSE,mɔŋkεɪ,2
+2741,Flora,18,monkey,FALSE,mʊŋki,2
+2742,Flora,18,monkey,FALSE,mɔŋkεɪ,2
+2743,Flora,18,monkey,FALSE,mɔŋkεɪ,2
+2744,Flora,18,monkey,FALSE,bæŋgɪ,2
+2745,Flora,18,monkey,FALSE,mɔŋkɪː,2
+2746,Flora,18,monkey,FALSE,mɔŋkɪ,2
+2747,Flora,18,night night,FALSE,nənaɪt,2
+2748,Flora,18,off,FALSE,ʔʊːʔɔːɸ,2
+2749,Flora,18,oh/ooh,FALSE,ʔɔʔɔʊ,2
+2750,Flora,18,oh/ooh,FALSE,ʔoʔo:,2
+2751,Flora,18,peek-a-boo,FALSE,bɪxbɔ,2
+2752,Flora,18,peek-a-boo,FALSE,bikpo:,2
+2753,Flora,18,peek-a-boo,FALSE,pɪkbo:,2
+2754,Flora,18,peek-a-boo,FALSE,pikpo:,2
+2755,Flora,18,rabbit,FALSE,bæbɪt,2
+2756,Flora,18,uh-oh,FALSE,ʔʊʔɔʊ,2
+2757,Flora,18,uh-oh,FALSE,ʔæʔɔʊ:,2
+2758,Flora,18,yes please,FALSE,gəpɪʃ,2
+2759,Flora,18,yes please,FALSE,dɪbɪs,2
+2760,Ivy,17,baby,FALSE,babiç,2
+2761,Ivy,17,baby,FALSE,bεbi:,2
+2762,Ivy,17,baby,FALSE,biβiⁿ,2
+2763,Ivy,17,baby,FALSE,dabi:,2
+2764,Ivy,17,baby,FALSE,babiç,2
+2765,Ivy,17,baby,FALSE,bεbi:,2
+2766,Ivy,17,baby,FALSE,bεbi:,2
+2767,Ivy,17,bye bye,FALSE,babaɪç,2
+2768,Ivy,17,daddy,FALSE,dadiç,2
+2769,Ivy,17,daddy,FALSE,dætdiⁿ,2
+2770,Ivy,17,daddy,FALSE,dadiç,2
+2771,Ivy,17,door,FALSE,dəʊʔəʊ:ɦ,2
+2772,Ivy,17,door,FALSE,dəʊʔoɦ,2
+2773,Ivy,17,door,FALSE,dijɔ:,2
+2774,Ivy,17,giraffe,FALSE,hija:əʊɸ,2
+2775,Ivy,17,Jessica,FALSE,ʃisʃæ,2
+2776,Ivy,17,jumpy,FALSE,ʤʊvɔɪⁿ,2
+2777,Ivy,17,jumpy,FALSE,ʃɔpʃɪʃ,2
+2778,Ivy,17,jumpy,FALSE,ʃɑpiç,2
+2779,Ivy,17,lion,FALSE,jɑʔwi,2
+2780,Ivy,17,lion,FALSE,jɑʔwi,2
+2781,Ivy,17,miaow,FALSE,hijaʊ:,2
+2782,Ivy,17,miaow,FALSE,hijaʊ:,2
+2783,Ivy,17,mummy,FALSE,mɑmin,2
+2784,Ivy,17,mummy,FALSE,mamiç,2
+2785,Ivy,17,mummy,FALSE,mεmi,2
+2786,Ivy,17,mummy,FALSE,mεmin,2
+2787,Ivy,17,mummy,FALSE,mæmiⁿ,2
+2788,Ivy,17,mummy,FALSE,mamiç,2
+2789,Ivy,17,mummy,FALSE,mεmi,2
+2790,Ivy,17,rabbit,FALSE,ɹaʔwiç,2
+2791,Ivy,17,row row,FALSE,wa:ʔwəʊ:,2
+2792,Ivy,17,row row,FALSE,wa:əro:,2
+2793,Ivy,17,snake,FALSE,ʃi;jæ,2
+2794,Ivy,17,snake,FALSE,ʃeɪ:jε,2
+2795,Ivy,17,teddy,FALSE,hɪdiç,2
+2796,Ivy,17,teddy,FALSE,dεdiç,2
+2797,Ivy,17,tractor,FALSE,daɪʔtε,2
+2798,Ivy,17,what's that?,FALSE,hɔɪʔzæʔ,2
+2799,Ivy,17,what's that?,FALSE,hizjæ,2
+2800,Ivy,17,yay!,FALSE,jəʔaɪ:,2
+2801,Ivy,17,yeah,FALSE,hijε,2
+2802,Ivy,17,yeah,FALSE,hijə:,2
+2803,Ivy,17,zebra,FALSE,wεbə,2
+2804,Ivy,17,ribbit,FALSE,wi:əɹi,2
+2805,Jude,15,baba,FALSE,baba,2
+2806,Jude,15,baba,FALSE,bafa,2
+2807,Jude,15,baba,FALSE,bawa,2
+2808,Jude,15,baba,FALSE,bɔbɑ,2
+2809,Jude,15,baba,FALSE,baβaχ,2
+2810,Jude,15,baba,FALSE,bʌba,2
+2811,Jude,15,baba,FALSE,baba,2
+2812,Jude,15,baba,FALSE,bava,2
+2813,Jude,15,baba,FALSE,baba,2
+2814,Jude,15,baba,FALSE,pʌbo,2
+2815,Jude,15,baba,FALSE,baba,2
+2816,Jude,15,baba,FALSE,baba,2
+2817,Jude,15,ball,FALSE,bɒbɔ:,2
+2818,Jude,15,Barnaby,FALSE,bɒbɤi,2
+2819,Jude,15,Barnaby,FALSE,bɑbʷi,2
+2820,Jude,15,bubbles,FALSE,babu,2
+2821,Jude,15,bubbles,FALSE,babo,2
+2822,Jude,15,cake,FALSE,kɪkɪ,2
+2823,Jude,15,cake,FALSE,cɪcçɪ,2
+2824,Jude,15,caterpillar,FALSE,pija,2
+2825,Jude,15,chocolate,FALSE,ʃʊ̥ta,2
+2826,Jude,15,chocolate,FALSE,tɕata,2
+2827,Jude,15,chocolate,FALSE,ɕɔtə,2
+2828,Jude,15,circle,FALSE,tɒtɬju,2
+2829,Jude,15,circle,FALSE,tʊtʊ,2
+2830,Jude,15,circle,FALSE,tʌtɬʌ,2
+2831,Jude,15,circle,FALSE,tɬutɬu,2
+2832,Jude,15,circle,FALSE,totχo,2
+2833,Jude,15,circle,FALSE,tʌtɬʌ,2
+2834,Jude,15,dada,FALSE,dadʑa,2
+2835,Jude,15,daddy,FALSE,dadə,2
+2836,Jude,15,daddy,FALSE,dati,2
+2837,Jude,15,daddy,FALSE,dati,2
+2838,Jude,15,daddy,FALSE,dati,2
+2839,Jude,15,daddy,FALSE,dati,2
+2840,Jude,15,daddy,FALSE,dati,2
+2841,Jude,15,daddy,FALSE,dati,2
+2842,Jude,15,daddy,FALSE,dati,2
+2843,Jude,15,daddy,FALSE,dati,2
+2844,Jude,15,daddy,FALSE,dati,2
+2845,Jude,15,dinner,FALSE,nɪnɛ,2
+2846,Jude,15,dinner,FALSE,nɪne,2
+2847,Jude,15,football,FALSE,babɔ,2
+2848,Jude,15,football,FALSE,pʌbɔ,2
+2849,Jude,15,football,FALSE,babo,2
+2850,Jude,15,hiya,FALSE,jaija,2
+2851,Jude,15,hiya,FALSE,haje,2
+2852,Jude,15,hiya,FALSE,jaija,2
+2853,Jude,15,in 'ere,FALSE,nəna:,2
+2854,Jude,15,mummy,FALSE,mʌmi,2
+2855,Jude,15,mummy,FALSE,mami,2
+2856,Jude,15,noddy,FALSE,nɒnɪ,2
+2857,Jude,15,ticktock,FALSE,tuta:,2
+2858,Jude,15,uh-oh,FALSE,ʔʌʔʌʔ,2
+2859,Jude,15,"yeah, yes",FALSE,wɪjɛ,2
+2860,Jude,15,"yeah, yes",FALSE,wəjɛ,2
+2861,Jude,15,meow,FALSE,wawi,2
+2862,Jude,15,whee,FALSE,waha:a,2
+2863,Lewis,18,all gone,FALSE,ʔɔːvɒmʔ,2
+2864,Lewis,18,apple,FALSE,ʔaʊbɛ,2
+2865,Lewis,18,ball,FALSE,dɒɣʊ,2
+2866,Lewis,18,circle,FALSE,geːgə,2
+2867,Lewis,18,circle,FALSE,gɜgɛə,2
+2868,Lewis,18,circle,FALSE,gɪːgə,2
+2869,Lewis,18,circle,FALSE,tɛːgəː,2
+2870,Lewis,18,keys,FALSE,gəʔɪ,2
+2871,Lewis,18,ladder,FALSE,dɛːdə,2
+2872,Lewis,18,oh no,FALSE,ʔɪʊnʊː,2
+2873,Lewis,18,oh no,FALSE,ʔʌːnɔː,2
+2874,Lewis,18,there,FALSE,dɛːjə,2
+2875,Lewis,18,tractor,FALSE,ɸaʔtɛːːəː,2
+2876,Lewis,18,tractor,FALSE,wɑʔndə,2
+2877,Lewis,18,tractor,FALSE,dæːtʊ,2
+2878,Lewis,18,truck,FALSE,tɪwʊ,2
+2879,Lewis,18,truck,FALSE,təwʊːʔt,2
+2880,Lewis,18,truck,FALSE,hɛːːʃʊʔs,2
+2881,Lewis,18,uh-oh,FALSE,ʔɒʔɔː,2
+2882,Lewis,18,uh-oh,FALSE,ʔəʔɔːɸ,2
+2883,Lewis,18,uh-oh,FALSE,ʔʊʔʊːu,2
+2884,Lewis,18,choo-choo,FALSE,fɪstɜː,2
+2885,Patrick,18,baby,FALSE,beɪbeɪ:i,2
+2886,Patrick,18,baby,FALSE,beɪbi:,2
+2887,Patrick,18,bath,FALSE,baʔɪ,2
+2888,Patrick,18,bath,FALSE,baʔɪ,2
+2889,Patrick,18,bee,FALSE,wεbʷi:,2
+2890,Patrick,18,bee,FALSE,bʷi:bʷi:,2
+2891,Patrick,18,book,FALSE,bəʷʊʔ,2
+2892,Patrick,18,book,FALSE,buʔug,2
+2893,Patrick,18,book,FALSE,bəʷʊʔ,2
+2894,Patrick,18,cat,FALSE,gəʔæ,2
+2895,Patrick,18,D2,FALSE,di:du::,2
+2896,Patrick,18,D2,FALSE,ditdu::,2
+2897,Patrick,18,D2,FALSE,geɪ gu:n,2
+2898,Patrick,18,D2,FALSE,giçdə:u:,2
+2899,Patrick,18,D2,FALSE,digdu::,2
+2900,Patrick,18,daddy,FALSE,dadi:,2
+2901,Patrick,18,daddy,FALSE,ndadi:,2
+2902,Patrick,18,daddy,FALSE,daɪdi::,2
+2903,Patrick,18,daddy,FALSE,dagdi:,2
+2904,Patrick,18,daddy,FALSE,dadgi:,2
+2905,Patrick,18,daddy,FALSE,dadi:,2
+2906,Patrick,18,daddy,FALSE,dadi:,2
+2907,Patrick,18,daddy,FALSE,dadi:,2
+2908,Patrick,18,daddy,FALSE,dadi:,2
+2909,Patrick,18,daddy,FALSE,dadi:,2
+2910,Patrick,18,Doody,FALSE,dəʊdi:,2
+2911,Patrick,18,Doody,FALSE,dəʊ:ʔgi:,2
+2912,Patrick,18,Doody,FALSE,dudi:,2
+2913,Patrick,18,Doody,FALSE,duʔdi,2
+2914,Patrick,18,Doody,FALSE,dəʊdi:,2
+2915,Patrick,18,Doody,FALSE,dəʊdi:,2
+2916,Patrick,18,go,FALSE,gəʔəʊ,2
+2917,Patrick,18,go,FALSE,gəʔəʊ,2
+2918,Patrick,18,hat,FALSE,həʔæ,2
+2919,Patrick,18,hello,FALSE,ɹa:ʔəʊ,2
+2920,Patrick,18,horsey,FALSE,hɔʔgɑʔ,2
+2921,Patrick,18,horsey,FALSE,hɔʔhi::,2
+2922,Patrick,18,phone,FALSE,waʔʊn,2
+2923,Patrick,18,phone,FALSE,waʔeʊn,2
+2924,Patrick,18,phone,FALSE,wa:ʔəʊ,2
+2925,Patrick,18,tractor,FALSE,dakga:h,2
+2926,Patrick,18,water,FALSE,waʔwɔ:,2
+2927,Patrick,18,water,FALSE,wɔʔwɑ:,2
+2928,Patrick,18,water,FALSE,wɔwɔ:,2
+2929,Patrick,18,water,FALSE,waβwɔ:,2
+2930,Patrick,18,water,FALSE,waʔwɔ:,2
+2931,Patrick,18,water,FALSE,waʔwɔ:,2
+2932,Patrick,18,water,FALSE,wɔʔwɑ:,2
+2933,Patrick,18,wheel,FALSE,wi:jəʊ:,2
+2934,Patrick,18,woof woof,FALSE,wʊʷuʔ,2
+2935,Rachel,17,all gone,FALSE,guːgɒː,2
+2936,Rachel,17,baby,FALSE,bəbiː,2
+2937,Rachel,17,baby,FALSE,beɪbɪʔ,2
+2938,Rachel,17,baby,FALSE,pəbɪː,2
+2939,Rachel,17,Beba [Rebecca],FALSE,bɛbəːts,2
+2940,Rachel,17,Beba [Rebecca],FALSE,bebəːθ,2
+2941,Rachel,17,bye,FALSE,hɜbɑːeɪ,2
+2942,Rachel,17,bye,FALSE,baː  hɪ,2
+2943,Rachel,17,bye,FALSE,bɑːejɪ,2
+2944,Rachel,17,cat,FALSE,kəjə,2
+2945,Rachel,17,cup of tea,FALSE,gɒːkɪː,2
+2946,Rachel,17,doggy,FALSE,gɒgiː,2
+2947,Rachel,17,doggy,FALSE,gɒgɪː,2
+2948,Rachel,17,doggy,FALSE,gɔgʷɪː,2
+2949,Rachel,17,door,FALSE,dɒːʔə,2
+2950,Rachel,17,duck,FALSE,kʊʔ  k,2
+2951,Rachel,17,fish,FALSE,hɔwəts,2
+2952,Rachel,17,get you,FALSE,gɒɪjə,2
+2953,Rachel,17,Makka Pakka,FALSE,məmaː,2
+2954,Rachel,17,miaow,FALSE,miːjaʊm,2
+2955,Rachel,17,Mummy,FALSE,mɪəwɪ,2
+2956,Tania,18,baby,FALSE,pi:bi,2
+2957,Tania,18,bag,FALSE,bijə,2
+2958,Tania,18,bag,FALSE,bijə,2
+2959,Tania,18,Daisy,FALSE,dædi,2
+2960,Tania,18,ear,FALSE,ʔiʔʊiə,2
+2961,Tania,18,elbow,FALSE,bε:bo:,2
+2962,Tania,18,Iggle-piggle,FALSE,gigɔ,2
+2963,Tania,18,mummy,FALSE,pæmɪ,2
+2964,Tania,18,mummy,FALSE,mʌmɪ,2
+2965,Tania,18,mummy,FALSE,mʉmi,2
+2966,Tania,18,mummy,FALSE,mʌmɪ,2
+2967,Tania,18,mummy,FALSE,mʌmɪ,2
+2968,Tania,18,mummy,FALSE,mʌmɪ,2
+2969,Tania,18,nose,FALSE,nəʔnʊ,2
+2970,Tania,18,ow,FALSE,hæ:ʊʔə,2
+2971,Tania,18,pig,FALSE,pija,2
+2972,Tania,18,push,FALSE,bʊçi,2
+2973,Tania,18,sofa,FALSE,həfə,2
+2974,Tania,18,there it is,FALSE,da:dɪʔ,2
+2975,Tania,18,there it is,FALSE,dædi,2
+2976,Tania,18,there it is,FALSE,dæti,2
+2977,Tania,18,there it is,FALSE,dæ:di,2
+2978,Tania,18,there it is,FALSE,dæti:,2
+2979,Tania,18,there it is,FALSE,dædɪʔ,2
+2980,Tobias,18,a-boo,FALSE,wɛbʷʊ,2
+2981,Tobias,18,baby,FALSE,biːbiːç,2
+2982,Tobias,18,baby,FALSE,bɪːbɪx,2
+2983,Tobias,18,baby,FALSE,bi  sbɪ,2
+2984,Tobias,18,bear,FALSE,bije,2
+2985,Tobias,18,boots,FALSE,bʊːʔə,2
+2986,Tobias,18,butterfly,FALSE,bəɪtsa,2
+2987,Tobias,18,eeyore,FALSE,wiːjʊ,2
+2988,Tobias,18,miaow,FALSE,biːja,2
+2989,Tobias,18,miaow,FALSE,biːjə,2
+2990,Tobias,18,miaow,FALSE,biːjəː,2
+2991,Tobias,18,miaow,FALSE,biːjɪ,2
+2992,Tobias,18,miaow,FALSE,bijə,2
+2993,Tobias,18,miaow,FALSE,bijəː,2
+2994,Tobias,18,miaow,FALSE,piʒaʔ,2
+2995,Tobias,18,miaow,FALSE,bijə,2
+2996,Tobias,18,miaow,FALSE,bijə,2
+2997,Tobias,18,miaow,FALSE,biːja,2
+2998,Tobias,18,miaow,FALSE,biːja,2
+2999,Tobias,18,miaow,FALSE,biːja,2
+3000,Tobias,18,miaow,FALSE,biːja,2
+3001,Tobias,18,miaow,FALSE,biːjə,2
+3002,Tobias,18,miaow,FALSE,biːjə,2
+3003,Tobias,18,miaow,FALSE,biːjə,2
+3004,Tobias,18,miaow,FALSE,biːjə,2
+3005,Tobias,18,moo,FALSE,bəmɜːː,2
+3006,Tobias,18,neenaw,FALSE,nĩːja,2
+3007,Tobias,18,peacock,FALSE,biʔʧɔʔ,2
+3008,Tobias,18,quack quack,FALSE,ʔaʔaʔ,2
+3009,Tobias,18,quack quack,FALSE,ʔəʔaʔ,2
+3010,Tobias,18,quack quack,FALSE,ʔaʔʊʔ,2
+3011,Tobias,18,quack quack,FALSE,ʔʊʔɒʔ,2
+3012,Tobias,18,quack quack,FALSE,ʔɒːʔʊʔ,2
+3013,Tobias,18,that,FALSE,daːʔə,2
+3014,Tobias,18,that,FALSE,daʔə,2
+3015,Tobias,18,tick tock,FALSE,tiʔdɔʔ,2
+3016,Tobias,18,toot toot,FALSE,ʒʊ  ʒʊː,2
+3017,Tobias,18,tortoise,FALSE,bɒːdi,2
+3018,Atte,20,naani,FALSE,nana,2
+3019,Atte,20,kaksi,FALSE,tati,2
+3020,Atte,20,pupu,FALSE,pupu,2
+3021,Eelis,20,pipi,FALSE,pipi,2
+3022,Eelis,20,poppa,FALSE,popo,2
+3023,Eliisa,15,hauva,FALSE,hau.u,2
+3024,Eliisa,15,hauva,FALSE,ha.u,2
+3025,Eliisa,15,hauva,FALSE,hauvau,2
+3026,Eliisa,15,kakalla,FALSE,kaka,2
+3027,Eliisa,15,kakalla,FALSE,kaka,2
+3028,Eliisa,15,kiikkuu,FALSE,ki:ku,2
+3029,Eliisa,15,litu,FALSE,titu,2
+3030,Eliisa,15,litu,FALSE,tito,2
+3031,Eliisa,15,litu,FALSE,tito,2
+3032,Eliisa,15,litu,FALSE,titu,2
+3033,Eliisa,15,litu,FALSE,titu,2
+3034,Eliisa,15,litu,FALSE,titu,2
+3035,Eliisa,15,mummu /muumu,FALSE,mu:mu,2
+3036,Eliisa,15,mummu /muumu,FALSE,muumu,2
+3037,Eliisa,15,paperi,FALSE,pape,2
+3038,Eliisa,15,paperi,FALSE,papa,2
+3039,Eliisa,15,paperi,FALSE,papa,2
+3040,Eliisa,15,pupu,FALSE,pupo,2
+3041,Eliisa,15,pupu,FALSE,pupu,2
+3042,Eliisa,15,pupu,FALSE,pupo,2
+3043,Eliisa,15,vettä,FALSE,tito,2
+3044,Mira,17,jalka,FALSE,gala,2
+3045,Mira,17,jalka,FALSE,lala,2
+3046,Mira,17,juna,FALSE,nuna,2
+3047,Mira,17,kaataa,FALSE,ka:ta,2
+3048,Mira,17,kaataa,FALSE,ka:ka,2
+3049,Mira,17,kala,FALSE,ʎaʎa,2
+3050,Mira,17,kala,FALSE,kata,2
+3051,Mira,17,kenkä,FALSE,nenæ,2
+3052,Mira,17,kenkä,FALSE,nenæ,2
+3053,Mira,17,lintu,FALSE,tito,2
+3054,Mira,17,luumu,FALSE,mu:mu,2
+3055,Mira,17,Muumi/Moomin,FALSE,mama,2
+3056,Mira,17,nalle,FALSE,ʎaʎ:a,2
+3057,Mira,17,napa,FALSE,papa,2
+3058,Mira,17,napa,FALSE,papa,2
+3059,Mira,17,nenä,FALSE,nenæ,2
+3060,Mira,17,paapaa,FALSE,pa:pa:,2
+3061,Mira,17,piiloon,FALSE,pi:lo,2
+3062,Mira,17,setä,FALSE,tetæ,2
+3063,Mira,17,tonttu,FALSE,təto,2
+3064,Mira,17,tonttu,FALSE,tyto,2
+3065,Mira,17,tonttu,FALSE,təto,2
+3066,Mira,17,tyyny,FALSE,ny:ny,2
+3067,Sini,15,kirahvi,FALSE,ki:.a,2
+3068,Sini,15,kirahvi,FALSE,ki.a,2
+3069,Sini,15,koti,FALSE,koki,2
+3070,Sini,15,kynä,FALSE,ku.a,2
+3071,Sini,15,minun,FALSE,mi.u,2
+3072,Sini,15,nappi,FALSE,pa:pi,2
+3073,Sini,15,pallo,FALSE,pa:.o,2
+3074,Sini,15,paperi,FALSE,papi,2
+3075,Sini,15,piilo,FALSE,pi:.o,2
+3076,Sini,15,pupu,FALSE,pupu,2
+3077,Sini,15,pupu,FALSE,pəpə,2
+3078,Sini,15,puuro,FALSE,pu:.o,2
+3079,Sini,15,pyörä,FALSE,pu:.æ,2
+3080,Sini,15,setä,FALSE,tetæ,2
+3081,Sini,15,täti,FALSE,tæti,2
+3082,Sini,15,tipahti,FALSE,pipa,2
+3083,Sini,15,tiktak,FALSE,ki.kak,2
+3084,Sini,15,nam-nam,FALSE,mam.mam,2
+3085,Hiromi,21,beːbiː,FALSE,beːbi,2
+3086,Hiromi,21,bɯbːɯː,FALSE,bɯːbɯː,2
+3087,Hiromi,21,haʨi,FALSE,hacɕi,2
+3088,Hiromi,21,kaba,FALSE,kaba,2
+3089,Hiromi,21,kakːa,FALSE,kaka,2
+3090,Hiromi,21,kame,FALSE,kaβa,2
+3091,Hiromi,21,keːki,FALSE,kiki,2
+3092,Hiromi,21,keːki,FALSE,kiki,2
+3093,Hiromi,21,keːki,FALSE,kiki,2
+3094,Hiromi,21,koɾe,FALSE,koɾe,2
+3095,Hiromi,21,koɾe,FALSE,koe neː,2
+3096,Hiromi,21,koɾe,FALSE,kɤe neː,2
+3097,Hiromi,21,koɾe,FALSE,koe neː,2
+3098,Hiromi,21,koɾe,FALSE,koe neː,2
+3099,Hiromi,21,koɾe,FALSE,koe neː,2
+3100,Hiromi,21,mama,FALSE,mama,2
+3101,Hiromi,21,mama,FALSE,mapa,2
+3102,Hiromi,21,mama,FALSE,mɔma,2
+3103,Hiromi,21,mama,FALSE,mama,2
+3104,Hiromi,21,mama,FALSE,mama,2
+3105,Hiromi,21,mama,FALSE,mama,2
+3106,Hiromi,21,mimi,FALSE,meme,2
+3107,Hiromi,21,mimi,FALSE,meme,2
+3108,Hiromi,21,mimi,FALSE,meme,2
+3109,Hiromi,21,neko,FALSE,neko,2
+3110,Hiromi,21,neko,FALSE,neːko,2
+3111,Hiromi,21,neko,FALSE,neko,2
+3112,Hiromi,21,neko,FALSE,neːko,2
+3113,Hiromi,21,neko,FALSE,neːko,2
+3114,Hiromi,21,papa,FALSE,baba,2
+3115,Hiromi,21,papa,FALSE,papa,2
+3116,Hiromi,21,papa,FALSE,bapa,2
+3117,Hiromi,21,papa,FALSE,bɔpa,2
+3118,Hiromi,21,papa,FALSE,papa,2
+3119,Hiromi,21,papa,FALSE,papa,2
+3120,Hiromi,21,papa,FALSE,papa,2
+3121,Hiromi,21,ʨoːʨo,FALSE,cʲuccʲu,2
+3122,Hiromi,21,ʥampɯ ʥampɯ,FALSE,dæpdæ,2
+3123,Hiromi,21,kaŋgaɾɯː,FALSE,kaːjɯ,2
+3124,Hiromi,21,kawaiː neː,FALSE,kaːiː neː,2
+3125,Hiromi,21,kawaiː neː,FALSE,kaːiː neː,2
+3126,Hiromi,21,koɾe boːɾɯ,FALSE,koe boː,2
+3127,Hiromi,21,koɾe ne,FALSE,koe ne,2
+3128,Hiromi,21,koɾe ne,FALSE,koɛ ne,2
+3129,Hiromi,21,koɾe ne,FALSE,koɛ neː,2
+3130,Hiromi,21,koɾe ne,FALSE,koe ne,2
+3131,Hiromi,21,koɾe ne,FALSE,koe ne,2
+3132,Hiromi,21,koɾe ne,FALSE,koɛ neː,2
+3133,Hiromi,21,koɾe ne,FALSE,koɛ neː,2
+3134,Takeru,21,Barney,FALSE,baːniː,2
+3135,Takeru,21,ball,FALSE,boːɾɯ,2
+3136,Takeru,21,ball,FALSE,boːwɯ,2
+3137,Takeru,21,choochoo,FALSE,ɕɯɕːɯː,2
+3138,Takeru,21,who,FALSE,daɾe,2
+3139,Takeru,21,who,FALSE,dæjɛ,2
+3140,Takeru,21,who,FALSE,dedæ,2
+3141,Takeru,21,who,FALSE,daɟʑe,2
+3142,Takeru,21,did it,FALSE,detaː,2
+3143,Takeru,21,please,FALSE,doːzo,2
+3144,Takeru,21,please,FALSE,dɤʑɤ,2
+3145,Takeru,21,please,FALSE,daːzʲo,2
+3146,Takeru,21,juice,FALSE,ʥɯːsɯ,2
+3147,Takeru,21,go go,FALSE,goː goː,2
+3148,Takeru,21,flower,FALSE,hana,2
+3149,Takeru,21,good,FALSE,niː ne,2
+3150,Takeru,21,don't want to,FALSE,jada,2
+3151,Takeru,21,hooray,FALSE,wætaː,2
+3152,Takeru,21,yellow,FALSE,kiːɾo,2
+3153,Takeru,21,yellow,FALSE,kiːdo,2
+3154,Takeru,21,train,FALSE,kiɕa,2
+3155,Takeru,21,train,FALSE,ciga,2
+3156,Takeru,21,train,FALSE,cikæ,2
+3157,Takeru,21,train,FALSE,cigʲa,2
+3158,Takeru,21,it broke,FALSE,joːtæː,2
+3159,Takeru,21,look!,FALSE,mite,2
+3160,Takeru,21,look!,FALSE,mitɛː,2
+3161,Takeru,21,all gone,FALSE,nai nai,2
+3162,Takeru,21,all gone,FALSE,nainai,2
+3163,Takeru,21,all gone,FALSE,nai nai,2
+3164,Takeru,21,all gone,FALSE,nai nai,2
+3165,Takeru,21,what,FALSE,nani,2
+3166,Takeru,21,what,FALSE,nanɛ,2
+3167,Takeru,21,what,FALSE,næni,2
+3168,Takeru,21,what,FALSE,nanɛ,2
+3169,Takeru,21,take!,FALSE,tʊtæː,2
+3170,Takeru,21,take!,FALSE,ʔotæː,2
+3171,Takeru,21,take!,FALSE,totæː,2
+3172,Takeru,21,stuck,FALSE,tsɯita,2
+3173,Takeru,21,stuck,FALSE,cɕɯitaː,2
+3174,Takeru,21,stuck,FALSE,ʑidaː,2
+3175,Takeru,21,doggie,FALSE,waɴwaɴ,2
+3176,Takeru,21,doggie,FALSE,waːwæː,2
+3177,Takeru,21,doggie,FALSE,waːwæː,2
+3178,Takeru,21,elephant,FALSE,zoːsaɴ,2
+3179,Takeru,21,elephant,FALSE,dʲoʑɤ,2
+3180,Haruo,20,açi,FALSE,ʔɔʤɪ:,2
+3181,Haruo,20,açi,FALSE,ʰʌçɪ:,2
+3182,Haruo,20,are,FALSE,ʔʌdɛ:,2
+3183,Haruo,20,are,FALSE,ʔʌɾɛ:,2
+3184,Haruo,20,baibai,FALSE,baba:,2
+3185,Haruo,20,baibai,FALSE,bɔba::,2
+3186,Haruo,20,baibai,FALSE,wawa:ɪ,2
+3187,Haruo,20,baNzai,FALSE,dɑba:ɪ,2
+3188,Haruo,20,baNzai,FALSE,dæba:ɪ,2
+3189,Haruo,20,bɯbɯ,FALSE,βɯβɯ:,2
+3190,Haruo,20,bɯbɯ,FALSE,zigɯ:,2
+3191,Haruo,20,dak:o,FALSE,ʔʌʔkʔa,2
+3192,Haruo,20,dak:o,FALSE,ʔʌ:daʔ,2
+3193,Haruo,20,deNwa,FALSE,daba:,2
+3194,Haruo,20,do:zo,FALSE,dʲɔ:dʲɔ:,2
+3195,Haruo,20,doko,FALSE,do.ko,2
+3196,Haruo,20,dʑampɯ,FALSE,danpɯ:,2
+3197,Haruo,20,dʑampɯ,FALSE,dʰæ::pɯʰ,2
+3198,Haruo,20,ʥɯ:sɯ,FALSE,dʲʊtʲʊ:,2
+3199,Haruo,20,ʥɯ:sɯ,FALSE,ʧɯʧɯ:,2
+3200,Haruo,20,ʥɯ:sɯ,FALSE,dʲʊtʲʊ:,2
+3201,Haruo,20,ʥɯ:sɯ,FALSE,dʲʊtʲʊ:,2
+3202,Haruo,20,ʥɯ:sɯ,FALSE,dʲʊtʲʊ:,2
+3203,Haruo,20,hoɕi:,FALSE,hotçi:,2
+3204,Haruo,20,hoɕi:,FALSE,hotʨi:,2
+3205,Haruo,20,inaiinai,FALSE,naɪnaɪ,2
+3206,Haruo,20,inaiinai,FALSE,ⁿdænaɪ,2
+3207,Haruo,20,inaiinai,FALSE,næna:ɪ,2
+3208,Haruo,20,inaiinai,FALSE,nɑna:ɪ,2
+3209,Haruo,20,inaiinai,FALSE,naɪnaɪ,2
+3210,Haruo,20,inaiinai,FALSE,naɪnaɪ,2
+3211,Haruo,20,inaiinai,FALSE,næna:ɪ,2
+3212,Haruo,20,inaiinai,FALSE,nɑna:ɪ,2
+3213,Haruo,20,inaijo,FALSE,naɪjʌ:,2
+3214,Haruo,20,inaijo,FALSE,naɪjɔ:,2
+3215,Haruo,20,inaijo,FALSE,maɪjʌ:,2
+3216,Haruo,20,inaijo,FALSE,naɪjɛ:,2
+3217,Haruo,20,joiɕo,FALSE,ʔəʃɯ,2
+3218,Haruo,20,koko,FALSE,koko,2
+3219,Haruo,20,koko,FALSE,koxo,2
+3220,Haruo,20,kore,FALSE,koʀe,2
+3221,Haruo,20,mama,FALSE,wawa:,2
+3222,Haruo,20,nainai,FALSE,nɑnaɪ,2
+3223,Haruo,20,nainai,FALSE,naɪnʌʔ,2
+3224,Haruo,20,nainai,FALSE,na:naʔ,2
+3225,Haruo,20,nainai,FALSE,naɪnaɪ,2
+3226,Haruo,20,nainai,FALSE,dænɑɪ,2
+3227,Haruo,20,nainai,FALSE,nanɑ:ɪ,2
+3228,Haruo,20,nainai,FALSE,nænɑ:ɪ,2
+3229,Haruo,20,nainai,FALSE,nanɑ:ɪ,2
+3230,Haruo,20,nainai,FALSE,nɑnɑ:ʔ,2
+3231,Haruo,20,nainai,FALSE,nəɪnæ:ɪ,2
+3232,Haruo,20,nɯgɯ,FALSE,nɯgɯ,2
+3233,Haruo,20,pop:o,FALSE,pʰapa:,2
+3234,Haruo,20,pop:o,FALSE,bɯ:bɯ:,2
+3235,Haruo,20,taʨ:I,FALSE,tʰæ:tʰʊ,2
+3236,Haruo,20,taʨ:I,FALSE,ʔʌtʧʊ,2
+3237,Haruo,20,waNwaN,FALSE,wʌwan,2
+3238,Kazuko,15,ashi,FALSE,ʔɑʤi,2
+3239,Kazuko,15,ashi,FALSE,ʔɑci,2
+3240,Kazuko,15,ashi,FALSE,ʔɑɪʃi,2
+3241,Kazuko,15,ashi,FALSE,haʤ:ɪʔ,2
+3242,Kazuko,15,ashi,FALSE,ʔɑʤi,2
+3243,Kazuko,15,ashi,FALSE,ʔɑci,2
+3244,Kazuko,15,ashi,FALSE,haɪʤɪʔ,2
+3245,Kazuko,15,ashi,FALSE,ʔɑʤi,2
+3246,Kazuko,15,ashi,FALSE,hɑʤɪ:,2
+3247,Kazuko,15,ashi,FALSE,hɑ:kʰɪʔ,2
+3248,Kazuko,15,ashi,FALSE,hɑ:ʧʰɪʔ,2
+3249,Kazuko,15,ashi,FALSE,hɑʤɪ:,2
+3250,Kazuko,15,bebichan,FALSE,bɛbɪtɐn,2
+3251,Kazuko,15,bebichan,FALSE,bɪtʌn,2
+3252,Kazuko,15,Big Bird,FALSE,bʊʔkbæ:ʔ,2
+3253,Kazuko,15,booshi,FALSE,bɑ:ʤi,2
+3254,Kazuko,15,booshi,FALSE,bɔ:ʧɪ:,2
+3255,Kazuko,15,booshi,FALSE,bɔti:,2
+3256,Kazuko,15,booshi,FALSE,bɔ:ʧʰɪ:,2
+3257,Kazuko,15,booshi,FALSE,bɔti:,2
+3258,Kazuko,15,booshi,FALSE,bɔti:,2
+3259,Kazuko,15,booshi,FALSE,bɔ:ʧʰɪ:,2
+3260,Kazuko,15,booshi,FALSE,bɔ:ʧʰɪ:,2
+3261,Kazuko,15,booshi,FALSE,bɔ:ʧʰɪ:,2
+3262,Kazuko,15,bubu,FALSE,bœbœ,2
+3263,Kazuko,15,bubu,FALSE,bʊ:bʊ,2
+3264,Kazuko,15,bubu,FALSE,bɯbɯ,2
+3265,Kazuko,15,bubu,FALSE,bɯ:bʊʰ,2
+3266,Kazuko,15,bubu,FALSE,bɯbɯ,2
+3267,Kazuko,15,bubu,FALSE,bœbœ,2
+3268,Kazuko,15,bubu,FALSE,bʊbʊʔ,2
+3269,Kazuko,15,bubu,FALSE,bʊ:bɯʔ,2
+3270,Kazuko,15,bubu,FALSE,bʊ:bʊʔ,2
+3271,Kazuko,15,bubu,FALSE,bœbœ,2
+3272,Kazuko,15,buta/bubu,FALSE,bɯ:bɯʔ,2
+3273,Kazuko,15,buta/bubu,FALSE,bʊ:bʊʔ,2
+3274,Kazuko,15,denwa,FALSE,ʧɪ::wɑ,2
+3275,Kazuko,15,denwa,FALSE,gɪ̃wɑʔ,2
+3276,Kazuko,15,denwa,FALSE,gɪ::dwɑ̃ʔ,2
+3277,Kazuko,15,denwa,FALSE,gʰɪnjʌʔ,2
+3278,Kazuko,15,denwa,FALSE,gɪ:nwʌ?,2
+3279,Kazuko,15,doozo,FALSE,dɔ:zo,2
+3280,Kazuko,15,doozo,FALSE,dɔ:dɔʔ,2
+3281,Kazuko,15,doozo,FALSE,dʊ::ɬɔʔ,2
+3282,Kazuko,15,doozo,FALSE,ⁿdɔ:dɔʔ,2
+3283,Kazuko,15,hai,FALSE,hɑʰɪʔ,2
+3284,Kazuko,15,haro:,FALSE,haɾɔ:,2
+3285,Kazuko,15,haro:,FALSE,hæjɔ,2
+3286,Kazuko,15,haro:,FALSE,həlɔ:,2
+3287,Kazuko,15,haro:,FALSE,ʔɑlɔ:,2
+3288,Kazuko,15,haro:,FALSE,hʌdɔʌʔ,2
+3289,Kazuko,15,haro:,FALSE,ʔɑlɔ:,2
+3290,Kazuko,15,haro:,FALSE,ʔɑlɔ:,2
+3291,Kazuko,15,haro:,FALSE,hʌdɔ:,2
+3292,Kazuko,15,haro:,FALSE,hɑlɔ,2
+3293,Kazuko,15,haro:,FALSE,ʔɑlɔ:,2
+3294,Kazuko,15,kuchi,FALSE,kɯʧɪʔ,2
+3295,Kazuko,15,kumo,FALSE,tʰɯmɔ,2
+3296,Kazuko,15,kumo,FALSE,kʰɯmɔʔ,2
+3297,Kazuko,15,kumo,FALSE,ŋkɯ::mɔ,2
+3298,Kazuko,15,kushi,FALSE,kʊc:ɪ,2
+3299,Kazuko,15,mimichan*,FALSE,mɨtɑ,2
+3300,Kazuko,15,mimi*,FALSE,mɪmɪ,2
+3301,Kazuko,15,mimi*,FALSE,mɪmɪ,2
+3302,Kazuko,15,nai,FALSE,nɑ:nɑʔ,2
+3303,Kazuko,15,nai,FALSE,nɑɪnɔ:ɪ,2
+3304,Kazuko,15,nyannyan,FALSE,nænɑ,2
+3305,Kazuko,15,nyannyan,FALSE,nɑnɑʔ,2
+3306,Kazuko,15,nyannyan,FALSE,nɒnʌ,2
+3307,Kazuko,15,nyannyan,FALSE,njənɑʰ,2
+3308,Kazuko,15,nyannyan,FALSE,nænɑ,2
+3309,Kazuko,15,nyannyan,FALSE,nɑnɑʔ,2
+3310,Kazuko,15,nyannyan,FALSE,nɑnɑʰ,2
+3311,Kazuko,15,nyannyan,FALSE,nɑnɑʰ,2
+3312,Kazuko,15,obaachama,FALSE,bɑ:taʰ,2
+3313,Kazuko,15,oheso,FALSE,hɔɪt'ɔ,2
+3314,Kazuko,15,omeme,FALSE,bɪ:mɪʔ,2
+3315,Kazuko,15,ouma-chan,FALSE,ʔmʌtʰɑ,2
+3316,Kazuko,15,ouma-chan,FALSE,ʔmʌtʰɑ,2
+3317,Afan,22,Bazil,FALSE,bade,2
+3318,Afan,22,bhow bhow,FALSE,baba:,2
+3319,Afan,22,chunti,FALSE,tunti,2
+3320,Afan,22,chunti,FALSE,tənti,2
+3321,Afan,22,chunti,FALSE,tənti,2
+3322,Afan,22,DOGGY BT,FALSE,dodʒi,2
+3323,Afan,22,pani,FALSE,ma:ni,2
+3324,Afan,22,chacha,FALSE,ta:ta:,2
+3325,Afan,22,Rabia,FALSE,bija,2
+3326,Afan,22,maon ajao,FALSE,mau ədau,2
+3327,Afan,22,maon ajao,FALSE,mau ədau,2
+3328,Radia,19,dhakan,FALSE,da:kən,2
+3329,Radia,19,BOTTLE,FALSE,ba:de,2
+3330,Radia,19,BOTTLE,FALSE,ba:təl,2
+3331,Radia,19,khana,FALSE,ka:nə,2
+3332,Radia,19,machar,FALSE,mətʃəl,2
+3333,Radia,19,machar,FALSE,mu:tʃəl,2
+3334,Radia,19,PILLOW,FALSE,ʃole,2
+3335,Radia,19,ganda,FALSE,ganda,2
+3336,Radia,19,vava BT,FALSE,va:va,2
+3337,Radia,19,vava BT,FALSE,va:va,2
+3338,Radia,19,utaro,FALSE,ta:le,2
+3339,Radia,19,utaro,FALSE,da:d o,2
+3340,Radia,19,dadi,FALSE,da:di,2
+3341,Radia,19,dadi,FALSE,da:de,2
+3342,Radia,19,BASKET,FALSE,ba:ket,2
+3343,Radia,19,nino BT,FALSE,ni:no,2
+3344,Radia,19,nino BT,FALSE,ni:nəu,2
+3345,Radia,19,kapra,FALSE,ki:la,2
+3346,Radia,19,daal dya,FALSE,da:li,2
+3347,Radia,19,daal dya,FALSE,da:dəi,2
+3348,Radia,19,gir gaya,FALSE,ge:ge,2
+3349,Radia,19,so rahi,FALSE,ʃoli,2
+3350,Radia,19,"kha lo,kha lun",FALSE,ka:lu,2
+3351,Radia,19,theek hai,FALSE,ʈi:kə,2
+3352,Radia,19,sona,FALSE,ʃole,2
+3353,Radia,19,sona,FALSE,ʃolu,2
+3354,Shazim,25,CATTY BT,FALSE,ka:ti:,2
+3355,Shazim,25,CATTY BT,FALSE,tʃa:ti,2
+3356,Shazim,25,CATTY BT,FALSE,ta:ti:,2
+3357,Shazim,25,nano,FALSE,na:nu,2
+3358,Shazim,25,khala,FALSE,lala,2
+3359,Shazim,25,MAMA,FALSE,ma:m a,2
+3360,Shazim,25,baow baowBT,FALSE,bu:bu:,2
+3361,Shazim,25,CAKE,FALSE,ti: ti,2
+3362,Shazim,25,baba,FALSE,ba:ba,2
+3363,Shazim,25,chunti,FALSE,tu:ti,2
+3364,Shazim,25,yay kya hai,FALSE,ta:tja,2
+3365,Basile,20,barbe à papa,FALSE,bamba a,2
+3366,Basile,20,barbe à papa,FALSE,papa,2
+3367,Basile,20,barbe à papa,FALSE,maba,2
+3368,Basile,20,barbe à papa,FALSE,papa,2
+3369,Basile,20,barbe à papa,FALSE,baba,2
+3370,Basile,20,barbe à papa,FALSE,baba,2
+3371,Basile,20,barbe à papa,FALSE,baba,2
+3372,Basile,20,barbe à papa,FALSE,baba,2
+3373,Basile,20,barbe à papa,FALSE,maba,2
+3374,Basile,20,bravo,FALSE,babo,2
+3375,Basile,20,canard/coin-coin,FALSE,kaka,2
+3376,Basile,20,coucou,FALSE,kuku,2
+3377,Basile,20,l'eau,FALSE,lo lo,2
+3378,Basile,20,maman,FALSE,nama,2
+3379,Basile,20,maman,FALSE,mamɑ,2
+3380,Basile,20,maman,FALSE,mamɑ,2
+3381,Basile,20,maman,FALSE,mamɑ,2
+3382,Basile,20,maman,FALSE,mamɑ,2
+3383,Basile,20,musique,FALSE,kəkə,2
+3384,Basile,20,musique,FALSE,kəke,2
+3385,Basile,20,musique,FALSE,keke,2
+3386,Basile,20,musique,FALSE,keke,2
+3387,Basile,20,page,FALSE,papo,2
+3388,Basile,20,papa,FALSE,pa pə,2
+3389,Basile,20,papa,FALSE,papa,2
+3390,Basile,20,papa,FALSE,papa,2
+3391,Basile,20,t'aide,FALSE,tu tu,2
+3392,Basile,20,voiture,FALSE,wu vu,2
+3393,Julien,19,Boubou,FALSE,babuə,2
+3394,Julien,19,Boubou,FALSE,bubə,2
+3395,Julien,19,croco,FALSE,koko,2
+3396,Julien,19,croco,FALSE,kokə,2
+3397,Julien,19,Papa,FALSE,papa,2
+3398,Julien,19,Papa,FALSE,papa,2
+3399,Julien,19,Pin pon,FALSE,pa fo,2
+3400,Julien,19,Tonton,FALSE,kɔkɔ,2
+3401,Julien,19,bobo,FALSE,bobo,2
+3402,Julien,19,ça,FALSE,n tʃa,2
+3403,Julien,19,cassé,FALSE,kake,2
+3404,Julien,19,cassé,FALSE,katə,2
+3405,Julien,19,cassé,FALSE,kake,2
+3406,Julien,19,cassé,FALSE,kace,2
+3407,Julien,19,cassé,FALSE,kace,2
+3408,Julien,19,cassé,FALSE,kake,2
+3409,Julien,19,cochon,FALSE,təto,2
+3410,Julien,19,un livre,FALSE,gə li,2
+3411,Vincent,18,l'avion,FALSE,j ajɔ,2
+3412,Vincent,18,la lune,FALSE,la lyl,2
+3413,Vincent,18,la lune,FALSE,ja jy,2
+3414,Vincent,18,la lune,FALSE,la ly,2
+3415,Taro,23,bebi:,FALSE,da:bi,2
+3416,Taro,23,bebi:,FALSE,bibiʔ,2
+3417,Taro,23,bebi:,FALSE,bebɪ,2
+3418,Taro,23,bebi:,FALSE,be:bɪ:,2
+3419,Taro,23,denɕa,FALSE,dʑɛ:dʑaʔ,2
+3420,Taro,23,denɕa,FALSE,dɛ:dʑaʔ,2
+3421,Taro,23,denɕa,FALSE,dɛdʑa,2
+3422,Taro,23,denɕa,FALSE,dʌʃaʔ,2
+3423,Taro,23,denɕa,FALSE,dʌʃaʔ,2
+3424,Taro,23,dʑadʑa,FALSE,dʲədʲə,2
+3425,Taro,23,dʑadʑa,FALSE,ʤɯʤɯʔ,2
+3426,Taro,23,dʑadʑa,FALSE,ʝaʝaʔ,2
+3427,Taro,23,dʑadʑa,FALSE,ʤəʤəʔ,2
+3428,Taro,23,dʑidʑi,FALSE,dʑɪɕɪʔ,2
+3429,Taro,23,dʑɯ:sɯ,FALSE,ʝɨʝɨ,2
+3430,Taro,23,dʑɯ:sɯ,FALSE,dɔ:tʲə,2
+3431,Taro,23,dʑɯ:sɯ,FALSE,ʝɯʝɯʔ,2
+3432,Taro,23,koko,FALSE,gɔ:kɔ,2
+3433,Taro,23,kɯk:ɯ?/kɯtsɯ,FALSE,guʨ:ʊ,2
+3434,Taro,23,kɯk:ɯ?/kɯtsɯ,FALSE,kʊʨ:ʊ,2
+3435,Taro,23,kɯk:ɯ?/kɯtsɯ,FALSE,gʊʨ:ɪ,2
+3436,Taro,23,kɯk:ɯ?/kɯtsɯ,FALSE,gʊʨ:ʊʔ,2
+3437,Taro,23,kɯk:ɯ?/kɯtsɯ,FALSE,guʨ:ʊ,2
+3438,Taro,23,kɯk:ɯ?/kɯtsɯ,FALSE,guʨ:ʊ,2
+3439,Taro,23,nainai,FALSE,nʲænʲɛ,2
+3440,Taro,23,nanikoɾe,FALSE,naɪkɔɛ,2
+3441,Taro,23,pipi,FALSE,pʰipiʔ,2
+3442,Taro,23,ringo,FALSE,niŋgɔ,2
+3443,Taro,23,ringo,FALSE,niŋgɔ,2
+3444,Taro,23,ringo,FALSE,niŋgɔ,2
+3445,Taro,23,wani,FALSE,ʰɯwʌɪ,2
+3446,Taro,23,wani,FALSE,hɯwaɪ,2
+3447,Taro,23,wanwan,FALSE,wawa,2
+3448,Taro,23,wanwan,FALSE,wawa,2
+3449,Taro,23,wanwan,FALSE,wawa,2
+3450,Adeline,25,bobo,FALSE,aboβo,3
+3451,Adeline,25,bobo,FALSE,abobu,3
+3452,Adeline,25,bobo,FALSE,abobu,3
+3453,Adeline,25,chat,FALSE,ala va,3
+3454,Adeline,25,coucou,FALSE,ə kohko,3
+3455,Adeline,25,coucou,FALSE,a kugu,3
+3456,Adeline,25,papa,FALSE,a papa,3
+3457,Gaël,22,la dame la,FALSE,adalə,3
+3458,Laurent,17,chapeau,FALSE,əbolo,3
+3459,Noël,18,canard,FALSE,ətata,3
+3460,Noël,18,gateau,FALSE,ʌmtʃpɛtɵ,3
+3461,Noël,18,maman,FALSE,amama,3
+3462,Noël,18,wouf wouf,FALSE,owowɔ,3
+3463,Alice,16,baby,FALSE,əbeɪbi,3
+3464,Alice,16,bottle,FALSE,ʌbɑ:ɟi,3
+3465,Alice,16,bottle,FALSE,əbɑ:diʃ,3
+3466,Alice,16,iron,FALSE,ɑ̃ɪ̃jĩ,3
+3467,Alice,16,mommy,FALSE,əmɑ:ɲə,3
+3468,Alice,16,mommy,FALSE,ɪnɑ:ɲɪʔ,3
+3469,Alice,16,mommy,FALSE,ənɑ:ɲi,3
+3470,Alice,16,mommy,FALSE,əmɑ:mi,3
+3471,Emily,15,overɑlls,FALSE,o:wɪtɪ,3
+3472,Emily,15,wɑter,FALSE,əwɑ:wɪ,3
+3473,Timmy,unknown,lizɑrd,FALSE,i:jɑɪjɑɪ,3
+3474,Timmy,unknown,lizɑrd,FALSE,əjɑ:ʤu,3
+3475,Ella,16,glasses,FALSE,ɪjasi:ç,3
+3476,Ella,16,glasses,FALSE,ijaʃi,3
+3477,Ella,16,glasses,FALSE,ɪlasʃɪ,3
+3478,Ella,16,rattle,FALSE,ɔtə:ʔwε,3
+3479,Ella,16,spoon,FALSE,æmu:nε,3
+3480,Ella,16,spoon,FALSE,æmu:nε,3
+3481,Flora,18,cuddles,FALSE,ɪdɔdɔs,3
+3482,Flora,18,story,FALSE,ʉmɔwɪ,3
+3483,Ivy,17,caterpillar,FALSE,əɹɑbəε,3
+3484,Ivy,17,elephant,FALSE,ijəʔu,3
+3485,Ivy,17,lion,FALSE,əjæⁿi:ç,3
+3486,Ivy,17,lion,FALSE,ijaɪ:jiç,3
+3487,Ivy,17,lion,FALSE,ijɔʷiⁿ,3
+3488,Ivy,17,lion,FALSE,ijaɪ:jiç,3
+3489,Ivy,17,row row,FALSE,ɪvɹεə:ɹəʊ:,3
+3490,Ivy,17,row row,FALSE,əraʊ:βaʉ:,3
+3491,Ivy,17,row row,FALSE,əɹa:ɫəɸ,3
+3492,Ivy,17,row row,FALSE,ɪɹavβə:u:,3
+3493,Ivy,17,what's that?,FALSE,ɒʔwʊʃjæ,3
+3494,Ivy,17,yeah,FALSE,ijæʔə,3
+3495,Ivy,17,ribbit,FALSE,əwi:uɹi,3
+3496,Lewis,18,oh no,FALSE,ɔːnɒwə,3
+3497,Lewis,18,oh no,FALSE,ɜːʔənɔːː,3
+3498,Lewis,18,pushchair,FALSE,əwuɸtɛ,3
+3499,Lewis,18,woof woof,FALSE,əwɜweʊ,3
+3500,Patrick,18,knee,FALSE,ɪnuwi:ⁿ,3
+3501,Patrick,18,aah,FALSE,ɔ:ʔɪʷəʊ:,3
+3502,Rachel,17,doggy,FALSE,əmdəʊʔgɪʔ,3
+3503,Rachel,17,flowers,FALSE,ʊwəʊwaθ,3
+3504,Rachel,17,Mummy,FALSE,əwɛwi,3
+3505,Rachel,17,quack quack,FALSE,ɪwa  əwa,3
+3506,Tania,18,Iggle-piggle,FALSE,ɑgigɔ,3
+3507,Tania,18,Iggle-piggle,FALSE,ɔgɪgɑ,3
+3508,Tania,18,Iggle-piggle,FALSE,əliga,3
+3509,Tobias,18,eeyore,FALSE,iːjʊwɪ,3
+3510,Tobias,18,eeyore,FALSE,ɪʔɒʔɔʔ,3
+3511,Tobias,18,moo,FALSE,ɪmɪ̃ʊ̃ː,3
+3512,Tobias,18,moo,FALSE,ɪ̃mɪ̃ʊ̃,3
+3513,Tobias,18,quack quack,FALSE,aːʔɒʔɴɒ̃ʔ,3
+3514,Tobias,18,ribbit ribbit,FALSE,əwɛʔɹɛʔ,3
+3515,Tobias,18,that,FALSE,əðijaʔ,3
+3516,Tobias,18,what's that,FALSE,awɪdsaʔ,3
+3517,Tobias,18,what's that,FALSE,əzɪdɫzʲaʔ,3
+3518,Tobias,18,what's that,FALSE,ɪzʲaːʔə,3
+3519,Eliisa,15,ihaha,FALSE,ihaha,3
+3520,Hiromi,21,ãɴjo jo,FALSE,aijo jo,3
+3521,Hiromi,21,ãɴjo ne:,FALSE,aijaː ne,3
+3522,Hiromi,21,kawaiː neː,FALSE,a kaːi nee,3
+3523,Takeru,21,open,FALSE,akete,3
+3524,Takeru,21,put it there,FALSE,agegʲe,3
+3525,Haruo,20,bebi,FALSE,ɪdɛ:bɪ:,3
+3526,Haruo,20,itai,FALSE,ito:ⁿi,3
+3527,Haruo,20,ow̡aʨ:at:a,FALSE,ɔdɛda:,3
+3528,Kazuko,15,akushu,FALSE,ɑ:kʊtʰʊ,3
+3529,Kazuko,15,akushu,FALSE,ɑ::kɯtʰʊ,3
+3530,Kazuko,15,akushu,FALSE,ɑ:kɯʧʊʔ,3
+3531,Kazuko,15,akushu,FALSE,ɑ:kɯʧʊʔ,3
+3532,Kazuko,15,ashi,FALSE,ʌʧɪnŋɔʔ,3
+3533,Kazuko,15,mimi*,FALSE,ɑmɛmɛ,3
+3534,Kazuko,15,mimi*,FALSE,ɔmɪmɛʔ,3
+3535,Kazuko,15,oheso,FALSE,ʌʔɪ:tɔʔ,3
+3536,Kazuko,15,oheso,FALSE,ɔhɪt'oʔ,3
+3537,Kazuko,15,oheso,FALSE,ɔʰɛʧɔ,3
+3538,Kazuko,15,oheso,FALSE,ɔʔhetɔʔ,3
+3539,Kazuko,15,oheso,FALSE,ʌʔɛtɔ,3
+3540,Kazuko,15,oheso,FALSE,ɔʔhɛtɔʔ,3
+3541,Kazuko,15,omeme,FALSE,ʌnme:meʔ,3
+3542,Kazuko,15,omeme,FALSE,eməmə,3
+3543,Kazuko,15,omeme,FALSE,ɔmɛmeʔ,3
+3544,Kazuko,15,omeme,FALSE,ɑmɪmɪʔ,3
+3545,Kazuko,15,omeme,FALSE,ɔmɪmɪ,3
+3546,Kazuko,15,omeme,FALSE,ɑmɪmɪʔ,3
+3547,Kazuko,15,omeme,FALSE,ɑmɪmɪʔ,3
+3548,Kazuko,15,omutsu,FALSE,ɔʊmuʈɯʔ,3
+3549,Kazuko,15,omutsu,FALSE,ɔmɯʧʊ,3
+3550,Kazuko,15,oningyo-chan,FALSE,ɔnɪtjɑ:n,3
+3551,Kazuko,15,osara,FALSE,ɔʧʊɾaʔ,3
+3552,Kazuko,15,ouma-chan,FALSE,oʊmatjɔ,3
+3553,Kazuko,15,ouma-chan,FALSE,ɔʊmɑta,3
+3554,Kazuko,15,ouma-chan,FALSE,ɔʊmɑtɑo,3
+3555,Kazuko,15,ouma-chan,FALSE,ɔʊmɑdɑo:,3
+3556,Kazuko,15,ouma-chan,FALSE,omɑdɑ,3
+3557,Kazuko,15,ouma-chan,FALSE,ɑɔmɑtʰɔʔ,3
+3558,Kazuko,15,ouma-chan,FALSE,oʊmɑtaʔ,3
+3559,Kazuko,15,ouma-chan,FALSE,ɑʊmadɑʔ,3
+3560,Kazuko,15,ouma-chan,FALSE,oʊmɑtaʔ,3
+3561,Kazuko,15,ouma-chan,FALSE,oʊmɑtaʔ,3
+3562,Kazuko,15,ouma-chan,FALSE,ɑmɑdʌʔ,3
+3563,Kazuko,15,ouma-chan,FALSE,ɔʊmʌta,3
+3564,Kazuko,15,ouma-chan,FALSE,ɑmɑdʌʔ,3
+3565,Afan,22,"aunti gaye hai, aunti gaye",FALSE,ənti gəi,3
+3566,Shazim,25,abbu jee,FALSE,a:budʒi,3
+3567,Basile,20,maman,FALSE,a mamɑ,3
+3568,Basile,20,maman,FALSE,e mamɑ,3
+3569,Julien,19,croco,FALSE,a gogo,3
+3570,Julien,19,Pin pon,FALSE,a pa po,3
+3571,Vincent,18,chercher,FALSE,əʃəʃi,3
+3572,Vincent,18,essaye,FALSE,ebə la,3
+3573,Vincent,18,l'avion,FALSE,a n ajɔ,3
+3574,Vincent,18,la lune,FALSE,a la ly,3
+3575,Vincent,18,la voiture,FALSE,ə taty,3
+3576,Vincent,18,la voiture,FALSE,a katy,3
+3577,Vincent,18,la voiture,FALSE,a taty,3
+3578,Vincent,18,la voiture,FALSE,a taty,3
+3579,Vincent,18,la voiture,FALSE,a taty,3
+3580,Vincent,18,la voiture,FALSE,a taty,3
+3581,Vincent,18,la voiture,FALSE,a taty,3
+3582,Vincent,18,la voiture,FALSE,a taty,3
+3583,Vincent,18,marche pas,FALSE,af pa,3
+3584,Vincent,18,marche pas,FALSE,af pa,3
+3585,Vincent,18,marche pas,FALSE,af pa,3
+3586,Vincent,18,marche pas,FALSE,af pa,3
+3587,Vincent,18,marche pas,FALSE,af pa,3
+3588,Vincent,18,marche pas,FALSE,af pa,3
+3589,Taro,23,bebi:,FALSE,abebi,3
+3590,Taro,23,bɯbɯ,FALSE,əbʊ:bʊ,3
+3591,Taro,23,nen:e,FALSE,əneneʔ,3
+3592,Taro,23,ototo,FALSE,ɔtɔtɔ,3
+3593,Adeline,25,chat,FALSE,va ba ba,3
+3594,Laurent,17,allo,FALSE,ʔaʔalʌ,3
+3595,Laurent,17,boire,FALSE,go:mabyao,3
+3596,Laurent,17,chapeau,FALSE,bəbɔbo,3
+3597,Laurent,17,chapeau,FALSE,mabəmã,3
+3598,Laurent,17,chapeau,FALSE,bɔbobo,3
+3599,Laurent,17,coucou là,FALSE,kukula,3
+3600,Laurent,17,de l'eau,FALSE,dəldəlo,3
+3601,Laurent,17,de l'eau,FALSE,tøldœlo,3
+3602,Laurent,17,de l'eau,FALSE,pøtɜlo,3
+3603,Laurent,17,donne [nano],FALSE,dəa nona,3
+3604,Noël,18,gateau,FALSE,tjøtato,3
+3605,Noël,18,gateau,FALSE,tatatɔ,3
+3606,Noël,18,gateau,FALSE,tsəƫato,3
+3607,Noël,18,gateau,FALSE,pəƫaƫə,3
+3608,Noël,18,gateau,FALSE,ƫataƫo,3
+3609,Noël,18,gateau,FALSE,ƫapa:to,3
+3610,Noël,18,gateau,FALSE,tætæto,3
+3611,Noël,18,gateau,FALSE,ƫataƫo,3
+3612,Noël,18,maman,FALSE,ʔɛmamæ,3
+3613,Noël,18,maman,FALSE,hɛmamɜ,3
+3614,Noël,18,wouf wouf,FALSE,ʔawawa,3
+3615,Noël,18,paletot,FALSE,papapo,3
+3616,Noël,18,paletot,FALSE,pəpapo,3
+3617,Alice,16,baby,FALSE,ʔʌbe:ɪbi,3
+3618,Deborah,16,baby,FALSE,xi bebi,3
+3619,Deborah,16,water,FALSE,bɑwɑwɑ,3
+3620,Emily,15,no,FALSE,nənəno,3
+3621,Emily,15,open,FALSE,ʔo:ʔ  pɪ,3
+3622,Emily,15,tickle-tickle,FALSE,kɪtikə,3
+3623,Emily,15,tickle-tickle,FALSE,kɪtijʌ,3
+3624,Emily,15,tickle-tickle,FALSE,tɪtɪzœ,3
+3625,Emily,15,tick-tock,FALSE,tʃɪtɪtɪ,3
+3626,Molly,16,mama,FALSE,ʔe:mæmi,3
+3627,Timmy,unknown,bubble,FALSE,ʔʌbæby:,3
+3628,Timmy,unknown,lizɑrd,FALSE,wɑɪwɑɪwə,3
+3629,Timmy,unknown,quɑck-quɑck,FALSE,ʔɑkɑ:kɑ,3
+3630,Cara,17,bye bye,FALSE,bəwɛːpɪːt,3
+3631,Ella,16,baby,FALSE,bejəbi,3
+3632,Ella,16,bye,FALSE,mab baɪ:,3
+3633,Ella,16,cup,FALSE,pεpʔ pεp,3
+3634,Ella,16,cup,FALSE,pεpʔ pεp,3
+3635,Ella,16,horsey,FALSE,hɔhɪʃi:ç,3
+3636,Ella,16,out,FALSE,hɪjəʉftɪ,3
+3637,Ella,16,plate,FALSE,kxə:ʔijeɪts,3
+3638,Ella,16,rattle,FALSE,kεlεtɪŋ,3
+3639,Ella,16,rattle,FALSE,hʌʔεtu,3
+3640,Flora,18,blanket,FALSE,tɪbæidnʔɪk,3
+3641,Flora,18,cuddles,FALSE,jɪdadəʊs,3
+3642,Flora,18,cuddles,FALSE,dɪdɑdɑɪs,3
+3643,Flora,18,cuddles,FALSE,dədədəs,3
+3644,Flora,18,peek-a-boo,FALSE,piʃəbo:,3
+3645,Flora,18,peek-a-boo,FALSE,pɪkɪpo:,3
+3646,Flora,18,peek-a-boo,FALSE,pɪkəpo:,3
+3647,Flora,18,peek-a-boo,FALSE,pɪtɪbɔː,3
+3648,Flora,18,peek-a-boo,FALSE,bmbɪkəbəʊ:,3
+3649,Flora,18,peek-a-boo,FALSE,dəmpkəbo:,3
+3650,Flora,18,peek-a-boo,FALSE,pɪkəbɔː,3
+3651,Flora,18,peek-a-boo,FALSE,bɪɣɪbəʊ,3
+3652,Flora,18,where did she go,FALSE,wεdɪdɔː,3
+3653,Ivy,17,camel,FALSE,hibɑbʊɫ,3
+3654,Ivy,17,what's that?,FALSE,wʊtsjɪhaʔ,3
+3655,Ivy,17,what's that?,FALSE,wʊʃiçra:ʔ,3
+3656,Ivy,17,woof,FALSE,wɑɸwəɸʔwε,3
+3657,Ivy,17,ribbit,FALSE,jəʔiçɹʊg,3
+3658,Ivy,17,ribbit,FALSE,ʧi:uvaβi,3
+3659,Jude,15,in 'ere,FALSE,nɪnɪnɛ:,3
+3660,Lewis,18,uh-oh,FALSE,ʔɪʔɔːːwʊ,3
+3661,Patrick,18,beebies,FALSE,bibəwi:,3
+3662,Patrick,18,D2,FALSE,diç du::,3
+3663,Patrick,18,D2,FALSE,didəʷu,3
+3664,Patrick,18,D2,FALSE,ʤədi: du::,3
+3665,Patrick,18,D2,FALSE,diç du::,3
+3666,Patrick,18,tractor,FALSE,dæʔɪdə:,3
+3667,Patrick,18,squeak squeak,FALSE,mikəwi:,3
+3668,Rachel,17,apple,FALSE,bɒpɔːʔəʃ,3
+3669,Rachel,17,baa baa black sheep,FALSE,bɑːbajɪ,3
+3670,Rachel,17,beep beep,FALSE,bɛbiːjə,3
+3671,Rachel,17,biscuits,FALSE,pɪʔθʷɪʔθ tθ,3
+3672,Rachel,17,boo,FALSE,wɛwʊʔbəʊː,3
+3673,Rachel,17,cup of tea,FALSE,gʊkgəwiːː,3
+3674,Rachel,17,cup of tea,FALSE,pəgɒbgɪː,3
+3675,Rachel,17,cup of tea,FALSE,gʊɪ  gɒgʷiː,3
+3676,Rachel,17,doggy,FALSE,baːgɒgɪː,3
+3677,Rachel,17,doggy,FALSE,gɒgəwiː,3
+3678,Rachel,17,here you go,FALSE,həʊhɛːkəʊ,3
+3679,Rachel,17,knees and toes,FALSE,tɪdʊ  dʊ,3
+3680,Rachel,17,piggy,FALSE,pəbeɪbɪ,3
+3681,Rachel,17,please,FALSE,pɪs  pi,3
+3682,Tania,18,bus,FALSE,biʃpəpʉʃ,3
+3683,Tania,18,book,FALSE,pʊpʊpʊ,3
+3684,Tania,18,book,FALSE,bʊbʊbʊ,3
+3685,Tania,18,daddy,FALSE,tætitε,3
+3686,Tania,18,Daisy,FALSE,tεzεdi,3
+3687,Tania,18,Iggle-piggle,FALSE,gənɪgəʊ,3
+3688,Tania,18,Iggle-piggle,FALSE,kɔlihɔ,3
+3689,Tania,18,no,FALSE,naʔnaʔnaʔ,3
+3690,Tania,18,oh dear,FALSE,həʊ:di:ʔa:,3
+3691,Tania,18,quack quack quack,FALSE,jaʔjaʔjaʔ,3
+3692,Tania,18,sofa,FALSE,ʔəʔəfə,3
+3693,Tobias,18,hippo,FALSE,hɒ  bɔwə,3
+3694,Tobias,18,quack quack,FALSE,ʔaʔaʔaʔ,3
+3695,Tobias,18,quack quack,FALSE,ʔəʔɒʔɒʔ,3
+3696,Tobias,18,spider,FALSE,mbaːdəja,3
+3697,Tobias,18,that,FALSE,dɪjəʔə,3
+3698,Tobias,18,there,FALSE,hədɛːʔɪ,3
+3699,Tobias,18,toot toot,FALSE,dʊ  dʊːɹɪ,3
+3700,Tobias,18,toot toot,FALSE,tʊʔdʊwɪ,3
+3701,Tobias,18,toot toot,FALSE,dʊʔtɒɪjə,3
+3702,Atte,20,ralliauto,FALSE,lu:liauto,3
+3703,Atte,20,ralliauto,FALSE,lu:liauto,3
+3704,Hiromi,21,koɾe kitiː,FALSE,koə cɕic:ɕi,3
+3705,Hiromi,21,wãɴwãɴ jo,FALSE,wow:oː jo,3
+3706,Hiromi,21,wãɴwãɴ jo,FALSE,wow:oː jo,3
+3707,Hiromi,21,bebiːʨãɴ,FALSE,biːbiːteː,3
+3708,Hiromi,21,inai inai baː,FALSE,nænæ baː,3
+3709,Hiromi,21,koɾe kitiː,FALSE,koə cɕic:ɕi,3
+3710,Hiromi,21,koɾe ne,FALSE,kojə ne,3
+3711,Hiromi,21,koɾe ne,FALSE,koɾe neː,3
+3712,Takeru,21,open,FALSE,kakete,3
+3713,Takeru,21,did it,FALSE,dekita,3
+3714,Takeru,21,did it,FALSE,dekita,3
+3715,Takeru,21,did it,FALSE,dekita,3
+3716,Takeru,21,what color,FALSE,nani iɾo,3
+3717,Takeru,21,what color,FALSE,nani nə,3
+3718,Takeru,21,Totoro,FALSE,totoɾo,3
+3719,Takeru,21,Totoro,FALSE,dototo,3
+3720,Takeru,21,Totoro,FALSE,totota,3
+3721,Takeru,21,Totoro,FALSE,tototɔ,3
+3722,Haruo,20,inaiinai,FALSE,nəna:ɪja:,3
+3723,Haruo,20,jadajo,FALSE,jædæjʌ::,3
+3724,Haruo,20,nainai,FALSE,nənɑ:jɑ,3
+3725,Haruo,20,namɯnamɯ,FALSE,naməna,3
+3726,Kazuko,15,akushu,FALSE,hækʊ:tʲʊʔ,3
+3727,Kazuko,15,bebichan,FALSE,bebetæn,3
+3728,Kazuko,15,bebichan,FALSE,bebetan,3
+3729,Kazuko,15,bebichan,FALSE,bebetɑ,3
+3730,Kazuko,15,bebichan,FALSE,bebedæn,3
+3731,Kazuko,15,bebichan,FALSE,bebetan,3
+3732,Kazuko,15,bebichan,FALSE,bebedaʔ,3
+3733,Kazuko,15,bebichan,FALSE,bi:bedan,3
+3734,Kazuko,15,bebichan,FALSE,bɯbɪtən,3
+3735,Kazuko,15,bebichan,FALSE,bɪbɪtʰɑ,3
+3736,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3737,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3738,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3739,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3740,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3741,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3742,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3743,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3744,Kazuko,15,bebichan,FALSE,bɪbɪtæn,3
+3745,Kazuko,15,bebichan,FALSE,bəɪbɪtan,3
+3746,Kazuko,15,bebichan,FALSE,bɪbɪtɒ:n,3
+3747,Kazuko,15,bebichan,FALSE,bɛbɪtɔ,3
+3748,Kazuko,15,bebichan,FALSE,bebetɑ,3
+3749,Kazuko,15,bebichan,FALSE,bɪbɪtʌn,3
+3750,Kazuko,15,bebichan,FALSE,bɪbɪtʌn,3
+3751,Kazuko,15,bebichan,FALSE,bɪbɪtʌn,3
+3752,Kazuko,15,bebichan,FALSE,bɪbɪtʌn,3
+3753,Kazuko,15,bebichan,FALSE,bɪbɪtʌn,3
+3754,Kazuko,15,bebichan,FALSE,bɛbɪtɑ,3
+3755,Kazuko,15,bebichan,FALSE,bɛbɪtɑ,3
+3756,Kazuko,15,bebichan,FALSE,bɪbɪtʌn,3
+3757,Kazuko,15,bebichan,FALSE,bɪbɪʤʌn,3
+3758,Kazuko,15,bebichan,FALSE,bɪbɪtɑ,3
+3759,Kazuko,15,bebichan,FALSE,bɛbɪʧɑn,3
+3760,Kazuko,15,bebichan,FALSE,bɛbɪtɑ,3
+3761,Kazuko,15,bebichan,FALSE,bebetɑŋ,3
+3762,Kazuko,15,Big Bird,FALSE,bʊʔkɑbæ:,3
+3763,Kazuko,15,booshi,FALSE,bɔʔtiwɔ,3
+3764,Kazuko,15,gjɯːɲjɯː,FALSE,ɯʔkɑ:njʊ,3
+3765,Kazuko,15,kuchi,FALSE,ʰʌkʊʧɪʔ,3
+3766,Kazuko,15,kumachan,FALSE,kʊmʌtæn,3
+3767,Kazuko,15,kumachan,FALSE,gʊmɑtən,3
+3768,Kazuko,15,kumachan,FALSE,ŋgʊmətən,3
+3769,Kazuko,15,kumachan,FALSE,gʊmɑtan,3
+3770,Kazuko,15,mimichan*,FALSE,mɛmɛtʌ,3
+3771,Kazuko,15,mimichan*,FALSE,memetʌ,3
+3772,Kazuko,15,mimichan*,FALSE,memetɑʰ,3
+3773,Kazuko,15,mimichan*,FALSE,memetɑʰ,3
+3774,Kazuko,15,mimi*,FALSE,mɪmɪtɑ,3
+3775,Kazuko,15,mimi*,FALSE,mɪmɪtɑ,3
+3776,Kazuko,15,nyannyan,FALSE,nænataʔ,3
+3777,Kazuko,15,oheso,FALSE,ɾɔʒɪŋtɔ,3
+3778,Kazuko,15,oheso,FALSE,hɔnətʌ:,3
+3779,Kazuko,15,oheso,FALSE,hɔnɪtɔ,3
+3780,Kazuko,15,omeme,FALSE,jɔʔmehɪ:,3
+3781,Radia,19,bismillah,FALSE,bi:ʃəla:,3
+3782,Radia,19,kharab hogya,FALSE,ka:ba:ge,3
+3783,Radia,19,kya bat hai?,FALSE,kaba:ke,3
+3784,Basile,20,page,FALSE,papapa,3
+3785,Julien,19,bobo,FALSE,bobobo,3
+3786,Julien,19,bobo,FALSE,bobobo,3
+3787,Julien,19,là,FALSE,ti la la,3
+3788,Julien,19,non,FALSE,nɔcəco,3
+3789,Taro,23,dʑadʑa,FALSE,ʝeʝaʰə,3
+3790,Timmy,unknown,lizɑrd,FALSE,əjɑɪjɑɪwə,4
+3791,Cara,17,miaow,FALSE,əwɛːhʊhʊ,4
+3792,Ella,16,glasses,FALSE,ijasʃiju,4
+3793,Ella,16,woof woof,FALSE,ijʌf ɹaf,4
+3794,Ella,16,woof woof,FALSE,əɹf ɹεfʔwε,4
+3795,Ella,16,woof woof,FALSE,əjʌk pɹεp,4
+3796,Ivy,17,cinderella,FALSE,iju:wiɹε,4
+3797,Ivy,17,cinderella,FALSE,aɪjiçhɪɫɹæ,4
+3798,Ivy,17,Jessica,FALSE,ʊʃɪba:ʔɪ,4
+3799,Ivy,17,row row,FALSE,əɹεhɪvεvɸ,4
+3800,Patrick,18,quack quack,FALSE,aʔ ɪʔ aʔɪ,4
+3801,Rachel,17,one two three,FALSE,əwɪː  ʊwɜː  tɜʔt,4
+3802,Rachel,17,quack quack,FALSE,əwaʔʊwə,4
+3803,Tania,18,Iggle-piggle,FALSE,igɔligɑ,4
+3804,Tania,18,Iggle-piggle,FALSE,igɔgligɑ,4
+3805,Tobias,18,ribbit ribbit,FALSE,ʊwɛʔəwɛʔ,4
+3806,Tobias,18,ribbit ribbit,FALSE,əwɛʔʊwɛʔ,4
+3807,Kazuko,15,bebichan,FALSE,ɔbebetʰɑ,4
+3808,Kazuko,15,obaachama,FALSE,ɔbɑʧɑmɑ,4
+3809,Kazuko,15,oheso,FALSE,ɔhɪβɪtɔʔ,4
+3810,Taro,23,anandakoɾe,FALSE,ʌnʌndʌkɔɛ,4
+3811,Laurent,17,boire,FALSE,ʔø:habʉa:bja,4
+3812,Laurent,17,canard coincoin,FALSE,kwalakwala,4
+3813,Laurent,17,chaussures,FALSE,ʒəʃa:tizə,4
+3814,Laurent,17,cuillère,FALSE,koləkola,4
+3815,Laurent,17,de l'eau,FALSE,dœɦədəlo,4
+3816,Laurent,17,de l'eau,FALSE,pɔlədəlo,4
+3817,Laurent,17,la dame là,FALSE,lələdala,4
+3818,Laurent,17,maman,FALSE,məmʌʓəla,4
+3819,Laurent,17,moi,FALSE,məmamʌmʌ,4
+3820,Noël,18,biberon?,FALSE,baƺabɜnɛ,4
+3821,Emily,15,tick-tock,FALSE,tʃɪtɪtɪtɪ,4
+3822,Emily,15,tick-tock,FALSE,tɪtɪtɪtʃɑɪ,4
+3823,Sean,15,cock-a-coodle-do,FALSE,dəludəlu:,4
+3824,Cara,17,bye bye,FALSE,bɛbeɪtaɪmpɛː,4
+3825,Ella,16,beep beep,FALSE,bijə bijεp,4
+3826,Ivy,17,jumpy,FALSE,ʃɑʔʃa:ɪʃijə,4
+3827,Jude,15,caterpillar,FALSE,pɪ tɪpʌpkæ,4
+3828,Tobias,18,quack quack,FALSE,ʔɒʔɒʔəʔəʔ,4
+3829,Hiromi,21,inai inai baː,FALSE,noːnoːɲo baː,4
+3830,Hiromi,21,koko koko,FALSE,kokokoko,4
+3831,Hiromi,21,pakapaka,FALSE,pakapaka,4
+3832,Takeru,21,it broke,FALSE,kowaɾeta,4
+3833,Kazuko,15,gotogoto,FALSE,gʰotogoto,4
+3834,Kazuko,15,kochikochi,FALSE,kɔdikɔci,4
+3835,Basile,20,barbe à papa,FALSE,maba baba,4
+3836,Vincent,18,la lune,FALSE,la lyjəjə,4
+3837,Vincent,18,la lune,FALSE,la lydelə,4
+3838,Taro,23,piʨapiʨa,FALSE,pɪtæpɪtɪ,4
+3839,Tania,18,Iggle-piggle,FALSE,ɔɣijɔgɔgi,5
+3840,Tania,18,Iggle-piggle,FALSE,ɔgijɔgigɔ,5
+3841,Tania,18,Iggle-piggle,FALSE,ɪgægɣjæʔɪgɑ,5
+3842,Kazuko,15,ouma-chan,FALSE,oʊmɑtɔmɑtɑ,5
+3843,Kazuko,15,ouma-chan,FALSE,əʊmətamɑtɑ,5
+3844,Julien,19,alors,FALSE,ajɔ dadapa,5
+3845,Laurent,17,chaussures,FALSE,bɛʒɨʒeʒəje,5
+3846,Tania,18,baby,FALSE,bi:bijabi:bi:,5
+3847,Haruo,20,no:,FALSE,nɔnɔɾɔnɔnɔ,5
+3848,Julien,19,hop-là,FALSE,tətətətə ɔp a,5
+3849,Tania,18,Iggle-piggle,FALSE,ɪgɔgigɔgigɔ,6
+3850,Laurent,17,canard dans l'eau,FALSE,watəladlatəlo,6
+3851,Laurent,17,de l'eau,FALSE,køvɜlavatølo,6
+3852,Kazuko,15,mushamusha,FALSE,mi:tæmʊtɑmʊtɑ,6
+3853,Tania,18,Iggle-piggle,FALSE,ɔgiɔ:ʔɔhgɪgɔgɪgɔ,7
+3854,Cara,17,woof,TRUE,ʊçː,2
+3855,Tobias,18,snail,TRUE,əθːː,2
+3856,Charles,18,boire,TRUE,v:wa,1
+3857,Charles,18,boum,TRUE,b:ym,1
+3858,Charles,18,ça,TRUE,z:a,1
+3859,Charles,18,ça,TRUE,ʃ:a,1
+3860,Charles,18,ça,TRUE,ʃ:a,1
+3861,Charles,18,ça,TRUE,ʃ:a,1
+3862,Noël,18,banane,TRUE,ban:,1
+3863,Noël,18,couches,TRUE,t:ə,1
+3864,Noël,18,poule,TRUE,p:aɛ,1
+3865,Noël,18,tiens,TRUE,ten:,1
+3866,Noël,18,tiens,TRUE,ten:,1
+3867,Alice,16,bunny,TRUE,bʊɲ:I,1
+3868,Alice,16,bunny,TRUE,bʊɲ:I,1
+3869,Alice,16,iron,TRUE,ʔɑɪŋ:,1
+3870,Alice,16,milk,TRUE,m:æ̃,1
+3871,Alice,16,nose,TRUE,n:æ,1
+3872,Alice,16,Oscar,TRUE,ʔap:,1
+3873,Emily,15,nine,TRUE,n:ɑ:,1
+3874,Emily,15,no,TRUE,n:ʌ,1
+3875,Emily,15,two,TRUE,t:ɶ,1
+3876,Molly,16,name,TRUE,nɛm:I,1
+3877,Molly,16,vroom,TRUE,br:m,1
+3878,Molly,16,vroom,TRUE,br:mɛ,1
+3879,Molly,16,vroom,TRUE,br:m,1
+3880,Molly,16,vroom,TRUE,br:m,1
+3881,Molly,16,vroom,TRUE,br:m,1
+3882,Molly,16,vroom,TRUE,br:m,1
+3883,Molly,16,vroom,TRUE,br:m,1
+3884,Molly,16,vroom,TRUE,br:m,1
+3885,Molly,16,vroom,TRUE,br:m,1
+3886,Molly,16,vroom,TRUE,br:m,1
+3887,Sean,15,berries,TRUE,bɛʃ:,1
+3888,Sean,15,bird,TRUE,by:ʃ:,1
+3889,Sean,15,bird,TRUE,bɤ:ʂ:,1
+3890,Timmy,unknown,bubble,TRUE,bæb:,1
+3891,Timmy,unknown,Nɑnɑ,TRUE,nɑn:,1
+3892,Cara,17,duck,TRUE,də̃kː,1
+3893,Cara,17,garden,TRUE,gɛgŋː,1
+3894,Cara,17,stick / spoon,TRUE,dɪ̃kː,1
+3895,Cara,17,stick / spoon,TRUE,də̃kː,1
+3896,Cara,17,stick / spoon,TRUE,dʉkː,1
+3897,Cara,17,stick / spoon,TRUE,də̃kː,1
+3898,Ella,16,Michelle,TRUE,ʃ:əʊʔ,1
+3899,Ella,16,plate,TRUE,θleɪ:ts:,1
+3900,Ella,16,spoon,TRUE,m:u:n,1
+3901,Flora,18,oops,TRUE,ʔɔʔːp,1
+3902,Flora,18,sshh,TRUE,s:,1
+3903,Ivy,17,monkey,TRUE,m:iç,1
+3904,Ivy,17,more,TRUE,m:əʊ,1
+3905,Jude,15,circle,TRUE,tɬ:,1
+3906,Jude,15,circle,TRUE,tɬ:th,1
+3907,Jude,15,fish,TRUE,s:,1
+3908,Jude,15,fish,TRUE,ç:,1
+3909,Jude,15,in 'ere,TRUE,n:ɛ,1
+3910,Jude,15,ta,TRUE,m:ta:,1
+3911,Jude,15,trousers,TRUE,tə ts:,1
+3912,Jude,15,brum,TRUE,m:,1
+3913,Jude,15,brum,TRUE,m:,1
+3914,Jude,15,brum,TRUE,m:,1
+3915,Jude,15,brum,TRUE,m:,1
+3916,Jude,15,brum,TRUE,m:,1
+3917,Jude,15,brum,TRUE,m:,1
+3918,Jude,15,brum,TRUE,m:,1
+3919,Jude,15,brum,TRUE,m:,1
+3920,Jude,15,brum,TRUE,m:,1
+3921,Lewis,18,down,TRUE,ʣamː,1
+3922,Lewis,18,moon,TRUE,mbβː,1
+3923,Lewis,18,moon,TRUE,bβːːɸː,1
+3924,Lewis,18,no,TRUE,nːeəʔ,1
+3925,Lewis,18,shoes,TRUE,mːː,1
+3926,Lewis,18,shoes,TRUE,hʊβːː,1
+3927,Lewis,18,shoes,TRUE,mːː,1
+3928,Rachel,17,chips,TRUE,dɪʔθː,1
+3929,Rachel,17,fish,TRUE,hɔːθː,1
+3930,Rachel,17,noise,TRUE,nːɔɪθ,1
+3931,Rachel,17,please,TRUE,pɪθː,1
+3932,Tania,18,bus,TRUE,pæʃ:,1
+3933,Tania,18,bus,TRUE,pæs:,1
+3934,Tania,18,bus,TRUE,pæ:s:,1
+3935,Tania,18,bus,TRUE,bə:s:,1
+3936,Tania,18,bus,TRUE,pæ:s:,1
+3937,Tania,18,bus,TRUE,pæ:s:,1
+3938,Tania,18,fish,TRUE,ʔəʃ:,1
+3939,Tania,18,more,TRUE,m:ʌ,1
+3940,Tania,18,no,TRUE,n:ɔ,1
+3941,Tania,18,push,TRUE,pʊʃs:,1
+3942,Tania,18,push,TRUE,bɪʃ:,1
+3943,Tobias,18,baa,TRUE,bɒxː,1
+3944,Tobias,18,box,TRUE,bːɒʔʃ,1
+3945,Tobias,18,bus,TRUE,bəsːː,1
+3946,Tobias,18,moo,TRUE,mːʊː,1
+3947,Tobias,18,snail,TRUE,sː,1
+3948,Tobias,18,snail,TRUE,tsːːː,1
+3949,Tobias,18,snail,TRUE,sːːʃ,1
+3950,Tobias,18,snail,TRUE,tθːː,1
+3951,Tobias,18,snail,TRUE,sː,1
+3952,Tobias,18,snail,TRUE,sː,1
+3953,Eliisa,15,tyttö,TRUE,t:o,1
+3954,Sini,15,mummi,TRUE,m:i,1
+3955,Kazuko,15,nai,TRUE,n:ɑ,1
+3956,Afan,22,han,TRUE,d:,1
+3957,Afan,22,yay,TRUE,d:,1
+3958,Afan,22,yay,TRUE,d:,1
+3959,Afan,22,yay,TRUE,d:,1
+3960,Afan,22,yay,TRUE,d:,1
+3961,Charles,18,allo,TRUE,al:ɔ,2
+3962,Charles,18,allo,TRUE,al:ɔ,2
+3963,Charles,18,assis,TRUE,as:a,2
+3964,Charles,18,boire,TRUE,ɔv:wa,2
+3965,Charles,18,voire,TRUE,av:wa,2
+3966,Emily,15,Ernie,TRUE,ɑɪn:ʔ:ə,2
+3967,Emily,15,Oscɑr,TRUE,ɑ:k:e,2
+3968,Molly,16,in,TRUE,ɪnːi,2
+3969,Molly,16,Nicky,TRUE,ɛn:i,2
+3970,Molly,16,Nicky,TRUE,ɪnːi,2
+3971,Timmy,unknown,flower,TRUE,əv:æ,2
+3972,Timmy,unknown,flower,TRUE,əv:æ,2
+3973,Timmy,unknown,flower,TRUE,əv:æ,2
+3974,Timmy,unknown,juice,TRUE,əd:u,2
+3975,Timmy,unknown,knee,TRUE,ən:i,2
+3976,Timmy,unknown,knee,TRUE,ən:i,2
+3977,Timmy,unknown,knee,TRUE,ən:i,2
+3978,Timmy,unknown,knee,TRUE,ən:i,2
+3979,Timmy,unknown,knee,TRUE,ən:i,2
+3980,Timmy,unknown,plum,TRUE,əv:æ:,2
+3981,Ivy,17,giraffe,TRUE,ɪr:a:æ,2
+3982,Lewis,18,all gone,TRUE,əβːgəm,2
+3983,Tobias,18,bus,TRUE,əbːæ,2
+3984,Tobias,18,bus,TRUE,əbːaɪ,2
+3985,Atte,20,äiti,TRUE,æit:i,2
+3986,Atte,20,äiti,TRUE,æit:i,2
+3987,Atte,20,äiti,TRUE,æit:i,2
+3988,Atte,20,äiti,TRUE,æit:i,2
+3989,Atte,20,äiti,TRUE,æit:i,2
+3990,Atte,20,äiti,TRUE,æit:i,2
+3991,Atte,20,äiti,TRUE,æit:i,2
+3992,Atte,20,aja,TRUE,aj:a,2
+3993,Atte,20,aja,TRUE,aj:a,2
+3994,Atte,20,ankka,TRUE,ak:a,2
+3995,Atte,20,ankka,TRUE,ank:a,2
+3996,Atte,20,ankka,TRUE,aik:a,2
+3997,Atte,20,ankka,TRUE,ag:a,2
+3998,Atte,20,Atti,TRUE,at:i,2
+3999,Atte,20,Atti,TRUE,at:i,2
+4000,Atte,20,Atti,TRUE,at:i,2
+4001,Atte,20,Atti,TRUE,at:i,2
+4002,Atte,20,Atti,TRUE,at:i,2
+4003,Atte,20,Atti,TRUE,at:i,2
+4004,Atte,20,Atti,TRUE,at:i,2
+4005,Atte,20,Atti,TRUE,at:i,2
+4006,Atte,20,Atti,TRUE,at:i,2
+4007,Atte,20,auto,TRUE,aut:o,2
+4008,Atte,20,auto,TRUE,aut:o,2
+4009,Atte,20,auto,TRUE,aut:o,2
+4010,Atte,20,auto,TRUE,aut:o,2
+4011,Atte,20,auto,TRUE,aut:o,2
+4012,Atte,20,auto,TRUE,aut:o,2
+4013,Atte,20,auto,TRUE,aut:o,2
+4014,Atte,20,auto,TRUE,aut:o,2
+4015,Atte,20,auto,TRUE,aut:o,2
+4016,Atte,20,auto,TRUE,aut:o,2
+4017,Atte,20,auto,TRUE,aut:o,2
+4018,Atte,20,heppa,TRUE,ep:a,2
+4019,Atte,20,kello,TRUE,el:o,2
+4020,Atte,20,kello,TRUE,ol:o,2
+4021,Atte,20,kello,TRUE,el:o,2
+4022,Atte,20,loppu,TRUE,op:u,2
+4023,Atte,20,loppu,TRUE,op:u,2
+4024,Atte,20,loppu,TRUE,op:u,2
+4025,Atte,20,loppu,TRUE,op:u,2
+4026,Atte,20,nalle,TRUE,al:e,2
+4027,Atte,20,nalle,TRUE,al:e,2
+4028,Atte,20,pallo,TRUE,al:o,2
+4029,Atte,20,pallo,TRUE,al:o,2
+4030,Atte,20,sammui,TRUE,am:u,2
+4031,Atte,20,sammui,TRUE,am:u,2
+4032,Atte,20,ukko,TRUE,uk:o,2
+4033,Atte,20,ukko,TRUE,æk:o,2
+4034,Atte,20,ukko,TRUE,uk:on,2
+4035,Atte,20,ukko,TRUE,uk:o:,2
+4036,Atte,20,ukko,TRUE,auk:o,2
+4037,Atte,20,ukko,TRUE,uk:o,2
+4038,Atte,20,ukko,TRUE,uk:o,2
+4039,Eelis,20,ankka,TRUE,ak:a,2
+4040,Eelis,20,ankka,TRUE,ak:a:,2
+4041,Eelis,20,ankka,TRUE,ak:a,2
+4042,Eelis,20,ankka,TRUE,ak:a,2
+4043,Eelis,20,ankka,TRUE,ak:a,2
+4044,Eelis,20,ankka,TRUE,ak:a,2
+4045,Eelis,20,ankka,TRUE,ak:a,2
+4046,Eelis,20,anna,TRUE,an:a,2
+4047,Eelis,20,aukasta,TRUE,ak:a,2
+4048,Eelis,20,Eetu,TRUE,et:u,2
+4049,Eelis,20,heppa,TRUE,ep:a,2
+4050,Eelis,20,heppa,TRUE,ep:a,2
+4051,Eelis,20,heppa,TRUE,ep:a,2
+4052,Eelis,20,Hippi,TRUE,ip:i:,2
+4053,Eelis,20,Hippi,TRUE,ip:i:,2
+4054,Eelis,20,Hippi,TRUE,ip:i:,2
+4055,Eelis,20,istuu,TRUE,it:u:,2
+4056,Eelis,20,istuu,TRUE,it:u,2
+4057,Eelis,20,istuu,TRUE,it:u:,2
+4058,Eelis,20,istuu,TRUE,it:u:,2
+4059,Eelis,20,istuu,TRUE,it:u,2
+4060,Eelis,20,itkee,TRUE,ik:e:,2
+4061,Eelis,20,loppu,TRUE,op:u,2
+4062,Eelis,20,makkara,TRUE,ak:a,2
+4063,Eelis,20,nappi,TRUE,ap:i,2
+4064,Eelis,20,omppu,TRUE,op:u,2
+4065,Eelis,20,rikki,TRUE,ik:i,2
+4066,Eelis,20,rikki,TRUE,ik:i,2
+4067,Eliisa,15,istu,TRUE,it:u,2
+4068,Eliisa,15,kissa,TRUE,iç:a,2
+4069,Eliisa,15,kissa,TRUE,iç:i,2
+4070,Eliisa,15,kissa,TRUE,iç:a,2
+4071,Eliisa,15,kissa,TRUE,iç:a,2
+4072,Eliisa,15,kissa,TRUE,iç:a,2
+4073,Eliisa,15,ihaha,TRUE,ih:a,2
+4074,Sini,15,yhtään,TRUE,yt:æ:,2
+4075,Sini,15,heppa,TRUE,ep:a,2
+4076,Sini,15,istuu,TRUE,it:u:,2
+4077,Sini,15,laukku,TRUE,auk:u,2
+4078,Sini,15,loppu,TRUE,op:u,2
+4079,Sini,15,loppu,TRUE,ap:u,2
+4080,Sini,15,loppu,TRUE,ep:u,2
+4081,Sini,15,lusikka,TRUE,uk:a,2
+4082,Sini,15,nappi,TRUE,ap:i,2
+4083,Sini,15,oppista,TRUE,op:i,2
+4084,Sini,15,rikki,TRUE,ik:i,2
+4085,Sini,15,roska,TRUE,ok:a,2
+4086,Sini,15,suklaa,TRUE,uk:a,2
+4087,Sini,15,ukki,TRUE,uk:i,2
+4088,Sini,15,vettä,TRUE,et:æ,2
+4089,Takeru,21,found it,TRUE,atːa,2
+4090,Takeru,21,found it,TRUE,at:æː,2
+4091,Takeru,21,do it!,TRUE,at:e,2
+4092,Takeru,21,big,TRUE,ɔk:iː,2
+4093,Takeru,21,whoops,TRUE,otːo,2
+4094,Haruo,20,at:a,TRUE,at:ʰa,2
+4095,Haruo,20,"aʦɯi, aʨ:i",TRUE,ʌt:ɕi:,2
+4096,Haruo,20,"aʦɯi, aʨ:i",TRUE,ʌt:ɕi:,2
+4097,Haruo,20,"aʦɯi, aʨ:i",TRUE,ʌt:ɕi:,2
+4098,Kazuko,15,haro:,TRUE,ʌl:ɔ:,2
+4099,Kazuko,15,haro:,TRUE,ʌl:ɔ:,2
+4100,Kazuko,15,haro:,TRUE,ʌl:ɔ:,2
+4101,Afan,22,Saima,TRUE,i:n:a,2
+4102,Afan,22,Saima,TRUE,i:n:a,2
+4103,Afan,22,AUNTI,TRUE,ət:i,2
+4104,Afan,22,idhar,TRUE,id:e,2
+4105,Afan,22,idhar,TRUE,əd:ə,2
+4106,Afan,22,udhar,TRUE,ud:ɛ,2
+4107,Afan,22,ooper,TRUE,up:a,2
+4108,Radia,19,Allah,TRUE,əl:a,2
+4109,Radia,19,Allahuakbar,TRUE,əl:auk,2
+4110,Shazim,25,AUNTI,TRUE,a:t:i,2
+4111,Shazim,25,AUNTI,TRUE,a:t:i,2
+4112,Shazim,25,AUNTI,TRUE,a:n:i,2
+4113,Shazim,25,ajao,TRUE,a:t:u,2
+4114,Shazim,25,"ajjan, BT",TRUE,əj:a:,2
+4115,Charles,18,chapeau,TRUE,ha:p:o,2
+4116,Laurent,17,de l'eau,TRUE,bəl:o,2
+4117,Laurent,17,voilà,TRUE,wal:a,2
+4118,Noël,18,lapin,TRUE,pʌp:ɛ,2
+4119,Alice,16,lady,TRUE,l:ɑ:ti,2
+4120,Emily,15,Big Bird,TRUE,pœp:ɪ,2
+4121,Emily,15,Big Bird,TRUE,bʊ:p:ɛ,2
+4122,Molly,16,bang,TRUE,pɑn:ə,2
+4123,Molly,16,bang,TRUE,pɑn:ə,2
+4124,Molly,16,bang,TRUE,pɑn:ə,2
+4125,Molly,16,bang,TRUE,pɑn:ə,2
+4126,Molly,16,camera,TRUE,kɑm:ə,2
+4127,Molly,16,choochoo,TRUE,tut:u,2
+4128,Molly,16,choochoo,TRUE,tut:u,2
+4129,Molly,16,down,TRUE,tɑn:ə,2
+4130,Molly,16,down,TRUE,dɑn:ə,2
+4131,Molly,16,down,TRUE,tɑn:ə,2
+4132,Molly,16,down,TRUE,tɑn:ə,2
+4133,Molly,16,down,TRUE,tɑn:ə,2
+4134,Molly,16,down,TRUE,tɑn:ə,2
+4135,Molly,16,down,TRUE,tɑn:ə,2
+4136,Molly,16,down,TRUE,tɑn:ə,2
+4137,Molly,16,down,TRUE,tɑn:ə,2
+4138,Molly,16,down,TRUE,tɑn:ə,2
+4139,Molly,16,glasses,TRUE,tɑk:ɪ,2
+4140,Molly,16,glasses,TRUE,kɑk:ɪ,2
+4141,Molly,16,glasses,TRUE,kɑk:ɪ,2
+4142,Molly,16,green,TRUE,gɤn:i,2
+4143,Molly,16,mama,TRUE,mɑm:ɑ,2
+4144,Molly,16,mama,TRUE,mɑm:ɑ,2
+4145,Molly,16,Nonny,TRUE,nɑn:i,2
+4146,Molly,16,Nonny,TRUE,nɑn:ʌ,2
+4147,Molly,16,Nonny,TRUE,nɑn:i,2
+4148,Molly,16,Nonny,TRUE,nɑn:i,2
+4149,Molly,16,Nonny,TRUE,nɑn:i,2
+4150,Molly,16,Nonny,TRUE,nɑn:i,2
+4151,Molly,16,Nonny,TRUE,nɑn:i,2
+4152,Molly,16,Nonny,TRUE,nɑn:i,2
+4153,Molly,16,Nonny,TRUE,nɑn:i,2
+4154,Molly,16,Nonny,TRUE,nɑn:i,2
+4155,Molly,16,Nonny,TRUE,nɑn:i,2
+4156,Timmy,unknown,bubble,TRUE,bæv:y,2
+4157,Timmy,unknown,bubble,TRUE,bɑb:y,2
+4158,Timmy,unknown,bubble,TRUE,bæb:y,2
+4159,Timmy,unknown,dɑddy,TRUE,dɑd:i:,2
+4160,Timmy,unknown,good boy,TRUE,gɨb:i:,2
+4161,Timmy,unknown,Heidi,TRUE,ʔɑd:i:,2
+4162,Timmy,unknown,money,TRUE,mɑm:i,2
+4163,Timmy,unknown,money,TRUE,m:ʌm:ɪ,2
+4164,Timmy,unknown,money,TRUE,mɑm:i,2
+4165,Timmy,unknown,owl sound 'hoo-hoo',TRUE,ʔʊʔ:u:,2
+4166,Timmy,unknown,toot-toot,TRUE,dud:u,2
+4167,Timmy,unknown,toot-toot,TRUE,dud:u,2
+4168,Timmy,unknown,toot-toot,TRUE,dud:u,2
+4169,Timmy,unknown,toot-toot,TRUE,dud:u,2
+4170,Timmy,unknown,toot-toot,TRUE,dud:u,2
+4171,Cara,17,banana,TRUE,mɪnːə,2
+4172,Cara,17,mama,TRUE,mɛmːɛ,2
+4173,Cara,17,mama,TRUE,mɛmːhə,2
+4174,Flora,18,monkey,TRUE,mɔŋ:ki,2
+4175,Flora,18,monkey,TRUE,mɔŋ:ki,2
+4176,Ivy,17,bee,TRUE,bi:ju:m::,2
+4177,Ivy,17,Jessica,TRUE,ʃiçjah:ʔ,2
+4178,Ivy,17,vroom,TRUE,vəɹʊm:,2
+4179,Jude,15,night-night,TRUE,naɪn:ə,2
+4180,Jude,15,noddy,TRUE,m:tnɒne,2
+4181,Lewis,18,all gone,TRUE,hʊŋːgamʔ,2
+4182,Lewis,18,all gone,TRUE,hɜːgɒmː,2
+4183,Lewis,18,gone,TRUE,gɒmːə,2
+4184,Lewis,18,tractor,TRUE,ɸːɛʔtɛː,2
+4185,Lewis,18,woof woof,TRUE,wːəwəβː,2
+4186,Lewis,18,choo-choo,TRUE,ʃːʉstʷəːʊ,2
+4187,Lewis,18,choo-choo,TRUE,sːtʊːsəʊ,2
+4188,Rachel,17,bike,TRUE,mːaʔaʔ,2
+4189,Rachel,17,gone,TRUE,gɑʊfːə,2
+4190,Rachel,17,please,TRUE,bɪtːɪːʔ,2
+4191,Tania,18,fish,TRUE,ʔɪs:ə,2
+4192,Tania,18,sofa,TRUE,ʔəf:æ,2
+4193,Tobias,18,butterfly,TRUE,bɒɪsːa,2
+4194,Tobias,18,honk honk,TRUE,ŋːʊ  ŋʊ,2
+4195,Tobias,18,monkey,TRUE,mːəmːi,2
+4196,Tobias,18,monkey,TRUE,mːɔːwɪː,2
+4197,Atte,20,kippaa,TRUE,pip:a,2
+4198,Atte,20,kippaa,TRUE,bip:a,2
+4199,Atte,20,matto,TRUE,tat:o,2
+4200,Atte,20,matto,TRUE,tat:oa,2
+4201,Atte,20,matto,TRUE,tat:o,2
+4202,Atte,20,Minni,TRUE,nin:i,2
+4203,Atte,20,Minni,TRUE,nin:i,2
+4204,Atte,20,Minni,TRUE,nin:i,2
+4205,Atte,20,Minni,TRUE,nin:i,2
+4206,Atte,20,pallo,TRUE,hal:o,2
+4207,Atte,20,pappa,TRUE,pop:a,2
+4208,Atte,20,tippui,TRUE,pip:u,2
+4209,Atte,20,trakto,TRUE,kak:o,2
+4210,Atte,20,trakto,TRUE,gak:oa,2
+4211,Atte,20,trakto,TRUE,kak:o,2
+4212,Atte,20,trakto,TRUE,kak:o,2
+4213,Atte,20,trakto,TRUE,kak:o,2
+4214,Atte,20,trakto,TRUE,kak:o,2
+4215,Atte,20,trakto,TRUE,kak:o,2
+4216,Eelis,20,heppa,TRUE,hep:a,2
+4217,Eelis,20,heppa,TRUE,hep:o,2
+4218,Eelis,20,heppa,TRUE,he:p:a:,2
+4219,Eelis,20,heppa,TRUE,he:p:a,2
+4220,Eelis,20,heppa,TRUE,hep:a,2
+4221,Eelis,20,heppa,TRUE,hep:a,2
+4222,Eelis,20,heppa,TRUE,hep:a,2
+4223,Eelis,20,heppa,TRUE,hep:a,2
+4224,Eelis,20,heppa,TRUE,hep:a,2
+4225,Eelis,20,heppa,TRUE,hep:a,2
+4226,Eelis,20,heppa,TRUE,hep:a,2
+4227,Eelis,20,heppa,TRUE,hep:a,2
+4228,Eelis,20,heppa,TRUE,he:p:a,2
+4229,Eelis,20,kakka,TRUE,kak:a,2
+4230,Eelis,20,kakka,TRUE,kak:a,2
+4231,Eelis,20,kakka,TRUE,kak:a,2
+4232,Eelis,20,kakka,TRUE,kak:a,2
+4233,Eelis,20,kiikkaa,TRUE,ki:k:a,2
+4234,Eelis,20,kiikkaa,TRUE,kik:a,2
+4235,Eelis,20,kiikkaa,TRUE,gi:k:a,2
+4236,Eelis,20,kiikkaa,TRUE,ki:k:oa,2
+4237,Eelis,20,kiikkaa,TRUE,ki:k:a,2
+4238,Eelis,20,kiikkaa,TRUE,ki:k:a,2
+4239,Eelis,20,kiikkaa,TRUE,ki:k:a,2
+4240,Eelis,20,kiikkaa,TRUE,ki:k:a,2
+4241,Eelis,20,kiikkaa,TRUE,ki:k:a,2
+4242,Eelis,20,kiikkaa,TRUE,gi:k:a,2
+4243,Eelis,20,kukka,TRUE,kak:a,2
+4244,Eelis,20,kukka,TRUE,kak:a:,2
+4245,Eelis,20,mamma,TRUE,mam:a,2
+4246,Eelis,20,mamma,TRUE,mum:u,2
+4247,Eelis,20,pappa,TRUE,bap:a,2
+4248,Eelis,20,pipi,TRUE,pip:i,2
+4249,Eelis,20,pipi,TRUE,pip:i,2
+4250,Eliisa,15,kakku,TRUE,kak:o,2
+4251,Eliisa,15,kiikkuu,TRUE,ki:k:u,2
+4252,Eliisa,15,kiikkuu,TRUE,ki:k:o,2
+4253,Eliisa,15,kiikkuu,TRUE,ki:k:u,2
+4254,Eliisa,15,kiikkuu,TRUE,ki:k:u,2
+4255,Eliisa,15,kiikkuu,TRUE,ki:k:u,2
+4256,Eliisa,15,kiikkuu,TRUE,ki:k:u,2
+4257,Eliisa,15,kukka,TRUE,kuk:a,2
+4258,Eliisa,15,kukkia,TRUE,kuk:ia,2
+4259,Eliisa,15,kukkia,TRUE,kuk:ia,2
+4260,Eliisa,15,mummu /muumu,TRUE,mum:u,2
+4261,Eliisa,15,nukke,TRUE,kuk:e,2
+4262,Eliisa,15,nukke,TRUE,kuk:e,2
+4263,Eliisa,15,nukkuu,TRUE,kuk:u,2
+4264,Eliisa,15,nukkuu,TRUE,kuk:u:,2
+4265,Eliisa,15,pallo,TRUE,pap:u,2
+4266,Eliisa,15,pallo,TRUE,pap:u,2
+4267,Eliisa,15,pappa,TRUE,pap:a,2
+4268,Eliisa,15,pappa,TRUE,pap:a,2
+4269,Eliisa,15,pappa,TRUE,pap:a,2
+4270,Eliisa,15,pappa,TRUE,pap:a,2
+4271,Eliisa,15,pomppi,TRUE,pop:i,2
+4272,Eliisa,15,pomppi,TRUE,pop:i:,2
+4273,Eliisa,15,rikki,TRUE,kik:i,2
+4274,Eliisa,15,"tippu, tippuu",TRUE,pip:u,2
+4275,Eliisa,15,"tippu, tippuu",TRUE,pip:u,2
+4276,Eliisa,15,tyttö,TRUE,tyt:o,2
+4277,Eliisa,15,tyttö,TRUE,tyt:o,2
+4278,Eliisa,15,tyttö,TRUE,tyt:o,2
+4279,Eliisa,15,tyttö,TRUE,tyt:o,2
+4280,Eliisa,15,tyttö,TRUE,tyt:o,2
+4281,Eliisa,15,tyttö,TRUE,tyt:o,2
+4282,Eliisa,15,tyttö,TRUE,tyt:o,2
+4283,Eliisa,15,tyttö,TRUE,tyt:o,2
+4284,Eliisa,15,tyttö,TRUE,tyt:o,2
+4285,Eliisa,15,tyttö,TRUE,tyt:o,2
+4286,Mira,17,häntä,TRUE,nen:æ,2
+4287,Mira,17,häntä,TRUE,nen:æ,2
+4288,Mira,17,häntä,TRUE,nen:æ,2
+4289,Mira,17,juustoa,TRUE,tut:oa,2
+4290,Mira,17,kukka,TRUE,kak:ʰa,2
+4291,Mira,17,loppu,TRUE,pop:u,2
+4292,Mira,17,luumu,TRUE,mum:u,2
+4293,Mira,17,mummu,TRUE,mum:u,2
+4294,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4295,Mira,17,Muumi/Moomin,TRUE,mam:a:,2
+4296,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4297,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4298,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4299,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4300,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4301,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4302,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4303,Mira,17,Muumi/Moomin,TRUE,mam:a,2
+4304,Mira,17,[Muumi]pappa,TRUE,pap:a,2
+4305,Mira,17,pelle,TRUE,pel:oe,2
+4306,Mira,17,tyttö,TRUE,tyt:o,2
+4307,Mira,17,tyttö,TRUE,tit:o,2
+4308,Mira,17,tyttö,TRUE,tyt:o,2
+4309,Sini,15,kakku,TRUE,kak:a,2
+4310,Sini,15,kiikkaa,TRUE,ki:k:a:,2
+4311,Sini,15,kiikkaa,TRUE,ki:k:u:,2
+4312,Sini,15,kiikkaa,TRUE,kik:a:,2
+4313,Sini,15,korkki,TRUE,kok:i,2
+4314,Sini,15,korkki,TRUE,ko:k:i,2
+4315,Sini,15,korkki,TRUE,ku:k:i,2
+4316,Sini,15,kukka,TRUE,kuk:a,2
+4317,Sini,15,kuppi,TRUE,kuk:i,2
+4318,Sini,15,loppu,TRUE,top:u,2
+4319,Sini,15,loppu,TRUE,pop:u,2
+4320,Sini,15,nappi,TRUE,pap:i,2
+4321,Sini,15,pallo,TRUE,bal:o,2
+4322,Sini,15,rikki,TRUE,kik:i,2
+4323,Sini,15,sakset,TRUE,kak:i,2
+4324,Sini,15,tutti,TRUE,tut:i,2
+4325,Sini,15,tyttö,TRUE,tut:o,2
+4326,Sini,15,tyttö,TRUE,tut:o,2
+4327,Sini,15,tyttö,TRUE,tut:o,2
+4328,Sini,15,kvaak-kvaak,TRUE,ka:k-ka:k,2
+4329,Hiromi,21,bɯbːɯː,TRUE,bɯb:ɯː,2
+4330,Hiromi,21,nenːe,TRUE,nen:e,2
+4331,Hiromi,21,nenːe,TRUE,nen:e,2
+4332,Hiromi,21,nenːe,TRUE,nen:e,2
+4333,Hiromi,21,nenːe,TRUE,nen:e,2
+4334,Takeru,21,combine,TRUE,gatːai,2
+4335,Takeru,21,combine,TRUE,dat:ai,2
+4336,Takeru,21,combine,TRUE,gatːai,2
+4337,Takeru,21,go go,TRUE,gog:oː,2
+4338,Takeru,21,don't want to,TRUE,bat:ʲa,2
+4339,Takeru,21,hooray,TRUE,jatːaː,2
+4340,Takeru,21,hooray,TRUE,jat:ʲaː,2
+4341,Takeru,21,do it!,TRUE,jatːe,2
+4342,Takeru,21,mom,TRUE,kakːa,2
+4343,Takeru,21,mom,TRUE,kɑk:aː,2
+4344,Takeru,21,mom,TRUE,gag:a,2
+4345,Takeru,21,name of mythical creature,TRUE,mak:ʊː,2
+4346,Takeru,21,food,TRUE,mamːa,2
+4347,Takeru,21,food,TRUE,mam:a,2
+4348,Takeru,21,food,TRUE,mamːa,2
+4349,Takeru,21,food,TRUE,mamːa,2
+4350,Takeru,21,wait!,TRUE,matːe,2
+4351,Takeru,21,wait!,TRUE,mat:æː,2
+4352,Takeru,21,one more,TRUE,moːikːo,2
+4353,Takeru,21,one more,TRUE,dok:o,2
+4354,Takeru,21,one more,TRUE,nɔk:o,2
+4355,Takeru,21,one more,TRUE,mok:o,2
+4356,Takeru,21,one more,TRUE,lok:o,2
+4357,Takeru,21,one more,TRUE,lak:o,2
+4358,Takeru,21,one more,TRUE,lɔk:o,2
+4359,Takeru,21,one more,TRUE,mok:o,2
+4360,Takeru,21,more,TRUE,motːo,2
+4361,Takeru,21,whoops,TRUE,got:oː,2
+4362,Takeru,21,bread,TRUE,papːaː,2
+4363,Takeru,21,bread,TRUE,bap:aː,2
+4364,Takeru,21,bread,TRUE,pap:a,2
+4365,Takeru,21,bread,TRUE,pap:a,2
+4366,Takeru,21,bread,TRUE,pap:a,2
+4367,Takeru,21,bread,TRUE,pap:a,2
+4368,Takeru,21,pigeon,TRUE,popːo,2
+4369,Takeru,21,pigeon,TRUE,pɑp:ɤ,2
+4370,Takeru,21,pigeon,TRUE,pop:o:,2
+4371,Takeru,21,pigeon,TRUE,pʷop:o,2
+4372,Takeru,21,pigeon,TRUE,pop:oː,2
+4373,Takeru,21,take!,TRUE,totːe,2
+4374,Takeru,21,take!,TRUE,tot:e,2
+4375,Takeru,21,take!,TRUE,tot:æ,2
+4376,Takeru,21,take!,TRUE,tot:e,2
+4377,Takeru,21,take!,TRUE,tot:e,2
+4378,Takeru,21,take!,TRUE,tot:ʲe,2
+4379,Takeru,21,take!,TRUE,tot:ʲe,2
+4380,Takeru,21,daddy,TRUE,totːoː,2
+4381,Takeru,21,daddy,TRUE,dot:oː,2
+4382,Haruo,20,bɯbɯ,TRUE,bʊb:ɯ:,2
+4383,Haruo,20,dak:o,TRUE,ʔak:a,2
+4384,Haruo,20,dʑampɯ,TRUE,dʲap:ɯ:,2
+4385,Haruo,20,ʥɯ:sɯ,TRUE,ʧʊʃ:ʊ,2
+4386,Haruo,20,ʥɯ:sɯ,TRUE,jʊt:'ʊ,2
+4387,Haruo,20,kɯk:ɯ,TRUE,kɔk:ɔ:,2
+4388,Haruo,20,kɯk:ɯ,TRUE,kɔk:ɔ:,2
+4389,Kazuko,15,ashi,TRUE,hɑdʲ:e,2
+4390,Kazuko,15,dakko,TRUE,tɔk:o:,2
+4391,Kazuko,15,dakko,TRUE,gʌk:ɔ:,2
+4392,Kazuko,15,haro:,TRUE,hʌd:ʲɔ:,2
+4393,Kazuko,15,nenne,TRUE,nɛn:e,2
+4394,Kazuko,15,nenne,TRUE,nen:e,2
+4395,Kazuko,15,nenne,TRUE,næn:i,2
+4396,Kazuko,15,nenne,TRUE,nɛn:i,2
+4397,Kazuko,15,nenne,TRUE,nɛn:ɛ,2
+4398,Kazuko,15,nenne,TRUE,nɛn:e,2
+4399,Kazuko,15,nenne,TRUE,nen:e,2
+4400,Kazuko,15,nenne,TRUE,nɛn:ɛ:,2
+4401,Kazuko,15,nenne,TRUE,nɛn:ɛ,2
+4402,Kazuko,15,nenne,TRUE,nen:e,2
+4403,Kazuko,15,nyannyan,TRUE,nɑn:ɑ,2
+4404,Afan,22,mama,TRUE,m:ə m:a:,2
+4405,Afan,22,mama,TRUE,m:ə m:a:,2
+4406,Afan,22,mama,TRUE,m:ə m:a:,2
+4407,Afan,22,mama,TRUE,m:ə m:a:,2
+4408,Afan,22,mama,TRUE,m:ə m:a:,2
+4409,Afan,22,mama,TRUE,m:ə m:a:,2
+4410,Afan,22,mama,TRUE,m:ə m:a:,2
+4411,Afan,22,mama,TRUE,m:ə m:a:,2
+4412,Afan,22,baba,TRUE,ba: b:a,2
+4413,Afan,22,Saima,TRUE,nin:a,2
+4414,Afan,22,"mimmi BT,",TRUE,m:i:m:i,2
+4415,Afan,22,Bazil,TRUE,bad:e,2
+4416,Afan,22,"Durrain, Durri",TRUE,dud:i,2
+4417,Afan,22,"Durrain, Durri",TRUE,dəd:i,2
+4418,Afan,22,ganda,TRUE,gad:ə,2
+4419,Afan,22,pani,TRUE,ma:n:i,2
+4420,Afan,22,pani,TRUE,ma:n:i,2
+4421,Afan,22,dada,TRUE,da:d:a,2
+4422,Afan,22,dada,TRUE,da:d:a,2
+4423,Afan,22,JUICE do,TRUE,dʒu:d:o,2
+4424,Radia,19,chalo,TRUE,tʃal:əu,2
+4425,Radia,19,MAMA,TRUE,ma:m:a:,2
+4426,Radia,19,MAMA,TRUE,m:am:a,2
+4427,Radia,19,toba,TRUE,to:b:a,2
+4428,Radia,19,PILLOW,TRUE,pil:i:,2
+4429,Radia,19,daalu,TRUE,da:l:e,2
+4430,Radia,19,utaro,TRUE,ta:l:e:,2
+4431,Radia,19,sona,TRUE,ʃol:a,2
+4432,Shazim,25,CATTY BT,TRUE,ta:t:i,2
+4433,Shazim,25,CATTY BT,TRUE,kœt:i,2
+4434,Shazim,25,TRACTOR,TRUE,ta:t:u,2
+4435,Shazim,25,khala,TRUE,lal:a,2
+4436,Shazim,25,duddu BT,TRUE,dud:u,2
+4437,Shazim,25,MAMA,TRUE,ma:m:a,2
+4438,Shazim,25,MAMA,TRUE,ma:m: a,2
+4439,Shazim,25,chuchu BT,TRUE,tot:u,2
+4440,Shazim,25,mamu,TRUE,m:a:mu,2
+4441,Shazim,25,mamu,TRUE,m:a:m:u,2
+4442,Shazim,25,baba,TRUE,ba:b:a,2
+4443,Shazim,25,baba,TRUE,ba:b:ə,2
+4444,Shazim,25,billi,TRUE,bəl:i,2
+4445,Shazim,25,DOGGY BT,TRUE,dat:i,2
+4446,Shazim,25,phuppo,TRUE,pup:o,2
+4447,Shazim,25,dado,TRUE,dad:o,2
+4448,Shazim,25,chachu,TRUE,ta:t:u,2
+4449,Shazim,25,MAMA ko ai ho gaye,TRUE,m:amə ai:,2
+4450,Shazim,25,MAMA ko ai ho gaye,TRUE,m:ama: a:i,2
+4451,Julien,19,cassé,TRUE,katːa,2
+4452,Taro,23,aiʨ:at:a,TRUE,ʨɪt:a,2
+4453,Taro,23,hait:a,TRUE,haɪt:a,2
+4454,Taro,23,kɯk:i:,TRUE,tʲʊk:ʊ,2
+4455,Taro,23,kɯk:i:,TRUE,tʲʊk:ə,2
+4456,Taro,23,nen:e,TRUE,nen:e,2
+4457,Taro,23,nen:e,TRUE,njɛn:ɛʔ,2
+4458,Taro,23,nen:e,TRUE,nɛn:ɛ,2
+4459,Taro,23,nen:e,TRUE,nʲɛn:eʔ,2
+4460,Taro,23,nen:e,TRUE,njɛn:ɛʔ,2
+4461,Taro,23,nen:e,TRUE,njɛn:ɛʔ,2
+4462,Taro,23,omeme,TRUE,m:emɛʔ,2
+4463,Taro,23,papa,TRUE,pɑp:ɑ:,2
+4464,Taro,23,papa,TRUE,pʊp:ɑʔ,2
+4465,Taro,23,piʨapiʨa,TRUE,tæpt:æ,2
+4466,Noël,18,lapin,TRUE,əpəp:a,3
+4467,Alice,16,mommy,TRUE,əmɑɲ:i,3
+4468,Emily,15,ɑpple,TRUE,ɑp:ɪʃɛ,3
+4469,Timmy,unknown,bicycle,TRUE,əgɛg:u,3
+4470,Timmy,unknown,bottle / 'bobby',TRUE,əbɑb:ʊ,3
+4471,Timmy,unknown,bottle / 'bobby',TRUE,əbɑb:i,3
+4472,Lewis,18,choo-choo,TRUE,əʊsʊsːɪ,3
+4473,Rachel,17,flowers,TRUE,əwɒːwəsːː,4
+4474,Rachel,17,Mummy,TRUE,ɜmamːɪː,3
+4475,Atte,20,matto,TRUE,atat:o:,3
+4476,Atte,20,pappa,TRUE,apop:a,3
+4477,Eliisa,15,ihaha,TRUE,ih:aha,3
+4478,Kazuko,15,oheso,TRUE,ɔh:ɪtɔʔ,3
+4479,Kazuko,15,ouma-chan,TRUE,ɔm:ataʔ,3
+4480,Kazuko,15,ouma-chan,TRUE,am:ata,3
+4481,Kazuko,15,ouma-chan,TRUE,am:aʧa,3
+4482,Kazuko,15,ouma-chan,TRUE,ɔm:ædɑ,3
+4483,Radia,19,Allahhafiz,TRUE,əl:aviz,3
+4484,Radia,19,Allahhafiz,TRUE,əl:abi:tʃ,3
+4485,Radia,19,Allahhu,TRUE,əl:avu,3
+4486,Radia,19,Allahhu,TRUE,əl:aku,3
+4487,Radia,19,Allahhu,TRUE,ol:avu,3
+4488,Taro,23,aiʨ:at:a,TRUE,ʌɪdʲəd:a,3
+4489,Noël,18,lapin,TRUE,pap:əpɜ,3
+4490,Timmy,unknown,Simon,TRUE,ʔən:ɪm:i,3
+4491,Timmy,unknown,toot-toot,TRUE,ʔɛdud:u,3
+4492,Timmy,unknown,toot-toot,TRUE,du:dud:u,3
+4493,Jude,15,caterpillar,TRUE,pɪtɪp:kapmpmpmpmpmpmpk,3
+4494,Jude,15,in 'ere,TRUE,ɲɪnɪn:ɛ,3
+4495,Lewis,18,banana,TRUE,nːæːːnəʔə,3
+4496,Lewis,18,tractor,TRUE,təwaʔsːa,3
+4497,Hiromi,21,nenːe jo,TRUE,nen:eː joː,3
+4498,Hiromi,21,nenːe jo,TRUE,nen:eː joː,3
+4499,Hiromi,21,nenːe jo,TRUE,nen:eː joː,3
+4500,Takeru,21,Totoro,TRUE,tot:ɛt:o,3
+4501,Kazuko,15,kumachan,TRUE,kɯm:ɑtɔ,3
+4502,Kazuko,15,kumachan,TRUE,kɯm:ɑtɑn,3
+4503,Kazuko,15,mimichan*,TRUE,m:mɛmɛta,3
+4504,Kazuko,15,obaachama,TRUE,bʌt:ʌmʌ,3
+4505,Radia,19,bismillah,TRUE,bi:ʃəl:a:,3
+4506,Ivy,17,quack quack,TRUE,ərɔb:vɔbɔ,4
+4507,Atte,20,sammui,TRUE,am:u.auto,4
+4508,Atte,20,sammui,TRUE,am:u.auto,4
+4509,Atte,20,sammui,TRUE,am:u.auto,4
+4510,Atte,20,sammui,TRUE,am:u.auto,4
+4511,Atte,20,sammui,TRUE,am:u.auto,4
+4512,Haruo,20,oʨiʨat:a,TRUE,ɑʔdʑidʑʲat:a:,4
+4513,Shazim,25,AUNTI nay diya hai,TRUE,a:t:i ne da: e,4
+4514,Laurent,17,canard dans l'eau,TRUE,balad:alo,4
+4515,Molly,16,mama,TRUE,jɛmɑm:a:mi,4
+4516,Takeru,21,name of mythical creature,TRUE,makːɯɾokɯɾosɯke,7
+4517,Haruo,20,pakapaka,TRUE,n:bak:abɯkabɯkabɯkabɯxa,10

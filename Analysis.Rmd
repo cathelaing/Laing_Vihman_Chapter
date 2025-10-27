@@ -1,0 +1,80 @@
+---
+title: "Analysis"
+output: pdf_document
+date: "2025-10-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load packages}
+
+library(tidyverse)
+library(ggplot2)
+library(igraph)
+
+```
+
+```{r load data}
+
+main_data <- read_csv("data_ready.csv")
+distance_data <- read_csv("output_df.csv")
+
+```
+
+## Data
+
+```{r summary data}
+
+n_infants <- main_data %>% group_by(Subject, Language) %>% tally()
+n_langs <- main_data %>% group_by(Language) %>% tally()
+age_data <- main_data %>% summarise(mean_age = mean(Age),
+                                     min_age = min(Age),
+                                     max_age = max(Age),
+                                     sd_age = sd(Age))
+
+tokens_data <- n_infants %>% ungroup() %>% summarise(mean_tok = mean(n),
+                                       min_tok = min(n),
+                                       max_tok = max(n),
+                                       sd_tok = sd(n))
+
+types_data <- main_data %>% group_by(Subject, Gloss) %>% tally() %>%
+  ungroup() %>%
+  group_by(Subject) %>% tally() %>% summarise(mean_typ = mean(n),
+                                       min_typ = min(n),
+                                       max_typ = max(n),
+                                       sd_typ = sd(n))
+```
+
+
+```{r ex of distance table}
+
+checks <- distance_data %>% dplyr::select(Gloss, IPAactual, 
+                                S1C1.S1C1, S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
+                                S2C1.S2C1, S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
+                                SFC1.SFC1, SFC2.SFC2, 
+                                SFCF1.SFCF1, SFCF2.SFCF2,
+                                nsyl_actual) %>%
+  filter(S1C1.S1C1 != "0" &
+           nsyl_actual ==2) %>%
+  group_by(Gloss) %>%
+  slice(1)
+
+### need to go through and check all S2s as they are not in SF position - SFCFs are showing up in SFC1 position
+```
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

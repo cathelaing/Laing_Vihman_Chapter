@@ -1,0 +1,3654 @@
+ID,Subject,Age,Gloss,IPAactual,nsyl_actual
+1,Adeline,25,oh,o,1
+2,Adeline,25,oh,o,1
+3,Adeline,25,oh,o,1
+4,Charles,18,assis,aç,1
+5,Charles,18,attend,aʥm,1
+6,Charles,18,auto,at,1
+7,Charles,18,miammiam,am,1
+8,Charles,18,miammiam,ʌm,1
+9,Charles,18,miammiam,am,1
+10,Charles,18,miammiam,am,1
+11,Gaël,22,c'est ça,es,1
+12,Gaël,22,ici,is,1
+13,Gaël,22,ouvre,euv,1
+14,Gaël,22,ouvre,euvr,1
+15,Gaël,22,ouvre,euvr,1
+16,Laurent,17,aîe,a:i,1
+17,Noël,18,wouf wouf,ʉaʉa,1
+18,Noël,18,savon,ə:ɥɵ,1
+19,Alice,16,eye,ɑ:ɪ,1
+20,Deborah,16,A,ei,1
+21,Deborah,16,eye,eɪ,1
+22,Deborah,16,eye,eɪ,1
+23,Deborah,16,hi,ɑɪ,1
+24,Deborah,16,hot,ɑ,1
+25,Emily,15,up,ɑʊ,1
+26,Emily,15,A,e:,1
+27,Emily,15,I,ɑɪ,1
+28,Emily,15,I,ɑɪ,1
+29,Emily,15,I,ɑɪ,1
+30,Emily,15,I,ɑɪ,1
+31,Emily,15,I,ɑɪ,1
+32,Emily,15,I,ɑɪ,1
+33,Emily,15,I,ɑɪ,1
+34,Emily,15,I,ɑɪ,1
+35,Sean,15,blocks,ɑk,1
+36,Sean,15,fish,ɪʃ,1
+37,Sean,15,oh,əo:,1
+38,Ella,16,horsey,ɔʃɸ,1
+39,Ella,16,on,ɔn,1
+40,Ella,16,on,an,1
+41,Ella,16,on,ɑn,1
+42,Ella,16,on,ɔn,1
+43,Ella,16,on,ɔn,1
+44,Flora,18,off,ɑxɸ,1
+45,Flora,18,oh/ooh,ɔʊ,1
+46,Flora,18,oh/ooh,ɔʊ,1
+47,Flora,18,oh/ooh,ɔ,1
+48,Ivy,17,ow,aʉw,1
+49,Jude,15,fish,ɪɕ,1
+50,Jude,15,loveʔhug,a::,1
+51,Jude,15,quack quack,a a:,1
+52,Jude,15,quack quack,a a,1
+53,Jude,15,woof,u,1
+54,Patrick,18,hat,æʔ,1
+55,Patrick,18,off,ɔʔ,1
+56,Patrick,18,off,ɔ:ʔɸ,1
+57,Patrick,18,off,ɔhɸ,1
+58,Patrick,18,off,ɔʔ,1
+59,Patrick,18,off,ɔʔ,1
+60,Patrick,18,ow,a:ʔ,1
+61,Rachel,17,house,aːʊθ,1
+62,Tania,18,/ spoon,ʊ:,1
+63,Tania,18,arm,ʌm,1
+64,Tania,18,eye,æ:i,1
+65,Tania,18,where,a:,1
+66,Tania,18,where,æ:h,1
+67,Tania,18,where,æ:,1
+68,Tobias,18,honk honk,ʊ  ɒ,1
+69,Tobias,18,honk honk,ɒː  ɒx,1
+70,Tobias,18,woof woof,ʊ,1
+71,Tobias,18,hoo-hoo [owl noise],ʊ  ʊːɸ,1
+72,Atte,20,Atti,at,1
+73,Atte,20,auto,au,1
+74,Eelis,20,ei,ei,1
+75,Eelis,20,suu,u:,1
+76,Eelis,20,suu,u:,1
+77,Eelis,20,suu,u:,1
+78,Eliisa,15,hauva,aua,1
+79,Eliisa,15,hauva,aua:,1
+80,Eliisa,15,hauva,au,1
+81,Mira,17,ei,ei,1
+82,Mira,17,ei,ei,1
+83,Mira,17,miao,au:,1
+84,Mira,17,miao,au,1
+85,Mira,17,miao,au:,1
+86,Mira,17,miao,au,1
+87,Sini,15,ei,ei,1
+88,Sini,15,ei ole,eio,1
+89,Sini,15,ei ole,eio:,1
+90,Hiromi,21,ha,aː,1
+91,Hiromi,21,iː,iː,1
+92,Takeru,21,a:a,a:a,1
+93,Takeru,21,aɾe,ae,1
+94,Takeru,21,hai,ai,1
+95,Afan,22,ajao,au,1
+96,Afan,22,baba,a:,1
+97,Afan,22,baba,a:,1
+98,Afan,22,baba,a:,1
+99,Afan,22,baba,a:,1
+100,Afan,22,baba,a:,1
+101,Afan,22,baba,a:,1
+102,Afan,22,han,a:,1
+103,Afan,22,han,a:,1
+104,Afan,22,han,a:,1
+105,Radia,19,aur,a:l,1
+106,Radia,19,ayee!,a:i,1
+107,Shazim,25,yay,e:,1
+108,Shazim,25,ayee!,a:i,1
+109,Shazim,25,ayee!,əi:,1
+110,Shazim,25,ayee!,a:i:,1
+111,Shazim,25,EYES,a:i:,1
+112,Shazim,25,aur,a:i,1
+113,Shazim,25,aur,əi,1
+114,Shazim,25,Kashmir,i:ʃ,1
+115,Shazim,25,HORSE,a:ʃ,1
+116,Adeline,25,au revoir,bwa,1
+117,Adeline,25,bain,da,1
+118,Adeline,25,boum,bu,1
+119,Adeline,25,boum,pu,1
+120,Adeline,25,boum,pu,1
+121,Adeline,25,boum,pu,1
+122,Adeline,25,boum,bu,1
+123,Adeline,25,boum,bu,1
+124,Adeline,25,boum,bu,1
+125,Adeline,25,boum,bu,1
+126,Adeline,25,boum,bu,1
+127,Adeline,25,chat,va,1
+128,Adeline,25,chat,va,1
+129,Adeline,25,chat,ba,1
+130,Adeline,25,encore,kɔ,1
+131,Adeline,25,lave,la,1
+132,Adeline,25,là,la,1
+133,Adeline,25,là,la,1
+134,Adeline,25,là,la,1
+135,Adeline,25,là,la,1
+136,Adeline,25,là,da,1
+137,Adeline,25,miaou,vau,1
+138,Adeline,25,miaou,vau,1
+139,Adeline,25,miaou,mau,1
+140,Adeline,25,moi,ma,1
+141,Adeline,25,non,no,1
+142,Adeline,25,non,no,1
+143,Adeline,25,tiens,ta,1
+144,Adeline,25,tiens,ta,1
+145,Adeline,25,tiens,ta,1
+146,Adeline,25,tiens,ta,1
+147,Adeline,25,trois,ka,1
+148,Adeline,25,vroum,wu,1
+149,Charles,18,au revoir,vwa,1
+150,Charles,18,balle,pa,1
+151,Charles,18,boire,bwa,1
+152,Charles,18,boire,vwa,1
+153,Charles,18,boire,vwɜ,1
+154,Charles,18,boire,bya,1
+155,Charles,18,boire,vwa,1
+156,Charles,18,boire,vwa,1
+157,Charles,18,boire,vwa,1
+158,Charles,18,boire,vwa,1
+159,Charles,18,boire,vwa,1
+160,Charles,18,boire,vwa,1
+161,Charles,18,boire,vwa,1
+162,Charles,18,boire,vwa,1
+163,Charles,18,boire,vwa,1
+164,Charles,18,boum,bum,1
+165,Charles,18,boum,bøm,1
+166,Charles,18,boum,bøm,1
+167,Charles,18,ça,ʃa,1
+168,Charles,18,ça,sa,1
+169,Charles,18,ça,tʃa,1
+170,Charles,18,c'est beau,bɔ,1
+171,Charles,18,chaud,ʃo,1
+172,Charles,18,chaud,ʃo,1
+173,Charles,18,non-non,nən,1
+174,Charles,18,tiens,ta,1
+175,Charles,18,tiens,tæ,1
+176,Charles,18,tiens,tə,1
+177,Charles,18,tiens,ʤa,1
+178,Charles,18,tiens,ta,1
+179,Charles,18,tiens,ta,1
+180,Charles,18,tiens,ta,1
+181,Charles,18,tiens,ta,1
+182,Charles,18,tiens,ta,1
+183,Charles,18,tiens,ta,1
+184,Charles,18,tiens,ta,1
+185,Charles,18,tiens,ta,1
+186,Charles,18,tiens,ta,1
+187,Charles,18,tiens,ta,1
+188,Charles,18,tiens,ta,1
+189,Charles,18,tiens,ta,1
+190,Charles,18,tiens,ta,1
+191,Charles,18,tiens,ta,1
+192,Charles,18,voire,vwa,1
+193,Charles,18,miammiam,hæm,1
+194,Charles,18,miammiam,hæm,1
+195,Gaël,22,bleu,be:e,1
+196,Gaël,22,bleu,blœ,1
+197,Gaël,22,bleu,ble:,1
+198,Gaël,22,bleu,blœ:e,1
+199,Gaël,22,bleu,blœ:,1
+200,Gaël,22,bleu,blœ:e,1
+201,Gaël,22,bleu,blœ:,1
+202,Gaël,22,bleu,blœ:,1
+203,Gaël,22,deux,dœ,1
+204,Gaël,22,dormir,doʁ,1
+205,Gaël,22,là,la,1
+206,Gaël,22,là,la,1
+207,Gaël,22,là,la,1
+208,Gaël,22,là,la,1
+209,Gaël,22,là,la,1
+210,Gaël,22,là,la,1
+211,Gaël,22,là,la,1
+212,Gaël,22,là,la,1
+213,Gaël,22,là,la,1
+214,Gaël,22,là,la,1
+215,Gaël,22,là,la,1
+216,Gaël,22,là,la,1
+217,Gaël,22,là,la,1
+218,Gaël,22,là,la,1
+219,Gaël,22,là,la,1
+220,Gaël,22,là,la,1
+221,Gaël,22,là,la,1
+222,Gaël,22,là,la,1
+223,Gaël,22,là,la,1
+224,Gaël,22,machine,ʃe,1
+225,Gaël,22,maman,ma,1
+226,Gaël,22,maman,ma,1
+227,Gaël,22,non,no,1
+228,Gaël,22,non,no,1
+229,Gaël,22,ouais,wɛ,1
+230,Gaël,22,ouais,we,1
+231,Gaël,22,ouais,wɛ,1
+232,Gaël,22,ouais,wɛ,1
+233,Gaël,22,ouais,wɛ,1
+234,Gaël,22,ouais,wɛ,1
+235,Gaël,22,ouais,wɛ,1
+236,Gaël,22,oui,wi,1
+237,Gaël,22,oui,we,1
+238,Gaël,22,oui,wi,1
+239,Gaël,22,oui,wi,1
+240,Gaël,22,oui,wi,1
+241,Gaël,22,oui,wi,1
+242,Gaël,22,oui,wi,1
+243,Gaël,22,oui,wi,1
+244,Gaël,22,ouvre,vχe,1
+245,Gaël,22,papa,pap,1
+246,Gaël,22,tas,ta,1
+247,Gaël,22,tas,ta:,1
+248,Gaël,22,tas,ta,1
+249,Gaël,22,trax,χras,1
+250,Gaël,22,vert,vɛ,1
+251,Laurent,17,aîe,ʔa:i:,1
+252,Laurent,17,aîe,ʔai,1
+253,Laurent,17,ballon,bəl,1
+254,Laurent,17,gateau,kto,1
+255,Laurent,17,non,na,1
+256,Laurent,17,non,nəa:ɛ,1
+257,Laurent,17,non,na:ø,1
+258,Laurent,17,non,nɔ,1
+259,Laurent,17,tiens,ta,1
+260,Laurent,17,tiens,ta,1
+261,Laurent,17,miam,ma:m,1
+262,Noël,18,ballon,βan,1
+263,Noël,18,banane,pɛ,1
+264,Noël,18,ça,ta,1
+265,Noël,18,ça,ʔa,1
+266,Noël,18,ça,tə,1
+267,Noël,18,ça,ȶə,1
+268,Noël,18,ça,ta,1
+269,Noël,18,canard,tɛt,1
+270,Noël,18,couches,tɵ,1
+271,Noël,18,couches,ƫɵ,1
+272,Noël,18,couches,ƫɵ,1
+273,Noël,18,donne,dʌn,1
+274,Noël,18,donne,dɔn,1
+275,Noël,18,l’eau,ʎo,1
+276,Noël,18,l’eau,ʎʌ,1
+277,Noël,18,l’eau,lʌ,1
+278,Noël,18,l’eau,lɵ,1
+279,Noël,18,l’eau,lo:,1
+280,Noël,18,l’eau,ɭo,1
+281,Noël,18,l’eau,ɭo,1
+282,Noël,18,main,ma:ɛ,1
+283,Noël,18,main,mna,1
+284,Noël,18,non,nɔ,1
+285,Noël,18,non,nɔ,1
+286,Noël,18,wouf wouf,wø:a,1
+287,Noël,18,pain,pa,1
+288,Noël,18,pain,pʌ,1
+289,Noël,18,pain,pʌ,1
+290,Noël,18,pain,pap,1
+291,Noël,18,peinture,pan,1
+292,Noël,18,poire,pə,1
+293,Noël,18,poire,pœn,1
+294,Noël,18,pomme,pə,1
+295,Noël,18,pomme,pam,1
+296,Noël,18,pomme,pø,1
+297,Noël,18,poule,pɜ:ɛ,1
+298,Noël,18,poum,pʌm,1
+299,Noël,18,poupée,pɜa,1
+300,Noël,18,tiens,ƫɛn,1
+301,Noël,18,tiens,tən,1
+302,Noël,18,tiens,tøn,1
+303,Noël,18,tiens,tʌn,1
+304,Noël,18,tiens,tʌn,1
+305,Noël,18,tiens,tɛn,1
+306,Noël,18,tiens,ƫɛn,1
+307,Noël,18,tiens,tɛn,1
+308,Noël,18,tiens,tɛn,1
+309,Alice,16,pa,pɑ,1
+310,Alice,16,pa,fɑ,1
+311,Alice,16,pa,pɑ,1
+312,Alice,16,apple,ʔæʔ,1
+313,Alice,16,apple,ʔɑʔ,1
+314,Alice,16,apple,ʔæʔ,1
+315,Alice,16,apple,ʔɑʔ,1
+316,Alice,16,belly,vei,1
+317,Alice,16,blanket,kɛt,1
+318,Alice,16,bottle,bɑdI,1
+319,Alice,16,bottle,bɑ:dI,1
+320,Alice,16,bottle,bɑdI,1
+321,Alice,16,bottle,bɑdI,1
+322,Alice,16,bottle,bɑdI,1
+323,Alice,16,bottle,bɑ:dI,1
+324,Alice,16,bottle,bɑ:dI,1
+325,Alice,16,bye,bɑɪ,1
+326,Alice,16,clean,tind,1
+327,Alice,16,duck,tæʔ,1
+328,Alice,16,egg,ʔeɪ,1
+329,Alice,16,egg,he:I,1
+330,Alice,16,egg,ʔeɪ,1
+331,Alice,16,egg,ʔeɪ,1
+332,Alice,16,egg,ʔeɪ,1
+333,Alice,16,egg,ʔeɪ,1
+334,Alice,16,egg,ʔeɪ,1
+335,Alice,16,egg,he:I,1
+336,Alice,16,eye,ʔɑɪ,1
+337,Alice,16,eye,kʔɑɪ:,1
+338,Alice,16,eye,ʔɑɪ,1
+339,Alice,16,hat,ʔɑ,1
+340,Alice,16,hat,ʔɑ,1
+341,Alice,16,hello,loʊ,1
+342,Alice,16,key,çi,1
+343,Alice,16,man,mæ̃:,1
+344,Alice,16,meat,miʔ,1
+345,Alice,16,no,næ,1
+346,Alice,16,Oscar,ʔɑʔ,1
+347,Alice,16,Oscar,ʔɑʔ,1
+348,Alice,16,Oscar,ʔɑʔ,1
+349,Alice,16,Oscar,ʔɑʔ,1
+350,Alice,16,Oscar,ʔɑʔ,1
+351,Alice,16,plate,pɛɪ,1
+352,Alice,16,plate,pɛɪ,1
+353,Alice,16,plate,fɑɪ,1
+354,Alice,16,shoe,çi,1
+355,Alice,16,tea,ti:,1
+356,Alice,16,up,ʔɑ:p,1
+357,Alice,16,up,ʔʌ:p,1
+358,Deborah,16,baa,bɑ:,1
+359,Deborah,16,ball,bɔe,1
+360,Deborah,16,ball,bɔ:əw,1
+361,Deborah,16,ball,bɑ,1
+362,Deborah,16,book,bʌʔ,1
+363,Deborah,16,book,bʌʔ,1
+364,Deborah,16,bus,mbʌʔ,1
+365,Deborah,16,bye,bɑɪ,1
+366,Deborah,16,car,kwɑɪ,1
+367,Deborah,16,car,kɑ,1
+368,Deborah,16,car,kɑ:i,1
+369,Deborah,16,car,kɑ,1
+370,Deborah,16,car,kɑ,1
+371,Deborah,16,cheese,tʃi,1
+372,Deborah,16,cheese,ki,1
+373,Deborah,16,cheese,sʃi,1
+374,Deborah,16,cow,kə,1
+375,Deborah,16,eye,ʔe,1
+376,Deborah,16,giraffe,dIdæ,1
+377,Deborah,16,good,gʊ,1
+378,Deborah,16,good,kʊ,1
+379,Deborah,16,hello,hwo,1
+380,Deborah,16,hi,hɑɪ,1
+381,Deborah,16,hi,hɑɪ,1
+382,Deborah,16,hi,hɑɪ,1
+383,Deborah,16,my/mine,mɑɪ,1
+384,Deborah,16,okay,gɛ,1
+385,Deborah,16,okay,gɛ,1
+386,Deborah,16,one,wɑɪ,1
+387,Deborah,16,one,wɑɪ,1
+388,Deborah,16,spaghetti,kIgwɛ,1
+389,Deborah,16,teeth,ti,1
+390,Deborah,16,teeth,sθi,1
+391,Deborah,16,two,tu,1
+392,Emily,15,ɑll gone,kɑ:,1
+393,Emily,15,ɑpple,bɪ:,1
+394,Emily,15,ɑpple,bɪ:,1
+395,Emily,15,beɑds,pi,1
+396,Emily,15,beɑds,pi,1
+397,Emily,15,bib,bɪ,1
+398,Emily,15,bib,pɪ:,1
+399,Emily,15,box,pɑ:,1
+400,Emily,15,box,pɑə,1
+401,Emily,15,Burt,pœ,1
+402,Emily,15,Burt,pœ,1
+403,Emily,15,Burt,pœ,1
+404,Emily,15,Burt,pœ,1
+405,Emily,15,Burt,pœ,1
+406,Emily,15,button,bɑ:,1
+407,Emily,15,cɑr,kɑ:,1
+408,Emily,15,mail [reject/lmcc],mɛ,1
+409,Emily,15,man [reject/lmcc],kwæ,1
+410,Emily,15,more,mɔə,1
+411,Emily,15,more,mœ,1
+412,Emily,15,more,mɛ,1
+413,Emily,15,more,mʌ,1
+414,Emily,15,more,mʌ,1
+415,Emily,15,more,mʌ,1
+416,Emily,15,no,no,1
+417,Emily,15,no,nʌ,1
+418,Emily,15,no,nɔ,1
+419,Emily,15,no,nɑ:,1
+420,Emily,15,no,no,1
+421,Emily,15,no,no,1
+422,Emily,15,no,nɑ:,1
+423,Emily,15,nose [reject/lmcc],nʌ,1
+424,Emily,15,ten,tɪ̃:,1
+425,Emily,15,toes,tɪ,1
+426,Emily,15,truck,kæk,1
+427,Emily,15,A,ʔeɪ,1
+428,Emily,15,A,ʔeɪ,1
+429,Emily,15,A,ʔeɪ,1
+430,Emily,15,B,pi:,1
+431,Emily,15,B,pi:,1
+432,Emily,15,B,pi:,1
+433,Emily,15,B,pi:,1
+434,Emily,15,B,pi:,1
+435,Emily,15,B,pi:,1
+436,Emily,15,B,pi:,1
+437,Emily,15,B,pi:,1
+438,Emily,15,C,sɪ,1
+439,Molly,16,baa,pæ:,1
+440,Molly,16,baa,pæ:,1
+441,Molly,16,bead,pi:,1
+442,Molly,16,bead,pi,1
+443,Molly,16,bead,pi,1
+444,Molly,16,bead,pi,1
+445,Molly,16,bead,pi,1
+446,Molly,16,bead,pi,1
+447,Molly,16,bead,pi,1
+448,Molly,16,bead,pi,1
+449,Molly,16,block,pʊk,1
+450,Molly,16,block,pɑk,1
+451,Molly,16,block,pɑt,1
+452,Molly,16,block,pʊk,1
+453,Molly,16,block,pɑk,1
+454,Molly,16,block,pɑt,1
+455,Molly,16,block,pɑt,1
+456,Molly,16,block,pɑk,1
+457,Molly,16,book,pʊk,1
+458,Molly,16,book,pʊk,1
+459,Molly,16,book,pʊk,1
+460,Molly,16,book,pʊk,1
+461,Molly,16,book,pʊk,1
+462,Molly,16,Brett,pɑt,1
+463,Molly,16,Brett,bɑt,1
+464,Molly,16,Brett,pɑt,1
+465,Molly,16,Brett,pɑt,1
+466,Molly,16,Brett,bɑt,1
+467,Molly,16,Brett,pɑt,1
+468,Molly,16,Brett,pɑt,1
+469,Molly,16,Brett,pɑt,1
+470,Molly,16,Brett,pɑt,1
+471,Molly,16,click,kɪk,1
+472,Molly,16,click,ki,1
+473,Molly,16,click,kæk,1
+474,Molly,16,click,ki,1
+475,Molly,16,ear,he:,1
+476,Molly,16,ear,he:,1
+477,Molly,16,ear,he:,1
+478,Molly,16,ear,he:,1
+479,Molly,16,glasses,tɑk,1
+480,Molly,16,glasses,kɑt,1
+481,Molly,16,glasses,kɛt,1
+482,Molly,16,glasses,kɑt,1
+483,Molly,16,glasses,kɑk,1
+484,Molly,16,glasses,kɑk,1
+485,Molly,16,glasses,kɑɪk,1
+486,Molly,16,glasses,kɑt,1
+487,Molly,16,glasses,kɑk,1
+488,Molly,16,glasses,kɑk,1
+489,Molly,16,glasses,kɑk,1
+490,Molly,16,hi,ʔɑi,1
+491,Molly,16,hi,ʔɑɪ:,1
+492,Molly,16,hi,hɑɪ,1
+493,Molly,16,hi,ʔɑɪ:,1
+494,Molly,16,house,hɑut,1
+495,Molly,16,house,hɑut,1
+496,Molly,16,moo,mu:,1
+497,Molly,16,moo,mɔ:,1
+498,Molly,16,moo,məʊ:,1
+499,Molly,16,moo,mœ:,1
+500,Molly,16,moo,mʌː,1
+501,Molly,16,moo,mu:,1
+502,Molly,16,moo,mu:,1
+503,Molly,16,moo,mu:,1
+504,Molly,16,moo,mu:,1
+505,Molly,16,moo,mɔ:,1
+506,Molly,16,moo,mɔ:,1
+507,Molly,16,moo,mœ:,1
+508,Molly,16,moo,mœ:,1
+509,Molly,16,nose,no:,1
+510,Molly,16,oink,ho: k,1
+511,Molly,16,peek,pik,1
+512,Molly,16,peek,pɪtʃ,1
+513,Molly,16,peek,pik,1
+514,Molly,16,peek,pik,1
+515,Molly,16,peek,pik,1
+516,Molly,16,peek,pik,1
+517,Molly,16,peek,pik,1
+518,Molly,16,piano,pɑu,1
+519,Molly,16,piano,pɑu,1
+520,Molly,16,pig,pɪk,1
+521,Molly,16,red,wɑ:t,1
+522,Molly,16,red,hwɑʔ,1
+523,Molly,16,rug,wɑ:k,1
+524,Molly,16,rug,wɑ:k,1
+525,Molly,16,rug,wɑ:k,1
+526,Molly,16,Ruth,hwʊt,1
+527,Molly,16,Ruth,wʊt,1
+528,Molly,16,Ruth,ʔut,1
+529,Molly,16,Ruth,hʊt,1
+530,Molly,16,Ruth,hʌt,1
+531,Molly,16,Ruth,wʌt,1
+532,Molly,16,stuck,kɑk,1
+533,Molly,16,stuck,kɑk,1
+534,Molly,16,tail,teʊ,1
+535,Molly,16,tail,tɛʊ,1
+536,Molly,16,tail,teʊ,1
+537,Molly,16,tail,te:ʊ,1
+538,Molly,16,tail,teʊ,1
+539,Molly,16,tail,teʊ,1
+540,Molly,16,tail,teʊ,1
+541,Molly,16,tail,teʊ,1
+542,Molly,16,tail,teʊ,1
+543,Molly,16,tail,teʊ,1
+544,Molly,16,tail,teʊ,1
+545,Molly,16,that,tɑt,1
+546,Molly,16,that,tɑt,1
+547,Molly,16,three,wi:,1
+548,Molly,16,three,wi:,1
+549,Molly,16,two,t¸ʊ,1
+550,Molly,16,two,t¸ju,1
+551,Molly,16,vroom,brʌm,1
+552,Molly,16,vroom,bʊm,1
+553,Molly,16,woof,vu,1
+554,Molly,16,woof,wu,1
+555,Molly,16,woof,bu,1
+556,Molly,16,woof,wu,1
+557,Molly,16,woof,wu,1
+558,Molly,16,woof,wu,1
+559,Molly,16,woof,wu,1
+560,Molly,16,woof,wu,1
+561,Molly,16,woof,wu,1
+562,Molly,16,woof,wu,1
+563,Molly,16,work,hʌk,1
+564,Molly,16,work,hʌk,1
+565,Molly,16,work,hʌk,1
+566,Molly,16,work,hʌk,1
+567,Molly,16,work,hʌk,1
+568,Molly,16,work,hʌk,1
+569,Sean,15,baa,bɑ,1
+570,Sean,15,baa,bɑ,1
+571,Sean,15,berries,bɛ:ts,1
+572,Sean,15,bird,pɚʃ,1
+573,Sean,15,bird,pɚç,1
+574,Sean,15,bird,bwɪ:ts,1
+575,Sean,15,bird,pwɤ:ts,1
+576,Sean,15,bird,bil,1
+577,Sean,15,bird,pɚʃ,1
+578,Sean,15,blocks,pɑk,1
+579,Sean,15,blocks,pʌk,1
+580,Sean,15,blocks,pɑt,1
+581,Sean,15,blocks,jɑk,1
+582,Sean,15,blocks,kwɑk,1
+583,Sean,15,blocks,bɑ,1
+584,Sean,15,blocks,pɑk,1
+585,Sean,15,blocks,bɑ,1
+586,Sean,15,blue,bwe:,1
+587,Sean,15,blue,bʊ,1
+588,Sean,15,book,pɤ:,1
+589,Sean,15,book,bɨk,1
+590,Sean,15,book,jɛk,1
+591,Sean,15,bug,βɑɪ,1
+592,Sean,15,bug,βɑɪ,1
+593,Sean,15,bug,mbʌkl,1
+594,Sean,15,cracker,ʔœɑk,1
+595,Sean,15,cracker,dʒɑk,1
+596,Sean,15,dog,dɑʊ,1
+597,Sean,15,dog,tɑ,1
+598,Sean,15,dog,tao,1
+599,Sean,15,duck,tʌk,1
+600,Sean,15,duck,tæk,1
+601,Sean,15,duck,tʌk,1
+602,Sean,15,duck,tʌk,1
+603,Sean,15,fish,vəf,1
+604,Sean,15,fish,fø:tʃ,1
+605,Sean,15,fish,jɪʃ,1
+606,Sean,15,horse,ʔɪʃ,1
+607,Sean,15,horse,ʔɯʃ,1
+608,Sean,15,horse,tɯʃ,1
+609,Sean,15,horse,hɪ:ʃ,1
+610,Sean,15,horse,ʔɪʃ,1
+611,Sean,15,horse,ʔɪʃ,1
+612,Sean,15,horse,ʔɪʃ,1
+613,Sean,15,horse,ʔɪʃ,1
+614,Sean,15,horse,ʔɪʃ,1
+615,Sean,15,horse,ʔɪʃ,1
+616,Sean,15,Ian,ni,1
+617,Sean,15,Ian,ni,1
+618,Sean,15,look,jɛk,1
+619,Sean,15,look,ljʊk,1
+620,Sean,15,look,jɛk,1
+621,Sean,15,look,jɛk,1
+622,Sean,15,mama,mɑ,1
+623,Sean,15,mama,mɔ:,1
+624,Sean,15,mama,mɑ,1
+625,Sean,15,mama,mɑ,1
+626,Sean,15,moo,ʔo:,1
+627,Sean,15,moo,mɔ,1
+628,Sean,15,moo,mœ:,1
+629,Sean,15,moo,ʔo:,1
+630,Sean,15,moo,ʔo:,1
+631,Sean,15,more,mɔ,1
+632,Sean,15,more,mɔʔ,1
+633,Sean,15,more,mɑ,1
+634,Sean,15,more,mɔ,1
+635,Sean,15,more,mɔ,1
+636,Sean,15,more,mɔ,1
+637,Sean,15,more,mɔ,1
+638,Sean,15,more,mɔ,1
+639,Sean,15,more,mɔ,1
+640,Sean,15,more,mɔ,1
+641,Sean,15,more,mɔ,1
+642,Sean,15,more,mɔ,1
+643,Sean,15,more,mɔ,1
+644,Sean,15,more,mɔ,1
+645,Sean,15,more,mɑ,1
+646,Sean,15,more,mɑ,1
+647,Sean,15,more,mɑ,1
+648,Sean,15,more,mɑ,1
+649,Sean,15,mouse,mɑ,1
+650,Sean,15,mouse,mɑʊ̥,1
+651,Sean,15,mouse,mɑ:ɨ,1
+652,Sean,15,mouse,mæ,1
+653,Sean,15,mouse,mɑ:s,1
+654,Sean,15,mouse,mɑ,1
+655,Sean,15,mouse,mɑ,1
+656,Sean,15,oh,ʔɔ,1
+657,Sean,15,oh,ʔɔ,1
+658,Sean,15,oh,ʔɔ,1
+659,Sean,15,oh,ʔɔ,1
+660,Sean,15,quack,ʔɑʔ,1
+661,Sean,15,quack,ʔɑ:,1
+662,Sean,15,rabbit,pæts,1
+663,Sean,15,rabbit,bɑ:p,1
+664,Sean,15,rabbit,plɛp,1
+665,Sean,15,stuck,nɑk,1
+666,Sean,15,this,dɪs,1
+667,Sean,15,this,dʌɪs,1
+668,Sean,15,this,dɪs,1
+669,Sean,15,this,dɪs,1
+670,Sean,15,"woof, wow-wow",wɑʊ,1
+671,Timmy,unknown,bɑll,bæ:,1
+672,Timmy,unknown,bɑll,bæʔ,1
+673,Timmy,unknown,bɑlloon,bɛ:ʊ,1
+674,Timmy,unknown,bɑlloon,bɛi:,1
+675,Timmy,unknown,bɑlloon,bɛ:,1
+676,Timmy,unknown,bee,bi,1
+677,Timmy,unknown,boɑt,bɛʔ,1
+678,Timmy,unknown,cɑr,kɑ,1
+679,Timmy,unknown,cɑr,gɑ,1
+680,Timmy,unknown,coffee,gɑgŋ,1
+681,Timmy,unknown,Drew,du,1
+682,Timmy,unknown,hi,ʔɑi:,1
+683,Timmy,unknown,hi,ʔɑi:,1
+684,Timmy,unknown,hi,ʔɑi:,1
+685,Timmy,unknown,hot,ʔɑʔ,1
+686,Timmy,unknown,hot,ʔɑʔ,1
+687,Timmy,unknown,juice,"d,u",1
+688,Timmy,unknown,key,gɪ,1
+689,Timmy,unknown,key,gɪ,1
+690,Timmy,unknown,key,gɪ,1
+691,Timmy,unknown,key,gɪ,1
+692,Timmy,unknown,knee,ni,1
+693,Timmy,unknown,knee,ni,1
+694,Timmy,unknown,knee,ni,1
+695,Timmy,unknown,knee,ni,1
+696,Timmy,unknown,knee,ni,1
+697,Timmy,unknown,moo,mɛʊ:,1
+698,Timmy,unknown,moo,mʌʊ:,1
+699,Timmy,unknown,"moon, sun",mɛu:m,1
+700,Timmy,unknown,peg,bæ,1
+701,Timmy,unknown,sun,næ,1
+702,Timmy,unknown,toe,du,1
+703,Timmy,unknown,toot-toot,du,1
+704,Cara,17,aw,ʔɛːː,1
+705,Cara,17,car,kɑː,1
+706,Cara,17,car,kxɑː,1
+707,Cara,17,cat,kɒʔ,1
+708,Cara,17,cat,kɒʔ,1
+709,Cara,17,clock,gɔʔk,1
+710,Cara,17,crash,tnap,1
+711,Cara,17,crash,ndan,1
+712,Cara,17,crash,dæːn,1
+713,Cara,17,crash,dæ̃ːn,1
+714,Cara,17,crash,dæn,1
+715,Cara,17,crash,dan,1
+716,Cara,17,crash,tɛːkŋ,1
+717,Cara,17,crash,dæːkŋ,1
+718,Cara,17,Daddy,gŋŋ,1
+719,Cara,17,go,gəʊ,1
+720,Cara,17,hat,həʔ,1
+721,Cara,17,miaow,wɛːu,1
+722,Cara,17,miaow,weʊ,1
+723,Cara,17,miaow,peʊ,1
+724,Cara,17,no,nɛː,1
+725,Cara,17,no,neʊ,1
+726,Cara,17,no,neʊ,1
+727,Cara,17,no,neʊ,1
+728,Cara,17,no,neʊ,1
+729,Cara,17,no,neʊ,1
+730,Cara,17,no,neʊ,1
+731,Cara,17,rabbit,wɛʔkŋ,1
+732,Cara,17,rabbit,wɛʔkŋ,1
+733,Cara,17,stick / spoon,tɪk,1
+734,Cara,17,stick / spoon,ʃʉk,1
+735,Cara,17,stone,ʔndəʊ,1
+736,Cara,17,stone,daʊ,1
+737,Cara,17,stone,təʊː,1
+738,Cara,17,stone,deʊ,1
+739,Cara,17,wow,wɛʊ,1
+740,Ella,16,ball,mbaʊ,1
+741,Ella,16,ball,baʊʔ,1
+742,Ella,16,ball,mbɑʊʔh,1
+743,Ella,16,ball,baʊʔ,1
+744,Ella,16,bed,mεʔt,1
+745,Ella,16,bed,bεt,1
+746,Ella,16,brush,ʔrɪʃ,1
+747,Ella,16,bye,mbaɪ:,1
+748,Ella,16,cake,kaɪ:ik,1
+749,Ella,16,cake,ke:ik,1
+750,Ella,16,cake,keɪ:k,1
+751,Ella,16,cake,keɪ:ɪk,1
+752,Ella,16,cake,kekx,1
+753,Ella,16,cake,ke:ik,1
+754,Ella,16,cake,keɪ:k,1
+755,Ella,16,cup,hʌp,1
+756,Ella,16,cup,hʌp,1
+757,Ella,16,door,dɔx,1
+758,Ella,16,door,dɔ:,1
+759,Ella,16,fall,hʷaʊʔ,1
+760,Ella,16,hair,hæʔ,1
+761,Ella,16,hair,haʔ,1
+762,Ella,16,hair,hεə:,1
+763,Ella,16,hair,ha:ə:a:,1
+764,Ella,16,hair,haʔ,1
+765,Ella,16,hair,haʔ,1
+766,Ella,16,house,haʊ:uʃ,1
+767,Ella,16,house,haʊfɸ,1
+768,Ella,16,house,haʊz,1
+769,Ella,16,in,ʔwɪn,1
+770,Ella,16,in,wɪnʔ,1
+771,Ella,16,in,ʔwi:n,1
+772,Ella,16,in,ʔwɪn,1
+773,Ella,16,in,ʔwɪn,1
+774,Ella,16,me,mi,1
+775,Ella,16,Michelle,ksʃəʊ,1
+776,Ella,16,Michelle,ʃəʊ:,1
+777,Ella,16,Michelle,sʃəʊ:,1
+778,Ella,16,Michelle,ʔʃəʊ:,1
+779,Ella,16,Michelle,ʃa:ɪɫ,1
+780,Ella,16,on,nɑn,1
+781,Ella,16,plate,fɫets,1
+782,Ella,16,play,pleɪ:,1
+783,Ella,16,play,pleɪ:,1
+784,Ella,16,aah,ʔɑ::h,1
+785,Flora,18,baby,bεɪp,1
+786,Flora,18,baby,pεɪp,1
+787,Flora,18,ball,bo:,1
+788,Flora,18,bed,bεɪt,1
+789,Flora,18,bed,bεtk,1
+790,Flora,18,bed,pɪt,1
+791,Flora,18,bed,bεt,1
+792,Flora,18,bed,bεɪp,1
+793,Flora,18,bib,bɪ:p,1
+794,Flora,18,bib,pɪp,1
+795,Flora,18,bib,bεɪp,1
+796,Flora,18,bib,bɪp,1
+797,Flora,18,bib,bɪp,1
+798,Flora,18,bib,bɪp,1
+799,Flora,18,bib,bεp,1
+800,Flora,18,bib,bɪp,1
+801,Flora,18,bib,bɪp,1
+802,Flora,18,bib,bɪp,1
+803,Flora,18,bib,bεp,1
+804,Flora,18,bib,beɪp,1
+805,Flora,18,boo,pə:,1
+806,Flora,18,bye,baɪ,1
+807,Flora,18,girl,taʊ:,1
+808,Flora,18,hat,hæt,1
+809,Flora,18,hat,hat,1
+810,Flora,18,hat,hæt,1
+811,Flora,18,hat,tjæt,1
+812,Flora,18,hat,hæ:t,1
+813,Flora,18,head,hæts,1
+814,Flora,18,keys,tiç,1
+815,Flora,18,keys,ntis,1
+816,Flora,18,keys,tsiç,1
+817,Flora,18,milk,mεʊk,1
+818,Flora,18,milk,mεʊx,1
+819,Flora,18,milk,mɪʊk,1
+820,Flora,18,milk,mεʊk,1
+821,Flora,18,milk,mɪʊʔx,1
+822,Flora,18,milk,mɪʊk,1
+823,Flora,18,milk,mɪʊk,1
+824,Flora,18,milk,mɪʊk,1
+825,Flora,18,milk,mɪʊʔ,1
+826,Flora,18,milk,mɪʊ:,1
+827,Flora,18,monkey,mɔntI,1
+828,Flora,18,monkey,mɔŋkI,1
+829,Flora,18,mouse,baʊs,1
+830,Flora,18,mum,mɔm,1
+831,Flora,18,mum,mɔm,1
+832,Flora,18,no,nɪ,1
+833,Flora,18,no,nɔː,1
+834,Flora,18,no,nɔ,1
+835,Flora,18,no,nəʊ,1
+836,Flora,18,no,nə,1
+837,Flora,18,no,nʌ,1
+838,Flora,18,no,hnəʉ,1
+839,Flora,18,no,nʌ:,1
+840,Flora,18,no,ʔnə,1
+841,Flora,18,off,ʔɒf,1
+842,Flora,18,off,ʔɑʔf,1
+843,Flora,18,off,hɑ:f,1
+844,Flora,18,off,wɑf,1
+845,Flora,18,oh/ooh,ʔɔ,1
+846,Flora,18,oh/ooh,ʔo,1
+847,Flora,18,oh/ooh,ʔɔ,1
+848,Flora,18,oh/ooh,ʔɔ,1
+849,Flora,18,oh/ooh,ʔo:,1
+850,Flora,18,oh/ooh,ʔɔ,1
+851,Flora,18,oh/ooh,ʔɔ,1
+852,Flora,18,oh/ooh,ʔɔ,1
+853,Flora,18,on,ʔʌn,1
+854,Flora,18,push,pʊʃ,1
+855,Flora,18,sleep,pεɪp,1
+856,Flora,18,sleep,bi:p,1
+857,Flora,18,sleep,bi:p,1
+858,Flora,18,snake,tæik,1
+859,Flora,18,snake,næɪk,1
+860,Flora,18,ta,tæ:,1
+861,Flora,18,there,dε,1
+862,Flora,18,up,wəp,1
+863,Flora,18,up,ʔʌpɸpɸ,1
+864,Flora,18,where,wε:,1
+865,Flora,18,yeah,jʌː,1
+866,Flora,18,yeah,jε,1
+867,Flora,18,yeah,hjεə,1
+868,Flora,18,yeah,jæ,1
+869,Flora,18,yeah,çjε,1
+870,Flora,18,yeah,jə,1
+871,Flora,18,yeah,njə,1
+872,Flora,18,yeah,njε,1
+873,Flora,18,yeah,njε,1
+874,Flora,18,yeah,jɑ,1
+875,Flora,18,yeah,jɑ,1
+876,Flora,18,yeah,mjæ,1
+877,Flora,18,yeah,jε,1
+878,Flora,18,yeah,jɑ,1
+879,Flora,18,yeah,ja,1
+880,Flora,18,yeah,jɑ,1
+881,Flora,18,yeah,jɑ:,1
+882,Flora,18,yeah,jə,1
+883,Flora,18,yeah,jɑ,1
+884,Flora,18,yeah,jε,1
+885,Flora,18,yeah,mjæ,1
+886,Flora,18,yeah,nε:,1
+887,Flora,18,yeah,jɪ,1
+888,Flora,18,yeah,jɑ,1
+889,Flora,18,yeah,hnjɑ,1
+890,Flora,18,yeah,jε,1
+891,Flora,18,yeah,jε,1
+892,Flora,18,yeah,jε,1
+893,Flora,18,yeah,jε,1
+894,Flora,18,yeah,jʌː,1
+895,Flora,18,yeah,jε,1
+896,Flora,18,yeah,jε,1
+897,Flora,18,yeah,jε,1
+898,Flora,18,yes,dɪç,1
+899,Flora,18,yes,jεʔs,1
+900,Ivy,17,bag,beɪ:,1
+901,Ivy,17,bag,baɪⁿ,1
+902,Ivy,17,door,dəʊɸ,1
+903,Ivy,17,door,dəʊ::,1
+904,Ivy,17,door,dəʊ::,1
+905,Ivy,17,door,dəʊ::,1
+906,Ivy,17,down,daʊʷm,1
+907,Ivy,17,more,məʊ:,1
+908,Ivy,17,more,məʊ:ŋ,1
+909,Ivy,17,no,dnəʊ,1
+910,Ivy,17,star,dɒ:,1
+911,Ivy,17,star,dɑ:,1
+912,Ivy,17,star,dɒ:ə,1
+913,Ivy,17,star,dɑ:ə,1
+914,Ivy,17,woof,wəʔɸ,1
+915,Ivy,17,yay!,jaɪç,1
+916,Ivy,17,yeah,jə,1
+917,Jude,15,ball,bɔ,1
+918,Jude,15,ball,bəʊ,1
+919,Jude,15,ball,bʌ,1
+920,Jude,15,ball,mbɔ,1
+921,Jude,15,ball,boʊ,1
+922,Jude,15,ball,pɔ,1
+923,Jude,15,ball,bɔ,1
+924,Jude,15,ball,bɔ,1
+925,Jude,15,ball,bɔ,1
+926,Jude,15,ball,bɔ,1
+927,Jude,15,ball,bɔ,1
+928,Jude,15,ball,bəʊ,1
+929,Jude,15,blue,bʌ ʔ,1
+930,Jude,15,blue,ʙʌ,1
+931,Jude,15,book,bʊ,1
+932,Jude,15,book,bʊx,1
+933,Jude,15,book,bʊ,1
+934,Jude,15,book,bʊ,1
+935,Jude,15,cake,kxi:,1
+936,Jude,15,cake,kχɪ,1
+937,Jude,15,car,ka:,1
+938,Jude,15,car,ta:,1
+939,Jude,15,car,ga,1
+940,Jude,15,car,da,1
+941,Jude,15,car,ta:,1
+942,Jude,15,car,ta:,1
+943,Jude,15,cheese,ki,1
+944,Jude,15,cheese,xi:,1
+945,Jude,15,circle,tsɬu,1
+946,Jude,15,circle,tstə,1
+947,Jude,15,circle,t t,1
+948,Jude,15,circle,ktɬʉ,1
+949,Jude,15,circle,tstə,1
+950,Jude,15,circle,tçtɕ,1
+951,Jude,15,circle,txtx,1
+952,Jude,15,circle,cɪcç,1
+953,Jude,15,circle,tkɪ,1
+954,Jude,15,flower,la,1
+955,Jude,15,hiya,haɪəә,1
+956,Jude,15,mouth,ma,1
+957,Jude,15,mouth,mba,1
+958,Jude,15,night-night,nәnə,1
+959,Jude,15,no,nɔ,1
+960,Jude,15,no,do:,1
+961,Jude,15,sky,ka,1
+962,Jude,15,sky,ca,1
+963,Jude,15,square,wɛ,1
+964,Jude,15,square,wɛ,1
+965,Jude,15,star,da:,1
+966,Jude,15,star,ta,1
+967,Jude,15,star,da:,1
+968,Jude,15,star,da:,1
+969,Jude,15,stuck,tɕʌ,1
+970,Jude,15,ta,ta:,1
+971,Jude,15,teeth,ti:,1
+972,Jude,15,teeth,ti:,1
+973,Jude,15,there,dɛ:,1
+974,Jude,15,there,jɛ:,1
+975,Jude,15,there,ɟɛ,1
+976,Jude,15,there,βæ,1
+977,Jude,15,there,nlɛ,1
+978,Jude,15,ticktock,tɬæ,1
+979,Jude,15,trousers,tәtɕɪ,1
+980,Jude,15,yay,jɛə,1
+981,Jude,15,"yeah, yes",jɛ,1
+982,Jude,15,"yeah, yes",ja,1
+983,Jude,15,"yeah, yes",jɛ:,1
+984,Jude,15,"yeah, yes",jɛ,1
+985,Jude,15,sheep sound,wa,1
+986,Jude,15,tiger roar,ra:,1
+987,Lewis,18,ball,dɒː,1
+988,Lewis,18,ball,dɒːː,1
+989,Lewis,18,ball,dʌː,1
+990,Lewis,18,ball,ʤɒːʊ,1
+991,Lewis,18,ball,dɒː,1
+992,Lewis,18,ball,dɒːː,1
+993,Lewis,18,ball,dɒːː,1
+994,Lewis,18,bricks,kek,1
+995,Lewis,18,cake,kɪʔx,1
+996,Lewis,18,car,dɑʔ,1
+997,Lewis,18,car,dɑː,1
+998,Lewis,18,car,taːə,1
+999,Lewis,18,car,dɑː,1
+1000,Lewis,18,car,dɑː,1
+1001,Lewis,18,chair,deə,1
+1002,Lewis,18,clock,kɒːk,1
+1003,Lewis,18,clock,kɒk,1
+1004,Lewis,18,clock,kəɒʔx,1
+1005,Lewis,18,clock,kʊːk,1
+1006,Lewis,18,clock,kɒk,1
+1007,Lewis,18,gone,gɒm,1
+1008,Lewis,18,gone,gɒm,1
+1009,Lewis,18,gone,gɒm,1
+1010,Lewis,18,gone,gɒm,1
+1011,Lewis,18,hot,hɒk,1
+1012,Lewis,18,hot,xɔːk,1
+1013,Lewis,18,hot,hɒk,1
+1014,Lewis,18,hot,xɔːk,1
+1015,Lewis,18,jam,stɜm,1
+1016,Lewis,18,juice,tɜːʒ,1
+1017,Lewis,18,juice,ʦɜːɫɸ,1
+1018,Lewis,18,keys,ʃəɪ,1
+1019,Lewis,18,no,nɔə,1
+1020,Lewis,18,spade,dəːʣ,1
+1021,Lewis,18,star,dæː,1
+1022,Lewis,18,star,daɑː,1
+1023,Lewis,18,star,dɑː,1
+1024,Lewis,18,star,dɑː,1
+1025,Lewis,18,sun,dɒːʊ,1
+1026,Lewis,18,sun,dəʊ,1
+1027,Lewis,18,sun,dɒ,1
+1028,Lewis,18,there,dɛː,1
+1029,Lewis,18,there,dɛː,1
+1030,Lewis,18,train,tɪʊ,1
+1031,Patrick,18,baa,ʔba:,1
+1032,Patrick,18,ball,bɔn,1
+1033,Patrick,18,book,bəʊ,1
+1034,Patrick,18,box,bɑʔ,1
+1035,Patrick,18,cat,ʔgɑ,1
+1036,Patrick,18,cat,ga,1
+1037,Patrick,18,cat,dgaʔ,1
+1038,Patrick,18,cat,ga,1
+1039,Patrick,18,go,dɔ:u,1
+1040,Patrick,18,go,dəʊ,1
+1041,Patrick,18,hat,hæ,1
+1042,Patrick,18,hat,hæʔ,1
+1043,Patrick,18,hat,haʔ,1
+1044,Patrick,18,hat,hæʔ,1
+1045,Patrick,18,more,mɔ:ɪ,1
+1046,Patrick,18,no,nεə:,1
+1047,Patrick,18,no,mneʊʔ,1
+1048,Patrick,18,no,nɑ:h,1
+1049,Patrick,18,no,nεəʊ,1
+1050,Patrick,18,no,nəʊʔ,1
+1051,Patrick,18,wheel,nwi əʊ:əʊ,1
+1052,Rachel,17,away,waːeɪθ,1
+1053,Rachel,17,back,pɜʔt,1
+1054,Rachel,17,bye,ɸaːːɪ,1
+1055,Rachel,17,bye,bɛːiː,1
+1056,Rachel,17,bye,baːeɪ,1
+1057,Rachel,17,bye,waːeiː,1
+1058,Rachel,17,bye,baeiː,1
+1059,Rachel,17,cat,gaʔtθ,1
+1060,Rachel,17,cold,kɔːf,1
+1061,Rachel,17,Daisy,dðiː,1
+1062,Rachel,17,door,dɒ,1
+1063,Rachel,17,door,dɒː,1
+1064,Rachel,17,door,tɒx,1
+1065,Rachel,17,door,dɒ,1
+1066,Rachel,17,door,dɒː,1
+1067,Rachel,17,door,daɒx,1
+1068,Rachel,17,door,daːɒ,1
+1069,Rachel,17,door,dɒ,1
+1070,Rachel,17,door,dɒː,1
+1071,Rachel,17,door,dɒ,1
+1072,Rachel,17,door,dɒː,1
+1073,Rachel,17,down,dɒʊ,1
+1074,Rachel,17,down,taːʊ,1
+1075,Rachel,17,go,gəːʊ,1
+1076,Rachel,17,go,gaʊ,1
+1077,Rachel,17,jump,dəuːp,1
+1078,Rachel,17,night night,næːnʔ,1
+1079,Rachel,17,night night,naːː,1
+1080,Rachel,17,please,meɪθ,1
+1081,Rachel,17,please,pɪːθ,1
+1082,Rachel,17,please,peɪθ,1
+1083,Tania,18,bus,pʌ:s,1
+1084,Tania,18,bus,pæ:s,1
+1085,Tania,18,bus,pa:s,1
+1086,Tania,18,bus,ps,1
+1087,Tania,18,bus,pçpə,1
+1088,Tania,18,bus,bεs,1
+1089,Tania,18,bus,bʊʃ,1
+1090,Tania,18,bus,pʃ,1
+1091,Tania,18,bus,pʃ,1
+1092,Tania,18,shoe,səʊ,1
+1093,Tania,18,shoe,səʊ,1
+1094,Tania,18,shoe,sʊ:,1
+1095,Tania,18,/ spoon,bʊ,1
+1096,Tania,18,/ spoon,pʊ:,1
+1097,Tania,18,/ spoon,pæʊ,1
+1098,Tania,18,/ spoon,bʊ,1
+1099,Tania,18,/ spoon,pʊ:,1
+1100,Tania,18,/ spoon,pʉ:,1
+1101,Tania,18,/ spoon,pʉ:,1
+1102,Tania,18,/ spoon,pʊ:,1
+1103,Tania,18,bag,bæ:i,1
+1104,Tania,18,bag,bai,1
+1105,Tania,18,bag,bæ,1
+1106,Tania,18,bag,bæi,1
+1107,Tania,18,bag,bi,1
+1108,Tania,18,bag,bæi,1
+1109,Tania,18,bag,bæi,1
+1110,Tania,18,ball,pʊə:,1
+1111,Tania,18,ball,pʊ,1
+1112,Tania,18,ball,pʊ,1
+1113,Tania,18,ball,pʉh,1
+1114,Tania,18,ball,pʉɸ,1
+1115,Tania,18,big,pi:,1
+1116,Tania,18,big,bi:,1
+1117,Tania,18,book,bʊʔ,1
+1118,Tania,18,book,bʉʔ,1
+1119,Tania,18,book,bʊ,1
+1120,Tania,18,book,ba,1
+1121,Tania,18,book,bʊʔ,1
+1122,Tania,18,book,bʊ,1
+1123,Tania,18,book,bʊ,1
+1124,Tania,18,book,bʊ,1
+1125,Tania,18,bum,bæm,1
+1126,Tania,18,Daisy,ti,1
+1127,Tania,18,Daisy,tzi,1
+1128,Tania,18,Daisy,ze:,1
+1129,Tania,18,moo,mʊ:,1
+1130,Tania,18,more,mɑ,1
+1131,Tania,18,more,məʔ,1
+1132,Tania,18,no,no,1
+1133,Tania,18,no,nɔ,1
+1134,Tania,18,no,naʔ,1
+1135,Tania,18,no,nəʔ,1
+1136,Tania,18,ow,ʔæʊ,1
+1137,Tania,18,ow,ʔæʉ,1
+1138,Tania,18,ow,ʔæʊ,1
+1139,Tania,18,ow,ʔæʊ,1
+1140,Tania,18,ow,ʔæʉ,1
+1141,Tania,18,pig,gi,1
+1142,Tania,18,pig,pi:,1
+1143,Tania,18,push,pʊʃ,1
+1144,Tania,18,push,bɪs,1
+1145,Tania,18,push,pʉç,1
+1146,Tania,18,sofa,fə,1
+1147,Tania,18,sofa,hæf,1
+1148,Tania,18,sofa,fə,1
+1149,Tania,18,stones,dʌ:,1
+1150,Tania,18,stones,tjʊ,1
+1151,Tania,18,there,tæ:,1
+1152,Tania,18,tree,di:,1
+1153,Tania,18,woof,ʔʊf,1
+1154,Tania,18,yeah,jεh,1
+1155,Tania,18,yeah,jε:,1
+1156,Tania,18,yeah,ʔjεʔ,1
+1157,Tania,18,yeah,jε,1
+1158,Tania,18,yeah,jεh,1
+1159,Tania,18,yeah,jε:,1
+1160,Tania,18,yeah,jε,1
+1161,Tania,18,yeah,jε,1
+1162,Tania,18,yes,jεʔs,1
+1163,Tania,18,miaow,jæ:ʊh,1
+1164,Tobias,18,baa,bɒːx,1
+1165,Tobias,18,baa,ʙɒː,1
+1166,Tobias,18,baa,bəɒ,1
+1167,Tobias,18,baa,bɒːx,1
+1168,Tobias,18,baa,bɒːx,1
+1169,Tobias,18,ball,pəu,1
+1170,Tobias,18,ball,bɪʊ,1
+1171,Tobias,18,bear,bɛː,1
+1172,Tobias,18,bear,bəɛ,1
+1173,Tobias,18,bear,pfɛːɪ,1
+1174,Tobias,18,bear,beː,1
+1175,Tobias,18,bear,bɛː,1
+1176,Tobias,18,bear,bɛː,1
+1177,Tobias,18,bear,bɛː,1
+1178,Tobias,18,bear,bɛː,1
+1179,Tobias,18,blocks,bʷɒʔ,1
+1180,Tobias,18,book,bʊʔ,1
+1181,Tobias,18,bus,baɪst,1
+1182,Tobias,18,bus,bəθ,1
+1183,Tobias,18,bus,mbəː,1
+1184,Tobias,18,cat,ɢaʔ,1
+1185,Tobias,18,honk honk,ʔɒː,1
+1186,Tobias,18,mouse,mʊə,1
+1187,Tobias,18,plane,beɪ,1
+1188,Tobias,18,plane,beːɪ,1
+1189,Tobias,18,quack quack,ʔaʔ,1
+1190,Tobias,18,ta,dʊ,1
+1191,Tobias,18,that,dæʔ,1
+1192,Tobias,18,that,daʔ,1
+1193,Tobias,18,that,diʔ,1
+1194,Tobias,18,that,ndæʔ,1
+1195,Tobias,18,that,sʲaʔ,1
+1196,Tobias,18,that,sʲaʔ,1
+1197,Tobias,18,that,θaʔ,1
+1198,Tobias,18,that,θʉəʔ,1
+1199,Tobias,18,that,dæʔ,1
+1200,Tobias,18,that,daʔ,1
+1201,Tobias,18,that,daʔ,1
+1202,Tobias,18,that,daʔ,1
+1203,Tobias,18,that,daʔ,1
+1204,Tobias,18,there,dɒɛː,1
+1205,Tobias,18,woof woof,ŋgʊ  ʊ,1
+1206,Tobias,18,eek eek,bʷi  i,1
+1207,Eelis,20,bää,bo,1
+1208,Eelis,20,bää,bo,1
+1209,Eelis,20,kiikkaa,ki:,1
+1210,Eelis,20,kiinni,ki:,1
+1211,Eelis,20,kiinni,ki,1
+1212,Eelis,20,kiinni,gi:,1
+1213,Eelis,20,kiinni,ki:,1
+1214,Eelis,20,kiinni,ki:,1
+1215,Eelis,20,kiinni,ki:,1
+1216,Eelis,20,kiinni,ki:,1
+1217,Eelis,20,kiinni,ki:,1
+1218,Eelis,20,kiitos,gi:,1
+1219,Eelis,20,loppu,çpu,1
+1220,Eelis,20,loppu,çpu,1
+1221,Eelis,20,noin,noi,1
+1222,Eelis,20,noin,noin,1
+1223,Eelis,20,noin,noi,1
+1224,Eelis,20,noin,noin,1
+1225,Eelis,20,omppu,çpu,1
+1226,Eelis,20,pää,po,1
+1227,Eelis,20,pois,boi,1
+1228,Eelis,20,pois,poi,1
+1229,Eelis,20,pois,boi,1
+1230,Eelis,20,pois,boi,1
+1231,Eelis,20,pois,boi,1
+1232,Eelis,20,pois,boi,1
+1233,Eelis,20,pois,boi,1
+1234,Eelis,20,pois,poi,1
+1235,Eelis,20,poppa,pçpa,1
+1236,Eelis,20,puu,pu:,1
+1237,Eelis,20,tuo,tu:,1
+1238,Eelis,20,tuo,tu:,1
+1239,Eelis,20,tuu,tu:,1
+1240,Eliisa,15,bää,pää,1
+1241,Eliisa,15,bää,pää,1
+1242,Eliisa,15,bää,pää,1
+1243,Eliisa,15,hauva,hau:,1
+1244,Eliisa,15,kiikkuu,ki:,1
+1245,Eliisa,15,kirja,ki:a,1
+1246,Eliisa,15,kirja,ki:,1
+1247,Eliisa,15,kirja,ki:a,1
+1248,Eliisa,15,mummu /muumu,mçm,1
+1249,Eliisa,15,muumi,mu:i,1
+1250,Eliisa,15,muumi,mu:i,1
+1251,Eliisa,15,tuo,tuo,1
+1252,Eliisa,15,tuo,tu:,1
+1253,Eliisa,15,tuo,tu,1
+1254,Eliisa,15,tuo,tuo,1
+1255,Eliisa,15,tuo,tuo,1
+1256,Mira,17,kuu,ku:,1
+1257,Mira,17,Myy,mʉ:,1
+1258,Mira,17,tyttö,tʉ:o,1
+1259,Mira,17,tyyny,nʉ:n,1
+1260,Sini,15,kirja,ki:a,1
+1261,Sini,15,kirja,ki:,1
+1262,Sini,15,korva,ko:a,1
+1263,Sini,15,pallo,pa:,1
+1264,Sini,15,pois,poiç,1
+1265,Sini,15,puu,pu:,1
+1266,Sini,15,tässä,tæ,1
+1267,Hiromi,21,fiɕːɯ,piʃ,1
+1268,Hiromi,21,boːɾɯ,boː,1
+1269,Hiromi,21,kore,koe,1
+1270,Hiromi,21,panda,paː,1
+1271,Hiromi,21,kawaiː,kai,1
+1272,Hiromi,21,baː,baː,1
+1273,Hiromi,21,ɕiː,ɕiː,1
+1274,Hiromi,21,gao,gao,1
+1275,Hiromi,21,me,meː,1
+1276,Hiromi,21,moː,moː,1
+1277,Hiromi,21,nai,naæ,1
+1278,Hiromi,21,te,teː,1
+1279,Hiromi,21,kaŋgaɾɯː,gaː,1
+1280,Takeru,21,nani,nanı,1
+1281,Takeru,21,baːniː,baː,1
+1282,Takeru,21,boːɾɯ,bʌːi,1
+1283,Takeru,21,ʥɯːsɯ,dʲɯː,1
+1284,Takeru,21,ʥɯːsɯ,ʑʲɯː,1
+1285,Takeru,21,motːo,moː,1
+1286,Takeru,21,itai,tai,1
+1287,Takeru,21,bɯː,bɯː,1
+1288,Takeru,21,moː,moː,1
+1289,Takeru,21,nai,nai,1
+1290,Takeru,21,neː,nɛː,1
+1291,Haruo,20,mo:,mo:,1
+1292,Haruo,20,nai,na:ɪ,1
+1293,Haruo,20,doN,dæ:,1
+1294,Haruo,20,doN,dɔn,1
+1295,Haruo,20,dʑampɯ,dʲanp,1
+1296,Haruo,20,dʑampɯ,dʲʌ:n,1
+1297,Haruo,20,joiɕo,jəʃ,1
+1298,Haruo,20,dame,mɛ:,1
+1299,Haruo,20,bɯbɯ,bʊ,1
+1300,Haruo,20,haro:,hɯ:,1
+1301,Kazuko,15,bubu 'pig',bʊ,1
+1302,Kazuko,15,inai,nɑ:ɪ,1
+1303,Kazuko,15,arigato,tʰɔ,1
+1304,Kazuko,15,jaa,da:,1
+1305,Kazuko,15,hai,hɑɪ,1
+1306,Kazuko,15,nai,njɑ,1
+1307,Afan,22,mama,ma,1
+1308,Afan,22,mama,ma,1
+1309,Afan,22,han,de:,1
+1310,Afan,22,han,de:,1
+1311,Afan,22,han,de:,1
+1312,Afan,22,han,de:,1
+1313,Afan,22,han,de:,1
+1314,Afan,22,yay,de:,1
+1315,Afan,22,yay,de:,1
+1316,Afan,22,yay,de:,1
+1317,Afan,22,na/ nahin,na,1
+1318,Afan,22,na/ nahin,nəi,1
+1319,Afan,22,na/ nahin,na:,1
+1320,Afan,22,na/ nahin,na,1
+1321,Afan,22,na/ nahin,na,1
+1322,Afan,22,na/ nahin,na,1
+1323,Afan,22,na/ nahin,na,1
+1324,Afan,22,do,do,1
+1325,Afan,22,do,du:,1
+1326,Afan,22,phool,pu:,1
+1327,Afan,22,phool,pu:,1
+1328,Afan,22,phool,pu:,1
+1329,Afan,22,phool,pu:,1
+1330,Afan,22,phool,pu:,1
+1331,Afan,22,"mimmi BT,",mi,1
+1332,Afan,22,idhar,da:,1
+1333,Afan,22,bhaye,bai,1
+1334,Afan,22,gaye,gəi,1
+1335,Afan,22,gaye,gi,1
+1336,Afan,22,ta,ta:,1
+1337,Afan,22,JUICE,dʒu:,1
+1338,Afan,22,chai,ta:e:,1
+1339,Afan,22,chai,tʃai,1
+1340,Afan,22,chai,da:i,1
+1341,Afan,22,jaaee,da:e,1
+1342,Afan,22,dawaye,da:i,1
+1343,Afan,22,dawaye,da:i,1
+1344,Afan,22,dawaye,da:i,1
+1345,Afan,22,COW,ka:o,1
+1346,Afan,22,COW,ka:o,1
+1347,Afan,22,baal,ba:,1
+1348,Afan,22,baal,ba:,1
+1349,Afan,22,mam BT,ma:m,1
+1350,Afan,22,vo,vo,1
+1351,Afan,22,yay hai,je: œ,1
+1352,Radia,19,BALL,ba:l,1
+1353,Radia,19,BALL,ba:,1
+1354,Radia,19,band,ba:n,1
+1355,Radia,19,daal,da:l,1
+1356,Radia,19,"one, two, three",ti:,1
+1357,Radia,19,nahin,nəi,1
+1358,Radia,19,yay,je:,1
+1359,Radia,19,davayee,da:i:,1
+1360,Shazim,25,BALL,ba:l,1
+1361,Shazim,25,BALL,ta:l,1
+1362,Shazim,25,BALL,da:l,1
+1363,Shazim,25,yay,te:,1
+1364,Shazim,25,yay,de:,1
+1365,Shazim,25,yay,je:,1
+1366,Shazim,25,yay,di:,1
+1367,Shazim,25,yay,ti:,1
+1368,Shazim,25,miyon BT,mao,1
+1369,Shazim,25,bhayee,ba:i:,1
+1370,Shazim,25,JUICE,di:ʃ,1
+1371,Shazim,25,LION,la:,1
+1372,Shazim,25,COW,ta:u,1
+1373,Shazim,25,COW,tʃa:o,1
+1374,Shazim,25,COW,qao,1
+1375,Shazim,25,NO,nũ:,1
+1376,Adeline,25,au revoir,ova,2
+1377,Adeline,25,au revoir,ova,2
+1378,Adeline,25,au revoir,ɔpa,2
+1379,Adeline,25,au revoir,ovwa,2
+1380,Adeline,25,au revoir,o va,2
+1381,Adeline,25,au revoir,o pa,2
+1382,Adeline,25,au revoir,o va,2
+1383,Adeline,25,bain,adla,2
+1384,Adeline,25,bisou,ado,2
+1385,Adeline,25,bisou,ɛdu,2
+1386,Adeline,25,bisou,atu,2
+1387,Adeline,25,bisou,ətu,2
+1388,Adeline,25,bisou,atu,2
+1389,Adeline,25,boum,ɔpu,2
+1390,Adeline,25,boum,a bu,2
+1391,Adeline,25,boum,apu,2
+1392,Adeline,25,brosse,ə gʁɔ,2
+1393,Adeline,25,champs,otɔ,2
+1394,Adeline,25,chapeau,apo,2
+1395,Adeline,25,chapeau,apo,2
+1396,Adeline,25,chapeau,apo,2
+1397,Adeline,25,chapeau,apo,2
+1398,Adeline,25,chapeau,ə apu,2
+1399,Adeline,25,chapeau,apu,2
+1400,Adeline,25,chapeau,abo,2
+1401,Adeline,25,chapeau,afo,2
+1402,Adeline,25,chapeau,apu,2
+1403,Adeline,25,chat,ə a va,2
+1404,Adeline,25,chat,a ba,2
+1405,Adeline,25,chat,a va,2
+1406,Adeline,25,chat,o va,2
+1407,Adeline,25,coucou,aku,2
+1408,Adeline,25,en dehors,o da,2
+1409,Adeline,25,encore,ɔkɔ,2
+1410,Adeline,25,encore,ɔkɔ,2
+1411,Adeline,25,encore,ɔkɔ,2
+1412,Adeline,25,encore,ɔkɔ,2
+1413,Adeline,25,encore,ɔkɔ,2
+1414,Adeline,25,encore,ɔkɔ,2
+1415,Adeline,25,encore,ɔkɔ,2
+1416,Adeline,25,encore,ɔkɔ,2
+1417,Adeline,25,encore,ɔkɔ,2
+1418,Adeline,25,encore,ɔkɔ,2
+1419,Adeline,25,encore,ako,2
+1420,Adeline,25,encore,okɔ,2
+1421,Adeline,25,encore,ɔlkɔ,2
+1422,Adeline,25,oiseau,əʒlo,2
+1423,Adeline,25,parti,ate,2
+1424,Adeline,25,vachou,oʒu,2
+1425,Adeline,25,voilà,ala,2
+1426,Adeline,25,voiture,atu,2
+1427,Adeline,25,voiture,atu,2
+1428,Charles,18,allo,alo,2
+1429,Charles,18,attend,atæ,2
+1430,Charles,18,au revoir,avwa,2
+1431,Charles,18,auto,a:to,2
+1432,Charles,18,boire,ɔvwa,2
+1433,Charles,18,c'est beau,abo,2
+1434,Charles,18,chapeau,apo,2
+1435,Charles,18,chapeau,a:pø,2
+1436,Charles,18,chapeau,a:pø,2
+1437,Charles,18,chapeau,a:pø,2
+1438,Charles,18,chaussures,ɛdʒo,2
+1439,Charles,18,garçon,aʐa,2
+1440,Charles,18,garçon,aʃə,2
+1441,Charles,18,lapin,apa,2
+1442,Charles,18,lapin,a:pa,2
+1443,Charles,18,lapin,apa,2
+1444,Charles,18,lapin,apa,2
+1445,Charles,18,lapin,apa,2
+1446,Charles,18,lapin,apa,2
+1447,Charles,18,lapin,apa,2
+1448,Charles,18,lapin,apa,2
+1449,Charles,18,lapin,apa,2
+1450,Charles,18,lapin,apa,2
+1451,Charles,18,lapin,apa,2
+1452,Charles,18,les yeux,aʒo:,2
+1453,Charles,18,non-non,ɔno,2
+1454,Charles,18,oiseau,abo:,2
+1455,Charles,18,oiseau,apo,2
+1456,Charles,18,va pas,apa,2
+1457,Charles,18,va pas,apæ,2
+1458,Charles,18,va pas,apa,2
+1459,Charles,18,va pas,apa,2
+1460,Charles,18,voire,abvwa,2
+1461,Charles,18,voire,avwa,2
+1462,Gaël,22,c'est ça,esa,2
+1463,Gaël,22,c'est ça,esa:,2
+1464,Gaël,22,c'est ça,əsa,2
+1465,Gaël,22,c'est ça,əsea,2
+1466,Gaël,22,c'est ça,esa,2
+1467,Gaël,22,c'est ça,esa,2
+1468,Gaël,22,c'est ça,esa,2
+1469,Gaël,22,c'est ça,esa,2
+1470,Gaël,22,c'est ça,esa,2
+1471,Gaël,22,c'est ça,esa,2
+1472,Gaël,22,c'est ça,esa,2
+1473,Gaël,22,c'est ça,esa,2
+1474,Gaël,22,c'est ça,esa,2
+1475,Gaël,22,c'est ça,esa,2
+1476,Gaël,22,c'est ça,əsa,2
+1477,Gaël,22,c'est ça,əsa,2
+1478,Gaël,22,c'est ça,əsa,2
+1479,Gaël,22,c'est ça,əsa,2
+1480,Gaël,22,casser,ase,2
+1481,Gaël,22,chercher,aʃe,2
+1482,Gaël,22,chercher,ase,2
+1483,Gaël,22,dedans,ada,2
+1484,Gaël,22,écrit,eχri,2
+1485,Gaël,22,écrit,iχri,2
+1486,Gaël,22,feu,əfœ:,2
+1487,Gaël,22,grelot,eχo,2
+1488,Gaël,22,gros,egro:,2
+1489,Gaël,22,gros,egro,2
+1490,Gaël,22,gros,egro,2
+1491,Gaël,22,grosse,egrəs,2
+1492,Gaël,22,ici,isi,2
+1493,Gaël,22,là bas,aba,2
+1494,Gaël,22,là bas,aba,2
+1495,Gaël,22,machine,aʃe,2
+1496,Gaël,22,maman,ama,2
+1497,Gaël,22,ouvre,auvre,2
+1498,Gaël,22,ouvre,œvre,2
+1499,Gaël,22,ouvrir,oχri,2
+1500,Gaël,22,ouvrir,uχri,2
+1501,Gaël,22,ouvrir,uvχri,2
+1502,Gaël,22,ouvrir,auvri,2
+1503,Gaël,22,ouvrir,uvχre,2
+1504,Gaël,22,ouvrir,uvχri,2
+1505,Gaël,22,papa,epap,2
+1506,Gaël,22,pas,epa,2
+1507,Gaël,22,pas,apa,2
+1508,Gaël,22,plus,aplœ,2
+1509,Gaël,22,roue,iχu,2
+1510,Gaël,22,roue,iχu,2
+1511,Gaël,22,sou,esu,2
+1512,Gaël,22,sou,esu,2
+1513,Gaël,22,sou,esu,2
+1514,Gaël,22,tas,ota,2
+1515,Gaël,22,tas,ota,2
+1516,Laurent,17,aîe,a:jœ,2
+1517,Laurent,17,allo,alo,2
+1518,Laurent,17,maman,ama,2
+1519,Laurent,17,moi,əma,2
+1520,Laurent,17,voilà,ɥala,2
+1521,Laurent,17,hihan,apɨ,2
+1522,Alice,16,bottle,əbɑdI,2
+1523,Alice,16,bottle,əbɑdI,2
+1524,Alice,16,lady,ijei,2
+1525,Alice,16,mommy,ʌ̃mi,2
+1526,Alice,16,mommy,ɑʊni,2
+1527,Alice,16,mommy,ʌ:ɲi,2
+1528,Deborah,16,ball,ɑbɑ,2
+1529,Deborah,16,ball,əbɔ:,2
+1530,Deborah,16,ball,ʌwɑ:,2
+1531,Deborah,16,cracker,ɔki,2
+1532,Deborah,16,hello,ʌwo,2
+1533,Deborah,16,hello,owə,2
+1534,Deborah,16,more,əmɔ:,2
+1535,Deborah,16,uh-oh,ʌʔoʊ,2
+1536,Deborah,16,uh-oh,ɑ:ʔu,2
+1537,Deborah,16,uh-oh,ʌʔo,2
+1538,Deborah,16,uh-oh,ʌʔoʊ,2
+1539,Deborah,16,uh-oh,ʌʔo,2
+1540,Deborah,16,what's that?,ʌsæ,2
+1541,Emily,15,ɑll gone,ɑ:kɪ,2
+1542,Emily,15,ɑpple,ɑpi,2
+1543,Emily,15,ɑpple,ɑpi,2
+1544,Emily,15,Ernie,ʌɪntɛ,2
+1545,Emily,15,overɑlls,o:jɪ,2
+1546,Sean,15,mama,ɑmɑm,2
+1547,Timmy,unknown,juice,ədu,2
+1548,Timmy,unknown,knee,əni:,2
+1549,Timmy,unknown,neck,ɪnæ,2
+1550,Timmy,unknown,neck,ɪnæ,2
+1551,Timmy,unknown,plum,əvæ:,2
+1552,Timmy,unknown,sun,inæ,2
+1553,Timmy,unknown,sun,ijæ̃:,2
+1554,Timmy,unknown,light,igɑ,2
+1555,Timmy,unknown,light,ɪkæ,2
+1556,Timmy,unknown,light,igɛ:,2
+1557,Timmy,unknown,light,igɑ,2
+1558,Timmy,unknown,light,igɑ,2
+1559,Timmy,unknown,light,igɑ,2
+1560,Timmy,unknown,light,igɑ,2
+1561,Timmy,unknown,light,igɑ,2
+1562,Cara,17,woof,ʊ  ʊɪɸ,2
+1563,Ella,16,apple,æpəʊɫ,2
+1564,Ella,16,brush,ɪsʃɔ:,2
+1565,Ella,16,cuddle,ʊdəʊɫ,2
+1566,Ella,16,glasses,aʔsi:,2
+1567,Ella,16,glasses,ijaʃ,2
+1568,Ella,16,horsey,ɔʃi,2
+1569,Ella,16,horsey,ɔsʃi,2
+1570,Ella,16,horsey,ɔʃʷip,2
+1571,Ella,16,horsey,ɑsʃi,2
+1572,Ella,16,horsey,ɔʃi,2
+1573,Ella,16,horsey,ɔʃi,2
+1574,Ella,16,horsey,ɔsʃi,2
+1575,Ella,16,in,əwɪnt,2
+1576,Ella,16,in,əʔwɪnt,2
+1577,Ella,16,open,ɑʔpə:,2
+1578,Ella,16,out,əʉʔte,2
+1579,Ella,16,spoon,ɪmu:n,2
+1580,Ella,16,aah,a:ʔaʊ:,2
+1581,Ella,16,aah,aʔɑ:,2
+1582,Ella,16,ah ah,ɑʔæ,2
+1583,Ella,16,woof woof,ijuf,2
+1584,Flora,18,hat on,ætən,2
+1585,Flora,18,hello,æla:,2
+1586,Flora,18,keys,ɪtis,2
+1587,Ivy,17,balloon,ɪwu:un,2
+1588,Ivy,17,caterpillar,əbε,2
+1589,Ivy,17,cinderella,uɪɹa,2
+1590,Ivy,17,cinderella,u:iɹæ,2
+1591,Ivy,17,elephant,εjəvɸ,2
+1592,Ivy,17,elephant,iju:ʂ,2
+1593,Ivy,17,giraffe,əwɑ:ə,2
+1594,Ivy,17,giraffe,əwɑ:ə,2
+1595,Ivy,17,hat,ɪshε,2
+1596,Ivy,17,lion,əja:ə:iç,2
+1597,Ivy,17,miaow,i:ʔjaʊ:,2
+1598,Ivy,17,miaow,ijaʊ:ŋ,2
+1599,Ivy,17,miaow,i:ʔjaʊ:,2
+1600,Ivy,17,tree,ɑ:ʧi:ə:i,2
+1601,Ivy,17,whee,əwi::ç,2
+1602,Ivy,17,whee,əwi:n,2
+1603,Ivy,17,yeah,ijæ,2
+1604,Ivy,17,yeah,ijæɦ,2
+1605,Ivy,17,quack quack,əvɒ:,2
+1606,Jude,15,apple,aba,2
+1607,Jude,15,apple,abi,2
+1608,Jude,15,apple,apɪ,2
+1609,Jude,15,apple,aboʊ,2
+1610,Jude,15,ball,abɔ,2
+1611,Jude,15,ball,ʌbɔɛ,2
+1612,Jude,15,ball,əbɔʊ,2
+1613,Jude,15,ball,ʌbɔ,2
+1614,Jude,15,ball,əmbaʊ,2
+1615,Jude,15,ball,abɔ,2
+1616,Jude,15,ball,abɔ,2
+1617,Jude,15,ball,abɔ,2
+1618,Jude,15,ball,abɔ,2
+1619,Jude,15,ball,abɔ,2
+1620,Jude,15,ball,ʌbɔ,2
+1621,Jude,15,ball,ʌbɔ,2
+1622,Jude,15,Emma,æmæ,2
+1623,Jude,15,football,abaʔ,2
+1624,Jude,15,football,əbɒ,2
+1625,Jude,15,hello,aijɔ,2
+1626,Jude,15,hiya,aija,2
+1627,Jude,15,in 'ere,ɪnɛ,2
+1628,Jude,15,in 'ere,ɪjɛ,2
+1629,Jude,15,orange,ɒwi,2
+1630,Jude,15,there,əwɛ:,2
+1631,Jude,15,ticktock,ɪɬa,2
+1632,Jude,15,uh-oh,aʔau,2
+1633,Jude,15,uh-oh,ʌʔɔ:,2
+1634,Jude,15,uh-oh,ʌʔɔ,2
+1635,Jude,15,monkey sd.,ʌʔoʊ,2
+1636,Jude,15,woof,ɔʔoʊ,2
+1637,Lewis,18,all gone,əgɒːmʔ,2
+1638,Lewis,18,all gone,əːwɒmʔ,2
+1639,Lewis,18,all gone,ɒɹʌʔ,2
+1640,Lewis,18,all gone,əʊgɒʔm,2
+1641,Lewis,18,bricks,ɔːəxɪːʔx,2
+1642,Lewis,18,oh no,ɒːːnɔː,2
+1643,Lewis,18,oh no,ɑːnɔː,2
+1644,Lewis,18,oh no,ɒːnɔː,2
+1645,Lewis,18,oh no,ɔːːnɔːː,2
+1646,Lewis,18,oh no,ɔːnɔː,2
+1647,Lewis,18,oh no,ɔːnɔə,2
+1648,Lewis,18,oh no,ɔːnɔə,2
+1649,Lewis,18,oh no,əːːnɔː,2
+1650,Lewis,18,oh no,ɜːnɔːː,2
+1651,Lewis,18,oh no,eʊnɔːː,2
+1652,Lewis,18,oh no,ɔːːnɔːː,2
+1653,Lewis,18,oh no,ɔːnɔː,2
+1654,Lewis,18,uh-oh,ɔəʔɔːː,2
+1655,Lewis,18,uh-oh,ɔʔɔːːː,2
+1656,Lewis,18,uh-oh,ɜːːːʔɔːː,2
+1657,Lewis,18,uh-oh,əʔɔːː,2
+1658,Lewis,18,uh-oh,ʊːɒʔɔːː,2
+1659,Lewis,18,uh-oh,ʊːʔɔːʔ,2
+1660,Lewis,18,uh-oh,ʌʔɔːː,2
+1661,Lewis,18,uh-oh,ʊʔɔ,2
+1662,Lewis,18,choo-choo,ʉɸhʊː,2
+1663,Lewis,18,whee,ɜːwʊːɸ,2
+1664,Patrick,18,hat,ɪʔæ,2
+1665,Patrick,18,hat,əɹæʔ,2
+1666,Patrick,18,hello,əɹaʊ:,2
+1667,Patrick,18,horsey,ɔʔʷi:,2
+1668,Patrick,18,horsey,ɔgʷi:,2
+1669,Patrick,18,horsey,ɔʔi::,2
+1670,Patrick,18,horsey,ɔʔi::,2
+1671,Patrick,18,knee,əni:,2
+1672,Patrick,18,more,əmɔh,2
+1673,Patrick,18,more,ɪməʊⁿ,2
+1674,Patrick,18,no,ɪnəʊ,2
+1675,Patrick,18,no,ənəʊ,2
+1676,Patrick,18,no,iɳεʊʔ,2
+1677,Patrick,18,no,ənəʊn,2
+1678,Patrick,18,no,ɪnəʊ,2
+1679,Patrick,18,no,ənəʊ,2
+1680,Patrick,18,ow,i:ʔaʉ:,2
+1681,Patrick,18,ow,ə:ʔɔ:ʊ,2
+1682,Patrick,18,ow,i:ʔə:ʔ,2
+1683,Patrick,18,ow,a:ʷəʊ,2
+1684,Patrick,18,uh oh,ʌhʔɑ:əʊ,2
+1685,Patrick,18,uh oh,ɔʔəʊ:,2
+1686,Patrick,18,uh oh,ʌhʔəʊ:,2
+1687,Patrick,18,uh oh,ɔʔəʊ:,2
+1688,Patrick,18,uh oh,ʌhʔəʊ:,2
+1689,Patrick,18,quack quack,ɪ εɢ ɪ a,2
+1690,Patrick,18,quack quack,ɑɢ aʔ,2
+1691,Patrick,18,squeak squeak,u:ʔɹi:k,2
+1692,Rachel,17,duck,ʊŋkəkx,2
+1693,Rachel,17,hello,aɪjɔ,2
+1694,Rachel,17,house,ɒwəs,2
+1695,Tania,18,asleep,ɪsɪ:,2
+1696,Tania,18,Iggle-piggle,ɔgɪk,2
+1697,Tania,18,where,æ:wə,2
+1698,Tobias,18,eeyore,iːjɔː,2
+1699,Tobias,18,eeyore,iːjɔ,2
+1700,Tobias,18,eeyore,iːjʊ,2
+1701,Tobias,18,eeyore,ijɔː,2
+1702,Tobias,18,honk honk,ɒ  ʔəː,2
+1703,Tobias,18,honk honk,əʊɣ  ɜː,2
+1704,Tobias,18,honk honk,ɒ ɒ ɒ,2
+1705,Tobias,18,neenaw,iːːna,2
+1706,Tobias,18,that,ədaʔ,2
+1707,Tobias,18,there,ɪdɛː,2
+1708,Tobias,18,what's that,ɪzsaʔ,2
+1709,Tobias,18,what's that,ɪzʲaʔ,2
+1710,Tobias,18,woof woof,ɪʊ  ʊɸ,2
+1711,Tobias,18,woof woof,ə̃ ə̃ɸ,2
+1712,Atte,20,ääni,æ:ni,2
+1713,Atte,20,äiti,æiti,2
+1714,Atte,20,äiti,æiti,2
+1715,Atte,20,äiti,æiti,2
+1716,Atte,20,api,api,2
+1717,Atte,20,api,api,2
+1718,Atte,20,api,api,2
+1719,Atte,20,api,api,2
+1720,Atte,20,api,api,2
+1721,Atte,20,auto,auto,2
+1722,Atte,20,auto,autoa,2
+1723,Atte,20,auto,auto:,2
+1724,Atte,20,auto,auto,2
+1725,Atte,20,auto,auto,2
+1726,Atte,20,auto,auto,2
+1727,Atte,20,auto,auto,2
+1728,Atte,20,auto,auto,2
+1729,Atte,20,auto,auto,2
+1730,Atte,20,auto,auto,2
+1731,Atte,20,auto,auto,2
+1732,Atte,20,auto,auto,2
+1733,Atte,20,auto,auto,2
+1734,Atte,20,auto,auto,2
+1735,Atte,20,auto,auto,2
+1736,Atte,20,auto,auto,2
+1737,Atte,20,auto,auto,2
+1738,Atte,20,auto,auto,2
+1739,Atte,20,auto,auto,2
+1740,Atte,20,auto,auto,2
+1741,Atte,20,auto,auto,2
+1742,Atte,20,auto,auto,2
+1743,Atte,20,isi,içi,2
+1744,Atte,20,isi,aiçi,2
+1745,Atte,20,isi,ihi,2
+1746,Atte,20,isi,içi,2
+1747,Atte,20,isi,içi,2
+1748,Atte,20,isi,içi,2
+1749,Atte,20,isi,içi,2
+1750,Atte,20,isi,içi,2
+1751,Atte,20,kala,ala,2
+1752,Atte,20,sammui,autum,2
+1753,Atte,20,sammui,autum,2
+1754,Atte,20,sammui,autum,2
+1755,Atte,20,sammui,autum,2
+1756,Atte,20,sammui,autum,2
+1757,Eelis,20,Eetu,e:tu,2
+1758,Eelis,20,Eetu,e:tu,2
+1759,Eelis,20,räppäa,opo,2
+1760,Eliisa,15,"haloo, hallo",a.o,2
+1761,Eliisa,15,"haloo, hallo",a.o:,2
+1762,Eliisa,15,isi,içi,2
+1763,Eliisa,15,isi,ihi,2
+1764,Eliisa,15,isi,içi,2
+1765,Eliisa,15,isi,içi,2
+1766,Eliisa,15,isi,içi,2
+1767,Eliisa,15,isi,içi,2
+1768,Eliisa,15,isi,içi,2
+1769,Eliisa,15,isi,içi,2
+1770,Eliisa,15,isi,içi,2
+1771,Eliisa,15,isi,içi,2
+1772,Eliisa,15,isi,içi,2
+1773,Eliisa,15,isi,içi,2
+1774,Eliisa,15,juusto,u:stu,2
+1775,Eliisa,15,juusto,u:hto,2
+1776,Eliisa,15,juusto,u:sto,2
+1777,Eliisa,15,juusto,u:stu,2
+1778,Eliisa,15,juusto,u:stu,2
+1779,Eliisa,15,juusto,u:stu,2
+1780,Eliisa,15,juusto,u:stu,2
+1781,Eliisa,15,juusto,u:stu,2
+1782,Eliisa,15,juusto,u:stu,2
+1783,Eliisa,15,juusto,u:stu,2
+1784,Eliisa,15,juusto,u:sto,2
+1785,Eliisa,15,oho,oho,2
+1786,Eliisa,15,oho,uhu,2
+1787,Eliisa,15,oho,oho,2
+1788,Eliisa,15,oho,oho,2
+1789,Eliisa,15,piiloon,i.o:,2
+1790,Mira,17,täällä,æ:læ,2
+1791,Sini,15,heihei,ei.ei,2
+1792,Sini,15,jugurtti,uku,2
+1793,Sini,15,juna,u.a,2
+1794,Sini,15,leipä,eipæ,2
+1795,Sini,15,nami,ami,2
+1796,Sini,15,napa,apa,2
+1797,Sini,15,viili,i:.i,2
+1798,Sini,15,hauhau,au.au,2
+1799,Hiromi,21,ãnjo,aija,2
+1800,Hiromi,21,iː ne,iː ne,2
+1801,Takeru,21,aiai,aijai,2
+1802,Takeru,21,ɕɯɕːɯː,içʔʝi,2
+1803,Takeru,21,hana,ana,2
+1804,Takeru,21,iː ne,iː ne,2
+1805,Takeru,21,jatːe,aːte,2
+1806,Haruo,20,are,aɾe:,2
+1807,Haruo,20,are,aɾe:,2
+1808,Haruo,20,are,aɾe:,2
+1809,Haruo,20,ija,ɪja,2
+1810,Haruo,20,ija,ɪja,2
+1811,Haruo,20,itai,ɪta:ɪ:,2
+1812,Kazuko,15,ame,ʌmɪ,2
+1813,Kazuko,15,umi,ɪmɪ:,2
+1814,Kazuko,15,omutsu,ɔmʊʔ,2
+1815,Afan,22,AUNTI,ənti,2
+1816,Afan,22,anda,ənɖɑ,2
+1817,Afan,22,anda,ənɖɑ,2
+1818,Afan,22,UNCLE,ənka,2
+1819,Afan,22,UNCLE,ənkəl,2
+1820,Afan,22,UNCLE,ənka,2
+1821,Afan,22,UNCLE,ənka,2
+1822,Afan,22,UNCLE,ənka,2
+1823,Afan,22,UNCLE,ənka,2
+1824,Afan,22,UNCLE,ənka,2
+1825,Radia,19,oho!,əxo,2
+1826,Radia,19,acha,əʃə,2
+1827,Shazim,25,EYES,a:ja:,2
+1828,Shazim,25,ajao,a:du,2
+1829,Shazim,25,AEROPLANE,aoplæn,2
+1830,Shazim,25,AEROPLANE,a:ple:n,2
+1831,Shazim,25,yay kya hai,e:tʃiə e,2
+1832,Shazim,25,yay kya hai,atla:,2
+1833,Shazim,25,yay kya hai,e:ta:,2
+1834,Shazim,25,yay kya hai,e:tja:,2
+1835,Shazim,25,yay kya hai,idja:,2
+1836,Shazim,25,yay kya hai,i:tja e,2
+1837,Shazim,25,yay maon hai,i: məu,2
+1838,Adeline,25,boum,bubu,2
+1839,Adeline,25,chat,pa a va,2
+1840,Adeline,25,chat,la va,2
+1841,Adeline,25,coucou,kuku,2
+1842,Adeline,25,coucou,kuku,2
+1843,Adeline,25,coucou,kuku,2
+1844,Adeline,25,coucou,kuku,2
+1845,Adeline,25,coucou,kuku,2
+1846,Adeline,25,coucou,kuku,2
+1847,Adeline,25,coucou,kuɣu,2
+1848,Adeline,25,dodo,tutu,2
+1849,Adeline,25,là,da ta,2
+1850,Adeline,25,maman,mamɑ,2
+1851,Adeline,25,maman,mamɑ,2
+1852,Adeline,25,maman,mamɑ,2
+1853,Adeline,25,papa,papa,2
+1854,Adeline,25,papa,papa,2
+1855,Adeline,25,voilà,wala,2
+1856,Charles,18,attend,ʔaʨə,2
+1857,Charles,18,auto,hɔto,2
+1858,Charles,18,c'est beau,habo:,2
+1859,Charles,18,c'est bon,habo,2
+1860,Charles,18,chapeau,hapo,2
+1861,Charles,18,chaussures,ʒaʒo,2
+1862,Charles,18,coucou,tʉtʉ,2
+1863,Charles,18,coucou,toto,2
+1864,Charles,18,coucou,tʉtʉ,2
+1865,Charles,18,coucou,toto,2
+1866,Charles,18,coucou,toto,2
+1867,Charles,18,garçon,haʒœ,2
+1868,Charles,18,garçon,haʐœ,2
+1869,Charles,18,garçon,haʃɔ,2
+1870,Charles,18,garçon,haʒœ,2
+1871,Charles,18,garçon,haʒœ,2
+1872,Charles,18,lapin,haba,2
+1873,Charles,18,lapin,ɦapa,2
+1874,Charles,18,lolo,ʎoʎo,2
+1875,Charles,18,lolo,biʎə,2
+1876,Charles,18,maman,mama,2
+1877,Charles,18,maman,mhamə,2
+1878,Charles,18,maman,mʌma,2
+1879,Charles,18,maman,mɛma,2
+1880,Charles,18,maman,mama,2
+1881,Charles,18,maman,mama,2
+1882,Charles,18,maman,mama,2
+1883,Charles,18,maman,mama,2
+1884,Charles,18,maman,mama,2
+1885,Charles,18,maman,mama,2
+1886,Charles,18,non-non,nɔnɔ,2
+1887,Charles,18,non-non,hənɔ,2
+1888,Charles,18,non-non,nɛna,2
+1889,Charles,18,non-non,nono,2
+1890,Charles,18,non-non,nəno,2
+1891,Charles,18,non-non,nəno,2
+1892,Charles,18,non-non,nəno,2
+1893,Charles,18,non-non,nəno,2
+1894,Charles,18,non-non,nəno,2
+1895,Charles,18,non-non,nəno,2
+1896,Charles,18,non-non,nəno,2
+1897,Charles,18,papa,papa,2
+1898,Charles,18,papa,papa,2
+1899,Charles,18,papa,papa,2
+1900,Charles,18,poupée,bapa,2
+1901,Charles,18,va pas,hapa,2
+1902,Charles,18,voire,ɦəva,2
+1903,Gaël,22,accrocher,xʁoʃe,2
+1904,Gaël,22,accrocher,xoʃe,2
+1905,Gaël,22,ballon,lalo:,2
+1906,Gaël,22,bébé,bebe,2
+1907,Gaël,22,bébé,bebe,2
+1908,Gaël,22,bébé,bebe,2
+1909,Gaël,22,bébé,bebe,2
+1910,Gaël,22,bébé,bebe,2
+1911,Gaël,22,bébé,bebe,2
+1912,Gaël,22,bébé,bebe,2
+1913,Gaël,22,bébé,bebe,2
+1914,Gaël,22,bébé,bebe,2
+1915,Gaël,22,bébé,bebe,2
+1916,Gaël,22,bébé,bebe,2
+1917,Gaël,22,bébé,bebe,2
+1918,Gaël,22,c'est ça,sesa,2
+1919,Gaël,22,casser,sase,2
+1920,Gaël,22,chercher,ʃaʃe,2
+1921,Gaël,22,dodo,dodo,2
+1922,Gaël,22,Gael?,gaʔal,2
+1923,Gaël,22,maman,mama,2
+1924,Gaël,22,maman,mama,2
+1925,Gaël,22,maman,mama,2
+1926,Gaël,22,maman,mama,2
+1927,Gaël,22,papa,papa,2
+1928,Gaël,22,rouge,rojo,2
+1929,Gaël,22,tout seul,tusɛ,2
+1930,Gaël,22,voiture,tɛty,2
+1931,Gaël,22,voiture,tɛty,2
+1932,Laurent,17,allo,ʔøalo,2
+1933,Laurent,17,ballon,palɔ,2
+1934,Laurent,17,bébé,bəbə,2
+1935,Laurent,17,brosse,bəla,2
+1936,Laurent,17,brosse,pʌla,2
+1937,Laurent,17,caca,kɒka,2
+1938,Laurent,17,canard coincoin,kɔɭa,2
+1939,Laurent,17,canard coincoin,kɔlɔa,2
+1940,Laurent,17,chapeau,bolo,2
+1941,Laurent,17,chapeau,bobo,2
+1942,Laurent,17,chapeau,pobo,2
+1943,Laurent,17,chapeau,bɔɟə,2
+1944,Laurent,17,chapeau,bøilø,2
+1945,Laurent,17,chapeau,bølo,2
+1946,Laurent,17,chaussures,ʃoʃy,2
+1947,Laurent,17,coucou,kuku,2
+1948,Laurent,17,coucou,kukɔ:,2
+1949,Laurent,17,coucou,kɤkɤ,2
+1950,Laurent,17,coucou,tɤdɤ,2
+1951,Laurent,17,cuillère,kola,2
+1952,Laurent,17,cuillère,kɔja,2
+1953,Laurent,17,de l'eau,dəlo,2
+1954,Laurent,17,de l'eau,ʔθdəlo,2
+1955,Laurent,17,de l'eau,tola,2
+1956,Laurent,17,de l'eau,bəlo,2
+1957,Laurent,17,de l'eau,tølo,2
+1958,Laurent,17,Didier,dədjɨ,2
+1959,Laurent,17,dodo,dodɔ,2
+1960,Laurent,17,gateau,tato,2
+1961,Laurent,17,gateau,təto,2
+1962,Laurent,17,gateau,tatø,2
+1963,Laurent,17,gateau,totot,2
+1964,Laurent,17,kekette,kake,2
+1965,Laurent,17,Kola,kɔla,2
+1966,Laurent,17,Kola,kəla,2
+1967,Laurent,17,Kola,kolɛ̃,2
+1968,Laurent,17,Kola,xola,2
+1969,Laurent,17,Kola,kola,2
+1970,Laurent,17,maman,mama,2
+1971,Laurent,17,maman,mʌmɛ,2
+1972,Laurent,17,maman,mamʌ,2
+1973,Laurent,17,moi,pɔmaɥa,2
+1974,Laurent,17,moi,jemo,2
+1975,Laurent,17,nano,nano,2
+1976,Laurent,17,nano,nanʌ,2
+1977,Laurent,17,nano,na:nʌ,2
+1978,Laurent,17,non,na:nɔ,2
+1979,Laurent,17,papa,papa,2
+1980,Laurent,17,papa,bapa,2
+1981,Laurent,17,voilà,ba:laʔ,2
+1982,Laurent,17,miam,mənam,2
+1983,Laurent,17,miam,mʌmɛ,2
+1984,Laurent,17,miam,mamæ,2
+1985,Laurent,17,miam,mamam,2
+1986,Noël,18,ballon,banɵ,2
+1987,Noël,18,banane,baɖa,2
+1988,Noël,18,banane,bəʤæ,2
+1989,Noël,18,canard,tɛta,2
+1990,Noël,18,canard,tætæ,2
+1991,Noël,18,canard,batæ,2
+1992,Noël,18,chapeaux,pʌpʌ,2
+1993,Noël,18,dodo,ƫəƫo,2
+1994,Noël,18,fraise,wʉʒʉ,2
+1995,Noël,18,gateau,taƫɵ,2
+1996,Noël,18,gateau,taƫo,2
+1997,Noël,18,lapin,pəpa,2
+1998,Noël,18,lapin,papɛ,2
+1999,Noël,18,lapin,papa,2
+2000,Noël,18,lapin,papʌ,2
+2001,Noël,18,lapin,papɛm,2
+2002,Noël,18,lapin,papɛ,2
+2003,Noël,18,lapin,papɛ,2
+2004,Noël,18,lapin,papɛ,2
+2005,Noël,18,lapin,papɛ,2
+2006,Noël,18,lapin,papɛ,2
+2007,Noël,18,main,pæma,2
+2008,Noël,18,maman,mama,2
+2009,Noël,18,wouf wouf,wawa,2
+2010,Noël,18,wouf wouf,wowɔ,2
+2011,Noël,18,wouf wouf,wawɔ,2
+2012,Noël,18,wouf wouf,ʔɵvwa,2
+2013,Noël,18,wouf wouf,ʔɔwo,2
+2014,Noël,18,wouf wouf,wɤwo,2
+2015,Noël,18,wouf wouf,pøwa,2
+2016,Noël,18,wouf wouf,wøwa,2
+2017,Noël,18,pain,ʔapæ,2
+2018,Noël,18,paletot,papa,2
+2019,Noël,18,papa,papa,2
+2020,Noël,18,par là,pɜɭa,2
+2021,Noël,18,peinture,papan,2
+2022,Noël,18,peinture,pəpal,2
+2023,Noël,18,poupée,pəpe,2
+2024,Noël,18,savon,ʔəwə,2
+2025,Noël,18,tiens,tɛtɛɲ,2
+2026,Alice,16,baby,beɪbi,2
+2027,Alice,16,baby,beɪbi,2
+2028,Alice,16,baby,beɪbi,2
+2029,Alice,16,baby,beɪbi,2
+2030,Alice,16,baby,beɪbi,2
+2031,Alice,16,bang,pɑ̃i,2
+2032,Alice,16,bottle,bɑdiç,2
+2033,Alice,16,bottle,pɑ:di,2
+2034,Alice,16,bottle,pɑ:di,2
+2035,Alice,16,bunny,beɪŋji,2
+2036,Alice,16,clean,ti:ni,2
+2037,Alice,16,daddy,dɑ:di,2
+2038,Alice,16,daddy,dɑ:di,2
+2039,Alice,16,down,dɑ̃ʊ̃,2
+2040,Alice,16,down,dɑ̃ʊ̃,2
+2041,Alice,16,elephant,ʔeɪjɪ,2
+2042,Alice,16,elephant,ʔɑī:jʌ,2
+2043,Alice,16,elephant,ʔɑi:njə,2
+2044,Alice,16,elephant,ʔæ:ɪjɪ,2
+2045,Alice,16,flowers,pɑ:ji,2
+2046,Alice,16,flowers,padi,2
+2047,Alice,16,flowers,fa:di,2
+2048,Alice,16,lady,jɛ:ji,2
+2049,Alice,16,lady,lɛji,2
+2050,Alice,16,mommy,mɑ:ɲi,2
+2051,Alice,16,mommy,mɑ:ɲi,2
+2052,Alice,16,plate,pɑɪjɪʒ,2
+2053,Alice,16,shiny,tɑ:ji,2
+2054,Alice,16,shiny,daji,2
+2055,Alice,16,shiny,hetɑɪɲ,2
+2056,Deborah,16,around&around,waʊwaʊ,2
+2057,Deborah,16,around&around,waʊwʌ,2
+2058,Deborah,16,baby,be:bi,2
+2059,Deborah,16,baby,be:bi,2
+2060,Deborah,16,baby,bibi,2
+2061,Deborah,16,baby,bebi,2
+2062,Deborah,16,baby,be:bi,2
+2063,Deborah,16,baby,be:bi,2
+2064,Deborah,16,baby,be:bi,2
+2065,Deborah,16,baby,be:bi,2
+2066,Deborah,16,baby,be:bi,2
+2067,Deborah,16,baby,be:bi,2
+2068,Deborah,16,baby,be:bi,2
+2069,Deborah,16,baby,be:bi,2
+2070,Deborah,16,baby,be:bi,2
+2071,Deborah,16,baby,be:bi,2
+2072,Deborah,16,baby,be:bi,2
+2073,Deborah,16,baby,be:bi,2
+2074,Deborah,16,baby,be:bi,2
+2075,Deborah,16,baby,be:bi,2
+2076,Deborah,16,baby,be:bi,2
+2077,Deborah,16,baby,be:bi,2
+2078,Deborah,16,baby,be:bi,2
+2079,Deborah,16,baby,be:bi,2
+2080,Deborah,16,baby,be:bi,2
+2081,Deborah,16,baby,be:bi,2
+2082,Deborah,16,bagel,bʌbu,2
+2083,Deborah,16,belly button,zbewə,2
+2084,Deborah,16,belly button,kIzebʌ,2
+2085,Deborah,16,belly button,zəbʌ,2
+2086,Deborah,16,bunny,baɪ̃:ɪ,2
+2087,Deborah,16,bus,bʌbʌ,2
+2088,Deborah,16,bye,gubɑɪ,2
+2089,Deborah,16,car,ʃɪ kɑ,2
+2090,Deborah,16,cock-a-doodle-do,dʌʔdu,2
+2091,Deborah,16,cracker,wæwə,2
+2092,Deborah,16,kittycat,kɪkæ,2
+2093,Deborah,16,"mommy, mama",mɑmi,2
+2094,Deborah,16,"mommy, mama",mʌmɑ,2
+2095,Deborah,16,pickle,bɑbɑ,2
+2096,Emily,15,Bɑmbi,pɑpi,2
+2097,Emily,15,Bɑmbi,bɑ:əpi,2
+2098,Emily,15,beɑds,ʔɪbɪ,2
+2099,Emily,15,beɑds,ʔʊβi,2
+2100,Emily,15,button,pʌte,2
+2101,Emily,15,button,pɑ:ti,2
+2102,Emily,15,cɑr,kɑ:ʔɑ,2
+2103,Emily,15,choochoo,tʊtœ,2
+2104,Emily,15,Cookie,kɛkɛ,2
+2105,Emily,15,Cookie,həki,2
+2106,Emily,15,Ernie,hœʌnjʌ,2
+2107,Emily,15,no,nono,2
+2108,Emily,15,no,nænʌ,2
+2109,Emily,15,no,nəno,2
+2110,Emily,15,no,nʌnʌ,2
+2111,Emily,15,no,nəno,2
+2112,Emily,15,no,nʌnʌ,2
+2113,Emily,15,no,nʌnʌ,2
+2114,Emily,15,Oscɑr,ʔɑ:kɛ,2
+2115,Emily,15,P,pɪhɪ,2
+2116,Emily,15,tickle-tickle,tjøkɨ,2
+2117,Emily,15,tick-tock,tɪtɪ,2
+2118,Emily,15,walking,wɔki,2
+2119,Emily,15,wɑter,wɑ:wi,2
+2120,Emily,15,wɑter,wɑ:mɪ,2
+2121,Emily,15,wɑter,hwɑ:wə,2
+2122,Emily,15,wɑter,wɑ:wi,2
+2123,Emily,15,wɑter,wɑ:wi,2
+2124,Emily,15,wɑter,wɑ:wi,2
+2125,Emily,15,wɑter,wɑ:wi,2
+2126,Emily,15,wɑter,wɑ:wi,2
+2127,Emily,15,wɑter,wɑ:mɪ,2
+2128,Molly,16,baby,pebi,2
+2129,Molly,16,baby,pebi,2
+2130,Molly,16,camera,kɑmə,2
+2131,Molly,16,choochoo,tutu,2
+2132,Molly,16,choochoo,tutu,2
+2133,Molly,16,choochoo,tu: tu,2
+2134,Molly,16,choochoo,tutu,2
+2135,Molly,16,choochoo,tutu,2
+2136,Molly,16,choochoo,tutu,2
+2137,Molly,16,choochoo,tutu,2
+2138,Molly,16,choochoo,tutu,2
+2139,Molly,16,click,kɪki,2
+2140,Molly,16,click,kæki,2
+2141,Molly,16,click,kækæ,2
+2142,Molly,16,click,kæki,2
+2143,Molly,16,click,kæki,2
+2144,Molly,16,click,kækæ,2
+2145,Molly,16,click,kækæ,2
+2146,Molly,16,glasses,kækæ,2
+2147,Molly,16,glasses,kɑki,2
+2148,Molly,16,glasses,tɑkɪ,2
+2149,Molly,16,glasses,kækæ,2
+2150,Molly,16,glasses,kɑkɪ,2
+2151,Molly,16,glasses,kɑʔkɪ,2
+2152,Molly,16,glasses,kɑki,2
+2153,Molly,16,glasses,tɑkɪ,2
+2154,Molly,16,glasses,tɑkɪ,2
+2155,Molly,16,glasses,tɑkɪ,2
+2156,Molly,16,glasses,kækæ,2
+2157,Molly,16,glasses,kɑki,2
+2158,Molly,16,good girl,gʊgə:,2
+2159,Molly,16,good girl,gʊgə:,2
+2160,Molly,16,gran'ma,mɛʊwʌ,2
+2161,Molly,16,gran'pa,kæpɔ,2
+2162,Molly,16,green,kɤ:ni,2
+2163,Molly,16,green,kɤ:ni,2
+2164,Molly,16,mama,ʔəmæ,2
+2165,Molly,16,mama,mɑmɑ,2
+2166,Molly,16,mama,mɑmɑ,2
+2167,Molly,16,open,hɔpɔ,2
+2168,Molly,16,open,hɔpɔ,2
+2169,Molly,16,open,hɔpɔ,2
+2170,Molly,16,open,hɔpɔ,2
+2171,Molly,16,picture,pœpœ,2
+2172,Molly,16,picture,pœkœ,2
+2173,Molly,16,picture,pœpœ,2
+2174,Molly,16,picture,pœpœ,2
+2175,Molly,16,walk-walk,hɔkɑ,2
+2176,Molly,16,walk-walk,wɔkæ,2
+2177,Molly,16,walk-walk,wɑkə,2
+2178,Molly,16,walk-walk,wɔkə,2
+2179,Molly,16,walk-walk,wɑkwɑk,2
+2180,Molly,16,walk-walk,wɑkə,2
+2181,Molly,16,walk-walk,wɔkə,2
+2182,Sean,15,baa,pɑbɑ,2
+2183,Sean,15,berries,bɛbiʃ,2
+2184,Sean,15,bird,pɚbwɚ,2
+2185,Sean,15,blocks,tɛnpɤk,2
+2186,Sean,15,blocks,ʔəbæ,2
+2187,Sean,15,blue,bælʊ,2
+2188,Sean,15,book,tebyk,2
+2189,Sean,15,butterfly,bɑ:ijɑɪ,2
+2190,Sean,15,butterfly,pʌjʌɪ,2
+2191,Sean,15,cock-a-coodle-do,dudldu,2
+2192,Sean,15,mama,mɔmɔ,2
+2193,Sean,15,mama,mɑmɑp,2
+2194,Sean,15,mama,mɔmɔ,2
+2195,Sean,15,moo,nomɔ,2
+2196,Sean,15,snowman,mɪmɪ:,2
+2197,Sean,15,this,dʒɨdʒɨʃ,2
+2198,Timmy,unknown,bɑlloon,ʔæbæ,2
+2199,Timmy,unknown,bɑlloon,bɛbɛ,2
+2200,Timmy,unknown,bottle / 'bobby',bɑbi,2
+2201,Timmy,unknown,bubble,bæby,2
+2202,Timmy,unknown,bubble,ʔæby:,2
+2203,Timmy,unknown,bubble,bɛvy,2
+2204,Timmy,unknown,bubble,bɑpy̥,2
+2205,Timmy,unknown,bubble,bæbβy,2
+2206,Timmy,unknown,bubble,bæby,2
+2207,Timmy,unknown,bubble,bæby,2
+2208,Timmy,unknown,bubble,bæby,2
+2209,Timmy,unknown,bubble,bæby,2
+2210,Timmy,unknown,bubble,bæby,2
+2211,Timmy,unknown,bubble,bæby,2
+2212,Timmy,unknown,bubble,bæby,2
+2213,Timmy,unknown,bubble,bæby,2
+2214,Timmy,unknown,bubble,bæby,2
+2215,Timmy,unknown,bubble,bæby,2
+2216,Timmy,unknown,bubble,bæby,2
+2217,Timmy,unknown,bubble,bæby,2
+2218,Timmy,unknown,bubble,bæby,2
+2219,Timmy,unknown,bubble,bæby,2
+2220,Timmy,unknown,bubble,bæby,2
+2221,Timmy,unknown,bubble,bæby,2
+2222,Timmy,unknown,bubble,bæby,2
+2223,Timmy,unknown,coffee,gɑ:gi,2
+2224,Timmy,unknown,computer,kugɪ,2
+2225,Timmy,unknown,lizɑrd,jɑɪjɑʔ,2
+2226,Timmy,unknown,owl sound 'hoo-hoo',ʔʊ:bʊ:,2
+2227,Timmy,unknown,light,jæ:gæ,2
+2228,Cara,17,baba,baba,2
+2229,Cara,17,baba,bəba,2
+2230,Cara,17,baby,mbɑːbe,2
+2231,Cara,17,baby,bæbai,2
+2232,Cara,17,baby,bɛːbeɪ,2
+2233,Cara,17,banana,mɛːnə,2
+2234,Cara,17,banana,meɪnə,2
+2235,Cara,17,banana,meɪnɛ,2
+2236,Cara,17,banana,mɛːnə,2
+2237,Cara,17,car,kɑːxɑ,2
+2238,Cara,17,mama,məːma,2
+2239,Cara,17,mama,mæmæː,2
+2240,Cara,17,mama,mɛmə,2
+2241,Cara,17,miaow,wɪjaʊːː,2
+2242,Cara,17,no,nɛːnəʊʔ,2
+2243,Cara,17,there you are,dɪːwaʊ,2
+2244,Cara,17,there you are,deəwɛː,2
+2245,Cara,17,there you are,deʊpə,2
+2246,Cara,17,woof,hʊ  hʊɸ,2
+2247,Ella,16,baby,beɪ:bi:,2
+2248,Ella,16,baby,beɪbɪn,2
+2249,Ella,16,baby,beɪʔbiç,2
+2250,Ella,16,baby,beɪ:bi:,2
+2251,Ella,16,baby,beɪbɪn,2
+2252,Ella,16,bed,bεʷɪ,2
+2253,Ella,16,bed,bεte,2
+2254,Ella,16,bottle,bɑta:ɫ,2
+2255,Ella,16,bottle,bʷataʉ:,2
+2256,Ella,16,bottle,bɑtɪɫ,2
+2257,Ella,16,bottle,wɑta:ə,2
+2258,Ella,16,bottle,mɑtəʊ:,2
+2259,Ella,16,bottle,wɑtəl,2
+2260,Ella,16,bottle,ʔɑtəl,2
+2261,Ella,16,bottle,bɔtɑʉ,2
+2262,Ella,16,bottle,bɑtʊɫ,2
+2263,Ella,16,bottle,pɑtɜɫ,2
+2264,Ella,16,bottle,mbɑtəl,2
+2265,Ella,16,bottle,bɑta:ɫ,2
+2266,Ella,16,bye,ba:ʔaɪ:,2
+2267,Ella,16,bye,baʔbaɪ:,2
+2268,Ella,16,bye,ba:baɪx,2
+2269,Ella,16,bye,ba baɪs,2
+2270,Ella,16,bye,baʔbaɪ:,2
+2271,Ella,16,bye,baʔdʷaɪ:,2
+2272,Ella,16,bye,baʔbaɪ,2
+2273,Ella,16,daddy,dadiç,2
+2274,Ella,16,door,dɔʔɪ,2
+2275,Ella,16,glasses,kaʔʃi,2
+2276,Ella,16,hot,hæʔʧu,2
+2277,Ella,16,hot,hæʧu,2
+2278,Ella,16,house,haʊwuz,2
+2279,Ella,16,house,haʊʷus,2
+2280,Ella,16,house,haʊwuɬ,2
+2281,Ella,16,house,haʊwuʂ,2
+2282,Ella,16,house,həʉʷus,2
+2283,Ella,16,house,haʊʷus,2
+2284,Ella,16,mummy,mʊmiⁿ,2
+2285,Ella,16,mummy,mʊmiç,2
+2286,Ella,16,mummy,mʊmis,2
+2287,Ella,16,mummy,mʊmi:z,2
+2288,Ella,16,mummy,mʊmiʒ,2
+2289,Ella,16,pap pap,mbæʔpa:p,2
+2290,Ella,16,pap pap,pæʔpap,2
+2291,Ella,16,piggie,pɪgi:,2
+2292,Ella,16,piggie,pεpi,2
+2293,Ella,16,piggie,pɪdgiç,2
+2294,Ella,16,piggie,pɪge,2
+2295,Ella,16,piggie,pɪgi:,2
+2296,Ella,16,plate,ja:tə,2
+2297,Ella,16,plate,kəleʦ,2
+2298,Ella,16,plate,məje:ʧ,2
+2299,Ella,16,plate,fəleɪʧ,2
+2300,Ella,16,toast,kəjəʊs,2
+2301,Ella,16,toast,kətəʊɸs,2
+2302,Ella,16,toast,kətəʊɸs,2
+2303,Ella,16,ah ah,hæʔæʔ,2
+2304,Flora,18,baby,mbibi,2
+2305,Flora,18,baby,bibi,2
+2306,Flora,18,baby,mpeɪbɪ,2
+2307,Flora,18,baby,bipi,2
+2308,Flora,18,baby,bibi,2
+2309,Flora,18,baby,bibi,2
+2310,Flora,18,baby,pipi,2
+2311,Flora,18,baby,pibi,2
+2312,Flora,18,baby,bɪbɪ,2
+2313,Flora,18,baby,bεbε,2
+2314,Flora,18,balloon,bɪlɔn,2
+2315,Flora,18,banana,nɑnɑ,2
+2316,Flora,18,) bib on,bɪbən,2
+2317,Flora,18,) bib on,bibɑn,2
+2318,Flora,18,) bib on,bɪbɑnt,2
+2319,Flora,18,) bib on,bɪbən,2
+2320,Flora,18,) bib on,bɪbən,2
+2321,Flora,18,) bib on,bɪ:bən,2
+2322,Flora,18,) bib on,bɪban,2
+2323,Flora,18,) bib on,bɪbə:n,2
+2324,Flora,18,) bib on,bɪbən,2
+2325,Flora,18,) bib on,bɪ:bən,2
+2326,Flora,18,) bib on,bɪban,2
+2327,Flora,18,) bib on,bɪbən,2
+2328,Flora,18,) bib on,bɪbən,2
+2329,Flora,18,) bib on,bɪdə:m,2
+2330,Flora,18,) bib on,bɪmpʌm,2
+2331,Flora,18,) bib on,bɪba:nt,2
+2332,Flora,18,) bib on,bɪbæn,2
+2333,Flora,18,) bib on,bɪəbən,2
+2334,Flora,18,) bib on,bɪbən,2
+2335,Flora,18,) bib on,bibən,2
+2336,Flora,18,) bib on,bɪ:bən,2
+2337,Flora,18,) bib on,biban,2
+2338,Flora,18,) bib on,bibən,2
+2339,Flora,18,) bib on,bɪbət,2
+2340,Flora,18,) bib on,bɪbɑn,2
+2341,Flora,18,) bib on,bɪbant,2
+2342,Flora,18,) bib on,bɪbən,2
+2343,Flora,18,) bib on,bibən,2
+2344,Flora,18,) bib on,pɪbən,2
+2345,Flora,18,) bib on,bɪbən,2
+2346,Flora,18,) bib on,bibən,2
+2347,Flora,18,) bib on,bɪban,2
+2348,Flora,18,) bib on,bɪntbən,2
+2349,Flora,18,blanket,wəbæŋk,2
+2350,Flora,18,bunny,pʌni,2
+2351,Flora,18,cuddles,tatəʉs,2
+2352,Flora,18,cuddles,dadɔs,2
+2353,Flora,18,cuddles,dɔdɔs,2
+2354,Flora,18,cuddles,sada:s,2
+2355,Flora,18,cuddles,tədəs,2
+2356,Flora,18,cuddles,dædɔɪs,2
+2357,Flora,18,Elma,ʔəʊmε,2
+2358,Flora,18,giraffe,puwæʊ,2
+2359,Flora,18,giraffe,puwæɸ,2
+2360,Flora,18,giraffe,pʊwæf,2
+2361,Flora,18,hat on,hætɪnt,2
+2362,Flora,18,hat on,hætɪn,2
+2363,Flora,18,hat on,hætɪt,2
+2364,Flora,18,hat on,hætɪn,2
+2365,Flora,18,hat on,hætɪn,2
+2366,Flora,18,hat on,hætɪːn,2
+2367,Flora,18,keys,mətiʃ,2
+2368,Flora,18,lion,jæjən,2
+2369,Flora,18,lion,jæ:jəʊ:,2
+2370,Flora,18,monkey,mɔŋkɪ,2
+2371,Flora,18,monkey,bʌŋkεi,2
+2372,Flora,18,monkey,hmɔŋkiç,2
+2373,Flora,18,monkey,pɔŋkɪ,2
+2374,Flora,18,monkey,mɔŋkɪ,2
+2375,Flora,18,monkey,mɔŋkεɪ,2
+2376,Flora,18,monkey,mʊŋki,2
+2377,Flora,18,monkey,mɔŋkεɪ,2
+2378,Flora,18,monkey,mɔŋkεɪ,2
+2379,Flora,18,monkey,bæŋgɪ,2
+2380,Flora,18,monkey,mɔŋkɪː,2
+2381,Flora,18,monkey,mɔŋkɪ,2
+2382,Flora,18,night night,nənaɪt,2
+2383,Flora,18,off,ʔʊːʔɔːɸ,2
+2384,Flora,18,oh/ooh,ʔɔʔɔʊ,2
+2385,Flora,18,oh/ooh,ʔoʔo:,2
+2386,Flora,18,peek-a-boo,bɪxbɔ,2
+2387,Flora,18,peek-a-boo,bikpo:,2
+2388,Flora,18,peek-a-boo,pɪkbo:,2
+2389,Flora,18,peek-a-boo,pikpo:,2
+2390,Flora,18,rabbit,bæbɪt,2
+2391,Flora,18,uh-oh,ʔʊʔɔʊ,2
+2392,Flora,18,uh-oh,ʔæʔɔʊ:,2
+2393,Flora,18,yes please,gəpɪʃ,2
+2394,Flora,18,yes please,dɪbɪs,2
+2395,Ivy,17,baby,babiç,2
+2396,Ivy,17,baby,bεbi:,2
+2397,Ivy,17,baby,biβiⁿ,2
+2398,Ivy,17,baby,dabi:,2
+2399,Ivy,17,baby,babiç,2
+2400,Ivy,17,baby,bεbi:,2
+2401,Ivy,17,baby,bεbi:,2
+2402,Ivy,17,bye bye,babaɪç,2
+2403,Ivy,17,daddy,dadiç,2
+2404,Ivy,17,daddy,dætdiⁿ,2
+2405,Ivy,17,daddy,dadiç,2
+2406,Ivy,17,door,dəʊʔəʊ:ɦ,2
+2407,Ivy,17,door,dəʊʔoɦ,2
+2408,Ivy,17,door,dijɔ:,2
+2409,Ivy,17,giraffe,hija:əʊɸ,2
+2410,Ivy,17,Jessica,ʃisʃæ,2
+2411,Ivy,17,jumpy,ʤʊvɔɪⁿ,2
+2412,Ivy,17,jumpy,ʃɔpʃɪʃ,2
+2413,Ivy,17,jumpy,ʃɑpiç,2
+2414,Ivy,17,lion,jɑʔwi,2
+2415,Ivy,17,lion,jɑʔwi,2
+2416,Ivy,17,miaow,hijaʊ:,2
+2417,Ivy,17,miaow,hijaʊ:,2
+2418,Ivy,17,mummy,mɑmin,2
+2419,Ivy,17,mummy,mamiç,2
+2420,Ivy,17,mummy,mεmi,2
+2421,Ivy,17,mummy,mεmin,2
+2422,Ivy,17,mummy,mæmiⁿ,2
+2423,Ivy,17,mummy,mamiç,2
+2424,Ivy,17,mummy,mεmi,2
+2425,Ivy,17,rabbit,ɹaʔwiç,2
+2426,Ivy,17,row row,wa:ʔwəʊ:,2
+2427,Ivy,17,row row,wa:əro:,2
+2428,Ivy,17,snake,ʃi;jæ,2
+2429,Ivy,17,snake,ʃeɪ:jε,2
+2430,Ivy,17,teddy,hɪdiç,2
+2431,Ivy,17,teddy,dεdiç,2
+2432,Ivy,17,tractor,daɪʔtε,2
+2433,Ivy,17,what's that?,hɔɪʔzæʔ,2
+2434,Ivy,17,what's that?,hizjæ,2
+2435,Ivy,17,yay!,jəʔaɪ:,2
+2436,Ivy,17,yeah,hijε,2
+2437,Ivy,17,yeah,hijə:,2
+2438,Ivy,17,zebra,wεbə,2
+2439,Ivy,17,ribbit,wi:əɹi,2
+2440,Jude,15,baba,baba,2
+2441,Jude,15,baba,bafa,2
+2442,Jude,15,baba,bawa,2
+2443,Jude,15,baba,bɔbɑ,2
+2444,Jude,15,baba,baβaχ,2
+2445,Jude,15,baba,bʌba,2
+2446,Jude,15,baba,baba,2
+2447,Jude,15,baba,bava,2
+2448,Jude,15,baba,baba,2
+2449,Jude,15,baba,pʌbo,2
+2450,Jude,15,baba,baba,2
+2451,Jude,15,baba,baba,2
+2452,Jude,15,ball,bɒbɔ:,2
+2453,Jude,15,Barnaby,bɒbɤi,2
+2454,Jude,15,Barnaby,bɑbʷi,2
+2455,Jude,15,bubbles,babu,2
+2456,Jude,15,bubbles,babo,2
+2457,Jude,15,cake,kɪkɪ,2
+2458,Jude,15,cake,cɪcçɪ,2
+2459,Jude,15,caterpillar,pija,2
+2460,Jude,15,chocolate,ʃʊ̥ta,2
+2461,Jude,15,chocolate,tɕata,2
+2462,Jude,15,chocolate,ɕɔtə,2
+2463,Jude,15,circle,tɒtɬju,2
+2464,Jude,15,circle,tʊtʊ,2
+2465,Jude,15,circle,tʌtɬʌ,2
+2466,Jude,15,circle,tɬutɬu,2
+2467,Jude,15,circle,totχo,2
+2468,Jude,15,circle,tʌtɬʌ,2
+2469,Jude,15,dada,dadʑa,2
+2470,Jude,15,daddy,dadə,2
+2471,Jude,15,daddy,dati,2
+2472,Jude,15,daddy,dati,2
+2473,Jude,15,daddy,dati,2
+2474,Jude,15,daddy,dati,2
+2475,Jude,15,daddy,dati,2
+2476,Jude,15,daddy,dati,2
+2477,Jude,15,daddy,dati,2
+2478,Jude,15,daddy,dati,2
+2479,Jude,15,daddy,dati,2
+2480,Jude,15,dinner,nɪnɛ,2
+2481,Jude,15,dinner,nɪne,2
+2482,Jude,15,football,babɔ,2
+2483,Jude,15,football,pʌbɔ,2
+2484,Jude,15,football,babo,2
+2485,Jude,15,hiya,jaija,2
+2486,Jude,15,hiya,haje,2
+2487,Jude,15,hiya,jaija,2
+2488,Jude,15,in 'ere,nəna:,2
+2489,Jude,15,mummy,mʌmi,2
+2490,Jude,15,mummy,mami,2
+2491,Jude,15,noddy,nɒnɪ,2
+2492,Jude,15,ticktock,tuta:,2
+2493,Jude,15,uh-oh,ʔʌʔʌʔ,2
+2494,Jude,15,"yeah, yes",wɪjɛ,2
+2495,Jude,15,"yeah, yes",wəjɛ,2
+2496,Jude,15,meow,wawi,2
+2497,Jude,15,whee,waha:a,2
+2498,Lewis,18,all gone,ʔɔːvɒmʔ,2
+2499,Lewis,18,apple,ʔaʊbɛ,2
+2500,Lewis,18,ball,dɒɣʊ,2
+2501,Lewis,18,circle,geːgə,2
+2502,Lewis,18,circle,gɜgɛə,2
+2503,Lewis,18,circle,gɪːgə,2
+2504,Lewis,18,circle,tɛːgəː,2
+2505,Lewis,18,keys,gəʔɪ,2
+2506,Lewis,18,ladder,dɛːdə,2
+2507,Lewis,18,oh no,ʔɪʊnʊː,2
+2508,Lewis,18,oh no,ʔʌːnɔː,2
+2509,Lewis,18,there,dɛːjə,2
+2510,Lewis,18,tractor,ɸaʔtɛːːəː,2
+2511,Lewis,18,tractor,wɑʔndə,2
+2512,Lewis,18,tractor,dæːtʊ,2
+2513,Lewis,18,truck,tɪwʊ,2
+2514,Lewis,18,truck,təwʊːʔt,2
+2515,Lewis,18,truck,hɛːːʃʊʔs,2
+2516,Lewis,18,uh-oh,ʔɒʔɔː,2
+2517,Lewis,18,uh-oh,ʔəʔɔːɸ,2
+2518,Lewis,18,uh-oh,ʔʊʔʊːu,2
+2519,Lewis,18,choo-choo,fɪstɜː,2
+2520,Patrick,18,baby,beɪbeɪ:i,2
+2521,Patrick,18,baby,beɪbi:,2
+2522,Patrick,18,bath,baʔɪ,2
+2523,Patrick,18,bath,baʔɪ,2
+2524,Patrick,18,bee,wεbʷi:,2
+2525,Patrick,18,bee,bʷi:bʷi:,2
+2526,Patrick,18,book,bəʷʊʔ,2
+2527,Patrick,18,book,buʔug,2
+2528,Patrick,18,book,bəʷʊʔ,2
+2529,Patrick,18,cat,gəʔæ,2
+2530,Patrick,18,D2,di:du::,2
+2531,Patrick,18,D2,ditdu::,2
+2532,Patrick,18,D2,geɪ gu:n,2
+2533,Patrick,18,D2,giçdə:u:,2
+2534,Patrick,18,D2,digdu::,2
+2535,Patrick,18,daddy,dadi:,2
+2536,Patrick,18,daddy,ndadi:,2
+2537,Patrick,18,daddy,daɪdi::,2
+2538,Patrick,18,daddy,dagdi:,2
+2539,Patrick,18,daddy,dadgi:,2
+2540,Patrick,18,daddy,dadi:,2
+2541,Patrick,18,daddy,dadi:,2
+2542,Patrick,18,daddy,dadi:,2
+2543,Patrick,18,daddy,dadi:,2
+2544,Patrick,18,daddy,dadi:,2
+2545,Patrick,18,Doody,dəʊdi:,2
+2546,Patrick,18,Doody,dəʊ:ʔgi:,2
+2547,Patrick,18,Doody,dudi:,2
+2548,Patrick,18,Doody,duʔdi,2
+2549,Patrick,18,Doody,dəʊdi:,2
+2550,Patrick,18,Doody,dəʊdi:,2
+2551,Patrick,18,go,gəʔəʊ,2
+2552,Patrick,18,go,gəʔəʊ,2
+2553,Patrick,18,hat,həʔæ,2
+2554,Patrick,18,hello,ɹa:ʔəʊ,2
+2555,Patrick,18,horsey,hɔʔgɑʔ,2
+2556,Patrick,18,horsey,hɔʔhi::,2
+2557,Patrick,18,phone,waʔʊn,2
+2558,Patrick,18,phone,waʔeʊn,2
+2559,Patrick,18,phone,wa:ʔəʊ,2
+2560,Patrick,18,tractor,dakga:h,2
+2561,Patrick,18,water,waʔwɔ:,2
+2562,Patrick,18,water,wɔʔwɑ:,2
+2563,Patrick,18,water,wɔwɔ:,2
+2564,Patrick,18,water,waβwɔ:,2
+2565,Patrick,18,water,waʔwɔ:,2
+2566,Patrick,18,water,waʔwɔ:,2
+2567,Patrick,18,water,wɔʔwɑ:,2
+2568,Patrick,18,wheel,wi:jəʊ:,2
+2569,Patrick,18,woof woof,wʊʷuʔ,2
+2570,Rachel,17,all gone,guːgɒː,2
+2571,Rachel,17,baby,bəbiː,2
+2572,Rachel,17,baby,beɪbɪʔ,2
+2573,Rachel,17,baby,pəbɪː,2
+2574,Rachel,17,Beba [Rebecca],bɛbəːʦ,2
+2575,Rachel,17,Beba [Rebecca],bebəːθ,2
+2576,Rachel,17,bye,hɜbɑːeɪ,2
+2577,Rachel,17,bye,baː  hɪ,2
+2578,Rachel,17,bye,bɑːejɪ,2
+2579,Rachel,17,cat,kəjə,2
+2580,Rachel,17,cup of tea,gɒːkɪː,2
+2581,Rachel,17,doggy,gɒgiː,2
+2582,Rachel,17,doggy,gɒgɪː,2
+2583,Rachel,17,doggy,gɔgʷɪː,2
+2584,Rachel,17,door,dɒːʔə,2
+2585,Rachel,17,duck,kʊʔ  k,2
+2586,Rachel,17,fish,hɔwəʦ,2
+2587,Rachel,17,get you,gɒɪjə,2
+2588,Rachel,17,Makka Pakka,məmaː,2
+2589,Rachel,17,miaow,miːjaʊm,2
+2590,Rachel,17,Mummy,mɪəwɪ,2
+2591,Tania,18,baby,pi:bi,2
+2592,Tania,18,bag,bijə,2
+2593,Tania,18,bag,bijə,2
+2594,Tania,18,Daisy,dædi,2
+2595,Tania,18,ear,ʔiʔʊiə,2
+2596,Tania,18,elbow,bε:bo:,2
+2597,Tania,18,Iggle-piggle,gigɔ,2
+2598,Tania,18,mummy,pæmɪ,2
+2599,Tania,18,mummy,mʌmɪ,2
+2600,Tania,18,mummy,mʉmi,2
+2601,Tania,18,mummy,mʌmɪ,2
+2602,Tania,18,mummy,mʌmɪ,2
+2603,Tania,18,mummy,mʌmɪ,2
+2604,Tania,18,nose,nəʔnʊ,2
+2605,Tania,18,ow,hæ:ʊʔə,2
+2606,Tania,18,pig,pija,2
+2607,Tania,18,push,bʊçi,2
+2608,Tania,18,sofa,həfə,2
+2609,Tania,18,there it is,da:dɪʔ,2
+2610,Tania,18,there it is,dædi,2
+2611,Tania,18,there it is,dæti,2
+2612,Tania,18,there it is,dæ:di,2
+2613,Tania,18,there it is,dæti:,2
+2614,Tania,18,there it is,dædɪʔ,2
+2615,Tobias,18,a-boo,wɛbʷʊ,2
+2616,Tobias,18,baby,biːbiːç,2
+2617,Tobias,18,baby,bɪːbɪx,2
+2618,Tobias,18,baby,bi  sbɪ,2
+2619,Tobias,18,bear,bije,2
+2620,Tobias,18,boots,bʊːʔə,2
+2621,Tobias,18,butterfly,bəɪʦa,2
+2622,Tobias,18,eeyore,wiːjʊ,2
+2623,Tobias,18,miaow,biːja,2
+2624,Tobias,18,miaow,biːjə,2
+2625,Tobias,18,miaow,biːjəː,2
+2626,Tobias,18,miaow,biːjɪ,2
+2627,Tobias,18,miaow,bijə,2
+2628,Tobias,18,miaow,bijəː,2
+2629,Tobias,18,miaow,piʒaʔ,2
+2630,Tobias,18,miaow,bijə,2
+2631,Tobias,18,miaow,bijə,2
+2632,Tobias,18,miaow,biːja,2
+2633,Tobias,18,miaow,biːja,2
+2634,Tobias,18,miaow,biːja,2
+2635,Tobias,18,miaow,biːja,2
+2636,Tobias,18,miaow,biːjə,2
+2637,Tobias,18,miaow,biːjə,2
+2638,Tobias,18,miaow,biːjə,2
+2639,Tobias,18,miaow,biːjə,2
+2640,Tobias,18,moo,bəmɜːː,2
+2641,Tobias,18,neenaw,nĩːja,2
+2642,Tobias,18,peacock,biʔʧɔʔ,2
+2643,Tobias,18,quack quack,ʔaʔaʔ,2
+2644,Tobias,18,quack quack,ʔəʔaʔ,2
+2645,Tobias,18,quack quack,ʔaʔʊʔ,2
+2646,Tobias,18,quack quack,ʔʊʔɒʔ,2
+2647,Tobias,18,quack quack,ʔɒːʔʊʔ,2
+2648,Tobias,18,that,daːʔə,2
+2649,Tobias,18,that,daʔə,2
+2650,Tobias,18,tick tock,tiʔdɔʔ,2
+2651,Tobias,18,toot toot,ʒʊ  ʒʊː,2
+2652,Tobias,18,tortoise,bɒːdi,2
+2653,Atte,20,naani,nana,2
+2654,Atte,20,kaksi,tati,2
+2655,Atte,20,pupu,pupu,2
+2656,Eelis,20,pipi,pipi,2
+2657,Eelis,20,poppa,popo,2
+2658,Eliisa,15,hauva,hau.u,2
+2659,Eliisa,15,hauva,ha.u,2
+2660,Eliisa,15,hauva,hauvau,2
+2661,Eliisa,15,kakalla,kaka,2
+2662,Eliisa,15,kakalla,kaka,2
+2663,Eliisa,15,kiikkuu,ki:ku,2
+2664,Eliisa,15,litu,titu,2
+2665,Eliisa,15,litu,tito,2
+2666,Eliisa,15,litu,tito,2
+2667,Eliisa,15,litu,titu,2
+2668,Eliisa,15,litu,titu,2
+2669,Eliisa,15,litu,titu,2
+2670,Eliisa,15,mummu /muumu,mu:mu,2
+2671,Eliisa,15,mummu /muumu,muumu,2
+2672,Eliisa,15,paperi,pape,2
+2673,Eliisa,15,paperi,papa,2
+2674,Eliisa,15,paperi,papa,2
+2675,Eliisa,15,pupu,pupo,2
+2676,Eliisa,15,pupu,pupu,2
+2677,Eliisa,15,pupu,pupo,2
+2678,Eliisa,15,vettä,tito,2
+2679,Mira,17,jalka,gala,2
+2680,Mira,17,jalka,lala,2
+2681,Mira,17,juna,nuna,2
+2682,Mira,17,kaataa,ka:ta,2
+2683,Mira,17,kaataa,ka:ka,2
+2684,Mira,17,kala,ʎaʎa,2
+2685,Mira,17,kala,kata,2
+2686,Mira,17,kenkä,nenæ,2
+2687,Mira,17,kenkä,nenæ,2
+2688,Mira,17,lintu,tito,2
+2689,Mira,17,luumu,mu:mu,2
+2690,Mira,17,Muumi/Moomin,mama,2
+2691,Mira,17,nalle,ʎaʎ:a,2
+2692,Mira,17,napa,papa,2
+2693,Mira,17,napa,papa,2
+2694,Mira,17,nenä,nenæ,2
+2695,Mira,17,paapaa,pa:pa:,2
+2696,Mira,17,piiloon,pi:lo,2
+2697,Mira,17,setä,tetæ,2
+2698,Mira,17,tonttu,təto,2
+2699,Mira,17,tonttu,tyto,2
+2700,Mira,17,tonttu,təto,2
+2701,Mira,17,tyyny,ny:ny,2
+2702,Sini,15,kirahvi,ki:.a,2
+2703,Sini,15,kirahvi,ki.a,2
+2704,Sini,15,koti,koki,2
+2705,Sini,15,kynä,ku.a,2
+2706,Sini,15,minun,mi.u,2
+2707,Sini,15,nappi,pa:pi,2
+2708,Sini,15,pallo,pa:.o,2
+2709,Sini,15,paperi,papi,2
+2710,Sini,15,piilo,pi:.o,2
+2711,Sini,15,pupu,pupu,2
+2712,Sini,15,pupu,pəpə,2
+2713,Sini,15,puuro,pu:.o,2
+2714,Sini,15,pyörä,pu:.æ,2
+2715,Sini,15,setä,tetæ,2
+2716,Sini,15,täti,tæti,2
+2717,Sini,15,tipahti,pipa,2
+2718,Sini,15,tiktak,ki.kak,2
+2719,Sini,15,nam-nam,mam.mam,2
+2720,Hiromi,21,mama,mama,2
+2721,Hiromi,21,mama,mapa,2
+2722,Hiromi,21,mimi,meme,2
+2723,Hiromi,21,papa,papa,2
+2724,Hiromi,21,beːbiː,beːbi,2
+2725,Hiromi,21,kakːa,kaka,2
+2726,Hiromi,21,keːki,kiki,2
+2727,Hiromi,21,ʨoːʨo,cʲuccʲu,2
+2728,Hiromi,21,kaba,kaba,2
+2729,Hiromi,21,kame,kaβa,2
+2730,Hiromi,21,koɾe,koɾe,2
+2731,Hiromi,21,me ne,meː neː,2
+2732,Hiromi,21,neko,neko,2
+2733,Hiromi,21,haʨi,hacɕi,2
+2734,Takeru,21,nai nai,nainai,2
+2735,Takeru,21,wãɴwãɴ,waːwæː,2
+2736,Takeru,21,boːɾɯ,boːwɯ,2
+2737,Takeru,21,daɾe,dedæ,2
+2738,Takeru,21,daɾe,daɟʑe,2
+2739,Takeru,21,daɾe,dæjɛ,2
+2740,Takeru,21,doːzo,dɤʑɤ,2
+2741,Takeru,21,kiːɾo,kiːdo,2
+2742,Takeru,21,kiɕa,ciga,2
+2743,Takeru,21,mite,mitɛː,2
+2744,Takeru,21,ʦɯita,ʑidaː,2
+2745,Takeru,21,zoːsãɴ,dʲoʑɤ,2
+2746,Takeru,21,iː ne,niː ne,2
+2747,Takeru,21,jatːaː,wætaː,2
+2748,Takeru,21,dekita,detaː,2
+2749,Takeru,21,kowaɾeta,joːtæː,2
+2750,Haruo,20,baibai,baba:,2
+2751,Haruo,20,bɯbɯ,zigɯ:,2
+2752,Haruo,20,bɯbɯ,bɔwɔʔ,2
+2753,Haruo,20,koko,koko,2
+2754,Haruo,20,koko,koxo,2
+2755,Haruo,20,mama,wawa:,2
+2756,Haruo,20,nainai,naɪnaɪ,2
+2757,Haruo,20,nainai,nɑnaɪ,2
+2758,Haruo,20,pop:o,papa:,2
+2759,Haruo,20,baNʑai,dɑba:ɪ,2
+2760,Haruo,20,deNwa,daba:,2
+2761,Haruo,20,do:dʑo,dʲɔ:dʲɔ:,2
+2762,Haruo,20,doko,do.ko,2
+2763,Haruo,20,ʥɯ:sɯ,dʲʊtʲʊ:,2
+2764,Haruo,20,ʥɯ:sɯ,ʧɯʧɯ:,2
+2765,Haruo,20,kore,koʀe,2
+2766,Haruo,20,nɯgɯ,nɯgɯ,2
+2767,Haruo,20,taʨ:I,tʰæ:tʰʊ,2
+2768,Haruo,20,taʨ:I,ʔʌtʧʊ,2
+2769,Haruo,20,waNwaN,wʌwan,2
+2770,Haruo,20,açi,ʔɔʤɪ:,2
+2771,Haruo,20,hoɕi:,hotçi:,2
+2772,Haruo,20,joiɕo,ʔəʃɯ,2
+2773,Kazuko,15,bubu 'car',bœbœ,2
+2774,Kazuko,15,bubu 'pig',bɯ:bɯʔ,2
+2775,Kazuko,15,mimi,mɪmɪ,2
+2776,Kazuko,15,nai,nɑ:nɑʔ,2
+2777,Kazuko,15,nai,nɑɪnɔ:ɪ,2
+2778,Kazuko,15,nyannyan,nɑnɑʔ,2
+2779,Kazuko,15,nyannyan,nænɑ,2
+2780,Kazuko,15,meme,memeʔ,2
+2781,Kazuko,15,Big Bird,bʊʔkbæ:ʔ,2
+2782,Kazuko,15,booshi,bɔ:ʧʰɪ:,2
+2783,Kazuko,15,denwa,ʧɪ:wɑ,2
+2784,Kazuko,15,doozo,dɔ:dɔʔ,2
+2785,Kazuko,15,doozo,dɔ:zo,2
+2786,Kazuko,15,kuchi,kɯʧɪʔ,2
+2787,Kazuko,15,kumo,kʰɯmɔʔ,2
+2788,Kazuko,15,kushi,kʊc:ɪ,2
+2789,Kazuko,15,ashi,ʔɑʤi,2
+2790,Kazuko,15,haro:,haɾɔ:,2
+2791,Kazuko,15,obaachama,bɑ:taʰ,2
+2792,Afan,22,Bazil,bade,2
+2793,Afan,22,bhow bhow,baba:,2
+2794,Afan,22,chunti,tunti,2
+2795,Afan,22,chunti,tənti,2
+2796,Afan,22,chunti,tənti,2
+2797,Afan,22,DOGGY BT,dodʒi,2
+2798,Afan,22,pani,ma:ni,2
+2799,Afan,22,chacha,ta:ta:,2
+2800,Afan,22,Rabia,bija,2
+2801,Afan,22,maon ajao,mau ədau,2
+2802,Afan,22,maon ajao,mau ədau,2
+2803,Radia,19,dhakan,da:kən,2
+2804,Radia,19,BOTTLE,ba:de,2
+2805,Radia,19,BOTTLE,ba:təl,2
+2806,Radia,19,khana,ka:nə,2
+2807,Radia,19,machar,mətʃəl,2
+2808,Radia,19,machar,mu:tʃəl,2
+2809,Radia,19,PILLOW,ʃole,2
+2810,Radia,19,ganda,ganda,2
+2811,Radia,19,vava BT,va:va,2
+2812,Radia,19,vava BT,va:va,2
+2813,Radia,19,utaro,ta:le,2
+2814,Radia,19,utaro,da:d o,2
+2815,Radia,19,dadi,da:di,2
+2816,Radia,19,dadi,da:de,2
+2817,Radia,19,BASKET,ba:ket,2
+2818,Radia,19,nino BT,ni:no,2
+2819,Radia,19,nino BT,ni:nəu,2
+2820,Radia,19,kapra,ki:la,2
+2821,Radia,19,daal dya,da:li,2
+2822,Radia,19,daal dya,da:dəi,2
+2823,Radia,19,gir gaya,ge:ge,2
+2824,Radia,19,so rahi,ʃoli,2
+2825,Radia,19,"kha lo,kha lun",ka:lu,2
+2826,Radia,19,theek hai,ʈi:kə,2
+2827,Radia,19,sona,ʃole,2
+2828,Radia,19,sona,ʃolu,2
+2829,Shazim,25,CATTY BT,ka:ti:,2
+2830,Shazim,25,CATTY BT,tʃa:ti,2
+2831,Shazim,25,CATTY BT,ta:ti:,2
+2832,Shazim,25,nano,na:nu,2
+2833,Shazim,25,khala,lala,2
+2834,Shazim,25,MAMA,ma:m a,2
+2835,Shazim,25,baow baowBT,bu:bu:,2
+2836,Shazim,25,CAKE,ti: ti,2
+2837,Shazim,25,baba,ba:ba,2
+2838,Shazim,25,chunti,tu:ti,2
+2839,Shazim,25,yay kya hai,ta:tja,2
+2840,Adeline,25,bobo,aboβo,3
+2841,Adeline,25,bobo,abobu,3
+2842,Adeline,25,bobo,abobu,3
+2843,Adeline,25,chat,ala va,3
+2844,Adeline,25,coucou,ə kohko,3
+2845,Adeline,25,coucou,a kugu,3
+2846,Adeline,25,papa,a papa,3
+2847,Gaël,22,la dame la,adalə,3
+2848,Laurent,17,chapeau,əbolo,3
+2849,Noël,18,canard,ətata,3
+2850,Noël,18,gateau,ʌmtʃpɛtɵ,3
+2851,Noël,18,maman,amama,3
+2852,Noël,18,wouf wouf,owowɔ,3
+2853,Alice,16,baby,əbeɪbi,3
+2854,Alice,16,bottle,ʌbɑ:ɟi,3
+2855,Alice,16,bottle,əbɑ:diʃ,3
+2856,Alice,16,iron,ɑ̃ɪ̃jĩ,3
+2857,Alice,16,mommy,əmɑ:ɲə,3
+2858,Alice,16,mommy,ɪnɑ:ɲɪʔ,3
+2859,Alice,16,mommy,ənɑ:ɲi,3
+2860,Alice,16,mommy,əmɑ:mi,3
+2861,Emily,15,overɑlls,o:wɪtɪ,3
+2862,Emily,15,wɑter,əwɑ:wɪ,3
+2863,Timmy,unknown,lizɑrd,i:jɑɪjɑɪ,3
+2864,Timmy,unknown,lizɑrd,əjɑ:ʤu,3
+2865,Ella,16,glasses,ɪjasi:ç,3
+2866,Ella,16,glasses,ijaʃi,3
+2867,Ella,16,glasses,ɪlasʃɪ,3
+2868,Ella,16,rattle,ɔtə:ʔwε,3
+2869,Ella,16,spoon,æmu:nε,3
+2870,Ella,16,spoon,æmu:nε,3
+2871,Flora,18,cuddles,ɪdɔdɔs,3
+2872,Flora,18,story,ʉmɔwɪ,3
+2873,Ivy,17,caterpillar,əɹɑbəε,3
+2874,Ivy,17,elephant,ijəʔu,3
+2875,Ivy,17,lion,əjæⁿi:ç,3
+2876,Ivy,17,lion,ijaɪ:jiç,3
+2877,Ivy,17,lion,ijɔʷiⁿ,3
+2878,Ivy,17,lion,ijaɪ:jiç,3
+2879,Ivy,17,row row,ɪvɹεə:ɹəʊ:,3
+2880,Ivy,17,row row,əraʊ:βaʉ:,3
+2881,Ivy,17,row row,əɹa:ɫəɸ,3
+2882,Ivy,17,row row,ɪɹavβə:u:,3
+2883,Ivy,17,what's that?,ɒʔwʊʃjæ,3
+2884,Ivy,17,yeah,ijæʔə,3
+2885,Ivy,17,ribbit,əwi:uɹi,3
+2886,Lewis,18,oh no,ɔːnɒwə,3
+2887,Lewis,18,oh no,ɜːʔənɔːː,3
+2888,Lewis,18,pushchair,əwuɸtɛ,3
+2889,Lewis,18,woof woof,əwɜweʊ,3
+2890,Patrick,18,knee,ɪnuwi:ⁿ,3
+2891,Patrick,18,aah,ɔ:ʔɪʷəʊ:,3
+2892,Rachel,17,doggy,əmdəʊʔgɪʔ,3
+2893,Rachel,17,flowers,ʊwəʊwaθ,3
+2894,Rachel,17,Mummy,əwɛwi,3
+2895,Rachel,17,quack quack,ɪwa  əwa,3
+2896,Tania,18,Iggle-piggle,ɑgigɔ,3
+2897,Tania,18,Iggle-piggle,ɔgɪgɑ,3
+2898,Tania,18,Iggle-piggle,əliga,3
+2899,Tobias,18,eeyore,iːjʊwɪ,3
+2900,Tobias,18,eeyore,ɪʔɒʔɔʔ,3
+2901,Tobias,18,moo,ɪmɪ̃ʊ̃ː,3
+2902,Tobias,18,moo,ɪ̃mɪ̃ʊ̃,3
+2903,Tobias,18,quack quack,aːʔɒʔɴɒ̃ʔ,3
+2904,Tobias,18,ribbit ribbit,əwɛʔɹɛʔ,3
+2905,Tobias,18,that,əðijaʔ,3
+2906,Tobias,18,what's that,awɪdsaʔ,3
+2907,Tobias,18,what's that,əzɪdɫzʲaʔ,3
+2908,Tobias,18,what's that,ɪzʲaːʔə,3
+2909,Eliisa,15,ihaha,ihaha,3
+2910,Haruo,20,bebi,ɪdɛ:bɪ:,3
+2911,Afan,22,"aunti gaye hai, aunti gaye",ənti gəi,3
+2912,Shazim,25,abbu jee,a:budʒi,3
+2913,Adeline,25,chat,va ba ba,3
+2914,Laurent,17,allo,ʔaʔalʌ,3
+2915,Laurent,17,boire,go:mabyao,3
+2916,Laurent,17,chapeau,bəbɔbo,3
+2917,Laurent,17,chapeau,mabəmã,3
+2918,Laurent,17,chapeau,bɔbobo,3
+2919,Laurent,17,coucou là,kukula,3
+2920,Laurent,17,de l'eau,dəldəlo,3
+2921,Laurent,17,de l'eau,tøldœlo,3
+2922,Laurent,17,de l'eau,pøtɜlo,3
+2923,Laurent,17,donne [nano],dəa nona,3
+2924,Noël,18,gateau,tjøtato,3
+2925,Noël,18,gateau,tatatɔ,3
+2926,Noël,18,gateau,tsəƫato,3
+2927,Noël,18,gateau,pəƫaƫə,3
+2928,Noël,18,gateau,ƫataƫo,3
+2929,Noël,18,gateau,ƫapa:to,3
+2930,Noël,18,gateau,tætæto,3
+2931,Noël,18,gateau,ƫataƫo,3
+2932,Noël,18,maman,ʔɛmamæ,3
+2933,Noël,18,maman,hɛmamɜ,3
+2934,Noël,18,wouf wouf,ʔawawa,3
+2935,Noël,18,paletot,papapo,3
+2936,Noël,18,paletot,pəpapo,3
+2937,Alice,16,baby,ʔʌbe:ɪbi,3
+2938,Deborah,16,baby,xi bebi,3
+2939,Deborah,16,water,bɑwɑwɑ,3
+2940,Emily,15,no,nənəno,3
+2941,Emily,15,open,ʔo:ʔ  pɪ,3
+2942,Emily,15,tickle-tickle,kɪtikə,3
+2943,Emily,15,tickle-tickle,kɪtijʌ,3
+2944,Emily,15,tickle-tickle,tɪtɪzœ,3
+2945,Emily,15,tick-tock,tʃɪtɪtɪ,3
+2946,Molly,16,mama,ʔe:mæmi,3
+2947,Timmy,unknown,bubble,ʔʌbæby:,3
+2948,Timmy,unknown,lizɑrd,wɑɪwɑɪwə,3
+2949,Timmy,unknown,quɑck-quɑck,ʔɑkɑ:kɑ,3
+2950,Cara,17,bye bye,bəwɛːpɪːt,3
+2951,Ella,16,baby,bejəbi,3
+2952,Ella,16,bye,mab baɪ:,3
+2953,Ella,16,cup,pεpʔ pεp,3
+2954,Ella,16,cup,pεpʔ pεp,3
+2955,Ella,16,horsey,hɔhɪʃi:ç,3
+2956,Ella,16,out,hɪjəʉftɪ,3
+2957,Ella,16,plate,kxə:ʔijeɪʦ,3
+2958,Ella,16,rattle,kεlεtɪŋ,3
+2959,Ella,16,rattle,hʌʔεtu,3
+2960,Flora,18,blanket,tɪbæidnʔɪk,3
+2961,Flora,18,cuddles,jɪdadəʊs,3
+2962,Flora,18,cuddles,dɪdɑdɑɪs,3
+2963,Flora,18,cuddles,dədədəs,3
+2964,Flora,18,peek-a-boo,piʃəbo:,3
+2965,Flora,18,peek-a-boo,pɪkɪpo:,3
+2966,Flora,18,peek-a-boo,pɪkəpo:,3
+2967,Flora,18,peek-a-boo,pɪtɪbɔː,3
+2968,Flora,18,peek-a-boo,bmbɪkəbəʊ:,3
+2969,Flora,18,peek-a-boo,dəmpkəbo:,3
+2970,Flora,18,peek-a-boo,pɪkəbɔː,3
+2971,Flora,18,peek-a-boo,bɪɣɪbəʊ,3
+2972,Flora,18,where did she go,wεdɪdɔː,3
+2973,Ivy,17,camel,hibɑbʊɫ,3
+2974,Ivy,17,what's that?,wʊtsjɪhaʔ,3
+2975,Ivy,17,what's that?,wʊʃiçra:ʔ,3
+2976,Ivy,17,woof,wɑɸwəɸʔwε,3
+2977,Ivy,17,ribbit,jəʔiçɹʊg,3
+2978,Ivy,17,ribbit,ʧi:uvaβi,3
+2979,Jude,15,in 'ere,nɪnɪnɛ:,3
+2980,Lewis,18,uh-oh,ʔɪʔɔːːwʊ,3
+2981,Patrick,18,beebies,bibəwi:,3
+2982,Patrick,18,D2,diç du::,3
+2983,Patrick,18,D2,didəʷu,3
+2984,Patrick,18,D2,ʤədi: du::,3
+2985,Patrick,18,D2,diç du::,3
+2986,Patrick,18,tractor,dæʔɪdə:,3
+2987,Patrick,18,squeak squeak,mikəwi:,3
+2988,Rachel,17,apple,bɒpɔːʔəʃ,3
+2989,Rachel,17,baa baa black sheep,bɑːbajɪ,3
+2990,Rachel,17,beep beep,bɛbiːjə,3
+2991,Rachel,17,biscuits,pɪʔθʷɪʔθ tθ,3
+2992,Rachel,17,boo,wɛwʊʔbəʊː,3
+2993,Rachel,17,cup of tea,gʊkgəwiːː,3
+2994,Rachel,17,cup of tea,pəgɒbgɪː,3
+2995,Rachel,17,cup of tea,gʊɪ  gɒgʷiː,3
+2996,Rachel,17,doggy,baːgɒgɪː,3
+2997,Rachel,17,doggy,gɒgəwiː,3
+2998,Rachel,17,here you go,həʊhɛːkəʊ,3
+2999,Rachel,17,knees and toes,tɪdʊ  dʊ,3
+3000,Rachel,17,piggy,pəbeɪbɪ,3
+3001,Rachel,17,please,pɪs  pi,3
+3002,Tania,18,bus,biʃpəpʉʃ,3
+3003,Tania,18,book,pʊpʊpʊ,3
+3004,Tania,18,book,bʊbʊbʊ,3
+3005,Tania,18,daddy,tætitε,3
+3006,Tania,18,Daisy,tεzεdi,3
+3007,Tania,18,Iggle-piggle,gənɪgəʊ,3
+3008,Tania,18,Iggle-piggle,kɔlihɔ,3
+3009,Tania,18,no,naʔnaʔnaʔ,3
+3010,Tania,18,oh dear,həʊ:di:ʔa:,3
+3011,Tania,18,quack quack quack,jaʔjaʔjaʔ,3
+3012,Tania,18,sofa,ʔəʔəfə,3
+3013,Tobias,18,hippo,hɒ  bɔwə,3
+3014,Tobias,18,quack quack,ʔaʔaʔaʔ,3
+3015,Tobias,18,quack quack,ʔəʔɒʔɒʔ,3
+3016,Tobias,18,spider,mbaːdəja,3
+3017,Tobias,18,that,dɪjəʔə,3
+3018,Tobias,18,there,hədɛːʔɪ,3
+3019,Tobias,18,toot toot,dʊ  dʊːɹɪ,3
+3020,Tobias,18,toot toot,tʊʔdʊwɪ,3
+3021,Tobias,18,toot toot,dʊʔtɒɪjə,3
+3022,Atte,20,ralliauto,lu:liauto,3
+3023,Atte,20,ralliauto,lu:liauto,3
+3024,Radia,19,bismillah,bi:ʃəla:,3
+3025,Radia,19,kharab hogya,ka:ba:ge,3
+3026,Radia,19,kya bat hai?,kaba:ke,3
+3027,Timmy,unknown,lizɑrd,əjɑɪjɑɪwə,4
+3028,Cara,17,miaow,əwɛːhʊhʊ,4
+3029,Ella,16,glasses,ijasʃiju,4
+3030,Ella,16,woof woof,ijʌf ɹaf,4
+3031,Ella,16,woof woof,əɹf ɹεfʔwε,4
+3032,Ella,16,woof woof,əjʌk pɹεp,4
+3033,Ivy,17,cinderella,iju:wiɹε,4
+3034,Ivy,17,cinderella,aɪjiçhɪɫɹæ,4
+3035,Ivy,17,Jessica,ʊʃɪba:ʔɪ,4
+3036,Ivy,17,row row,əɹεhɪvεvɸ,4
+3037,Patrick,18,quack quack,aʔ ɪʔ aʔɪ,4
+3038,Rachel,17,one two three,əwɪː  ʊwɜː  tɜʔt,4
+3039,Rachel,17,quack quack,əwaʔʊwə,4
+3040,Tania,18,Iggle-piggle,igɔligɑ,4
+3041,Tania,18,Iggle-piggle,igɔgligɑ,4
+3042,Tobias,18,ribbit ribbit,ʊwɛʔəwɛʔ,4
+3043,Tobias,18,ribbit ribbit,əwɛʔʊwɛʔ,4
+3044,Laurent,17,boire,ʔø:habʉa:bja,4
+3045,Laurent,17,canard coincoin,kwalakwala,4
+3046,Laurent,17,chaussures,ʒəʃa:tizə,4
+3047,Laurent,17,cuillère,koləkola,4
+3048,Laurent,17,de l'eau,dœɦədəlo,4
+3049,Laurent,17,de l'eau,pɔlədəlo,4
+3050,Laurent,17,la dame là,lələdala,4
+3051,Laurent,17,maman,məmʌʓəla,4
+3052,Laurent,17,moi,məmamʌmʌ,4
+3053,Noël,18,biberon?,baƺabɜnɛ,4
+3054,Emily,15,tick-tock,tʃɪtɪtɪtɪ,4
+3055,Emily,15,tick-tock,tɪtɪtɪtʃɑɪ,4
+3056,Sean,15,cock-a-coodle-do,dəludəlu:,4
+3057,Cara,17,bye bye,bɛbeɪtaɪmpɛː,4
+3058,Ella,16,beep beep,bijə bijεp,4
+3059,Ivy,17,jumpy,ʃɑʔʃa:ɪʃijə,4
+3060,Jude,15,caterpillar,pɪ tɪpʌpkæ,4
+3061,Tobias,18,quack quack,ʔɒʔɒʔəʔəʔ,4
+3062,Tania,18,Iggle-piggle,ɔɣijɔgɔgi,5
+3063,Tania,18,Iggle-piggle,ɔgijɔgigɔ,5
+3064,Tania,18,Iggle-piggle,ɪgægɣjæʔɪgɑ,5
+3065,Laurent,17,chaussures,bɛʒɨʒeʒəje,5
+3066,Tania,18,baby,bi:bijabi:bi:,5
+3067,Tania,18,Iggle-piggle,ɪgɔgigɔgigɔ,6
+3068,Laurent,17,canard dans l'eau,watəladlatəlo,6
+3069,Laurent,17,de l'eau,køvɜlavatølo,6
+3070,Tania,18,Iggle-piggle,ɔgiɔ:ʔɔhgɪgɔgɪgɔ,7
+3071,Cara,17,woof,ʊçː,2
+3072,Tobias,18,snail,əθːː,2
+3073,Charles,18,boire,v:wa,1
+3074,Charles,18,boum,b:ym,1
+3075,Charles,18,ça,z:a,1
+3076,Charles,18,ça,ʃ:a,1
+3077,Charles,18,ça,ʃ:a,1
+3078,Charles,18,ça,ʃ:a,1
+3079,Noël,18,banane,ban:,1
+3080,Noël,18,couches,t:ə,1
+3081,Noël,18,poule,p:aɛ,1
+3082,Noël,18,tiens,ten:,1
+3083,Noël,18,tiens,ten:,1
+3084,Alice,16,bunny,bʊɲ:I,1
+3085,Alice,16,bunny,bʊɲ:I,1
+3086,Alice,16,iron,ʔɑɪŋ:,1
+3087,Alice,16,milk,m:æ̃,1
+3088,Alice,16,nose,n:æ,1
+3089,Alice,16,Oscar,ʔap:,1
+3090,Emily,15,nine,n:ɑ:,1
+3091,Emily,15,no,n:ʌ,1
+3092,Emily,15,two,t:ɶ,1
+3093,Molly,16,name,nɛm:I,1
+3094,Molly,16,vroom,br:m,1
+3095,Molly,16,vroom,br:mɛ,1
+3096,Molly,16,vroom,br:m,1
+3097,Molly,16,vroom,br:m,1
+3098,Molly,16,vroom,br:m,1
+3099,Molly,16,vroom,br:m,1
+3100,Molly,16,vroom,br:m,1
+3101,Molly,16,vroom,br:m,1
+3102,Molly,16,vroom,br:m,1
+3103,Molly,16,vroom,br:m,1
+3104,Sean,15,berries,bɛʃ:,1
+3105,Sean,15,bird,by:ʃ:,1
+3106,Sean,15,bird,bɤ:ʂ:,1
+3107,Timmy,unknown,bubble,bæb:,1
+3108,Timmy,unknown,Nɑnɑ,nɑn:,1
+3109,Cara,17,duck,də̃kː,1
+3110,Cara,17,garden,gɛgŋː,1
+3111,Cara,17,stick / spoon,dɪ̃kː,1
+3112,Cara,17,stick / spoon,də̃kː,1
+3113,Cara,17,stick / spoon,dʉkː,1
+3114,Cara,17,stick / spoon,də̃kː,1
+3115,Ella,16,Michelle,ʃ:əʊʔ,1
+3116,Ella,16,plate,θleɪ:ʦ:,1
+3117,Ella,16,spoon,m:u:n,1
+3118,Flora,18,oops,ʔɔʔːp,1
+3119,Flora,18,sshh,s:,1
+3120,Ivy,17,monkey,m:iç,1
+3121,Ivy,17,more,m:əʊ,1
+3122,Jude,15,circle,tɬ:,1
+3123,Jude,15,circle,tɬ:th,1
+3124,Jude,15,fish,s:,1
+3125,Jude,15,fish,ç:,1
+3126,Jude,15,in 'ere,n:ɛ,1
+3127,Jude,15,ta,m:ta:,1
+3128,Jude,15,trousers,tə ts:,1
+3129,Jude,15,brum,m:,1
+3130,Jude,15,brum,m:,1
+3131,Jude,15,brum,m:,1
+3132,Jude,15,brum,m:,1
+3133,Jude,15,brum,m:,1
+3134,Jude,15,brum,m:,1
+3135,Jude,15,brum,m:,1
+3136,Jude,15,brum,m:,1
+3137,Jude,15,brum,m:,1
+3138,Lewis,18,down,ʣamː,1
+3139,Lewis,18,moon,mbβː,1
+3140,Lewis,18,moon,bβːːɸː,1
+3141,Lewis,18,no,nːeəʔ,1
+3142,Lewis,18,shoes,mːː,1
+3143,Lewis,18,shoes,hʊβːː,1
+3144,Lewis,18,shoes,mːː,1
+3145,Rachel,17,chips,dɪʔθː,1
+3146,Rachel,17,fish,hɔːθː,1
+3147,Rachel,17,noise,nːɔɪθ,1
+3148,Rachel,17,please,pɪθː,1
+3149,Tania,18,bus,pæʃ:,1
+3150,Tania,18,bus,pæs:,1
+3151,Tania,18,bus,pæ:s:,1
+3152,Tania,18,bus,bə:s:,1
+3153,Tania,18,bus,pæ:s:,1
+3154,Tania,18,bus,pæ:s:,1
+3155,Tania,18,fish,ʔəʃ:,1
+3156,Tania,18,more,m:ʌ,1
+3157,Tania,18,no,n:ɔ,1
+3158,Tania,18,push,pʊʃs:,1
+3159,Tania,18,push,bɪʃ:,1
+3160,Tobias,18,baa,bɒxː,1
+3161,Tobias,18,box,bːɒʔʃ,1
+3162,Tobias,18,bus,bəsːː,1
+3163,Tobias,18,moo,mːʊː,1
+3164,Tobias,18,snail,sː,1
+3165,Tobias,18,snail,ʦːːː,1
+3166,Tobias,18,snail,sːːʃ,1
+3167,Tobias,18,snail,tθːː,1
+3168,Tobias,18,snail,sː,1
+3169,Tobias,18,snail,sː,1
+3170,Eliisa,15,tyttö,t:o,1
+3171,Sini,15,mummi,m:i,1
+3172,Afan,22,han,d:,1
+3173,Afan,22,yay,d:,1
+3174,Afan,22,yay,d:,1
+3175,Afan,22,yay,d:,1
+3176,Afan,22,yay,d:,1
+3177,Charles,18,allo,al:ɔ,2
+3178,Charles,18,allo,al:ɔ,2
+3179,Charles,18,assis,as:a,2
+3180,Charles,18,boire,ɔv:wa,2
+3181,Charles,18,voire,av:wa,2
+3182,Emily,15,Ernie,ɑɪn:ʔ:ə,2
+3183,Emily,15,Oscɑr,ɑ:k:e,2
+3184,Molly,16,in,ɪnːi,2
+3185,Molly,16,Nicky,ɛn:i,2
+3186,Molly,16,Nicky,ɪnːi,2
+3187,Timmy,unknown,flower,əv:æ,2
+3188,Timmy,unknown,flower,əv:æ,2
+3189,Timmy,unknown,flower,əv:æ,2
+3190,Timmy,unknown,juice,əd:u,2
+3191,Timmy,unknown,knee,ən:i,2
+3192,Timmy,unknown,knee,ən:i,2
+3193,Timmy,unknown,knee,ən:i,2
+3194,Timmy,unknown,knee,ən:i,2
+3195,Timmy,unknown,knee,ən:i,2
+3196,Timmy,unknown,plum,əv:æ:,2
+3197,Ivy,17,giraffe,ɪr:a:æ,2
+3198,Lewis,18,all gone,əβːgəm,2
+3199,Tobias,18,bus,əbːæ,2
+3200,Tobias,18,bus,əbːaɪ,2
+3201,Atte,20,äiti,æit:i,2
+3202,Atte,20,äiti,æit:i,2
+3203,Atte,20,äiti,æit:i,2
+3204,Atte,20,äiti,æit:i,2
+3205,Atte,20,äiti,æit:i,2
+3206,Atte,20,äiti,æit:i,2
+3207,Atte,20,äiti,æit:i,2
+3208,Atte,20,aja,aj:a,2
+3209,Atte,20,aja,aj:a,2
+3210,Atte,20,ankka,ak:a,2
+3211,Atte,20,ankka,ank:a,2
+3212,Atte,20,ankka,aik:a,2
+3213,Atte,20,ankka,ag:a,2
+3214,Atte,20,Atti,at:i,2
+3215,Atte,20,Atti,at:i,2
+3216,Atte,20,Atti,at:i,2
+3217,Atte,20,Atti,at:i,2
+3218,Atte,20,Atti,at:i,2
+3219,Atte,20,Atti,at:i,2
+3220,Atte,20,Atti,at:i,2
+3221,Atte,20,Atti,at:i,2
+3222,Atte,20,Atti,at:i,2
+3223,Atte,20,auto,aut:o,2
+3224,Atte,20,auto,aut:o,2
+3225,Atte,20,auto,aut:o,2
+3226,Atte,20,auto,aut:o,2
+3227,Atte,20,auto,aut:o,2
+3228,Atte,20,auto,aut:o,2
+3229,Atte,20,auto,aut:o,2
+3230,Atte,20,auto,aut:o,2
+3231,Atte,20,auto,aut:o,2
+3232,Atte,20,auto,aut:o,2
+3233,Atte,20,auto,aut:o,2
+3234,Atte,20,heppa,ep:a,2
+3235,Atte,20,kello,el:o,2
+3236,Atte,20,kello,ol:o,2
+3237,Atte,20,kello,el:o,2
+3238,Atte,20,loppu,op:u,2
+3239,Atte,20,loppu,op:u,2
+3240,Atte,20,loppu,op:u,2
+3241,Atte,20,loppu,op:u,2
+3242,Atte,20,nalle,al:e,2
+3243,Atte,20,nalle,al:e,2
+3244,Atte,20,pallo,al:o,2
+3245,Atte,20,pallo,al:o,2
+3246,Atte,20,sammui,am:u,2
+3247,Atte,20,sammui,am:u,2
+3248,Atte,20,ukko,uk:o,2
+3249,Atte,20,ukko,æk:o,2
+3250,Atte,20,ukko,uk:on,2
+3251,Atte,20,ukko,uk:o:,2
+3252,Atte,20,ukko,auk:o,2
+3253,Atte,20,ukko,uk:o,2
+3254,Atte,20,ukko,uk:o,2
+3255,Eelis,20,ankka,ak:a,2
+3256,Eelis,20,ankka,ak:a:,2
+3257,Eelis,20,ankka,ak:a,2
+3258,Eelis,20,ankka,ak:a,2
+3259,Eelis,20,ankka,ak:a,2
+3260,Eelis,20,ankka,ak:a,2
+3261,Eelis,20,ankka,ak:a,2
+3262,Eelis,20,anna,an:a,2
+3263,Eelis,20,aukasta,ak:a,2
+3264,Eelis,20,Eetu,et:u,2
+3265,Eelis,20,heppa,ep:a,2
+3266,Eelis,20,heppa,ep:a,2
+3267,Eelis,20,heppa,ep:a,2
+3268,Eelis,20,Hippi,ip:i:,2
+3269,Eelis,20,Hippi,ip:i:,2
+3270,Eelis,20,Hippi,ip:i:,2
+3271,Eelis,20,istuu,it:u:,2
+3272,Eelis,20,istuu,it:u,2
+3273,Eelis,20,istuu,it:u:,2
+3274,Eelis,20,istuu,it:u:,2
+3275,Eelis,20,istuu,it:u,2
+3276,Eelis,20,itkee,ik:e:,2
+3277,Eelis,20,loppu,op:u,2
+3278,Eelis,20,makkara,ak:a,2
+3279,Eelis,20,nappi,ap:i,2
+3280,Eelis,20,omppu,op:u,2
+3281,Eelis,20,rikki,ik:i,2
+3282,Eelis,20,rikki,ik:i,2
+3283,Eliisa,15,istu,it:u,2
+3284,Eliisa,15,kissa,iç:a,2
+3285,Eliisa,15,kissa,iç:i,2
+3286,Eliisa,15,kissa,iç:a,2
+3287,Eliisa,15,kissa,iç:a,2
+3288,Eliisa,15,kissa,iç:a,2
+3289,Eliisa,15,ihaha,ih:a,2
+3290,Sini,15,yhtään,yt:æ:,2
+3291,Sini,15,heppa,ep:a,2
+3292,Sini,15,istuu,it:u:,2
+3293,Sini,15,laukku,auk:u,2
+3294,Sini,15,loppu,op:u,2
+3295,Sini,15,loppu,ap:u,2
+3296,Sini,15,loppu,ep:u,2
+3297,Sini,15,lusikka,uk:a,2
+3298,Sini,15,nappi,ap:i,2
+3299,Sini,15,oppista,op:i,2
+3300,Sini,15,rikki,ik:i,2
+3301,Sini,15,roska,ok:a,2
+3302,Sini,15,suklaa,uk:a,2
+3303,Sini,15,ukki,uk:i,2
+3304,Sini,15,vettä,et:æ,2
+3305,Takeru,21,atːa,at:æː,2
+3306,Takeru,21,jatːe,at:e,2
+3307,Takeru,21,oːkiː,ɔk:iː,2
+3308,Haruo,20,aʨ:i,ʌt:ɕi:,2
+3309,Haruo,20,aʨ:i,ʌt:ɕi:,2
+3310,Haruo,20,aʨ:i,ʌt:ɕi:,2
+3311,Haruo,20,atta,at:ʰa,2
+3312,Afan,22,Saima,i:n:a,2
+3313,Afan,22,Saima,i:n:a,2
+3314,Afan,22,AUNTI,ət:i,2
+3315,Afan,22,idhar,id:e,2
+3316,Afan,22,idhar,əd:ə,2
+3317,Afan,22,udhar,ud:ɛ,2
+3318,Afan,22,ooper,up:a,2
+3319,Radia,19,Allah,əl:a,2
+3320,Radia,19,Allahuakbar,əl:auk,2
+3321,Shazim,25,AUNTI,a:t:i,2
+3322,Shazim,25,AUNTI,a:t:i,2
+3323,Shazim,25,AUNTI,a:n:i,2
+3324,Shazim,25,ajao,a:t:u,2
+3325,Shazim,25,"ajjan, BT",əj:a:,2
+3326,Charles,18,chapeau,ha:p:o,2
+3327,Laurent,17,de l'eau,bəl:o,2
+3328,Laurent,17,voilà,wal:a,2
+3329,Noël,18,lapin,pʌp:ɛ,2
+3330,Alice,16,lady,l:ɑ:ti,2
+3331,Emily,15,Big Bird,pœp:ɪ,2
+3332,Emily,15,Big Bird,bʊ:p:ɛ,2
+3333,Molly,16,bang,pɑn:ə,2
+3334,Molly,16,bang,pɑn:ə,2
+3335,Molly,16,bang,pɑn:ə,2
+3336,Molly,16,bang,pɑn:ə,2
+3337,Molly,16,camera,kɑm:ə,2
+3338,Molly,16,choochoo,tut:u,2
+3339,Molly,16,choochoo,tut:u,2
+3340,Molly,16,down,tɑn:ə,2
+3341,Molly,16,down,dɑn:ə,2
+3342,Molly,16,down,tɑn:ə,2
+3343,Molly,16,down,tɑn:ə,2
+3344,Molly,16,down,tɑn:ə,2
+3345,Molly,16,down,tɑn:ə,2
+3346,Molly,16,down,tɑn:ə,2
+3347,Molly,16,down,tɑn:ə,2
+3348,Molly,16,down,tɑn:ə,2
+3349,Molly,16,down,tɑn:ə,2
+3350,Molly,16,glasses,tɑk:ɪ,2
+3351,Molly,16,glasses,kɑk:ɪ,2
+3352,Molly,16,glasses,kɑk:ɪ,2
+3353,Molly,16,green,gɤn:i,2
+3354,Molly,16,mama,mɑm:ɑ,2
+3355,Molly,16,mama,mɑm:ɑ,2
+3356,Molly,16,Nonny,nɑn:i,2
+3357,Molly,16,Nonny,nɑn:ʌ,2
+3358,Molly,16,Nonny,nɑn:i,2
+3359,Molly,16,Nonny,nɑn:i,2
+3360,Molly,16,Nonny,nɑn:i,2
+3361,Molly,16,Nonny,nɑn:i,2
+3362,Molly,16,Nonny,nɑn:i,2
+3363,Molly,16,Nonny,nɑn:i,2
+3364,Molly,16,Nonny,nɑn:i,2
+3365,Molly,16,Nonny,nɑn:i,2
+3366,Molly,16,Nonny,nɑn:i,2
+3367,Timmy,unknown,bubble,bæv:y,2
+3368,Timmy,unknown,bubble,bɑb:y,2
+3369,Timmy,unknown,bubble,bæb:y,2
+3370,Timmy,unknown,dɑddy,dɑd:i:,2
+3371,Timmy,unknown,good boy,gɨb:i:,2
+3372,Timmy,unknown,Heidi,ʔɑd:i:,2
+3373,Timmy,unknown,money,mɑm:i,2
+3374,Timmy,unknown,money,m:ʌm:ɪ,2
+3375,Timmy,unknown,money,mɑm:i,2
+3376,Timmy,unknown,owl sound 'hoo-hoo',ʔʊʔ:u:,2
+3377,Timmy,unknown,toot-toot,dud:u,2
+3378,Timmy,unknown,toot-toot,dud:u,2
+3379,Timmy,unknown,toot-toot,dud:u,2
+3380,Timmy,unknown,toot-toot,dud:u,2
+3381,Timmy,unknown,toot-toot,dud:u,2
+3382,Cara,17,banana,mɪnːə,2
+3383,Cara,17,mama,mɛmːɛ,2
+3384,Cara,17,mama,mɛmːhə,2
+3385,Flora,18,monkey,mɔŋ:ki,2
+3386,Flora,18,monkey,mɔŋ:ki,2
+3387,Ivy,17,bee,bi:ju:m::,2
+3388,Ivy,17,Jessica,ʃiçjah:ʔ,2
+3389,Ivy,17,vroom,vəɹʊm:,2
+3390,Jude,15,night-night,naɪn:ə,2
+3391,Jude,15,noddy,m:tnɒne,2
+3392,Lewis,18,all gone,hʊŋːgamʔ,2
+3393,Lewis,18,all gone,hɜːgɒmː,2
+3394,Lewis,18,gone,gɒmːə,2
+3395,Lewis,18,tractor,ɸːɛʔtɛː,2
+3396,Lewis,18,woof woof,wːəwəβː,2
+3397,Lewis,18,choo-choo,ʃːʉstʷəːʊ,2
+3398,Lewis,18,choo-choo,sːtʊːsəʊ,2
+3399,Rachel,17,bike,mːaʔaʔ,2
+3400,Rachel,17,gone,gɑʊfːə,2
+3401,Rachel,17,please,bɪtːɪːʔ,2
+3402,Tania,18,fish,ʔɪs:ə,2
+3403,Tania,18,sofa,ʔəf:æ,2
+3404,Tobias,18,butterfly,bɒɪsːa,2
+3405,Tobias,18,honk honk,ŋːʊ  ŋʊ,2
+3406,Tobias,18,monkey,mːəmːi,2
+3407,Tobias,18,monkey,mːɔːwɪː,2
+3408,Atte,20,kippaa,pip:a,2
+3409,Atte,20,kippaa,bip:a,2
+3410,Atte,20,matto,tat:o,2
+3411,Atte,20,matto,tat:oa,2
+3412,Atte,20,matto,tat:o,2
+3413,Atte,20,Minni,nin:i,2
+3414,Atte,20,Minni,nin:i,2
+3415,Atte,20,Minni,nin:i,2
+3416,Atte,20,Minni,nin:i,2
+3417,Atte,20,pallo,hal:o,2
+3418,Atte,20,pappa,pop:a,2
+3419,Atte,20,tippui,pip:u,2
+3420,Atte,20,trakto,kak:o,2
+3421,Atte,20,trakto,gak:oa,2
+3422,Atte,20,trakto,kak:o,2
+3423,Atte,20,trakto,kak:o,2
+3424,Atte,20,trakto,kak:o,2
+3425,Atte,20,trakto,kak:o,2
+3426,Atte,20,trakto,kak:o,2
+3427,Eelis,20,heppa,hep:a,2
+3428,Eelis,20,heppa,hep:o,2
+3429,Eelis,20,heppa,he:p:a:,2
+3430,Eelis,20,heppa,he:p:a,2
+3431,Eelis,20,heppa,hep:a,2
+3432,Eelis,20,heppa,hep:a,2
+3433,Eelis,20,heppa,hep:a,2
+3434,Eelis,20,heppa,hep:a,2
+3435,Eelis,20,heppa,hep:a,2
+3436,Eelis,20,heppa,hep:a,2
+3437,Eelis,20,heppa,hep:a,2
+3438,Eelis,20,heppa,hep:a,2
+3439,Eelis,20,heppa,he:p:a,2
+3440,Eelis,20,kakka,kak:a,2
+3441,Eelis,20,kakka,kak:a,2
+3442,Eelis,20,kakka,kak:a,2
+3443,Eelis,20,kakka,kak:a,2
+3444,Eelis,20,kiikkaa,ki:k:a,2
+3445,Eelis,20,kiikkaa,kik:a,2
+3446,Eelis,20,kiikkaa,gi:k:a,2
+3447,Eelis,20,kiikkaa,ki:k:oa,2
+3448,Eelis,20,kiikkaa,ki:k:a,2
+3449,Eelis,20,kiikkaa,ki:k:a,2
+3450,Eelis,20,kiikkaa,ki:k:a,2
+3451,Eelis,20,kiikkaa,ki:k:a,2
+3452,Eelis,20,kiikkaa,ki:k:a,2
+3453,Eelis,20,kiikkaa,gi:k:a,2
+3454,Eelis,20,kukka,kak:a,2
+3455,Eelis,20,kukka,kak:a:,2
+3456,Eelis,20,mamma,mam:a,2
+3457,Eelis,20,mamma,mum:u,2
+3458,Eelis,20,pappa,bap:a,2
+3459,Eelis,20,pipi,pip:i,2
+3460,Eelis,20,pipi,pip:i,2
+3461,Eliisa,15,kakku,kak:o,2
+3462,Eliisa,15,kiikkuu,ki:k:u,2
+3463,Eliisa,15,kiikkuu,ki:k:o,2
+3464,Eliisa,15,kiikkuu,ki:k:u,2
+3465,Eliisa,15,kiikkuu,ki:k:u,2
+3466,Eliisa,15,kiikkuu,ki:k:u,2
+3467,Eliisa,15,kiikkuu,ki:k:u,2
+3468,Eliisa,15,kukka,kuk:a,2
+3469,Eliisa,15,kukkia,kuk:ia,2
+3470,Eliisa,15,kukkia,kuk:ia,2
+3471,Eliisa,15,mummu /muumu,mum:u,2
+3472,Eliisa,15,nukke,kuk:e,2
+3473,Eliisa,15,nukke,kuk:e,2
+3474,Eliisa,15,nukkuu,kuk:u,2
+3475,Eliisa,15,nukkuu,kuk:u:,2
+3476,Eliisa,15,pallo,pap:u,2
+3477,Eliisa,15,pallo,pap:u,2
+3478,Eliisa,15,pappa,pap:a,2
+3479,Eliisa,15,pappa,pap:a,2
+3480,Eliisa,15,pappa,pap:a,2
+3481,Eliisa,15,pappa,pap:a,2
+3482,Eliisa,15,pomppi,pop:i,2
+3483,Eliisa,15,pomppi,pop:i:,2
+3484,Eliisa,15,rikki,kik:i,2
+3485,Eliisa,15,"tippu, tippuu",pip:u,2
+3486,Eliisa,15,"tippu, tippuu",pip:u,2
+3487,Eliisa,15,tyttö,tyt:o,2
+3488,Eliisa,15,tyttö,tyt:o,2
+3489,Eliisa,15,tyttö,tyt:o,2
+3490,Eliisa,15,tyttö,tyt:o,2
+3491,Eliisa,15,tyttö,tyt:o,2
+3492,Eliisa,15,tyttö,tyt:o,2
+3493,Eliisa,15,tyttö,tyt:o,2
+3494,Eliisa,15,tyttö,tyt:o,2
+3495,Eliisa,15,tyttö,tyt:o,2
+3496,Eliisa,15,tyttö,tyt:o,2
+3497,Mira,17,häntä,nen:æ,2
+3498,Mira,17,häntä,nen:æ,2
+3499,Mira,17,häntä,nen:æ,2
+3500,Mira,17,juustoa,tut:oa,2
+3501,Mira,17,kukka,kak:ʰa,2
+3502,Mira,17,loppu,pop:u,2
+3503,Mira,17,luumu,mum:u,2
+3504,Mira,17,mummu,mum:u,2
+3505,Mira,17,Muumi/Moomin,mam:a,2
+3506,Mira,17,Muumi/Moomin,mam:a:,2
+3507,Mira,17,Muumi/Moomin,mam:a,2
+3508,Mira,17,Muumi/Moomin,mam:a,2
+3509,Mira,17,Muumi/Moomin,mam:a,2
+3510,Mira,17,Muumi/Moomin,mam:a,2
+3511,Mira,17,Muumi/Moomin,mam:a,2
+3512,Mira,17,Muumi/Moomin,mam:a,2
+3513,Mira,17,Muumi/Moomin,mam:a,2
+3514,Mira,17,Muumi/Moomin,mam:a,2
+3515,Mira,17,[Muumi]pappa,pap:a,2
+3516,Mira,17,pelle,pel:oe,2
+3517,Mira,17,tyttö,tyt:o,2
+3518,Mira,17,tyttö,tit:o,2
+3519,Mira,17,tyttö,tyt:o,2
+3520,Sini,15,kakku,kak:a,2
+3521,Sini,15,kiikkaa,ki:k:a:,2
+3522,Sini,15,kiikkaa,ki:k:u:,2
+3523,Sini,15,kiikkaa,kik:a:,2
+3524,Sini,15,korkki,kok:i,2
+3525,Sini,15,korkki,ko:k:i,2
+3526,Sini,15,korkki,ku:k:i,2
+3527,Sini,15,kukka,kuk:a,2
+3528,Sini,15,kuppi,kuk:i,2
+3529,Sini,15,loppu,top:u,2
+3530,Sini,15,loppu,pop:u,2
+3531,Sini,15,nappi,pap:i,2
+3532,Sini,15,pallo,bal:o,2
+3533,Sini,15,rikki,kik:i,2
+3534,Sini,15,sakset,kak:i,2
+3535,Sini,15,tutti,tut:i,2
+3536,Sini,15,tyttö,tut:o,2
+3537,Sini,15,tyttö,tut:o,2
+3538,Sini,15,tyttö,tut:o,2
+3539,Sini,15,kvaak-kvaak,ka:k-ka:k,2
+3540,Hiromi,21,bɯbːɯː,bɯb:ɯː,2
+3541,Hiromi,21,nenːe,nen:e,2
+3542,Takeru,21,goː goː,gog:oː,2
+3543,Takeru,21,kakːa,kɑk:aː,2
+3544,Takeru,21,kakːa,gag:a,2
+3545,Takeru,21,mamːa,mam:a,2
+3546,Takeru,21,papːaː,pap:a,2
+3547,Takeru,21,popːo,pop:oː,2
+3548,Takeru,21,popːo,pop:oː,2
+3549,Takeru,21,popːo,pɑp:ɤ,2
+3550,Takeru,21,totːe,tot:e,2
+3551,Takeru,21,totːoː,dot:oː,2
+3552,Takeru,21,gatːai,dat:ai,2
+3553,Takeru,21,matːe,mat:æː,2
+3554,Takeru,21,moːikːo,mok:o,2
+3555,Takeru,21,moːikːo,lok:o,2
+3556,Takeru,21,moːikːo,dok:o,2
+3557,Takeru,21,moːikːo,mok:o,2
+3558,Takeru,21,jada,bat:ʲa,2
+3559,Takeru,21,jatːaː,jat:ʲaː,2
+3560,Takeru,21,otːo,got:oː,2
+3561,Takeru,21,makːɯɾokɯɾosɯke,mak:ʊː,2
+3562,Haruo,20,bɯbɯ,bʊb:ɯ:,2
+3563,Haruo,20,kɯk:ɯ,kɔk:ɔ:,2
+3564,Haruo,20,dak:o,ʔak:a,2
+3565,Haruo,20,dʑampɯ,dʲap:ɯ:,2
+3566,Haruo,20,ʥɯ:sɯ,ʧʊʃ:ʊ,2
+3567,Haruo,20,ʥɯ:sɯ,jʊt:ʊ,2
+3568,Kazuko,15,nenne,nɛn:i,2
+3569,Kazuko,15,nenne,nen:e,2
+3570,Kazuko,15,dakko,tɔk:o:,2
+3571,Kazuko,15,dakko,gʌk:ɔ:,2
+3572,Afan,22,mama,m:ə m:a:,2
+3573,Afan,22,mama,m:ə m:a:,2
+3574,Afan,22,mama,m:ə m:a:,2
+3575,Afan,22,mama,m:ə m:a:,2
+3576,Afan,22,mama,m:ə m:a:,2
+3577,Afan,22,mama,m:ə m:a:,2
+3578,Afan,22,mama,m:ə m:a:,2
+3579,Afan,22,mama,m:ə m:a:,2
+3580,Afan,22,baba,ba: b:a,2
+3581,Afan,22,Saima,nin:a,2
+3582,Afan,22,"mimmi BT,",m:i:m:i,2
+3583,Afan,22,Bazil,bad:e,2
+3584,Afan,22,"Durrain, Durri",dud:i,2
+3585,Afan,22,"Durrain, Durri",dəd:i,2
+3586,Afan,22,ganda,gad:ə,2
+3587,Afan,22,pani,ma:n:i,2
+3588,Afan,22,pani,ma:n:i,2
+3589,Afan,22,dada,da:d:a,2
+3590,Afan,22,dada,da:d:a,2
+3591,Afan,22,JUICE do,dʒu:d:o,2
+3592,Radia,19,chalo,tʃal:əu,2
+3593,Radia,19,MAMA,ma:m:a:,2
+3594,Radia,19,MAMA,m:am:a,2
+3595,Radia,19,toba,to:b:a,2
+3596,Radia,19,PILLOW,pil:i:,2
+3597,Radia,19,daalu,da:l:e,2
+3598,Radia,19,utaro,ta:l:e:,2
+3599,Radia,19,sona,ʃol:a,2
+3600,Shazim,25,CATTY BT,ta:t:i,2
+3601,Shazim,25,CATTY BT,kœt:i,2
+3602,Shazim,25,TRACTOR,ta:t:u,2
+3603,Shazim,25,khala,lal:a,2
+3604,Shazim,25,duddu BT,dud:u,2
+3605,Shazim,25,MAMA,ma:m:a,2
+3606,Shazim,25,MAMA,ma:m: a,2
+3607,Shazim,25,chuchu BT,tot:u,2
+3608,Shazim,25,mamu,m:a:mu,2
+3609,Shazim,25,mamu,m:a:m:u,2
+3610,Shazim,25,baba,ba:b:a,2
+3611,Shazim,25,baba,ba:b:ə,2
+3612,Shazim,25,billi,bəl:i,2
+3613,Shazim,25,DOGGY BT,dat:i,2
+3614,Shazim,25,phuppo,pup:o,2
+3615,Shazim,25,dado,dad:o,2
+3616,Shazim,25,chachu,ta:t:u,2
+3617,Shazim,25,MAMA ko ai ho gaye,m:amə ai:,2
+3618,Shazim,25,MAMA ko ai ho gaye,m:ama: a:i,2
+3619,Noël,18,lapin,əpəp:a,3
+3620,Alice,16,mommy,əmɑɲ:i,3
+3621,Emily,15,ɑpple,ɑp:ɪʃɛ,3
+3622,Timmy,unknown,bicycle,əgɛg:u,3
+3623,Timmy,unknown,bottle / 'bobby',əbɑb:ʊ,3
+3624,Timmy,unknown,bottle / 'bobby',əbɑb:i,3
+3625,Lewis,18,choo-choo,əʊsʊsːɪ,3
+3626,Rachel,17,flowers,əwɒːwəsːː,4
+3627,Rachel,17,Mummy,ɜmamːɪː,3
+3628,Atte,20,matto,atat:o:,3
+3629,Atte,20,pappa,apop:a,3
+3630,Eliisa,15,ihaha,ih:aha,3
+3631,Radia,19,Allahhafiz,əl:aviz,3
+3632,Radia,19,Allahhafiz,əl:abi:tʃ,3
+3633,Radia,19,Allahhu,əl:avu,3
+3634,Radia,19,Allahhu,əl:aku,3
+3635,Radia,19,Allahhu,ol:avu,3
+3636,Noël,18,lapin,pap:əpɜ,3
+3637,Timmy,unknown,Simon,ʔən:ɪm:i,3
+3638,Timmy,unknown,toot-toot,ʔɛdud:u,3
+3639,Timmy,unknown,toot-toot,du:dud:u,3
+3640,Jude,15,caterpillar,pɪtɪp:kapmpmpmpmpmpmpk,3
+3641,Jude,15,in 'ere,ɲɪnɪn:ɛ,3
+3642,Lewis,18,banana,nːæːːnəʔə,3
+3643,Lewis,18,tractor,təwaʔsːa,3
+3644,Radia,19,bismillah,bi:ʃəl:a:,3
+3645,Ivy,17,quack quack,ərɔb:vɔbɔ,4
+3646,Atte,20,sammui,am:u.auto,4
+3647,Atte,20,sammui,am:u.auto,4
+3648,Atte,20,sammui,am:u.auto,4
+3649,Atte,20,sammui,am:u.auto,4
+3650,Atte,20,sammui,am:u.auto,4
+3651,Shazim,25,AUNTI nay diya hai,a:t:i ne da: e,4
+3652,Laurent,17,canard dans l'eau,balad:alo,4
+3653,Molly,16,mama,jɛmɑm:a:mi,4

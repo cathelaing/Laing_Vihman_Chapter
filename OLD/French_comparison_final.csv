@@ -1,0 +1,1233 @@
+ID,Subject,Age,Gloss,IPAtarget,IPAactual,nsyl_target,nsyl_actual,data_type,TargetCV,ActualCV
+1,Adeline,25,bain,bɛ,da,1,1,target,CV,CV
+2,Adeline,25,bain,bɛ,adla,1,2,target,CV,VCCV
+3,Adeline,25,boum,bum,bu,1,1,target,CVC,CV
+4,Adeline,25,boum,bum,ɔpu,1,2,target,CVC,VCV
+5,Adeline,25,boum,bum,a bu,1,2,target,CVC,VVCV
+6,Adeline,25,boum,bum,apu,1,2,target,CVC,VCV
+7,Adeline,25,boum,bum,pu,1,1,target,CVC,CV
+8,Adeline,25,boum,bum,bubu,1,2,target,CVC,CVCV
+9,Adeline,25,boum,bum,pu,1,1,target,CVC,CV
+10,Adeline,25,boum,bum,pu,1,1,target,CVC,CV
+11,Adeline,25,boum,bum,bu,1,1,target,CVC,CV
+12,Adeline,25,boum,bum,bu,1,1,target,CVC,CV
+13,Adeline,25,boum,bum,bu,1,1,target,CVC,CV
+14,Adeline,25,boum,bum,bu,1,1,target,CVC,CV
+15,Adeline,25,boum,bum,bu,1,1,target,CVC,CV
+16,Adeline,25,brosse,bʁɔs,ə gʁɔ,1,2,target,CCVC,VVCCV
+17,Adeline,25,champs,ʃɑ,otɔ,1,2,target,CV,VCV
+18,Adeline,25,chat,ʃa,va,1,1,target,CV,CV
+19,Adeline,25,chat,ʃa,ə a va,1,2,target,CV,VVVVCV
+20,Adeline,25,chat,ʃa,va,1,1,target,CV,CV
+21,Adeline,25,chat,ʃa,ala va,1,3,target,CV,VCVVCV
+22,Adeline,25,chat,ʃa,ba,1,1,target,CV,CV
+23,Adeline,25,chat,ʃa,pa a va,1,2,target,CV,CVVVVCV
+24,Adeline,25,chat,ʃa,a ba,1,2,target,CV,VVCV
+25,Adeline,25,chat,ʃa,a va,1,2,target,CV,VVCV
+26,Adeline,25,chat,ʃa,la va,1,2,target,CV,CVVCV
+27,Adeline,25,chat,ʃa,o va,1,2,target,CV,VVCV
+28,Adeline,25,chat,ʃa,va ba ba,1,3,target,CV,CVVCVVCV
+29,Adeline,25,lave,lav,la,1,1,target,CVC,CV
+30,Adeline,25,là,la,la,1,1,target,CV,CV
+31,Adeline,25,là,la,la,1,1,target,CV,CV
+32,Adeline,25,là,la,la,1,1,target,CV,CV
+33,Adeline,25,là,la,la,1,1,target,CV,CV
+34,Adeline,25,là,la,da,1,1,target,CV,CV
+35,Adeline,25,là,la,da ta,1,2,target,CV,CVVCV
+36,Adeline,25,miaou,mjau,vau,1,1,target,CCVV,CVV
+37,Adeline,25,miaou,mjau,vau,1,1,target,CCVV,CVV
+38,Adeline,25,miaou,mjau,mau,1,1,target,CCVV,CVV
+39,Adeline,25,moi,mwa,ma,1,1,target,CCV,CV
+40,Adeline,25,non,nɔ,no,1,1,target,CV,CV
+41,Adeline,25,non,nɔ,no,1,1,target,CV,CV
+42,Adeline,25,oh,o,o,1,1,target,V,V
+43,Adeline,25,oh,o,o,1,1,target,V,V
+44,Adeline,25,oh,o,o,1,1,target,V,V
+45,Adeline,25,tiens,tjɛ,ta,1,1,target,CCV,CV
+46,Adeline,25,tiens,tjɛ,ta,1,1,target,CCV,CV
+47,Adeline,25,tiens,tjɛ,ta,1,1,target,CCV,CV
+48,Adeline,25,tiens,tjɛ,ta,1,1,target,CCV,CV
+49,Adeline,25,trois,tRwa,ka,1,1,target,CCCV,CV
+50,Adeline,25,vroum,vʁum,wu,1,1,target,CCVC,CV
+51,Charles,18,balle,bal,pa,1,1,target,CVC,CV
+52,Charles,18,boire,bwaʁ,bwa,1,1,target,CCVC,CCV
+53,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+54,Charles,18,boire,bwaʁ,vwɜ,1,1,target,CCVC,CCV
+55,Charles,18,boire,bwaʁ,v:wa,1,1,target,CCVC,CCCV
+56,Charles,18,boire,bwaʁ,ɔvwa,1,2,target,CCVC,VCCV
+57,Charles,18,boire,bwaʁ,ɔv:wa,1,2,target,CCVC,VCCCV
+58,Charles,18,boire,bwaʁ,bya,1,1,target,CCVC,CVV
+59,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+60,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+61,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+62,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+63,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+64,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+65,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+66,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+67,Charles,18,boire,bwaʁ,vwa,1,1,target,CCVC,CCV
+68,Charles,18,boum,bum,bum,1,1,target,CVC,CVC
+69,Charles,18,boum,bum,bøm,1,1,target,CVC,CVC
+70,Charles,18,boum,bum,b:ym,1,1,target,CVC,CCVC
+71,Charles,18,boum,bum,bøm,1,1,target,CVC,CVC
+72,Charles,18,ça,sa,z:a,1,1,target,CV,CCV
+73,Charles,18,ça,sa,ʃ:a,1,1,target,CV,CCV
+74,Charles,18,ça,sa,ʃa,1,1,target,CV,CV
+75,Charles,18,ça,sa,sa,1,1,target,CV,CV
+76,Charles,18,ça,sa,tʃa,1,1,target,CV,CCV
+77,Charles,18,ça,sa,ʃ:a,1,1,target,CV,CCV
+78,Charles,18,ça,sa,ʃ:a,1,1,target,CV,CCV
+79,Charles,18,chaud,ʃo,ʃo,1,1,target,CV,CV
+80,Charles,18,chaud,ʃo,ʃo,1,1,target,CV,CV
+81,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+82,Charles,18,tiens,tjɛ,tæ,1,1,target,CCV,CV
+83,Charles,18,tiens,tjɛ,tə,1,1,target,CCV,CV
+84,Charles,18,tiens,tjɛ,ʤa,1,1,target,CCV,CV
+85,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+86,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+87,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+88,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+89,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+90,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+91,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+92,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+93,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+94,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+95,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+96,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+97,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+98,Charles,18,tiens,tjɛ,ta,1,1,target,CCV,CV
+99,Charles,18,voire,vwaʁ,vwa,1,1,target,CCVC,CCV
+100,Charles,18,voire,vwaʁ,abvwa,1,2,target,CCVC,VCCCV
+101,Charles,18,voire,vwaʁ,av:wa,1,2,target,CCVC,VCCCV
+102,Charles,18,voire,vwaʁ,ɦəva,1,2,target,CCVC,CVCV
+103,Charles,18,voire,vwaʁ,avwa,1,2,target,CCVC,VCCV
+104,Gaël,22,bleu,blø,be:e,1,1,target,CCV,CVCV
+105,Gaël,22,bleu,blø,blœ,1,1,target,CCV,CCV
+106,Gaël,22,bleu,blø,ble:,1,1,target,CCV,CCVC
+107,Gaël,22,bleu,blø,blœ:e,1,1,target,CCV,CCVCV
+108,Gaël,22,bleu,blø,blœ:,1,1,target,CCV,CCVC
+109,Gaël,22,bleu,blø,blœ:e,1,1,target,CCV,CCVCV
+110,Gaël,22,bleu,blø,blœ:,1,1,target,CCV,CCVC
+111,Gaël,22,bleu,blø,blœ:,1,1,target,CCV,CCVC
+112,Gaël,22,deux,dø,dœ,1,1,target,CV,CV
+113,Gaël,22,feu,fø,əfœ:,1,2,target,CV,VCVC
+114,Gaël,22,Gael?,gaɛl,gaʔal,1,2,target,CVVC,CVCVC
+115,Gaël,22,gros,gʁo,egro:,1,2,target,CCV,VCCVC
+116,Gaël,22,gros,gʁo,egro,1,2,target,CCV,VCCV
+117,Gaël,22,gros,gʁo,egro,1,2,target,CCV,VCCV
+118,Gaël,22,grosse,gʁos,egrəs,1,2,target,CCVC,VCCVC
+119,Gaël,22,là,la,la,1,1,target,CV,CV
+120,Gaël,22,là,la,la,1,1,target,CV,CV
+121,Gaël,22,là,la,la,1,1,target,CV,CV
+122,Gaël,22,là,la,la,1,1,target,CV,CV
+123,Gaël,22,là,la,la,1,1,target,CV,CV
+124,Gaël,22,là,la,la,1,1,target,CV,CV
+125,Gaël,22,là,la,la,1,1,target,CV,CV
+126,Gaël,22,là,la,la,1,1,target,CV,CV
+127,Gaël,22,là,la,la,1,1,target,CV,CV
+128,Gaël,22,là,la,la,1,1,target,CV,CV
+129,Gaël,22,là,la,la,1,1,target,CV,CV
+130,Gaël,22,là,la,la,1,1,target,CV,CV
+131,Gaël,22,là,la,la,1,1,target,CV,CV
+132,Gaël,22,là,la,la,1,1,target,CV,CV
+133,Gaël,22,là,la,la,1,1,target,CV,CV
+134,Gaël,22,là,la,la,1,1,target,CV,CV
+135,Gaël,22,là,la,la,1,1,target,CV,CV
+136,Gaël,22,là,la,la,1,1,target,CV,CV
+137,Gaël,22,là,la,la,1,1,target,CV,CV
+138,Gaël,22,non,no,no,1,1,target,CV,CV
+139,Gaël,22,non,no,no,1,1,target,CV,CV
+140,Gaël,22,ouais,we,wɛ,1,1,target,CV,CV
+141,Gaël,22,ouais,we,we,1,1,target,CV,CV
+142,Gaël,22,ouais,we,wɛ,1,1,target,CV,CV
+143,Gaël,22,ouais,we,wɛ,1,1,target,CV,CV
+144,Gaël,22,ouais,we,wɛ,1,1,target,CV,CV
+145,Gaël,22,ouais,we,wɛ,1,1,target,CV,CV
+146,Gaël,22,ouais,we,wɛ,1,1,target,CV,CV
+147,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+148,Gaël,22,oui,wi,we,1,1,target,CV,CV
+149,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+150,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+151,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+152,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+153,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+154,Gaël,22,oui,wi,wi,1,1,target,CV,CV
+155,Gaël,22,ouvre,uvʁ,euv,1,1,target,VCC,VVC
+156,Gaël,22,ouvre,uvʁ,euvr,1,1,target,VCC,VVCC
+157,Gaël,22,ouvre,uvʁ,auvre,1,2,target,VCC,VVCCV
+158,Gaël,22,ouvre,uvʁ,vχe,1,1,target,VCC,CCV
+159,Gaël,22,ouvre,uvʁ,œvre,1,2,target,VCC,VCCV
+160,Gaël,22,ouvre,uvʁ,euvr,1,1,target,VCC,VVCC
+161,Gaël,22,pas,pa,epa,1,2,target,CV,VCV
+162,Gaël,22,pas,pa,apa,1,2,target,CV,VCV
+163,Gaël,22,plus,ply,aplœ,1,2,target,CCV,VCCV
+164,Gaël,22,roue,ʁu,iχu,1,2,target,CV,VCV
+165,Gaël,22,roue,ʁu,iχu,1,2,target,CV,VCV
+166,Gaël,22,rouge,ʁuʒ,rojo,1,2,target,CVC,CVCV
+167,Gaël,22,sou,su,esu,1,2,target,CV,VCV
+168,Gaël,22,sou,su,esu,1,2,target,CV,VCV
+169,Gaël,22,sou,su,esu,1,2,target,CV,VCV
+170,Gaël,22,tas,ta,ta,1,1,target,CV,CV
+171,Gaël,22,tas,ta,ta:,1,1,target,CV,CVC
+172,Gaël,22,tas,ta,ota,1,2,target,CV,VCV
+173,Gaël,22,tas,ta,ta,1,1,target,CV,CV
+174,Gaël,22,tas,ta,ota,1,2,target,CV,VCV
+175,Gaël,22,trax,tʁaks,χras,1,1,target,CCVCC,CCVC
+176,Gaël,22,vert,vɛʁ,vɛ,1,1,target,CVC,CV
+177,Laurent,17,aîe,ai,ʔa:i:,1,1,target,VV,CVCVC
+178,Laurent,17,aîe,ai,a::jœ,1,2,target,VV,VCCCV
+179,Laurent,17,aîe,ai,ʔai,1,1,target,VV,CVV
+180,Laurent,17,aîe,ai,a:i,1,1,target,VV,VCV
+181,Laurent,17,boire,bwaʁ,ʔø:habʉa:bja,1,4,target,CCVC,CVCCVCVVCCCV
+182,Laurent,17,boire,bwaʁ,go:mabyao,1,3,target,CCVC,CVCCVCVVV
+183,Laurent,17,brosse,bʁɔs,bəla,1,2,target,CCVC,CVCV
+184,Laurent,17,brosse,bʁɔs,pʌla,1,2,target,CCVC,CVCV
+185,Laurent,17,moi,mwa,pɔmaɥa,1,2,target,CCV,CVCVVV
+186,Laurent,17,moi,mwa,jemo,1,2,target,CCV,CVCV
+187,Laurent,17,moi,mwa,əma,1,2,target,CCV,VCV
+188,Laurent,17,moi,mwa,məmamʌmʌ,1,4,target,CCV,CVCVCVCV
+189,Laurent,17,non,nɔ,na,1,1,target,CV,CV
+190,Laurent,17,non,nɔ,nəa:ɛ,1,1,target,CV,CVVCV
+191,Laurent,17,non,nɔ,na:nɔ,1,2,target,CV,CVCCV
+192,Laurent,17,non,nɔ,na::ø,1,1,target,CV,CVCCV
+193,Laurent,17,non,nɔ,nɔ,1,1,target,CV,CV
+194,Laurent,17,tiens,tjɛ,ta,1,1,target,CCV,CV
+195,Laurent,17,tiens,tjɛ,ta,1,1,target,CCV,CV
+196,Noël,18,ça,sa,ta,1,1,target,CV,CV
+197,Noël,18,ça,sa,ʔa,1,1,target,CV,CV
+198,Noël,18,ça,sa,təʰ,1,1,target,CV,CVC
+199,Noël,18,ça,sa,ȶə,1,1,target,CV,CV
+200,Noël,18,ça,sa,ta,1,1,target,CV,CV
+201,Noël,18,couches,kuʃ,t:ə,1,1,target,CVC,CCV
+202,Noël,18,couches,kuʃ,tɵ,1,1,target,CVC,CV
+203,Noël,18,couches,kuʃ,ƫɵ,1,1,target,CVC,CV
+204,Noël,18,couches,kuʃ,ƫɵ,1,1,target,CVC,CV
+205,Noël,18,donne,dɔn,dʌn,1,1,target,CVC,CVC
+206,Noël,18,donne,dɔn,dɔn,1,1,target,CVC,CVC
+207,Noël,18,fraise,fʁɛz,wʉʒʉ,1,2,target,CCVC,CVCV
+208,Noël,18,l’eau,lo,ʎo,1,1,target,CV,CV
+209,Noël,18,l’eau,lo,ʎʌ,1,1,target,CV,CV
+210,Noël,18,l’eau,lo,lʌ,1,1,target,CV,CV
+211,Noël,18,l’eau,lo,lɵ,1,1,target,CV,CV
+212,Noël,18,l’eau,lo,lo:,1,1,target,CV,CVC
+213,Noël,18,l’eau,lo,ɭo,1,1,target,CV,CV
+214,Noël,18,l’eau,lo,ɭo,1,1,target,CV,CV
+215,Noël,18,main,mɛ,ma:ɛ,1,1,target,CV,CVCV
+216,Noël,18,main,mɛ,mna,1,1,target,CV,CCV
+217,Noël,18,main,mɛ,pæma,1,2,target,CV,CVCV
+218,Noël,18,non,nɔ,nɔ,1,1,target,CV,CV
+219,Noël,18,non,nɔ,nɔ,1,1,target,CV,CV
+220,Noël,18,pain,pɛ,pa,1,1,target,CV,CV
+221,Noël,18,pain,pɛ,pʌ,1,1,target,CV,CV
+222,Noël,18,pain,pɛ,pʌ,1,1,target,CV,CV
+223,Noël,18,pain,pɛ,pap,1,1,target,CV,CVC
+224,Noël,18,pain,pɛ,ʔapæ,1,2,target,CV,CVCV
+225,Noël,18,poire,pwaʁ,pə,1,1,target,CCVC,CV
+226,Noël,18,poire,pwaʁ,pœn,1,1,target,CCVC,CVC
+227,Noël,18,pomme,pɔm,pə,1,1,target,CVC,CV
+228,Noël,18,pomme,pɔm,pam,1,1,target,CVC,CVC
+229,Noël,18,pomme,pɔm,pø,1,1,target,CVC,CV
+230,Noël,18,poule,pul,p:aɛ,1,1,target,CVC,CCVV
+231,Noël,18,poule,pul,pɜ:ɛ,1,1,target,CVC,CVCV
+232,Noël,18,poum,pum,pʌm,1,1,target,CVC,CVC
+233,Noël,18,tiens,tjɛ,tɛtɛɲ,1,2,target,CCV,CVCVC
+234,Noël,18,tiens,tjɛ,ten:,1,1,target,CCV,CVCC
+235,Noël,18,tiens,tjɛ,ƫɛn,1,1,target,CCV,CVC
+236,Noël,18,tiens,tjɛ,tən,1,1,target,CCV,CVC
+237,Noël,18,tiens,tjɛ,tøn,1,1,target,CCV,CVC
+238,Noël,18,tiens,tjɛ,tʌn,1,1,target,CCV,CVC
+239,Noël,18,tiens,tjɛ,tʌn,1,1,target,CCV,CVC
+240,Noël,18,tiens,tjɛ,tɛn,1,1,target,CCV,CVC
+241,Noël,18,tiens,tjɛ,ten:,1,1,target,CCV,CVCC
+242,Noël,18,tiens,tjɛ,ƫɛn,1,1,target,CCV,CVC
+243,Noël,18,tiens,tjɛ,tɛn,1,1,target,CCV,CVC
+244,Noël,18,tiens,tjɛ,tɛn,1,1,target,CCV,CVC
+245,Adeline,25,bisou,bizu,ado,2,2,target,CVCV,VCV
+246,Adeline,25,bisou,bizu,ɛdu,2,2,target,CVCV,VCV
+247,Adeline,25,bisou,bizu,atu,2,2,target,CVCV,VCV
+248,Adeline,25,bisou,bizu,ətu,2,2,target,CVCV,VCV
+249,Adeline,25,bisou,bizu,atu,2,2,target,CVCV,VCV
+250,Adeline,25,bobo,bobo,aboβo,2,3,target,CVCV,VCVCV
+251,Adeline,25,bobo,bobo,abobu,2,3,target,CVCV,VCVCV
+252,Adeline,25,bobo,bobo,abobu,2,3,target,CVCV,VCVCV
+253,Adeline,25,chapeau,ʃapo,apo,2,2,target,CVCV,VCV
+254,Adeline,25,chapeau,ʃapo,apo,2,2,target,CVCV,VCV
+255,Adeline,25,chapeau,ʃapo,apo,2,2,target,CVCV,VCV
+256,Adeline,25,chapeau,ʃapo,apo,2,2,target,CVCV,VCV
+257,Adeline,25,chapeau,ʃapo,ə apu,2,2,target,CVCV,VVVCV
+258,Adeline,25,chapeau,ʃapo,apu,2,2,target,CVCV,VCV
+259,Adeline,25,chapeau,ʃapo,abo,2,2,target,CVCV,VCV
+260,Adeline,25,chapeau,ʃapo,afo,2,2,target,CVCV,VCV
+261,Adeline,25,chapeau,ʃapo,apu,2,2,target,CVCV,VCV
+262,Adeline,25,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+263,Adeline,25,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+264,Adeline,25,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+265,Adeline,25,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+266,Adeline,25,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+267,Adeline,25,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+268,Adeline,25,coucou,kuku,kuɣu,2,2,target,CVCV,CVCV
+269,Adeline,25,coucou,kuku,ə kohko,2,3,target,CVCV,VVCVCCV
+270,Adeline,25,coucou,kuku,a kugu,2,3,target,CVCV,VVCVCV
+271,Adeline,25,coucou,kuku,aku,2,2,target,CVCV,VCV
+272,Adeline,25,dodo,dodo,tutu,2,2,target,CVCV,CVCV
+273,Adeline,25,en dehors,ɑdəɔʁ,o da,2,2,target,VCVVC,VVCV
+274,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+275,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+276,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+277,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+278,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+279,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+280,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+281,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+282,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+283,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,target,VCVC,VCV
+284,Adeline,25,encore,ɑkɔʁ,ako,2,2,target,VCVC,VCV
+285,Adeline,25,encore,ɑkɔʁ,okɔ,2,2,target,VCVC,VCV
+286,Adeline,25,encore,ɑkɔʁ,kɔ,2,1,target,VCVC,CV
+287,Adeline,25,encore,ɑkɔʁ,ɔlkɔ,2,2,target,VCVC,VCCV
+288,Adeline,25,maman,mamɑ,mamɑ,2,2,target,CVCV,CVCV
+289,Adeline,25,maman,mamɑ,mamɑ,2,2,target,CVCV,CVCV
+290,Adeline,25,maman,mamɑ,mamɑ,2,2,target,CVCV,CVCV
+291,Adeline,25,oiseau,wazo,əʒlo,2,2,target,CVCV,VCCV
+292,Adeline,25,papa,papa,papa,2,2,target,CVCV,CVCV
+293,Adeline,25,papa,papa,papa,2,2,target,CVCV,CVCV
+294,Adeline,25,papa,papa,a papa,2,3,target,CVCV,VVCVCV
+295,Adeline,25,parti,paʁti,ate,2,2,target,CVCCV,VCV
+296,Adeline,25,vachou,vaʃu,oʒu,2,2,target,CVCV,VCV
+297,Adeline,25,voilà,vwala,wala,2,2,target,CCVCV,CVCV
+298,Adeline,25,voilà,vwala,ala,2,2,target,CCVCV,VCV
+299,Adeline,25,voiture,vwatyʁ,atu,2,2,target,CCVCVC,VCV
+300,Adeline,25,voiture,vwatyʁ,atu,2,2,target,CCVCVC,VCV
+301,Charles,18,allo,alo,al:ɔ,2,2,target,VCV,VCCV
+302,Charles,18,allo,alo,alo,2,2,target,VCV,VCV
+303,Charles,18,allo,alo,al:ɔ,2,2,target,VCV,VCCV
+304,Charles,18,assis,asi,as:a,2,2,target,VCV,VCCV
+305,Charles,18,assis,asi,aç,2,1,target,VCV,VC
+306,Charles,18,attend,ata,atæ,2,2,target,VCV,VCV
+307,Charles,18,attend,ata,aʥm,2,1,target,VCV,VCC
+308,Charles,18,attend,ata,ʔaʨə,2,2,target,VCV,CVCV
+309,Charles,18,au revoir,ovwaʁ,avwa,2,2,target,VCCVC,VCCV
+310,Charles,18,au revoir,ovwaʁ,vwa,2,1,target,VCCVC,CCV
+311,Charles,18,auto,oto,a::to,2,2,target,VCV,VCCCV
+312,Charles,18,auto,oto,hɔto,2,2,target,VCV,CVCV
+313,Charles,18,auto,oto,at,2,1,target,VCV,VC
+314,Charles,18,c'est beau,sebo,abo,2,2,target,CVCV,VCV
+315,Charles,18,c'est beau,sebo,habo::,2,2,target,CVCV,CVCVCC
+316,Charles,18,c'est beau,sebo,bɔ,2,1,target,CVCV,CV
+317,Charles,18,c'est bon,sebɔ,habõ,2,1,target,CVCV,CVCC
+318,Charles,18,chapeau,ʃapo,apo,2,2,target,CVCV,VCV
+319,Charles,18,chapeau,ʃapo,hapo,2,2,target,CVCV,CVCV
+320,Charles,18,chapeau,ʃapo,a:pø,2,2,target,CVCV,VCCV
+321,Charles,18,chapeau,ʃapo,ha:p:o,2,2,target,CVCV,CVCCCV
+322,Charles,18,chapeau,ʃapo,a:pø,2,2,target,CVCV,VCCV
+323,Charles,18,chapeau,ʃapo,a:pø,2,2,target,CVCV,VCCV
+324,Charles,18,chaussures,ʃosyʁ,ʒaʒo,2,2,target,CVCVC,CVCV
+325,Charles,18,chaussures,ʃosyʁ,ɛdʒo,2,2,target,CVCVC,VCCV
+326,Charles,18,coucou,kuku,tʉtʉ,2,2,target,CVCV,CVCV
+327,Charles,18,coucou,kuku,toto,2,2,target,CVCV,CVCV
+328,Charles,18,coucou,kuku,tʉtʉ,2,2,target,CVCV,CVCV
+329,Charles,18,coucou,kuku,toto,2,2,target,CVCV,CVCV
+330,Charles,18,coucou,kuku,toto,2,2,target,CVCV,CVCV
+331,Charles,18,garçon,gaʁsɔ,haʒœ,2,2,target,CVCCV,CVCV
+332,Charles,18,garçon,gaʁsɔ,haʐœ,2,2,target,CVCCV,CVCV
+333,Charles,18,garçon,gaʁsɔ,aʐa,2,2,target,CVCCV,VCV
+334,Charles,18,garçon,gaʁsɔ,haʃɔʰ,2,2,target,CVCCV,CVCVC
+335,Charles,18,garçon,gaʁsɔ,ʰaʃə,2,2,target,CVCCV,CVCV
+336,Charles,18,garçon,gaʁsɔ,haʒœ,2,2,target,CVCCV,CVCV
+337,Charles,18,garçon,gaʁsɔ,haʒœ,2,2,target,CVCCV,CVCV
+338,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+339,Charles,18,lapin,lapɛ,haba,2,2,target,CVCV,CVCV
+340,Charles,18,lapin,lapɛ,ɦapa,2,2,target,CVCV,CVCV
+341,Charles,18,lapin,lapɛ,a::pa,2,2,target,CVCV,VCCCV
+342,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+343,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+344,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+345,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+346,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+347,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+348,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+349,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+350,Charles,18,lapin,lapɛ,apa,2,2,target,CVCV,VCV
+351,Charles,18,les yeux,lezjø,aʒo:,2,2,target,CVCCV,VCVC
+352,Charles,18,lolo,lolo,ʎoʎo,2,2,target,CVCV,CVCV
+353,Charles,18,lolo,lolo,biʎə,2,2,target,CVCV,CVCV
+354,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+355,Charles,18,maman,mama,mhamə,2,2,target,CVCV,CCVCV
+356,Charles,18,maman,mama,mʌma,2,2,target,CVCV,CVCV
+357,Charles,18,maman,mama,mɛma,2,2,target,CVCV,CVCV
+358,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+359,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+360,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+361,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+362,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+363,Charles,18,maman,mama,mama,2,2,target,CVCV,CVCV
+364,Charles,18,non-non,nɔnɔ,nɔnɔ,2,2,target,CVCV,CVCV
+365,Charles,18,non-non,nɔnɔ,hənɔ,2,2,target,CVCV,CVCV
+366,Charles,18,non-non,nɔnɔ,nɛna,2,2,target,CVCV,CVCV
+367,Charles,18,non-non,nɔnɔ,nono,2,2,target,CVCV,CVCV
+368,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+369,Charles,18,non-non,nɔnɔ,nən,2,1,target,CVCV,CVC
+370,Charles,18,non-non,nɔnɔ,ɔno,2,2,target,CVCV,VCV
+371,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+372,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+373,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+374,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+375,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+376,Charles,18,non-non,nɔnɔ,nəno,2,2,target,CVCV,CVCV
+377,Charles,18,oiseau,wazo,abo:,2,2,target,CVCV,VCVC
+378,Charles,18,oiseau,wazo,apo,2,2,target,CVCV,VCV
+379,Charles,18,papa,papa,papa,2,2,target,CVCV,CVCV
+380,Charles,18,papa,papa,papa,2,2,target,CVCV,CVCV
+381,Charles,18,papa,papa,papa,2,2,target,CVCV,CVCV
+382,Charles,18,poupée,pupe,bapa,2,2,target,CVCV,CVCV
+383,Charles,18,va pas,vapa,apa,2,2,target,CVCV,VCV
+384,Charles,18,va pas,vapa,hapa,2,2,target,CVCV,CVCV
+385,Charles,18,va pas,vapa,apæ,2,2,target,CVCV,VCV
+386,Charles,18,va pas,vapa,apa,2,2,target,CVCV,VCV
+387,Charles,18,va pas,vapa,apa,2,2,target,CVCV,VCV
+388,Charles,18,miammiam,mjamjam,am,2,1,target,CCVCCVC,VC
+389,Charles,18,miammiam,mjamjam,hæm,2,1,target,CCVCCVC,CVC
+390,Charles,18,miammiam,mjamjam,ʌm,2,1,target,CCVCCVC,VC
+391,Charles,18,miammiam,mjamjam,am,2,1,target,CCVCCVC,VC
+392,Charles,18,miammiam,mjamjam,am,2,1,target,CCVCCVC,VC
+393,Charles,18,miammiam,mjamjam,hæm,2,1,target,CCVCCVC,CVC
+394,Gaël,22,ballon,balo,lalo:,2,2,target,CVCV,CVCVC
+395,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+396,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+397,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+398,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+399,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+400,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+401,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+402,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+403,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+404,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+405,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+406,Gaël,22,bébé,bebe,bebe,2,2,target,CVCV,CVCV
+407,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+408,Gaël,22,c'est ça,sesa,es,2,1,target,CVCV,VC
+409,Gaël,22,c'est ça,sesa,esa:,2,2,target,CVCV,VCVC
+410,Gaël,22,c'est ça,sesa,əsa,2,2,target,CVCV,VCV
+411,Gaël,22,c'est ça,sesa,əsea,2,2,target,CVCV,VCVV
+412,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+413,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+414,Gaël,22,c'est ça,sesa,sesa,2,2,target,CVCV,CVCV
+415,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+416,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+417,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+418,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+419,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+420,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+421,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+422,Gaël,22,c'est ça,sesa,esa,2,2,target,CVCV,VCV
+423,Gaël,22,c'est ça,sesa,əsa,2,2,target,CVCV,VCV
+424,Gaël,22,c'est ça,sesa,əsa,2,2,target,CVCV,VCV
+425,Gaël,22,c'est ça,sesa,əsa,2,2,target,CVCV,VCV
+426,Gaël,22,c'est ça,sesa,əsa,2,2,target,CVCV,VCV
+427,Gaël,22,casser,kase,sase,2,2,target,CVCV,CVCV
+428,Gaël,22,casser,kase,ase,2,2,target,CVCV,VCV
+429,Gaël,22,chercher,ʃɛʁʃe,ʃaʃe,2,2,target,CVCCV,CVCV
+430,Gaël,22,chercher,ʃɛʁʃe,aʃe,2,2,target,CVCCV,VCV
+431,Gaël,22,chercher,ʃɛʁʃe,ase,2,2,target,CVCCV,VCV
+432,Gaël,22,dedans,dəda,adã,2,2,target,CVCV,VCVC
+433,Gaël,22,dodo,dodo,dodo,2,2,target,CVCV,CVCV
+434,Gaël,22,dormir,doʁmi,doʁ,2,1,target,CVCCV,CVC
+435,Gaël,22,écrit,ekʁi,eχri,2,2,target,VCCV,VCCV
+436,Gaël,22,écrit,ekʁi,iχri,2,2,target,VCCV,VCCV
+437,Gaël,22,grelot,gʁəlo,eχo,2,2,target,CCVCV,VCV
+438,Gaël,22,ici,isi,is,2,1,target,VCV,VC
+439,Gaël,22,ici,isi,isi,2,2,target,VCV,VCV
+440,Gaël,22,là bas,laba,aba,2,2,target,CVCV,VCV
+441,Gaël,22,là bas,laba,aba,2,2,target,CVCV,VCV
+442,Gaël,22,machine,maʃin,ʃe,2,1,target,CVCVC,CV
+443,Gaël,22,machine,maʃin,aʃe,2,2,target,CVCVC,VCV
+444,Gaël,22,maman,mama,mama,2,2,target,CVCV,CVCV
+445,Gaël,22,maman,mama,ma,2,1,target,CVCV,CV
+446,Gaël,22,maman,mama,mama,2,2,target,CVCV,CVCV
+447,Gaël,22,maman,mama,ama,2,2,target,CVCV,VCV
+448,Gaël,22,maman,mama,mama,2,2,target,CVCV,CVCV
+449,Gaël,22,maman,mama,mama,2,2,target,CVCV,CVCV
+450,Gaël,22,maman,mama,ma,2,1,target,CVCV,CV
+451,Gaël,22,ouvrir,uvʁiʁ,oχri,2,2,target,VCCVC,VCCV
+452,Gaël,22,ouvrir,uvʁiʁ,uχri,2,2,target,VCCVC,VCCV
+453,Gaël,22,ouvrir,uvʁiʁ,uvχri,2,2,target,VCCVC,VCCCV
+454,Gaël,22,ouvrir,uvʁiʁ,auvri,2,2,target,VCCVC,VVCCV
+455,Gaël,22,ouvrir,uvʁiʁ,uvχre,2,2,target,VCCVC,VCCCV
+456,Gaël,22,ouvrir,uvʁiʁ,uvχri,2,2,target,VCCVC,VCCCV
+457,Gaël,22,papa,papa,papa,2,2,target,CVCV,CVCV
+458,Gaël,22,papa,papa,epap,2,2,target,CVCV,VCVC
+459,Gaël,22,papa,papa,pap,2,1,target,CVCV,CVC
+460,Gaël,22,tout seul,tusøl,tusɛ,2,2,target,CVCVC,CVCV
+461,Gaël,22,voiture,vwatyʁ,tɛty,2,2,target,CCVCVC,CVCV
+462,Gaël,22,voiture,vwatyʁ,tɛty,2,2,target,CCVCVC,CVCV
+463,Laurent,17,allo,alo,alo,2,2,target,VCV,VCV
+464,Laurent,17,allo,alo,ʔaʔalʌ,2,3,target,VCV,CVCVCV
+465,Laurent,17,allo,alo,ʔøalo,2,2,target,VCV,CVVCV
+466,Laurent,17,ballon,balɔ,palɔ,2,2,target,CVCV,CVCV
+467,Laurent,17,ballon,balɔ,bəl,2,1,target,CVCV,CVC
+468,Laurent,17,bébé,bebe,bəbə,2,2,target,CVCV,CVCV
+469,Laurent,17,caca,kaka,kɒka,2,2,target,CVCV,CVCV
+470,Laurent,17,canard coincoin,kanaʁ,kɔɭa,2,2,target,CVCVC,CVCV
+471,Laurent,17,canard coincoin,kanaʁ,kɔlɔa,2,2,target,CVCVC,CVCVV
+472,Laurent,17,canard coincoin,kanaʁ,kwalakwala,2,4,target,CVCVC,CCVCVCCVCV
+473,Laurent,17,chapeau,ʃapo,bolo,2,2,target,CVCV,CVCV
+474,Laurent,17,chapeau,ʃapo,bobo,2,2,target,CVCV,CVCV
+475,Laurent,17,chapeau,ʃapo,əbolo,2,3,target,CVCV,VCVCV
+476,Laurent,17,chapeau,ʃapo,bəbɔbo,2,3,target,CVCV,CVCVCV
+477,Laurent,17,chapeau,ʃapo,mabəmã,2,3,target,CVCV,CVCVCVC
+478,Laurent,17,chapeau,ʃapo,pobo,2,2,target,CVCV,CVCV
+479,Laurent,17,chapeau,ʃapo,bɔbobo,2,3,target,CVCV,CVCVCV
+480,Laurent,17,chapeau,ʃapo,bɔɟə,2,2,target,CVCV,CVCV
+481,Laurent,17,chapeau,ʃapo,bøilø,2,2,target,CVCV,CVVCV
+482,Laurent,17,chapeau,ʃapo,bølo,2,2,target,CVCV,CVCV
+483,Laurent,17,chaussures,ʃosyʁ,ʃoʃy,2,2,target,CVCVC,CVCV
+484,Laurent,17,chaussures,ʃosyʁ,ʒəʃa:tizə,2,4,target,CVCVC,CVCVCCVCV
+485,Laurent,17,chaussures,ʃosyʁ,bɛʒɨʒeʒəje,2,5,target,CVCVC,CVCVCVCVCV
+486,Laurent,17,coucou,kuku,kuku,2,2,target,CVCV,CVCV
+487,Laurent,17,coucou,kuku,kukɔ:,2,2,target,CVCV,CVCVC
+488,Laurent,17,coucou,kuku,kɤkɤ,2,2,target,CVCV,CVCV
+489,Laurent,17,coucou,kuku,tɤdɤ,2,2,target,CVCV,CVCV
+490,Laurent,17,cuillère,kwijɛʁ,kola,2,2,target,CCVCVC,CVCV
+491,Laurent,17,cuillère,kwijɛʁ,kɔja,2,2,target,CCVCVC,CVCV
+492,Laurent,17,cuillère,kwijɛʁ,koləkola,2,4,target,CCVCVC,CVCVCVCV
+493,Laurent,17,de l'eau,dəlo,dəlo,2,2,target,CVCV,CVCV
+494,Laurent,17,de l'eau,dəlo,ʔθdəlo,2,2,target,CVCV,CCCVCV
+495,Laurent,17,de l'eau,dəlo,dœɦədəlo,2,4,target,CVCV,CVCVCVCV
+496,Laurent,17,de l'eau,dəlo,dəldəlo,2,3,target,CVCV,CVCCVCV
+497,Laurent,17,de l'eau,dəlo,bəl:o,2,2,target,CVCV,CVCCV
+498,Laurent,17,de l'eau,dəlo,tola,2,2,target,CVCV,CVCV
+499,Laurent,17,de l'eau,dəlo,tøldœlo,2,3,target,CVCV,CVCCVCV
+500,Laurent,17,de l'eau,dəlo,pɔlədəlo,2,4,target,CVCV,CVCVCVCV
+501,Laurent,17,de l'eau,dəlo,pøtɜlo,2,3,target,CVCV,CVCVCV
+502,Laurent,17,de l'eau,dəlo,bəlo,2,2,target,CVCV,CVCV
+503,Laurent,17,de l'eau,dəlo,tølo,2,2,target,CVCV,CVCV
+504,Laurent,17,Didier,didje,dədjɨ,2,2,target,CVCCV,CVCCV
+505,Laurent,17,dodo,dodo,dodɔ,2,2,target,CVCV,CVCV
+506,Laurent,17,gateau,gato,tato,2,2,target,CVCV,CVCV
+507,Laurent,17,gateau,gato,təto,2,2,target,CVCV,CVCV
+508,Laurent,17,gateau,gato,tatø,2,2,target,CVCV,CVCV
+509,Laurent,17,gateau,gato,totot,2,2,target,CVCV,CVCVC
+510,Laurent,17,gateau,gato,kto,2,1,target,CVCV,CCV
+511,Laurent,17,kekette,kekɛt,kake,2,2,target,CVCVC,CVCV
+512,Laurent,17,Kola,kola,kɔla,2,2,target,CVCV,CVCV
+513,Laurent,17,Kola,kola,kəla,2,2,target,CVCV,CVCV
+514,Laurent,17,Kola,kola,kolɛ̃,2,2,target,CVCV,CVCVC
+515,Laurent,17,Kola,kola,xola,2,2,target,CVCV,CVCV
+516,Laurent,17,Kola,kola,kola,2,2,target,CVCV,CVCV
+517,Laurent,17,maman,mama,mama,2,2,target,CVCV,CVCV
+518,Laurent,17,maman,mama,mʌmɛ,2,2,target,CVCV,CVCV
+519,Laurent,17,maman,mama,ama,2,2,target,CVCV,VCV
+520,Laurent,17,maman,mama,mamʌ,2,2,target,CVCV,CVCV
+521,Laurent,17,maman,mama,məmʌʓəla,2,4,target,CVCV,CVCVCVCV
+522,Laurent,17,nano,nano,nano,2,2,target,CVCV,CVCV
+523,Laurent,17,nano,nano,nanʌ,2,2,target,CVCV,CVCV
+524,Laurent,17,nano,nano,na:nʌ,2,2,target,CVCV,CVCCV
+525,Laurent,17,papa,papa,papa,2,2,target,CVCV,CVCV
+526,Laurent,17,papa,papa,bapa,2,2,target,CVCV,CVCV
+527,Laurent,17,voilà,vwala,wal:a,2,2,target,CCVCV,CVCCV
+528,Laurent,17,voilà,vwala,ba:laʔ,2,2,target,CCVCV,CVCCVC
+529,Laurent,17,voilà,vwala,ɥala,2,2,target,CCVCV,VVCV
+530,Laurent,17,miam,məma,mənam,2,2,target,CVCV,CVCVC
+531,Laurent,17,miam,məma,ma::m,2,1,target,CVCV,CVCCC
+532,Laurent,17,miam,məma,mʌmɛ,2,2,target,CVCV,CVCV
+533,Laurent,17,miam,məma,mamæ,2,2,target,CVCV,CVCV
+534,Laurent,17,miam,məma,mamam,2,2,target,CVCV,CVCVC
+535,Laurent,17,hihan,hiha,apɨ,2,2,target,CVCV,VCV
+536,Noël,18,ballon,balɔ,βan,2,1,target,CVCV,CVC
+537,Noël,18,ballon,balɔ,banɵ,2,2,target,CVCV,CVCV
+538,Noël,18,banane,banan,ban:,2,1,target,CVCVC,CVCC
+539,Noël,18,banane,banan,pɛ,2,1,target,CVCVC,CV
+540,Noël,18,banane,banan,baɖa,2,2,target,CVCVC,CVCV
+541,Noël,18,banane,banan,bəʤæ,2,2,target,CVCVC,CVCV
+542,Noël,18,biberon?,bibʁɔ,baƺabɜnɛ,2,4,target,CVCCV,CVCVCVCV
+543,Noël,18,canard,kanaʁ,tɛt,2,1,target,CVCVC,CVC
+544,Noël,18,canard,kanaʁ,tɛta,2,2,target,CVCVC,CVCV
+545,Noël,18,canard,kanaʁ,ətata,2,3,target,CVCVC,VCVCV
+546,Noël,18,canard,kanaʁ,tætæ,2,2,target,CVCVC,CVCV
+547,Noël,18,canard,kanaʁ,batæ,2,2,target,CVCVC,CVCV
+548,Noël,18,chapeaux,ʃapo,pʌpʌ,2,2,target,CVCV,CVCV
+549,Noël,18,dodo,dodo,ƫəƫo,2,2,target,CVCV,CVCV
+550,Noël,18,gateau,gato,taƫɵ,2,2,target,CVCV,CVCV
+551,Noël,18,gateau,gato,taƫo,2,2,target,CVCV,CVCV
+552,Noël,18,gateau,gato,tjøtato,2,3,target,CVCV,CCVCVCV
+553,Noël,18,gateau,gato,tatatɔ,2,3,target,CVCV,CVCVCV
+554,Noël,18,gateau,gato,tsəƫato,2,3,target,CVCV,CCVCVCV
+555,Noël,18,gateau,gato,pəƫaƫə,2,3,target,CVCV,CVCVCV
+556,Noël,18,gateau,gato,ʌmtʃpɛtɵ,2,3,target,CVCV,VCCCCVCV
+557,Noël,18,gateau,gato,ƫataƫo,2,3,target,CVCV,CVCVCV
+558,Noël,18,gateau,gato,ƫapa:to,2,3,target,CVCV,CVCVCCV
+559,Noël,18,gateau,gato,tætæto,2,3,target,CVCV,CVCVCV
+560,Noël,18,gateau,gato,ƫataƫo,2,3,target,CVCV,CVCVCV
+561,Noël,18,lapin,lapɛ,pəpa,2,2,target,CVCV,CVCV
+562,Noël,18,lapin,lapɛ,papɛ,2,2,target,CVCV,CVCV
+563,Noël,18,lapin,lapɛ,papa,2,2,target,CVCV,CVCV
+564,Noël,18,lapin,lapɛ,pʌp:ɛ,2,2,target,CVCV,CVCCV
+565,Noël,18,lapin,lapɛ,papʌ,2,2,target,CVCV,CVCV
+566,Noël,18,lapin,lapɛ,papɛm,2,2,target,CVCV,CVCVC
+567,Noël,18,lapin,lapɛ,əpəp:a,2,3,target,CVCV,VCVCCV
+568,Noël,18,lapin,lapɛ,pap:əpɜ,2,3,target,CVCV,CVCCVCV
+569,Noël,18,lapin,lapɛ,papɛ,2,2,target,CVCV,CVCV
+570,Noël,18,lapin,lapɛ,papɛ,2,2,target,CVCV,CVCV
+571,Noël,18,lapin,lapɛ,papɛ,2,2,target,CVCV,CVCV
+572,Noël,18,lapin,lapɛ,papɛ,2,2,target,CVCV,CVCV
+573,Noël,18,lapin,lapɛ,papɛ,2,2,target,CVCV,CVCV
+574,Noël,18,maman,mama,ʔɛmamæ,2,3,target,CVCV,CVCVCV
+575,Noël,18,maman,mama,hɛmamɜ,2,3,target,CVCV,CVCVCV
+576,Noël,18,maman,mama,amama,2,3,target,CVCV,VCVCV
+577,Noël,18,maman,mama,mama,2,2,target,CVCV,CVCV
+578,Noël,18,wouf wouf,wawa,wawa,2,2,target,CVCV,CVCV
+579,Noël,18,wouf wouf,wawa,wowɔ,2,2,target,CVCV,CVCV
+580,Noël,18,wouf wouf,wawa,wawɔ,2,2,target,CVCV,CVCV
+581,Noël,18,wouf wouf,wawa,owowɔ,2,3,target,CVCV,VCVCV
+582,Noël,18,wouf wouf,wawa,wø:a,2,1,target,CVCV,CVCV
+583,Noël,18,wouf wouf,wawa,ʉaʉa,2,1,target,CVCV,VVVV
+584,Noël,18,wouf wouf,wawa,ʔɵvwa,2,2,target,CVCV,CVCCV
+585,Noël,18,wouf wouf,wawa,ʔawawa,2,3,target,CVCV,CVCVCV
+586,Noël,18,wouf wouf,wawa,ʔɔwo,2,2,target,CVCV,CVCV
+587,Noël,18,wouf wouf,wawa,wɤwo,2,2,target,CVCV,CVCV
+588,Noël,18,wouf wouf,wawa,pøwa,2,2,target,CVCV,CVCV
+589,Noël,18,wouf wouf,wawa,wøwa,2,2,target,CVCV,CVCV
+590,Noël,18,paletot,palto,papa,2,2,target,CVCCV,CVCV
+591,Noël,18,paletot,palto,papapo,2,3,target,CVCCV,CVCVCV
+592,Noël,18,paletot,palto,pəpapo,2,3,target,CVCCV,CVCVCV
+593,Noël,18,papa,papa,papa,2,2,target,CVCV,CVCV
+594,Noël,18,par là,paʁla,pɜɭa,2,2,target,CVCCV,CVCV
+595,Noël,18,peinture,pɛtyʁ,pan,2,1,target,CVCVC,CVC
+596,Noël,18,peinture,pɛtyʁ,papan,2,2,target,CVCVC,CVCVC
+597,Noël,18,peinture,pɛtyʁ,pəpal,2,2,target,CVCVC,CVCVC
+598,Noël,18,poupée,pupe,pɜa,2,1,target,CVCV,CVV
+599,Noël,18,poupée,pupe,pəpe,2,2,target,CVCV,CVCV
+600,Noël,18,savon,savɔ,ʔəwə,2,2,target,CVCV,CVCV
+601,Noël,18,savon,savɔ,ə:ɥɵ,2,1,target,CVCV,VCVV
+602,Adeline,25,au revoir,oʁəvwaʁ,ova,3,2,target,VCVCCVC,VCV
+603,Adeline,25,au revoir,oʁəvwaʁ,ova,3,2,target,VCVCCVC,VCV
+604,Adeline,25,au revoir,oʁəvwaʁ,bwa,3,1,target,VCVCCVC,CCV
+605,Adeline,25,au revoir,oʁəvwaʁ,ɔpa,3,2,target,VCVCCVC,VCV
+606,Adeline,25,au revoir,oʁəvwaʁ,ovwa,3,2,target,VCVCCVC,VCCV
+607,Adeline,25,au revoir,oʁəvwaʁ,o va,3,2,target,VCVCCVC,VVCV
+608,Adeline,25,au revoir,oʁəvwaʁ,o pa,3,2,target,VCVCCVC,VVCV
+609,Adeline,25,au revoir,oʁəvwaʁ,o va,3,2,target,VCVCCVC,VVCV
+610,Gaël,22,accrocher,akʁɔʃe,xʁoʃe,3,2,target,VCCVCV,CCVCV
+611,Gaël,22,accrocher,akʁɔʃe,xoʃe,3,2,target,VCCVCV,CVCV
+612,Gaël,22,la dame la,ladamla,adãlə,3,3,target,CVCVCCV,VCVCCV
+613,Laurent,17,coucou là,kukula,kukula,3,3,target,CVCVCV,CVCVCV
+614,Laurent,17,la dame là,ladamla,lələdala,3,4,target,CVCVCCV,CVCVCVCV
+615,Laurent,17,donne [nano],dɔn nano,dəa nona,4,3,target,CVCVCVCV,CVVVCVCV
+616,Laurent,17,canard dans l'eau,kanaʁ dalo,balad:alo,5,4,target,CVCVCVCVCV,CVCVCCVCV
+617,Adeline,25,oh,o,o,1,1,actual,V,V
+618,Adeline,25,oh,o,o,1,1,actual,V,V
+619,Adeline,25,oh,o,o,1,1,actual,V,V
+620,Charles,18,assis,asi,aç,2,1,actual,VCV,VC
+621,Charles,18,attend,ata,aʥm,2,1,actual,VCV,VCC
+622,Charles,18,auto,oto,at,2,1,actual,VCV,VC
+623,Charles,18,miammiam,mjamjam,am,2,1,actual,CCVCCVC,VC
+624,Charles,18,miammiam,mjamjam,ʌm,2,1,actual,CCVCCVC,VC
+625,Charles,18,miammiam,mjamjam,am,2,1,actual,CCVCCVC,VC
+626,Charles,18,miammiam,mjamjam,am,2,1,actual,CCVCCVC,VC
+627,Gaël,22,c'est ça,sesa,es,2,1,actual,CVCV,VC
+628,Gaël,22,ici,isi,is,2,1,actual,VCV,VC
+629,Gaël,22,ouvre,uvʁ,euv,1,1,actual,VCC,VVC
+630,Gaël,22,ouvre,uvʁ,euvr,1,1,actual,VCC,VVCC
+631,Gaël,22,ouvre,uvʁ,euvr,1,1,actual,VCC,VVCC
+632,Laurent,17,aîe,ai,a:i,1,1,actual,VV,VCV
+633,Noël,18,wouf wouf,wawa,ʉaʉa,2,1,actual,CVCV,VVVV
+634,Noël,18,savon,savɔ,ə:ɥɵ,2,1,actual,CVCV,VCVV
+635,Adeline,25,au revoir,oʁəvwaʁ,bwa,3,1,actual,VCVCCVC,CCV
+636,Adeline,25,bain,bɛ,da,1,1,actual,CV,CV
+637,Adeline,25,boum,bum,bu,1,1,actual,CVC,CV
+638,Adeline,25,boum,bum,pu,1,1,actual,CVC,CV
+639,Adeline,25,boum,bum,pu,1,1,actual,CVC,CV
+640,Adeline,25,boum,bum,pu,1,1,actual,CVC,CV
+641,Adeline,25,boum,bum,bu,1,1,actual,CVC,CV
+642,Adeline,25,boum,bum,bu,1,1,actual,CVC,CV
+643,Adeline,25,boum,bum,bu,1,1,actual,CVC,CV
+644,Adeline,25,boum,bum,bu,1,1,actual,CVC,CV
+645,Adeline,25,boum,bum,bu,1,1,actual,CVC,CV
+646,Adeline,25,chat,ʃa,va,1,1,actual,CV,CV
+647,Adeline,25,chat,ʃa,va,1,1,actual,CV,CV
+648,Adeline,25,chat,ʃa,ba,1,1,actual,CV,CV
+649,Adeline,25,encore,ɑkɔʁ,kɔ,2,1,actual,VCVC,CV
+650,Adeline,25,lave,lav,la,1,1,actual,CVC,CV
+651,Adeline,25,là,la,la,1,1,actual,CV,CV
+652,Adeline,25,là,la,la,1,1,actual,CV,CV
+653,Adeline,25,là,la,la,1,1,actual,CV,CV
+654,Adeline,25,là,la,la,1,1,actual,CV,CV
+655,Adeline,25,là,la,da,1,1,actual,CV,CV
+656,Adeline,25,miaou,mjau,vau,1,1,actual,CCVV,CVV
+657,Adeline,25,miaou,mjau,vau,1,1,actual,CCVV,CVV
+658,Adeline,25,miaou,mjau,mau,1,1,actual,CCVV,CVV
+659,Adeline,25,moi,mwa,ma,1,1,actual,CCV,CV
+660,Adeline,25,non,nɔ,no,1,1,actual,CV,CV
+661,Adeline,25,non,nɔ,no,1,1,actual,CV,CV
+662,Adeline,25,tiens,tjɛ,ta,1,1,actual,CCV,CV
+663,Adeline,25,tiens,tjɛ,ta,1,1,actual,CCV,CV
+664,Adeline,25,tiens,tjɛ,ta,1,1,actual,CCV,CV
+665,Adeline,25,tiens,tjɛ,ta,1,1,actual,CCV,CV
+666,Adeline,25,trois,tRwa,ka,1,1,actual,CCCV,CV
+667,Adeline,25,vroum,vʁum,wu,1,1,actual,CCVC,CV
+668,Charles,18,au revoir,ovwaʁ,vwa,2,1,actual,VCCVC,CCV
+669,Charles,18,balle,bal,pa,1,1,actual,CVC,CV
+670,Charles,18,boire,bwaʁ,bwa,1,1,actual,CCVC,CCV
+671,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+672,Charles,18,boire,bwaʁ,vwɜ,1,1,actual,CCVC,CCV
+673,Charles,18,boire,bwaʁ,v:wa,1,1,actual,CCVC,CCCV
+674,Charles,18,boire,bwaʁ,bya,1,1,actual,CCVC,CVV
+675,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+676,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+677,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+678,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+679,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+680,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+681,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+682,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+683,Charles,18,boire,bwaʁ,vwa,1,1,actual,CCVC,CCV
+684,Charles,18,boum,bum,bum,1,1,actual,CVC,CVC
+685,Charles,18,boum,bum,bøm,1,1,actual,CVC,CVC
+686,Charles,18,boum,bum,b:ym,1,1,actual,CVC,CCVC
+687,Charles,18,boum,bum,bøm,1,1,actual,CVC,CVC
+688,Charles,18,ça,sa,z:a,1,1,actual,CV,CCV
+689,Charles,18,ça,sa,ʃ:a,1,1,actual,CV,CCV
+690,Charles,18,ça,sa,ʃa,1,1,actual,CV,CV
+691,Charles,18,ça,sa,sa,1,1,actual,CV,CV
+692,Charles,18,ça,sa,tʃa,1,1,actual,CV,CCV
+693,Charles,18,ça,sa,ʃ:a,1,1,actual,CV,CCV
+694,Charles,18,ça,sa,ʃ:a,1,1,actual,CV,CCV
+695,Charles,18,c'est beau,sebo,bɔ,2,1,actual,CVCV,CV
+696,Charles,18,c'est bon,sebɔ,habõ,2,1,actual,CVCV,CVCC
+697,Charles,18,chaud,ʃo,ʃo,1,1,actual,CV,CV
+698,Charles,18,chaud,ʃo,ʃo,1,1,actual,CV,CV
+699,Charles,18,non-non,nɔnɔ,nən,2,1,actual,CVCV,CVC
+700,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+701,Charles,18,tiens,tjɛ,tæ,1,1,actual,CCV,CV
+702,Charles,18,tiens,tjɛ,tə,1,1,actual,CCV,CV
+703,Charles,18,tiens,tjɛ,ʤa,1,1,actual,CCV,CV
+704,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+705,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+706,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+707,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+708,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+709,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+710,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+711,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+712,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+713,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+714,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+715,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+716,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+717,Charles,18,tiens,tjɛ,ta,1,1,actual,CCV,CV
+718,Charles,18,voire,vwaʁ,vwa,1,1,actual,CCVC,CCV
+719,Charles,18,miammiam,mjamjam,hæm,2,1,actual,CCVCCVC,CVC
+720,Charles,18,miammiam,mjamjam,hæm,2,1,actual,CCVCCVC,CVC
+721,Gaël,22,bleu,blø,be:e,1,1,actual,CCV,CVCV
+722,Gaël,22,bleu,blø,blœ,1,1,actual,CCV,CCV
+723,Gaël,22,bleu,blø,ble:,1,1,actual,CCV,CCVC
+724,Gaël,22,bleu,blø,blœ:e,1,1,actual,CCV,CCVCV
+725,Gaël,22,bleu,blø,blœ:,1,1,actual,CCV,CCVC
+726,Gaël,22,bleu,blø,blœ:e,1,1,actual,CCV,CCVCV
+727,Gaël,22,bleu,blø,blœ:,1,1,actual,CCV,CCVC
+728,Gaël,22,bleu,blø,blœ:,1,1,actual,CCV,CCVC
+729,Gaël,22,deux,dø,dœ,1,1,actual,CV,CV
+730,Gaël,22,dormir,doʁmi,doʁ,2,1,actual,CVCCV,CVC
+731,Gaël,22,là,la,la,1,1,actual,CV,CV
+732,Gaël,22,là,la,la,1,1,actual,CV,CV
+733,Gaël,22,là,la,la,1,1,actual,CV,CV
+734,Gaël,22,là,la,la,1,1,actual,CV,CV
+735,Gaël,22,là,la,la,1,1,actual,CV,CV
+736,Gaël,22,là,la,la,1,1,actual,CV,CV
+737,Gaël,22,là,la,la,1,1,actual,CV,CV
+738,Gaël,22,là,la,la,1,1,actual,CV,CV
+739,Gaël,22,là,la,la,1,1,actual,CV,CV
+740,Gaël,22,là,la,la,1,1,actual,CV,CV
+741,Gaël,22,là,la,la,1,1,actual,CV,CV
+742,Gaël,22,là,la,la,1,1,actual,CV,CV
+743,Gaël,22,là,la,la,1,1,actual,CV,CV
+744,Gaël,22,là,la,la,1,1,actual,CV,CV
+745,Gaël,22,là,la,la,1,1,actual,CV,CV
+746,Gaël,22,là,la,la,1,1,actual,CV,CV
+747,Gaël,22,là,la,la,1,1,actual,CV,CV
+748,Gaël,22,là,la,la,1,1,actual,CV,CV
+749,Gaël,22,là,la,la,1,1,actual,CV,CV
+750,Gaël,22,machine,maʃin,ʃe,2,1,actual,CVCVC,CV
+751,Gaël,22,maman,mama,ma,2,1,actual,CVCV,CV
+752,Gaël,22,maman,mama,ma,2,1,actual,CVCV,CV
+753,Gaël,22,non,no,no,1,1,actual,CV,CV
+754,Gaël,22,non,no,no,1,1,actual,CV,CV
+755,Gaël,22,ouais,we,wɛ,1,1,actual,CV,CV
+756,Gaël,22,ouais,we,we,1,1,actual,CV,CV
+757,Gaël,22,ouais,we,wɛ,1,1,actual,CV,CV
+758,Gaël,22,ouais,we,wɛ,1,1,actual,CV,CV
+759,Gaël,22,ouais,we,wɛ,1,1,actual,CV,CV
+760,Gaël,22,ouais,we,wɛ,1,1,actual,CV,CV
+761,Gaël,22,ouais,we,wɛ,1,1,actual,CV,CV
+762,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+763,Gaël,22,oui,wi,we,1,1,actual,CV,CV
+764,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+765,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+766,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+767,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+768,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+769,Gaël,22,oui,wi,wi,1,1,actual,CV,CV
+770,Gaël,22,ouvre,uvʁ,vχe,1,1,actual,VCC,CCV
+771,Gaël,22,papa,papa,pap,2,1,actual,CVCV,CVC
+772,Gaël,22,tas,ta,ta,1,1,actual,CV,CV
+773,Gaël,22,tas,ta,ta:,1,1,actual,CV,CVC
+774,Gaël,22,tas,ta,ta,1,1,actual,CV,CV
+775,Gaël,22,trax,tʁaks,χras,1,1,actual,CCVCC,CCVC
+776,Gaël,22,vert,vɛʁ,vɛ,1,1,actual,CVC,CV
+777,Laurent,17,aîe,ai,ʔa:i:,1,1,actual,VV,CVCVC
+778,Laurent,17,aîe,ai,ʔai,1,1,actual,VV,CVV
+779,Laurent,17,ballon,balɔ,bəl,2,1,actual,CVCV,CVC
+780,Laurent,17,gateau,gato,kto,2,1,actual,CVCV,CCV
+781,Laurent,17,non,nɔ,na,1,1,actual,CV,CV
+782,Laurent,17,non,nɔ,nəa:ɛ,1,1,actual,CV,CVVCV
+783,Laurent,17,non,nɔ,na::ø,1,1,actual,CV,CVCCV
+784,Laurent,17,non,nɔ,nɔ,1,1,actual,CV,CV
+785,Laurent,17,tiens,tjɛ,ta,1,1,actual,CCV,CV
+786,Laurent,17,tiens,tjɛ,ta,1,1,actual,CCV,CV
+787,Laurent,17,miam,məma,ma::m,2,1,actual,CVCV,CVCCC
+788,Noël,18,ballon,balɔ,βan,2,1,actual,CVCV,CVC
+789,Noël,18,banane,banan,ban:,2,1,actual,CVCVC,CVCC
+790,Noël,18,banane,banan,pɛ,2,1,actual,CVCVC,CV
+791,Noël,18,ça,sa,ta,1,1,actual,CV,CV
+792,Noël,18,ça,sa,ʔa,1,1,actual,CV,CV
+793,Noël,18,ça,sa,təʰ,1,1,actual,CV,CVC
+794,Noël,18,ça,sa,ȶə,1,1,actual,CV,CV
+795,Noël,18,ça,sa,ta,1,1,actual,CV,CV
+796,Noël,18,canard,kanaʁ,tɛt,2,1,actual,CVCVC,CVC
+797,Noël,18,couches,kuʃ,t:ə,1,1,actual,CVC,CCV
+798,Noël,18,couches,kuʃ,tɵ,1,1,actual,CVC,CV
+799,Noël,18,couches,kuʃ,ƫɵ,1,1,actual,CVC,CV
+800,Noël,18,couches,kuʃ,ƫɵ,1,1,actual,CVC,CV
+801,Noël,18,donne,dɔn,dʌn,1,1,actual,CVC,CVC
+802,Noël,18,donne,dɔn,dɔn,1,1,actual,CVC,CVC
+803,Noël,18,l’eau,lo,ʎo,1,1,actual,CV,CV
+804,Noël,18,l’eau,lo,ʎʌ,1,1,actual,CV,CV
+805,Noël,18,l’eau,lo,lʌ,1,1,actual,CV,CV
+806,Noël,18,l’eau,lo,lɵ,1,1,actual,CV,CV
+807,Noël,18,l’eau,lo,lo:,1,1,actual,CV,CVC
+808,Noël,18,l’eau,lo,ɭo,1,1,actual,CV,CV
+809,Noël,18,l’eau,lo,ɭo,1,1,actual,CV,CV
+810,Noël,18,main,mɛ,ma:ɛ,1,1,actual,CV,CVCV
+811,Noël,18,main,mɛ,mna,1,1,actual,CV,CCV
+812,Noël,18,non,nɔ,nɔ,1,1,actual,CV,CV
+813,Noël,18,non,nɔ,nɔ,1,1,actual,CV,CV
+814,Noël,18,wouf wouf,wawa,wø:a,2,1,actual,CVCV,CVCV
+815,Noël,18,pain,pɛ,pa,1,1,actual,CV,CV
+816,Noël,18,pain,pɛ,pʌ,1,1,actual,CV,CV
+817,Noël,18,pain,pɛ,pʌ,1,1,actual,CV,CV
+818,Noël,18,pain,pɛ,pap,1,1,actual,CV,CVC
+819,Noël,18,peinture,pɛtyʁ,pan,2,1,actual,CVCVC,CVC
+820,Noël,18,poire,pwaʁ,pə,1,1,actual,CCVC,CV
+821,Noël,18,poire,pwaʁ,pœn,1,1,actual,CCVC,CVC
+822,Noël,18,pomme,pɔm,pə,1,1,actual,CVC,CV
+823,Noël,18,pomme,pɔm,pam,1,1,actual,CVC,CVC
+824,Noël,18,pomme,pɔm,pø,1,1,actual,CVC,CV
+825,Noël,18,poule,pul,p:aɛ,1,1,actual,CVC,CCVV
+826,Noël,18,poule,pul,pɜ:ɛ,1,1,actual,CVC,CVCV
+827,Noël,18,poum,pum,pʌm,1,1,actual,CVC,CVC
+828,Noël,18,poupée,pupe,pɜa,2,1,actual,CVCV,CVV
+829,Noël,18,tiens,tjɛ,ten:,1,1,actual,CCV,CVCC
+830,Noël,18,tiens,tjɛ,ƫɛn,1,1,actual,CCV,CVC
+831,Noël,18,tiens,tjɛ,tən,1,1,actual,CCV,CVC
+832,Noël,18,tiens,tjɛ,tøn,1,1,actual,CCV,CVC
+833,Noël,18,tiens,tjɛ,tʌn,1,1,actual,CCV,CVC
+834,Noël,18,tiens,tjɛ,tʌn,1,1,actual,CCV,CVC
+835,Noël,18,tiens,tjɛ,tɛn,1,1,actual,CCV,CVC
+836,Noël,18,tiens,tjɛ,ten:,1,1,actual,CCV,CVCC
+837,Noël,18,tiens,tjɛ,ƫɛn,1,1,actual,CCV,CVC
+838,Noël,18,tiens,tjɛ,tɛn,1,1,actual,CCV,CVC
+839,Noël,18,tiens,tjɛ,tɛn,1,1,actual,CCV,CVC
+840,Adeline,25,au revoir,oʁəvwaʁ,ova,3,2,actual,VCVCCVC,VCV
+841,Adeline,25,au revoir,oʁəvwaʁ,ova,3,2,actual,VCVCCVC,VCV
+842,Adeline,25,au revoir,oʁəvwaʁ,ɔpa,3,2,actual,VCVCCVC,VCV
+843,Adeline,25,au revoir,oʁəvwaʁ,ovwa,3,2,actual,VCVCCVC,VCCV
+844,Adeline,25,au revoir,oʁəvwaʁ,o va,3,2,actual,VCVCCVC,VVCV
+845,Adeline,25,au revoir,oʁəvwaʁ,o pa,3,2,actual,VCVCCVC,VVCV
+846,Adeline,25,au revoir,oʁəvwaʁ,o va,3,2,actual,VCVCCVC,VVCV
+847,Adeline,25,bain,bɛ,adla,1,2,actual,CV,VCCV
+848,Adeline,25,bisou,bizu,ado,2,2,actual,CVCV,VCV
+849,Adeline,25,bisou,bizu,ɛdu,2,2,actual,CVCV,VCV
+850,Adeline,25,bisou,bizu,atu,2,2,actual,CVCV,VCV
+851,Adeline,25,bisou,bizu,ətu,2,2,actual,CVCV,VCV
+852,Adeline,25,bisou,bizu,atu,2,2,actual,CVCV,VCV
+853,Adeline,25,boum,bum,ɔpu,1,2,actual,CVC,VCV
+854,Adeline,25,boum,bum,a bu,1,2,actual,CVC,VVCV
+855,Adeline,25,boum,bum,apu,1,2,actual,CVC,VCV
+856,Adeline,25,brosse,bʁɔs,ə gʁɔ,1,2,actual,CCVC,VVCCV
+857,Adeline,25,champs,ʃɑ,otɔ,1,2,actual,CV,VCV
+858,Adeline,25,chapeau,ʃapo,apo,2,2,actual,CVCV,VCV
+859,Adeline,25,chapeau,ʃapo,apo,2,2,actual,CVCV,VCV
+860,Adeline,25,chapeau,ʃapo,apo,2,2,actual,CVCV,VCV
+861,Adeline,25,chapeau,ʃapo,apo,2,2,actual,CVCV,VCV
+862,Adeline,25,chapeau,ʃapo,ə apu,2,2,actual,CVCV,VVVCV
+863,Adeline,25,chapeau,ʃapo,apu,2,2,actual,CVCV,VCV
+864,Adeline,25,chapeau,ʃapo,abo,2,2,actual,CVCV,VCV
+865,Adeline,25,chapeau,ʃapo,afo,2,2,actual,CVCV,VCV
+866,Adeline,25,chapeau,ʃapo,apu,2,2,actual,CVCV,VCV
+867,Adeline,25,chat,ʃa,ə a va,1,2,actual,CV,VVVVCV
+868,Adeline,25,chat,ʃa,a ba,1,2,actual,CV,VVCV
+869,Adeline,25,chat,ʃa,a va,1,2,actual,CV,VVCV
+870,Adeline,25,chat,ʃa,o va,1,2,actual,CV,VVCV
+871,Adeline,25,coucou,kuku,aku,2,2,actual,CVCV,VCV
+872,Adeline,25,en dehors,ɑdəɔʁ,o da,2,2,actual,VCVVC,VVCV
+873,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+874,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+875,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+876,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+877,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+878,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+879,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+880,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+881,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+882,Adeline,25,encore,ɑkɔʁ,ɔkɔ,2,2,actual,VCVC,VCV
+883,Adeline,25,encore,ɑkɔʁ,ako,2,2,actual,VCVC,VCV
+884,Adeline,25,encore,ɑkɔʁ,okɔ,2,2,actual,VCVC,VCV
+885,Adeline,25,encore,ɑkɔʁ,ɔlkɔ,2,2,actual,VCVC,VCCV
+886,Adeline,25,oiseau,wazo,əʒlo,2,2,actual,CVCV,VCCV
+887,Adeline,25,parti,paʁti,ate,2,2,actual,CVCCV,VCV
+888,Adeline,25,vachou,vaʃu,oʒu,2,2,actual,CVCV,VCV
+889,Adeline,25,voilà,vwala,ala,2,2,actual,CCVCV,VCV
+890,Adeline,25,voiture,vwatyʁ,atu,2,2,actual,CCVCVC,VCV
+891,Adeline,25,voiture,vwatyʁ,atu,2,2,actual,CCVCVC,VCV
+892,Charles,18,allo,alo,al:ɔ,2,2,actual,VCV,VCCV
+893,Charles,18,allo,alo,alo,2,2,actual,VCV,VCV
+894,Charles,18,allo,alo,al:ɔ,2,2,actual,VCV,VCCV
+895,Charles,18,assis,asi,as:a,2,2,actual,VCV,VCCV
+896,Charles,18,attend,ata,atæ,2,2,actual,VCV,VCV
+897,Charles,18,au revoir,ovwaʁ,avwa,2,2,actual,VCCVC,VCCV
+898,Charles,18,auto,oto,a::to,2,2,actual,VCV,VCCCV
+899,Charles,18,boire,bwaʁ,ɔvwa,1,2,actual,CCVC,VCCV
+900,Charles,18,boire,bwaʁ,ɔv:wa,1,2,actual,CCVC,VCCCV
+901,Charles,18,c'est beau,sebo,abo,2,2,actual,CVCV,VCV
+902,Charles,18,chapeau,ʃapo,apo,2,2,actual,CVCV,VCV
+903,Charles,18,chapeau,ʃapo,a:pø,2,2,actual,CVCV,VCCV
+904,Charles,18,chapeau,ʃapo,a:pø,2,2,actual,CVCV,VCCV
+905,Charles,18,chapeau,ʃapo,a:pø,2,2,actual,CVCV,VCCV
+906,Charles,18,chaussures,ʃosyʁ,ɛdʒo,2,2,actual,CVCVC,VCCV
+907,Charles,18,garçon,gaʁsɔ,aʐa,2,2,actual,CVCCV,VCV
+908,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+909,Charles,18,lapin,lapɛ,a::pa,2,2,actual,CVCV,VCCCV
+910,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+911,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+912,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+913,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+914,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+915,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+916,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+917,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+918,Charles,18,lapin,lapɛ,apa,2,2,actual,CVCV,VCV
+919,Charles,18,les yeux,lezjø,aʒo:,2,2,actual,CVCCV,VCVC
+920,Charles,18,non-non,nɔnɔ,ɔno,2,2,actual,CVCV,VCV
+921,Charles,18,oiseau,wazo,abo:,2,2,actual,CVCV,VCVC
+922,Charles,18,oiseau,wazo,apo,2,2,actual,CVCV,VCV
+923,Charles,18,va pas,vapa,apa,2,2,actual,CVCV,VCV
+924,Charles,18,va pas,vapa,apæ,2,2,actual,CVCV,VCV
+925,Charles,18,va pas,vapa,apa,2,2,actual,CVCV,VCV
+926,Charles,18,va pas,vapa,apa,2,2,actual,CVCV,VCV
+927,Charles,18,voire,vwaʁ,abvwa,1,2,actual,CCVC,VCCCV
+928,Charles,18,voire,vwaʁ,av:wa,1,2,actual,CCVC,VCCCV
+929,Charles,18,voire,vwaʁ,avwa,1,2,actual,CCVC,VCCV
+930,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+931,Gaël,22,c'est ça,sesa,esa:,2,2,actual,CVCV,VCVC
+932,Gaël,22,c'est ça,sesa,əsa,2,2,actual,CVCV,VCV
+933,Gaël,22,c'est ça,sesa,əsea,2,2,actual,CVCV,VCVV
+934,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+935,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+936,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+937,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+938,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+939,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+940,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+941,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+942,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+943,Gaël,22,c'est ça,sesa,esa,2,2,actual,CVCV,VCV
+944,Gaël,22,c'est ça,sesa,əsa,2,2,actual,CVCV,VCV
+945,Gaël,22,c'est ça,sesa,əsa,2,2,actual,CVCV,VCV
+946,Gaël,22,c'est ça,sesa,əsa,2,2,actual,CVCV,VCV
+947,Gaël,22,c'est ça,sesa,əsa,2,2,actual,CVCV,VCV
+948,Gaël,22,casser,kase,ase,2,2,actual,CVCV,VCV
+949,Gaël,22,chercher,ʃɛʁʃe,aʃe,2,2,actual,CVCCV,VCV
+950,Gaël,22,chercher,ʃɛʁʃe,ase,2,2,actual,CVCCV,VCV
+951,Gaël,22,dedans,dəda,adã,2,2,actual,CVCV,VCVC
+952,Gaël,22,écrit,ekʁi,eχri,2,2,actual,VCCV,VCCV
+953,Gaël,22,écrit,ekʁi,iχri,2,2,actual,VCCV,VCCV
+954,Gaël,22,feu,fø,əfœ:,1,2,actual,CV,VCVC
+955,Gaël,22,grelot,gʁəlo,eχo,2,2,actual,CCVCV,VCV
+956,Gaël,22,gros,gʁo,egro:,1,2,actual,CCV,VCCVC
+957,Gaël,22,gros,gʁo,egro,1,2,actual,CCV,VCCV
+958,Gaël,22,gros,gʁo,egro,1,2,actual,CCV,VCCV
+959,Gaël,22,grosse,gʁos,egrəs,1,2,actual,CCVC,VCCVC
+960,Gaël,22,ici,isi,isi,2,2,actual,VCV,VCV
+961,Gaël,22,là bas,laba,aba,2,2,actual,CVCV,VCV
+962,Gaël,22,là bas,laba,aba,2,2,actual,CVCV,VCV
+963,Gaël,22,machine,maʃin,aʃe,2,2,actual,CVCVC,VCV
+964,Gaël,22,maman,mama,ama,2,2,actual,CVCV,VCV
+965,Gaël,22,ouvre,uvʁ,auvre,1,2,actual,VCC,VVCCV
+966,Gaël,22,ouvre,uvʁ,œvre,1,2,actual,VCC,VCCV
+967,Gaël,22,ouvrir,uvʁiʁ,oχri,2,2,actual,VCCVC,VCCV
+968,Gaël,22,ouvrir,uvʁiʁ,uχri,2,2,actual,VCCVC,VCCV
+969,Gaël,22,ouvrir,uvʁiʁ,uvχri,2,2,actual,VCCVC,VCCCV
+970,Gaël,22,ouvrir,uvʁiʁ,auvri,2,2,actual,VCCVC,VVCCV
+971,Gaël,22,ouvrir,uvʁiʁ,uvχre,2,2,actual,VCCVC,VCCCV
+972,Gaël,22,ouvrir,uvʁiʁ,uvχri,2,2,actual,VCCVC,VCCCV
+973,Gaël,22,papa,papa,epap,2,2,actual,CVCV,VCVC
+974,Gaël,22,pas,pa,epa,1,2,actual,CV,VCV
+975,Gaël,22,pas,pa,apa,1,2,actual,CV,VCV
+976,Gaël,22,plus,ply,aplœ,1,2,actual,CCV,VCCV
+977,Gaël,22,roue,ʁu,iχu,1,2,actual,CV,VCV
+978,Gaël,22,roue,ʁu,iχu,1,2,actual,CV,VCV
+979,Gaël,22,sou,su,esu,1,2,actual,CV,VCV
+980,Gaël,22,sou,su,esu,1,2,actual,CV,VCV
+981,Gaël,22,sou,su,esu,1,2,actual,CV,VCV
+982,Gaël,22,tas,ta,ota,1,2,actual,CV,VCV
+983,Gaël,22,tas,ta,ota,1,2,actual,CV,VCV
+984,Laurent,17,aîe,ai,a::jœ,1,2,actual,VV,VCCCV
+985,Laurent,17,allo,alo,alo,2,2,actual,VCV,VCV
+986,Laurent,17,maman,mama,ama,2,2,actual,CVCV,VCV
+987,Laurent,17,moi,mwa,əma,1,2,actual,CCV,VCV
+988,Laurent,17,voilà,vwala,ɥala,2,2,actual,CCVCV,VVCV
+989,Laurent,17,hihan,hiha,apɨ,2,2,actual,CVCV,VCV
+990,Adeline,25,boum,bum,bubu,1,2,actual,CVC,CVCV
+991,Adeline,25,chat,ʃa,pa a va,1,2,actual,CV,CVVVVCV
+992,Adeline,25,chat,ʃa,la va,1,2,actual,CV,CVVCV
+993,Adeline,25,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+994,Adeline,25,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+995,Adeline,25,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+996,Adeline,25,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+997,Adeline,25,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+998,Adeline,25,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+999,Adeline,25,coucou,kuku,kuɣu,2,2,actual,CVCV,CVCV
+1000,Adeline,25,dodo,dodo,tutu,2,2,actual,CVCV,CVCV
+1001,Adeline,25,là,la,da ta,1,2,actual,CV,CVVCV
+1002,Adeline,25,maman,mamɑ,mamɑ,2,2,actual,CVCV,CVCV
+1003,Adeline,25,maman,mamɑ,mamɑ,2,2,actual,CVCV,CVCV
+1004,Adeline,25,maman,mamɑ,mamɑ,2,2,actual,CVCV,CVCV
+1005,Adeline,25,papa,papa,papa,2,2,actual,CVCV,CVCV
+1006,Adeline,25,papa,papa,papa,2,2,actual,CVCV,CVCV
+1007,Adeline,25,voilà,vwala,wala,2,2,actual,CCVCV,CVCV
+1008,Charles,18,attend,ata,ʔaʨə,2,2,actual,VCV,CVCV
+1009,Charles,18,auto,oto,hɔto,2,2,actual,VCV,CVCV
+1010,Charles,18,c'est beau,sebo,habo::,2,2,actual,CVCV,CVCVCC
+1011,Charles,18,chapeau,ʃapo,hapo,2,2,actual,CVCV,CVCV
+1012,Charles,18,chapeau,ʃapo,ha:p:o,2,2,actual,CVCV,CVCCCV
+1013,Charles,18,chaussures,ʃosyʁ,ʒaʒo,2,2,actual,CVCVC,CVCV
+1014,Charles,18,coucou,kuku,tʉtʉ,2,2,actual,CVCV,CVCV
+1015,Charles,18,coucou,kuku,toto,2,2,actual,CVCV,CVCV
+1016,Charles,18,coucou,kuku,tʉtʉ,2,2,actual,CVCV,CVCV
+1017,Charles,18,coucou,kuku,toto,2,2,actual,CVCV,CVCV
+1018,Charles,18,coucou,kuku,toto,2,2,actual,CVCV,CVCV
+1019,Charles,18,garçon,gaʁsɔ,haʒœ,2,2,actual,CVCCV,CVCV
+1020,Charles,18,garçon,gaʁsɔ,haʐœ,2,2,actual,CVCCV,CVCV
+1021,Charles,18,garçon,gaʁsɔ,haʃɔʰ,2,2,actual,CVCCV,CVCVC
+1022,Charles,18,garçon,gaʁsɔ,ʰaʃə,2,2,actual,CVCCV,CVCV
+1023,Charles,18,garçon,gaʁsɔ,haʒœ,2,2,actual,CVCCV,CVCV
+1024,Charles,18,garçon,gaʁsɔ,haʒœ,2,2,actual,CVCCV,CVCV
+1025,Charles,18,lapin,lapɛ,haba,2,2,actual,CVCV,CVCV
+1026,Charles,18,lapin,lapɛ,ɦapa,2,2,actual,CVCV,CVCV
+1027,Charles,18,lolo,lolo,ʎoʎo,2,2,actual,CVCV,CVCV
+1028,Charles,18,lolo,lolo,biʎə,2,2,actual,CVCV,CVCV
+1029,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1030,Charles,18,maman,mama,mhamə,2,2,actual,CVCV,CCVCV
+1031,Charles,18,maman,mama,mʌma,2,2,actual,CVCV,CVCV
+1032,Charles,18,maman,mama,mɛma,2,2,actual,CVCV,CVCV
+1033,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1034,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1035,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1036,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1037,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1038,Charles,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1039,Charles,18,non-non,nɔnɔ,nɔnɔ,2,2,actual,CVCV,CVCV
+1040,Charles,18,non-non,nɔnɔ,hənɔ,2,2,actual,CVCV,CVCV
+1041,Charles,18,non-non,nɔnɔ,nɛna,2,2,actual,CVCV,CVCV
+1042,Charles,18,non-non,nɔnɔ,nono,2,2,actual,CVCV,CVCV
+1043,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1044,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1045,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1046,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1047,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1048,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1049,Charles,18,non-non,nɔnɔ,nəno,2,2,actual,CVCV,CVCV
+1050,Charles,18,papa,papa,papa,2,2,actual,CVCV,CVCV
+1051,Charles,18,papa,papa,papa,2,2,actual,CVCV,CVCV
+1052,Charles,18,papa,papa,papa,2,2,actual,CVCV,CVCV
+1053,Charles,18,poupée,pupe,bapa,2,2,actual,CVCV,CVCV
+1054,Charles,18,va pas,vapa,hapa,2,2,actual,CVCV,CVCV
+1055,Charles,18,voire,vwaʁ,ɦəva,1,2,actual,CCVC,CVCV
+1056,Gaël,22,accrocher,akʁɔʃe,xʁoʃe,3,2,actual,VCCVCV,CCVCV
+1057,Gaël,22,accrocher,akʁɔʃe,xoʃe,3,2,actual,VCCVCV,CVCV
+1058,Gaël,22,ballon,balo,lalo:,2,2,actual,CVCV,CVCVC
+1059,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1060,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1061,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1062,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1063,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1064,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1065,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1066,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1067,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1068,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1069,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1070,Gaël,22,bébé,bebe,bebe,2,2,actual,CVCV,CVCV
+1071,Gaël,22,c'est ça,sesa,sesa,2,2,actual,CVCV,CVCV
+1072,Gaël,22,casser,kase,sase,2,2,actual,CVCV,CVCV
+1073,Gaël,22,chercher,ʃɛʁʃe,ʃaʃe,2,2,actual,CVCCV,CVCV
+1074,Gaël,22,dodo,dodo,dodo,2,2,actual,CVCV,CVCV
+1075,Gaël,22,Gael?,gaɛl,gaʔal,1,2,actual,CVVC,CVCVC
+1076,Gaël,22,maman,mama,mama,2,2,actual,CVCV,CVCV
+1077,Gaël,22,maman,mama,mama,2,2,actual,CVCV,CVCV
+1078,Gaël,22,maman,mama,mama,2,2,actual,CVCV,CVCV
+1079,Gaël,22,maman,mama,mama,2,2,actual,CVCV,CVCV
+1080,Gaël,22,papa,papa,papa,2,2,actual,CVCV,CVCV
+1081,Gaël,22,rouge,ʁuʒ,rojo,1,2,actual,CVC,CVCV
+1082,Gaël,22,tout seul,tusøl,tusɛ,2,2,actual,CVCVC,CVCV
+1083,Gaël,22,voiture,vwatyʁ,tɛty,2,2,actual,CCVCVC,CVCV
+1084,Gaël,22,voiture,vwatyʁ,tɛty,2,2,actual,CCVCVC,CVCV
+1085,Laurent,17,allo,alo,ʔøalo,2,2,actual,VCV,CVVCV
+1086,Laurent,17,ballon,balɔ,palɔ,2,2,actual,CVCV,CVCV
+1087,Laurent,17,bébé,bebe,bəbə,2,2,actual,CVCV,CVCV
+1088,Laurent,17,brosse,bʁɔs,bəla,1,2,actual,CCVC,CVCV
+1089,Laurent,17,brosse,bʁɔs,pʌla,1,2,actual,CCVC,CVCV
+1090,Laurent,17,caca,kaka,kɒka,2,2,actual,CVCV,CVCV
+1091,Laurent,17,canard coincoin,kanaʁ,kɔɭa,2,2,actual,CVCVC,CVCV
+1092,Laurent,17,canard coincoin,kanaʁ,kɔlɔa,2,2,actual,CVCVC,CVCVV
+1093,Laurent,17,chapeau,ʃapo,bolo,2,2,actual,CVCV,CVCV
+1094,Laurent,17,chapeau,ʃapo,bobo,2,2,actual,CVCV,CVCV
+1095,Laurent,17,chapeau,ʃapo,pobo,2,2,actual,CVCV,CVCV
+1096,Laurent,17,chapeau,ʃapo,bɔɟə,2,2,actual,CVCV,CVCV
+1097,Laurent,17,chapeau,ʃapo,bøilø,2,2,actual,CVCV,CVVCV
+1098,Laurent,17,chapeau,ʃapo,bølo,2,2,actual,CVCV,CVCV
+1099,Laurent,17,chaussures,ʃosyʁ,ʃoʃy,2,2,actual,CVCVC,CVCV
+1100,Laurent,17,coucou,kuku,kuku,2,2,actual,CVCV,CVCV
+1101,Laurent,17,coucou,kuku,kukɔ:,2,2,actual,CVCV,CVCVC
+1102,Laurent,17,coucou,kuku,kɤkɤ,2,2,actual,CVCV,CVCV
+1103,Laurent,17,coucou,kuku,tɤdɤ,2,2,actual,CVCV,CVCV
+1104,Laurent,17,cuillère,kwijɛʁ,kola,2,2,actual,CCVCVC,CVCV
+1105,Laurent,17,cuillère,kwijɛʁ,kɔja,2,2,actual,CCVCVC,CVCV
+1106,Laurent,17,de l'eau,dəlo,dəlo,2,2,actual,CVCV,CVCV
+1107,Laurent,17,de l'eau,dəlo,ʔθdəlo,2,2,actual,CVCV,CCCVCV
+1108,Laurent,17,de l'eau,dəlo,bəl:o,2,2,actual,CVCV,CVCCV
+1109,Laurent,17,de l'eau,dəlo,tola,2,2,actual,CVCV,CVCV
+1110,Laurent,17,de l'eau,dəlo,bəlo,2,2,actual,CVCV,CVCV
+1111,Laurent,17,de l'eau,dəlo,tølo,2,2,actual,CVCV,CVCV
+1112,Laurent,17,Didier,didje,dədjɨ,2,2,actual,CVCCV,CVCCV
+1113,Laurent,17,dodo,dodo,dodɔ,2,2,actual,CVCV,CVCV
+1114,Laurent,17,gateau,gato,tato,2,2,actual,CVCV,CVCV
+1115,Laurent,17,gateau,gato,təto,2,2,actual,CVCV,CVCV
+1116,Laurent,17,gateau,gato,tatø,2,2,actual,CVCV,CVCV
+1117,Laurent,17,gateau,gato,totot,2,2,actual,CVCV,CVCVC
+1118,Laurent,17,kekette,kekɛt,kake,2,2,actual,CVCVC,CVCV
+1119,Laurent,17,Kola,kola,kɔla,2,2,actual,CVCV,CVCV
+1120,Laurent,17,Kola,kola,kəla,2,2,actual,CVCV,CVCV
+1121,Laurent,17,Kola,kola,kolɛ̃,2,2,actual,CVCV,CVCVC
+1122,Laurent,17,Kola,kola,xola,2,2,actual,CVCV,CVCV
+1123,Laurent,17,Kola,kola,kola,2,2,actual,CVCV,CVCV
+1124,Laurent,17,maman,mama,mama,2,2,actual,CVCV,CVCV
+1125,Laurent,17,maman,mama,mʌmɛ,2,2,actual,CVCV,CVCV
+1126,Laurent,17,maman,mama,mamʌ,2,2,actual,CVCV,CVCV
+1127,Laurent,17,moi,mwa,pɔmaɥa,1,2,actual,CCV,CVCVVV
+1128,Laurent,17,moi,mwa,jemo,1,2,actual,CCV,CVCV
+1129,Laurent,17,nano,nano,nano,2,2,actual,CVCV,CVCV
+1130,Laurent,17,nano,nano,nanʌ,2,2,actual,CVCV,CVCV
+1131,Laurent,17,nano,nano,na:nʌ,2,2,actual,CVCV,CVCCV
+1132,Laurent,17,non,nɔ,na:nɔ,1,2,actual,CV,CVCCV
+1133,Laurent,17,papa,papa,papa,2,2,actual,CVCV,CVCV
+1134,Laurent,17,papa,papa,bapa,2,2,actual,CVCV,CVCV
+1135,Laurent,17,voilà,vwala,wal:a,2,2,actual,CCVCV,CVCCV
+1136,Laurent,17,voilà,vwala,ba:laʔ,2,2,actual,CCVCV,CVCCVC
+1137,Laurent,17,miam,məma,mənam,2,2,actual,CVCV,CVCVC
+1138,Laurent,17,miam,məma,mʌmɛ,2,2,actual,CVCV,CVCV
+1139,Laurent,17,miam,məma,mamæ,2,2,actual,CVCV,CVCV
+1140,Laurent,17,miam,məma,mamam,2,2,actual,CVCV,CVCVC
+1141,Noël,18,ballon,balɔ,banɵ,2,2,actual,CVCV,CVCV
+1142,Noël,18,banane,banan,baɖa,2,2,actual,CVCVC,CVCV
+1143,Noël,18,banane,banan,bəʤæ,2,2,actual,CVCVC,CVCV
+1144,Noël,18,canard,kanaʁ,tɛta,2,2,actual,CVCVC,CVCV
+1145,Noël,18,canard,kanaʁ,tætæ,2,2,actual,CVCVC,CVCV
+1146,Noël,18,canard,kanaʁ,batæ,2,2,actual,CVCVC,CVCV
+1147,Noël,18,chapeaux,ʃapo,pʌpʌ,2,2,actual,CVCV,CVCV
+1148,Noël,18,dodo,dodo,ƫəƫo,2,2,actual,CVCV,CVCV
+1149,Noël,18,fraise,fʁɛz,wʉʒʉ,1,2,actual,CCVC,CVCV
+1150,Noël,18,gateau,gato,taƫɵ,2,2,actual,CVCV,CVCV
+1151,Noël,18,gateau,gato,taƫo,2,2,actual,CVCV,CVCV
+1152,Noël,18,lapin,lapɛ,pəpa,2,2,actual,CVCV,CVCV
+1153,Noël,18,lapin,lapɛ,papɛ,2,2,actual,CVCV,CVCV
+1154,Noël,18,lapin,lapɛ,papa,2,2,actual,CVCV,CVCV
+1155,Noël,18,lapin,lapɛ,pʌp:ɛ,2,2,actual,CVCV,CVCCV
+1156,Noël,18,lapin,lapɛ,papʌ,2,2,actual,CVCV,CVCV
+1157,Noël,18,lapin,lapɛ,papɛm,2,2,actual,CVCV,CVCVC
+1158,Noël,18,lapin,lapɛ,papɛ,2,2,actual,CVCV,CVCV
+1159,Noël,18,lapin,lapɛ,papɛ,2,2,actual,CVCV,CVCV
+1160,Noël,18,lapin,lapɛ,papɛ,2,2,actual,CVCV,CVCV
+1161,Noël,18,lapin,lapɛ,papɛ,2,2,actual,CVCV,CVCV
+1162,Noël,18,lapin,lapɛ,papɛ,2,2,actual,CVCV,CVCV
+1163,Noël,18,main,mɛ,pæma,1,2,actual,CV,CVCV
+1164,Noël,18,maman,mama,mama,2,2,actual,CVCV,CVCV
+1165,Noël,18,wouf wouf,wawa,wawa,2,2,actual,CVCV,CVCV
+1166,Noël,18,wouf wouf,wawa,wowɔ,2,2,actual,CVCV,CVCV
+1167,Noël,18,wouf wouf,wawa,wawɔ,2,2,actual,CVCV,CVCV
+1168,Noël,18,wouf wouf,wawa,ʔɵvwa,2,2,actual,CVCV,CVCCV
+1169,Noël,18,wouf wouf,wawa,ʔɔwo,2,2,actual,CVCV,CVCV
+1170,Noël,18,wouf wouf,wawa,wɤwo,2,2,actual,CVCV,CVCV
+1171,Noël,18,wouf wouf,wawa,pøwa,2,2,actual,CVCV,CVCV
+1172,Noël,18,wouf wouf,wawa,wøwa,2,2,actual,CVCV,CVCV
+1173,Noël,18,pain,pɛ,ʔapæ,1,2,actual,CV,CVCV
+1174,Noël,18,paletot,palto,papa,2,2,actual,CVCCV,CVCV
+1175,Noël,18,papa,papa,papa,2,2,actual,CVCV,CVCV
+1176,Noël,18,par là,paʁla,pɜɭa,2,2,actual,CVCCV,CVCV
+1177,Noël,18,peinture,pɛtyʁ,papan,2,2,actual,CVCVC,CVCVC
+1178,Noël,18,peinture,pɛtyʁ,pəpal,2,2,actual,CVCVC,CVCVC
+1179,Noël,18,poupée,pupe,pəpe,2,2,actual,CVCV,CVCV
+1180,Noël,18,savon,savɔ,ʔəwə,2,2,actual,CVCV,CVCV
+1181,Noël,18,tiens,tjɛ,tɛtɛɲ,1,2,actual,CCV,CVCVC
+1182,Adeline,25,bobo,bobo,aboβo,2,3,actual,CVCV,VCVCV
+1183,Adeline,25,bobo,bobo,abobu,2,3,actual,CVCV,VCVCV
+1184,Adeline,25,bobo,bobo,abobu,2,3,actual,CVCV,VCVCV
+1185,Adeline,25,chat,ʃa,ala va,1,3,actual,CV,VCVVCV
+1186,Adeline,25,coucou,kuku,ə kohko,2,3,actual,CVCV,VVCVCCV
+1187,Adeline,25,coucou,kuku,a kugu,2,3,actual,CVCV,VVCVCV
+1188,Adeline,25,papa,papa,a papa,2,3,actual,CVCV,VVCVCV
+1189,Gaël,22,la dame la,ladamla,adãlə,3,3,actual,CVCVCCV,VCVCCV
+1190,Laurent,17,chapeau,ʃapo,əbolo,2,3,actual,CVCV,VCVCV
+1191,Noël,18,canard,kanaʁ,ətata,2,3,actual,CVCVC,VCVCV
+1192,Noël,18,gateau,gato,ʌmtʃpɛtɵ,2,3,actual,CVCV,VCCCCVCV
+1193,Noël,18,lapin,lapɛ,əpəp:a,2,3,actual,CVCV,VCVCCV
+1194,Noël,18,maman,mama,amama,2,3,actual,CVCV,VCVCV
+1195,Noël,18,wouf wouf,wawa,owowɔ,2,3,actual,CVCV,VCVCV
+1196,Adeline,25,chat,ʃa,va ba ba,1,3,actual,CV,CVVCVVCV
+1197,Laurent,17,allo,alo,ʔaʔalʌ,2,3,actual,VCV,CVCVCV
+1198,Laurent,17,boire,bwaʁ,go:mabyao,1,3,actual,CCVC,CVCCVCVVV
+1199,Laurent,17,chapeau,ʃapo,bəbɔbo,2,3,actual,CVCV,CVCVCV
+1200,Laurent,17,chapeau,ʃapo,mabəmã,2,3,actual,CVCV,CVCVCVC
+1201,Laurent,17,chapeau,ʃapo,bɔbobo,2,3,actual,CVCV,CVCVCV
+1202,Laurent,17,coucou là,kukula,kukula,3,3,actual,CVCVCV,CVCVCV
+1203,Laurent,17,de l'eau,dəlo,dəldəlo,2,3,actual,CVCV,CVCCVCV
+1204,Laurent,17,de l'eau,dəlo,tøldœlo,2,3,actual,CVCV,CVCCVCV
+1205,Laurent,17,de l'eau,dəlo,pøtɜlo,2,3,actual,CVCV,CVCVCV
+1206,Laurent,17,donne [nano],dɔn nano,dəa nona,4,3,actual,CVCVCVCV,CVVVCVCV
+1207,Noël,18,gateau,gato,tjøtato,2,3,actual,CVCV,CCVCVCV
+1208,Noël,18,gateau,gato,tatatɔ,2,3,actual,CVCV,CVCVCV
+1209,Noël,18,gateau,gato,tsəƫato,2,3,actual,CVCV,CCVCVCV
+1210,Noël,18,gateau,gato,pəƫaƫə,2,3,actual,CVCV,CVCVCV
+1211,Noël,18,gateau,gato,ƫataƫo,2,3,actual,CVCV,CVCVCV
+1212,Noël,18,gateau,gato,ƫapa:to,2,3,actual,CVCV,CVCVCCV
+1213,Noël,18,gateau,gato,tætæto,2,3,actual,CVCV,CVCVCV
+1214,Noël,18,gateau,gato,ƫataƫo,2,3,actual,CVCV,CVCVCV
+1215,Noël,18,lapin,lapɛ,pap:əpɜ,2,3,actual,CVCV,CVCCVCV
+1216,Noël,18,maman,mama,ʔɛmamæ,2,3,actual,CVCV,CVCVCV
+1217,Noël,18,maman,mama,hɛmamɜ,2,3,actual,CVCV,CVCVCV
+1218,Noël,18,wouf wouf,wawa,ʔawawa,2,3,actual,CVCV,CVCVCV
+1219,Noël,18,paletot,palto,papapo,2,3,actual,CVCCV,CVCVCV
+1220,Noël,18,paletot,palto,pəpapo,2,3,actual,CVCCV,CVCVCV
+1221,Laurent,17,boire,bwaʁ,ʔø:habʉa:bja,1,4,actual,CCVC,CVCCVCVVCCCV
+1222,Laurent,17,canard coincoin,kanaʁ,kwalakwala,2,4,actual,CVCVC,CCVCVCCVCV
+1223,Laurent,17,chaussures,ʃosyʁ,ʒəʃa:tizə,2,4,actual,CVCVC,CVCVCCVCV
+1224,Laurent,17,cuillère,kwijɛʁ,koləkola,2,4,actual,CCVCVC,CVCVCVCV
+1225,Laurent,17,canard dans l'eau,kanaʁ dalo,balad:alo,5,4,actual,CVCVCVCVCV,CVCVCCVCV
+1226,Laurent,17,de l'eau,dəlo,dœɦədəlo,2,4,actual,CVCV,CVCVCVCV
+1227,Laurent,17,de l'eau,dəlo,pɔlədəlo,2,4,actual,CVCV,CVCVCVCV
+1228,Laurent,17,la dame là,ladamla,lələdala,3,4,actual,CVCVCCV,CVCVCVCV
+1229,Laurent,17,maman,mama,məmʌʓəla,2,4,actual,CVCV,CVCVCVCV
+1230,Laurent,17,moi,mwa,məmamʌmʌ,1,4,actual,CCV,CVCVCVCV
+1231,Noël,18,biberon?,bibʁɔ,baƺabɜnɛ,2,4,actual,CVCCV,CVCVCVCV
+1232,Laurent,17,chaussures,ʃosyʁ,bɛʒɨʒeʒəje,2,5,actual,CVCVC,CVCVCVCVCV
