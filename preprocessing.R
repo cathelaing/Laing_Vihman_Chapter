@@ -36,7 +36,8 @@ all_data <- rbind(FR_prepped, data_ready)
 #usable_data <- all_data %>% group_by(Subject, Language) %>% tally()
 
 IPA_transcriptions <- read_csv("IPA transcriptions.csv")%>%
-  fill(Language, Subject)
+  fill(Language, Subject) %>%
+  group_by(Subject, Language, Gloss) %>% slice(1)
 
 usable_data <- c("Ella",
                  "Ivy",
@@ -69,10 +70,12 @@ usable_data <- c("Ella",
                  "Elen" 
                  )
 
+
 all_data <- all_data %>% filter(Subject %in% usable_data) %>%
   left_join(IPA_transcriptions) %>%
-  mutate(IPAtarget = ifelse(is.na(IPAtarget), IPA, IPAtarget))
+  mutate(IPAtarget = ifelse(is.na(IPAtarget), IPA, IPAtarget)) #%>%
+  #fill(IPAtarget)
 
-to_transcribe <- all_data %>% filter(is.na(IPAtarget)) %>% group_by(Language, Gloss) %>% tally()
+to_transcribe <- all_data %>% filter(is.na(IPAtarget)) %>% group_by(Language, Subject, Gloss) %>% tally()
 
 write_csv(all_data, "data_ready.csv")

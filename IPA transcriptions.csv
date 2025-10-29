@@ -1,8 +1,8 @@
 ﻿Language,Subject,Gloss,IPA,nsyl_target
 UK,Ella,apple,æpəl,2
 ,,baby,beɪbi,2
-,,beep beep,bi:pbi:p,2
-,,bottle,baɾəl,2
+,,beep beep,bi:bi:p,2
+,,bottle,batəl,2
 ,,bye(bye),baɪbaɪ,2
 ,,cuddle,kʌdəl,2
 ,,daddy,dædi,2
@@ -13,11 +13,11 @@ UK,Ella,apple,æpəl,2
 ,,open,oʊpən,2
 ,,pap pap (car),pæppæp,2
 ,,piggie,pɪgi,2
-,,rattle,ræɾəl,2
-,,woof woof,wufwuf,2
+,,rattle,rætəl,2
+,,woof woof,wuf=wuf,2
 ,,ball,bɔl,1
 ,,bed,bɛd,1
-,,brush,brʌʃ,1
+,,brush,bɹʌʃ,1
 ,,cake,keik,1
 ,,cup (cup),kʌp,1
 ,,door,dɔ,1
@@ -38,17 +38,17 @@ UK,Ella,apple,æpəl,2
 ,,bye bye,baɪbaɪ,2
 ,,camel,kæməl,2
 ,,daddy,dædi,2
-,,giraffe,ʤəræf,2
-,,jumpy,ʤʌmpi,2
+,,giraffe,ʤəɹæf,2
+,,jumpy,ʤʌm=pi,2
 ,,lion,laijən,2
-,,monkey,mʌŋki,2
+,,monkey,mʌŋ=ki,2
 ,,mummy,mʌmi,2
 ,,rabbit,ræbɪt,2
 ,,row row,roʊroʊ,2
 ,,teddy,tɛdi,2
-,,tractor,træktɔr,2
-,,what's that?,wʌtsðæt,2
-,,zebra,zibʌ,2
+,,tractor,træk=tɔr,2
+,,what's that?,wʌts=ðæt,2
+,,zebra,zibɹʌ,2
 ,,bag,bæg,1
 ,,bee,bi:,1
 ,,door,dɔ:,1
@@ -59,27 +59,27 @@ UK,Ella,apple,æpəl,2
 ,,no,noʊ,1
 ,,snake,sneɪk,1
 ,,star,sta:,1
-,,tree,tri:,1
-,,vroom,vru:m,1
+,,tree,tɹi:,1
+,,vroom,vɹu:m,1
 ,,whee,wi:,1
 ,,woof,wʊf,1
 ,,yay!,yei,1
 ,,yeah,yɛ,1
 ,,elephant,ɛləfənt,3
 ,,Jessica,ʤɛsɪkʌ,3
-,,caterpillar,kæɾəpɪlə,4
-,,cinderella,sɪndərɛlʌ,4
-,Lewis,all gone,algɔn,2
+,,caterpillar,kætəpɪlə,4
+,,cinderella,sɪndəɹɛlʌ,4
+,Lewis,all gone,al=gɔn,2
 ,,apple,æpəl,2
 ,,circle,səkəl,2
 ,,ladder,lædə,2
 ,,oh no,o:no:,2
-,,pushchair,puʄtʃe:,2
-,,tractor,træktɔ,2
+,,pushchair,puʃ=tʃe:,2
+,,tractor,tɹæk=tɔ,2
 ,,uh-oh,ʌʔoʊ,2
-,,woof woof,wʊfwʊf,2
+,,woof woof,wʊf=wʊf,2
 ,,ball,bɔl,1
-,,bricks (i),brɪks,1
+,,bricks ,bɹɪks,1
 ,,cake,keɪk,1
 ,,car,kɒ:,1
 ,,chair,tʃe:,1
@@ -93,7 +93,7 @@ UK,Ella,apple,æpəl,2
 ,,moon,mu:n,1
 ,,no,noʊ,1
 ,,shoes,ʃu:z,1
-,,spade (i),speɪd,1
+,,spade ,speɪd,1
 ,,star,stɒ:,1
 ,,sun,sʌn,1
 ,,there,ðe:,1
@@ -101,16 +101,16 @@ UK,Ella,apple,æpəl,2
 ,,truck,trʌk,1
 ,,banana,bənænə,3
 ,Patrick,baby,beɪbi,2
-,,beebies,bi:bI:z,2
+,,beebies,bi:bi:z,2
 ,,D2 (R2D2),di:tu:,2
 ,,daddy,dædi,2
 ,,Doody (Monty),du:di,2
 ,,hello,hɛloʊ,2
 ,,horsey,hɔ:si,2
-,,tractor,træktɔ:,2
+,,tractor,træk=tɔ:,2
 ,,uh oh,ʌʔoʊ,2
-,,water,wɒɾə,2
-,,woof woof,wʊfwʊf,2
+,,water,wɒtə,2
+,,woof woof,wʊf=wʊf,2
 ,,baa,bɒ:,1
 ,,ball,bɔl,1
 ,,bath,bæθ,1
@@ -127,221 +127,104 @@ UK,Ella,apple,æpəl,2
 ,,ow,ɒʊ,1
 ,,phone,foʊn,1
 ,,wheel,wi:l,1
-,Rachel,all gone (i),ɑlgɑn,2
-,,apple (i),æpəl,2
-,,away (i),ʌwei,2
+,Rachel,all gone ,ɑl=gɑn,2
+,,apple ,æpəl,2
+,,away ,ʌwei,2
 ,,baby,beibi,2
-,,Beba [Rebecca] (i),bɛba,2
-,,beep beep (i),bipbip,2
-,,biscuits (i),biskits,2
-,,Daisy (i),deɪzi,2
+,,Beba [Rebecca] ,bɛba,2
+,,beep beep ,bibip,2
+,,biscuits ,bis=kits,2
+,,Daisy ,deɪzi,2
 ,,(a) doggy,dɑgi,2
-,,flowers,,2
-,,get you (i),gɛtjʌ,2
+,,flowers,flaʊ=əz,2
+,,get you ,gɛtjʌ,2
 ,,hello,həloʊ,2
 ,,Mummy,mami,2
-,,night night,naɪtnaɪt,2
-,,piggy (i),pɪgi,2
-,,quack quack,kwækkwæk,2
-,,sit down,sɪtdaʊn,2
-,,teddy (i),tdi,2
-,,thank you,θæŋkju:,2
-,,two three (i),tu:θri:,2
+,,night night,naɪt=naɪt,2
+,,piggy ,pɪgi,2
+,,quack quack,kwækwæk,2
+,,sit down,sɪt=daʊn,2
+,,teddy ,tɛdi,2
+,,thank you,θæŋk=ju:,2
+,,two three ,tu:θɹi:,2
 ,,yummy,jʌmi,2
-,,back (i),bæk,1
-,,bike (i),baik,1
-,,boo (i),bu:,1
+,,back ,bæk,1
+,,bike ,baik,1
+,,boo ,bu:,1
 ,,bye,baɪ,1
-,,cat (i),kɑ:,1
-,,chips (i),ɪps,1
-,,cold (i),koʊld,1
+,,cat ,kɑ:,1
+,,chips ,ɪps,1
+,,cold ,koʊld,1
 ,,door,dɔ:,1
 ,,down,daʊn,1
 ,,duck,dʌk,1
-,,fish (i),fɪʃ,1
+,,fish ,fɪʃ,1
 ,,go,goʊ,1
 ,,gone,gɑn,1
 ,,house,haʊs,1
-,,jump (i),ʤʌmp,1
-,,miaow (i) ,mjao,1
+,,jump ,ʤʌmp,1
+,,miaow  ,mjao,1
 ,,noise,nɔɪz,1
-,,please,pll:z,1
+,,please,pli:z,1
 ,,shoe(s),ʃuz,1
 ,,ta,ta:,1
 ,,there,ðeʌ,1
-,,three (m),θri:,1
-,,toe (i),toʊ,1
+,,three (m),θɹi:,1
+,,toe ,toʊ,1
 ,,toes,toʊz,1
-,,train(s),treɪnz,1
-,,tree (i),tri:,1
-,,two (i),tu:,1
-,,wash (i),waʃ,1
+,,train(s),tɹeɪnz,1
+,,tree ,tɹi:,1
+,,two ,tu:,1
+,,wash ,waʃ,1
 ,,whee,wi:,1
-,,woo (i),wu:,1
+,,woo ,wu:,1
 ,,yeah,jɛ,1
 ,,yes,jɛs,1
 ,,cup of tea,kʌpʌti:,3
 ,,here you go,hi:jəgoʊ,3
-,,knees and toes (i),ni:zəntoʊz,3
-,,one two three (m),wantu:θri:,3
-,,a rainbow (i),reinboʊ,3
-,,round and round (i),raʊndnraʒnd,3
-,,tomato (i),təmeɪtoʊ,3
-,,baa baa black sheep,bɑbɑblækʄip,4
-,,Makka Pakka (i),makapaka,4
-,,twinkle twinkle (i),twɪŋkəltwɪŋkəl,4
-,,ring a ring o' roses,rɪŋərɪŋəroʊzz,5
+,,knees and toes ,ni:zən=toʊz,3
+,,one two three (m),wan=tu:θɹi:,3
+,,a rainbow ,ɹein=boʊ,3
+,,round and round ,ɹaʊnd=n=ɹaʊnd,3
+,,tomato ,təmatoʊ,3
+,,baa baa black sheep,bɑbɑblæk=ʃip,4
+,,Makka Pakka ,makapaka,4
+,,twinkle twinkle ,twɪŋ=kəl=twɪŋ=kəl,4
+,,ring a ring o' roses,ɹɪŋ=ə=ɹɪŋ=ə=ɹoʊzi,5
 ,Tobias,a-boo,əbu:,2
 ,,baby,beɪbi,2
 ,,eeyore,i:jɔ:,2
 ,,hippo,hɪpoʊ,2
-,,honk honk,hɔŋkhɔŋk,2
-,,monkey,mʌŋki,2
+,,honk honk,hɔŋk=hɔŋk,2
+,,monkey,mʌŋ=ki,2
 ,,neenaw,ni:nɔ:,2
 ,,peacock,pi:kak,2
-,,quack quack (etc.),kwækkwæk,2
-,,ribbit ribbit,rɪbɪt,2
-,,spider (i),spaɪdə,2
+,,quack quack (etc.),kwækwæk,2
+,,ribbit ribbit,ɹɪbɪt,2
+,,spider ,spaɪdə,2
 ,,tick tock,tɪktɔk,2
-,,toot toot,tu:ttu:t,2
+,,toot toot,tu:tu:t,2
 ,,tortoise,tɔ:təs,2
-,,what's that (i),wʌtsðæt,2
-,,woof woof,wufwuf,2
+,,what's that ,wʌts=ðæt,2
+,,woof woof,wuf=wuf,2
 ,,baa,bɑ:,1
 ,,ball,bɑl,1
 ,,bear,bɛə,1
 ,,blocks,blaks,1
-,,book (i),bʊk,1
+,,book ,bʊk,1
 ,,boots,bu:ts,1
 ,,box,baks,1
 ,,(a) bus,bʌs,1
-,,cat (i),kæt,1
+,,cat ,kæt,1
 ,,miaow,mjao,1
 ,,moo,mu:,1
-,,mouse (i),maʊs,1
+,,mouse ,maʊs,1
 ,,plane,pleɪn,1
 ,,snail,sneɪl,1
-,,ta (i),ta:,1
+,,ta ,ta:,1
 ,,that,ðæt,1
 ,,there,ðɛə,1
 ,,butterfly,bʌtəflaɪ,3
-Finnish,Atte,sound,ääni,2
-,,mother,äiti,2
-,,drive,aja,2
-,,monkey,api(na),2
-,,duck,ankka,2
-,,(name),A(n)tti,2
-,,car,auto ,2
-,,banana,(ba)naani ,2
-,,horse,heppa ,2
-,,father,isi,2
-,,two,kaksi ,2
-,,fish,kala ,2
-,,"clock, watch",kello ,2
-,,dumps,kippaa ,2
-,,end,loppu ,2
-,,rug,matto ,2
-,,dog's name,Minni ,2
-,,teddy,nalle ,2
-,,ball,pallo ,2
-,,grandpa,pappa,2
-,,bunny,pupu,2
-,,rally car?,ralliauto,4
-,,(motor) died,sammui ,3
-,,dropped,tippui ,3
-,,tractor,trakto(ri) ,2
-,,old man,ukko,3
-,Eelis,duck,ankka,2
-,,give,anna,2
-,,open,aukasta ,3
-,,sheep sd,bää,1
-,,(name),Eetu ,2
-,,no,ei,1
-,,horse,heppa,2
-,,(name),Hippi,2
-,,sits,istuu  ,2
-,,cries,itkee,2
-,,poo,kakka,2
-,,swings,kiikkaa,2
-,,closed,kiinni,2
-,,thanks,kiitos,2
-,,flower,kukka ,2
-,,"end, finish",loppu ,2
-,,sausage,makkara (i.),2
-,,milk (BT),mamma,2
-,,grandma,mamma,2
-,,button,nappi (i.),2
-,,"this way, so",noin,2
-,,apple,omppu,2
-,,head,pää,2
-,,grandpa,pappa,2
-,,hurt,pipi ,2
-,,awway,pois,2
-,,hot,poppa ,2
-,,tree,puu,1
-,,scratches ,räppäa (i.),2
-,,broken,rikki  ,2
-,,mouth,suu ,1
-,,that,tuo ,1
-,,come (ipv),tuu,1
-,Eliisa,sheep sd.,bää ,1
-,,hello ,hallo,2
-,,woof,hauva,2
-,,father,isi,2
-,,sit,istu ,2
-,,cheese,juusto,2
-,,doing poo,kakalla,3
-,,cake,kakku (i.),2
-,,swinging (vb),kiikkuu,2
-,,book,kirja ,2
-,,cat,kissa   ,2
-,,flowe ,kukka ,2
-,,"flower, pP",kukkia,3
-,,bird,li(n)tu,2
-,,grandma,mummu,2
-,,Muumi,muumi  ,2
-,,doll,nukke,2
-,,sleeping,nukkuu,2
-,,oops,oho,2
-,,ball,pallo,2
-,,paper,paperi ,3
-,,grandpa,pappa,2
-,,"hiding, sIll.",piiloon  ,2
-,,jump,pomppi,2
-,,bunny,pupu,2
-,,broken,rikki,2
-,,"drop, s3 pres/past",tippu,2
-,,that,tuo  ,2
-,,girl,tyttö,2
-,,"water, sP",vettä,2
-,Mira,no,ei,1
-,,tail,häntä ,2
-,,foot,jalka  ,2
-,,train,juna ,2
-,,"cheese, sP",juustoa ,3
-,,"overturn, s3",kaataa   ,2
-,,fish,kala,2
-,,shoe,kenkä ,2
-,,flower,kukka,2
-,,moon,kuu,1
-,,bird,lintu ,2
-,,finish,loppu ,2
-,,plum,luumu  ,2
-,,cat sd,miao   ,2
-,,grandma,mummu,2
-,,Muumi/ Moomin,Muumi/Moomin,
-,,grandpa,[Muumi]pappa,
-,,Myy,Myy,
-,,teddy,nalle   ,
-,,navel,napa ,
-,,nose,nenä,
-,,sleeping,paapaa,
-,,clown,pelle,
-,,hiding,piiloon,
-,,uncle,setä   ,
-,,here,täällä ,
-,,brownie,tonttu  ,
-,,girl,tyttö,
 Japanese,Takeru,pillow,tyyny ,
 ,,aye-aye (lemur),aiai,2
 ,,that,aɾe,2
@@ -535,3 +418,468 @@ Welsh,Gwyn,adar,adar,2
 ,,pen fyna,penvɨna,3
 ,,baba fyna,babavɨna,4
 ,,"dau, tri, pedwar    ",daitrpedwar,4
+French,Adeline,au revoir,oʁə=vwaʁ,2
+,,bisou,bizu,2
+,,bobo,bobo,2
+,,chapeau,ʃapo,2
+,,coucou,kuku,2
+,,dodo ,dodo,2
+,,encore,ɑkɔʁ,2
+,,maman,mamɑ,2
+,,oiseau ,wazo,2
+,,papa,papa,2
+,,parti ,paʁ=ti,2
+,,vachou ,vaʃu,2
+,,voilà,vwala,2
+,,voiture ,vwatyʁ,2
+,,bain,bɛ,1
+,,(oh) boum,(o)bum,1
+,,brosse,bʁɔs,1
+,,champs ,ʃɑ,1
+,,chat,ʃa,1
+,,lave,lav,1
+,,là (là),la,1
+,,miaou,mjau,1
+,,moi,mwa,1
+,,non,nɔ,1
+,,oh,o,1
+,,tiens,tjɛ,1
+,,trois ,tʁwa,1
+,,vroum,vʁum,1
+,,en dehors ,ɑdəɔʁ,3
+,Basile,bisou,bizu,2
+,,bravo,bʁavo,2
+,,canard/coin-coin,kanaʁ,2
+,,cassé ,kase,2
+,,cassé,kase,2
+,,coucou,kuku,2
+,,divan ,diva,2
+,,divan,diva,
+,,encore,akoʁ,2
+,,lequel ,løkel,2
+,,lequel,løkel,2
+,,(le/un) livre,lølivʁ,2
+,,livre,lølivʁ,2
+,,maman,mama,2
+,,mouton ,muto,2
+,,mouton,muto,2
+,,musique,muzik,2
+,,nonnon,nono,2
+,,papa,papa,2
+,,pin pon,pipo,2
+,,teuton ,tøto,2
+,,teuton,tøto,2
+,,voiture,vwatyʁ,2
+,,ah,a,1
+,,beurk ,bøʁk,1
+,,bottes,bot,1
+,,boum,bum,1
+,,ça,sa,1
+,,doux  ,du,1
+,,doux,du,1
+,,hou,u,1
+,,joue,ʒu,1
+,,est là,ela,2
+,,là,la,1
+,,l'eau,lo,1
+,,loup,lu,1
+,,(le) loup,lu,1
+,,lit ,li,1
+,,lit,li,1
+,,oh,o,1
+,,ouh,u,1
+,,paf,paf,1
+,,page,paʒ,1
+,,pan,pa,1
+,,poire/pomme,pwaʁ,1
+,,puzzle ,puzl,1
+,,puzzle,puzl,1
+,,t'aide,tɛd,1
+,,tchou,tʃu,1
+,,vroum,vrum,1
+,,badaboum,badabum,3
+,,balayer ,baleye,3
+,,balayer,baleye,3
+,,canapé ,kanape,3
+,,canapé,kanape,3
+,,tricoter ,tʁikote,3
+,,tricoter ,tʁikote,3
+,,barbe à papa,baʁb=a=papa,4
+,Gaël,ballon  ,balo,2
+,,bébé ,bebe,2
+,,"casser, cassé ",kase,2
+,,"chercher, cherché ",ʃɛʁ=ʃe,2
+,,dedans ,dəda,2
+,,dodo ,dodo,2
+,,écrit ,ekri,2
+,,grelot ,gʁəlo,2
+,,ici ,isi,2
+,,là bas ,laba,2
+,,machine ,maʃin,2
+,,maman ,mama,2
+,,ouvrir ,uv=ʁir,2
+,,papa ,papa,2
+,,(il y en a?) plus ,ply,2
+,,(le) sou ,su,2
+,,tout seul ,tusøl,2
+,,voiture ,vwatyʁ,2
+,,bleu ,blø,1
+,,(c'est) ça  ,sa,1
+,,c'est ça  ,sesa,2
+,,ça  ,sa,1
+,,deux ,dø,1
+,,"dormir, dorme(nt) ",doʁ=mi,1
+,,(le) feu ,fø,1
+,,Gael?,gaɛl,1
+,,gros ,gʁo,1
+,,grosse ,gʁos,1
+,,là ,la,1
+,,non ,no,1
+,,ouais ,we,1
+,,oui ,wi,1
+,,ouvre ,uvʁ,1
+,,pas ,pa,1
+,,roue ,ʁu,1
+,,rouge ,ʁuʒ,1
+,,tas ,ta,1
+,,vert ,vɛʁ,1
+,,"accrocher, accroché ",akʁɔʃe,3
+,,(la) dame (là) ,ladamla,3
+,Julien,Boubou,bubu,2
+,,Corinne,korin,2
+,,cot cot,kot=kot,2
+,,(ah) croco,kʁokʁo,2
+,,croco,kʁokʁo,2
+,,les deux,ledø,2
+,,plus grand ,plugʁa,2
+,,plus grand,plugʁa,2
+,,Maman,mama,2
+,,Nana,nana,2
+,,Papa,papa,2
+,,Petit,pøti,2
+,,Pin pon,pipo,2
+,,Popi,popi,2
+,,Tonton,toto,2
+,,Ah,a,1
+,,Clé(s),kle,1
+,,Clé,kle,1
+,,Cubes,kub,1
+,,Là,la,1
+,,Meuh,mø,1
+,,Miaou,mjau,1
+,,Non,no,1
+,,Oh,o,1
+,,(ah) ouais,we,1
+,,ouais,we,1
+,,Pas,papa,1
+,,Piou,pju,1
+,,Plein,pla,1
+,Romuald,allô,alo,2
+,,alors,aloʁ,2
+,,l'avion,lavjo,2
+,,ballon,balo,2
+,,bobo,bobo,2
+,,cassé,kase,2
+,,cheval,ʃəval,2
+,,cochon ,koʃo,2
+,,cochon,koʃo,2
+,,dessus,døsu,2
+,,hop-là,op=la,2
+,,la tête,latɛt,2
+,,la vache,lavaʃ,2
+,,mouton,muto,2
+,,papa,papa,2
+,,un livre ,ʌlivʁ,2
+,,voilà,vwala,2
+,,ah,a,1
+,,boum,bum,1
+,,ça,sa,1
+,,hop,op,1
+,,là,la,1
+,,non,no,1
+,,pas,papa,1
+,,non pas ça,nopasa,3
+,,à bientôt ,abjeto,3
+,,dominos ,domino,3
+,,fait dodo,fedodo,3
+,Vincent,a pas,apa,2
+,,accroche,akʁoʃ,2
+,,allô,alo,2
+,,attends,ata,2
+,,bravo,bravo,2
+,,caché,kaʃe,2
+,,casser,kase,2
+,,chercher,ʃeʁ=ʃe,2
+,,encore,akoʀ,2
+,,entends,ata,2
+,,essaye,esej,2
+,,fermé,fɛʁ=me,2
+,,garage,gaʁaʒ,2
+,,ici,isi,2
+,,l'avion,lavjo,2
+,,la lune,lalun,2
+,,là-haut,lao,2
+,,la tête,latɛt,2
+,,tête,tɛt,1
+,,le chien,løʃja,2
+,,chien,ʃja,1
+,,le pain,lepa,2
+,,marche pas,maʁʃ=pa,2
+,,micro,mik=ʁo,2
+,,ok,oke,2
+,,super,supeʁ,2
+,,un autre,ʌnotʁ,2
+,,un deux,ʌdø,2
+,,voilà,vwala,2
+,,non,no,1
+,,train,tʁa,1
+,,boum,bum,1
+,,hop,op,1
+,,"l'autre, autres",lotʀ,1
+,,là,la,1
+,,ouais,we,1
+,,rouge,ruʒ,1
+,,vert,vɛʁ,1
+,,est parti,epaʁ=ti,3
+,,la voiture,lavwatyʁ,3
+,,le biberon,løbibʁo,3
+,,non ici,noisi,3
+Finnish,Atte,ääni,æ:ni,2
+,,äiti,æiti,2
+,,aja,aja,2
+,,ankka,aŋk:a,2
+,,A(n)tti,ant:i,2
+,,Atti,ant:i,2
+,,auto ,auto,2
+,,heppa ,hep:a,2
+,,isi,isi,2
+,,kaksi ,kak=si,2
+,,kala ,kala,2
+,,kello ,kel:o,2
+,,kippaa ,kip:a:,2
+,,loppu ,lop:u,2
+,,matto ,mat:o,2
+,,Minni ,min:i,2
+,,nalle ,nal:e,2
+,,pallo ,pal:o,2
+,,pappa,pap:a,2
+,,pupu,pupu,2
+,,ukko,uk:o,2
+,,api(na),apina,3
+,,api,apina,3
+,,(ba)naani ,bana:ni,3
+,,naani ,bana:ni,3
+,,sammui ,sam:ui,3
+,,tippui ,tip:ui,3
+,,trakto(ri) ,trak=tori,3
+,,trakto ,trak=tori,3
+,,ralliauto,ral:i=auto,4
+,Eelis,ankka,aŋk:a,2
+,,anna,an:a,2
+,,Eetu ,e:tu,2
+,,heppa,hep:a,2
+,,Hippi,hip:i,2
+,,istuu  ,istu:,2
+,,itkee,itke:,2
+,,kakka,kak:a,2
+,,kiikkaa,ki:k:a:,2
+,,kiinni,ki:n:i,2
+,,kiitos,ki:tos,2
+,,kukka ,kuk:a,2
+,,loppu ,lop:u,2
+,,mamma,mam:a,2
+,,mamma,mam:a,2
+,,nappi ,nap:i,2
+,,nappi ,nap:i,2
+,,omppu,omp:u,2
+,,pappa,pap:a,2
+,,pipi ,pipi,2
+,,poppa ,pop:a,2
+,,räppäa,ræpæ:,2
+,,räppää ,ræpæ:,2
+,,rikki  ,rik:i,2
+,,räppää,ræpæ:,2
+,,bää,bæ:,1
+,,ei,ei,1
+,,noin,noin,1
+,,pää,pæ:,1
+,,pois,pois,1
+,,puu,pu:,1
+,,suu ,su:,1
+,,tuo ,tuo,1
+,,tuu,tu:,1
+,,aukasta ,aukasta,3
+,,makkara ,mak:ara,3
+,,makkara,mak:ara,3
+,Eliisa,"haloo, hallo",hal:o:,2
+,,hauva,hauʋa,2
+,,isi,isi,2
+,,istu ,istu,2
+,,juusto,ju:sto,2
+,,kakku ,kak:u,2
+,,kakku,kak:u,2
+,,kiikkuu,ki:k:u:,2
+,,kirja ,kirja,2
+,,kissa   ,kis:a,2
+,,kukka ,kuk:a,2
+,,li(n)tu,lin=tu,2
+,,litu,lin=tu,2
+,,mummu /muumu,mum:u,2
+,,muumi  ,mu:mi,2
+,,nukke,nuk:e,2
+,,nukkuu,nuk:u:,2
+,,oho,oho,2
+,,pallo,pal:o,2
+,,pappa,pap:a,2
+,,piiloon  ,pi:lo:n,2
+,,pomppi,pomp:i,2
+,,pupu,pupu,2
+,,rikki,rik:i,2
+,,"tippu, tippuu",tip:u,2
+,,tyttö,tut:o,2
+,,vettä,vet:æ,2
+,,bää ,bæ:,1
+,,tuo  ,tuo,1
+,,kakalla,kakal:a,3
+,,kukkia,kuk:ia,3
+,,paperi ,paperi,3
+,Mira,häntä ,hæntɛ,2
+,,jalka  ,jalka,2
+,,juna ,juna,2
+,,kaataa   ,ka:ta:,2
+,,kala,kala,2
+,,kenkä ,kenkæ,2
+,,kukka,kuk:a,2
+,,lintu ,lintu,2
+,,loppu ,lop:u,2
+,,luumu  ,lu:mu,2
+,,mummu,mum:u,2
+,,Muumi/Moomin,mu:mi,2
+,,nalle   ,nal:e,2
+,,napa ,napa,2
+,,nenä,nenæ,2
+,,paapaa,pa:pa:,2
+,,pelle,pel:e,2
+,,piiloon,pi:lo:n,2
+,,setä   ,setæ,2
+,,täällä ,tæ:l:æ,2
+,,tonttu  ,tont:u,2
+,,tyttö,tut:o,2
+,,tyyny ,tu:nu,2
+,,ei,ei,1
+,,kuu,ku:,1
+,,miao   ,miao,1
+,,Myy,mu:,1
+,,juustoa ,ju:stoa,3
+,,[Muumi]pappa,mu:mipap:a,4
+,Sini,(ei ole) yhtään,[ei ole]uhtæ:n,2
+,,yhtään,uhtæ:n,2
+,,heihei ,heihei,2
+,,heppa,hep:a,2
+,,istuu,istu:,2
+,,juna,juna,2
+,,kakku ,kak:u,2
+,,kakku,kak:u,2
+,,kiikkaa,kik:a:,2
+,,kirja,kirja,2
+,,korkki,kork:i,2
+,,korva  ,korva,2
+,,korva  ,korva,2
+,,koti ,koti,2
+,,koti,koti,2
+,,kukka,kuk:a,2
+,,kuppi ,kup:i,2
+,,kuppi,kup:i,2
+,,kynä,kunæ,2
+,,laukku ,lauk:u,2
+,,laukku,lauk:u,2
+,,leipä ,leipæ,2
+,,leipä,leipæ,2
+,,loppu,lop:u,2
+,,minun ,minun,2
+,,minun,minun,2
+,,mummi,mum:i,2
+,,nami(a),nami,2
+,,namia,nami,2
+,,napa,napa,2
+,,nappi,nap:i,2
+,,pallo,pal:o,2
+,,piilo(ssa),pi:lo,2
+,,piilo,pi:lo,2
+,,pupu,pupu,2
+,,puuro ,pu:ro,2
+,,puuro,pu:ro,2
+,,pyörä ,puoræ,2
+,,pyörä,puoræ,2
+,,rikki,rik:i,2
+,,roska,roska,2
+,,sakset ,sakset,2
+,,sakset,sakset,2
+,,setä ,setæ,2
+,,setä,setæ,2
+,,suklaa ,sukla:,2
+,,suklaa,sukla:,2
+,,tässä ,tæs:æ,2
+,,tässä,tæs:æ,2
+,,täti,tæti,2
+,,tutti,tut:i,2
+,,tyttö,tut:o,2
+,,ukki,uk:i,2
+,,vettä,vet:æ,2
+,,viili ,vi:li,2
+,,viili,vi:li,2
+,,ei,ei,1
+,,pois,pois,1
+,,puu,pu:,1
+,,ei ole,ei ole,3
+,,jugurtti(a) ,jugurt:i,3
+,,jugurtti,jugurt:i,3
+,,kirahvi,kirahvi,3
+,,lusikka,lusik:a,3
+,,oppista,op:ista,3
+,,paperi ,paperi,3
+,,tipahti,tipahti,3
+,,hauhau,au=au,2
+,,paperi,paperi,3
+,,kvaak-kvaak,ka:k=ka:k,2
+,,tiktak,kikak,2
+,,nam-nam,mam=mam,2
+,,nami,nami,2
+Japanese,Haruo,foot,açi  ,2
+,,"what's up, this is odd'",aɾe ,2
+,,"here it is, found it",at:a ,2
+,,hot,aʦɯi,2
+,,byebye,baibai,2
+,,cheers (hands up),baŋ=zai   (im.),2
+,,baby,bebi,2
+,,car,bɯbɯ ,2
+,,hold me,dak:o (im.),2
+,,don't [not SU],dame (im.),2
+,,telephone,deŋ=wa  ,2
+,,please,do:zo ,2
+,,where [not SU],doko ,2
+,,jump,dʑam=pɯ,2
+,,juice,ʥɯ:sɯ ,2
+,,hello (telephone),haɾo:,2
+,,I want it [not SU],hoɕi: (im.),2
+,,"no, don't want to",ija ,2
+,,ouch [not SU],itai  ,2
+,,effort sound,joiɕo  ,2
+,,here [not SU],koko ,2
+,,this [not SU],kore,2
+,,shoes,kɯk:ɯ ,2
+,,mummy [not SU],mama ,2
+,,all gone,nainai  ,2
+,,take off clothes,nɯgɯ ,2
+,,choochoo,pop:o (im.),2
+,,stand up!,taʨ:I (im.),2
+,,doggie,waŋwaŋ,2
+,,fall-down sound,doŋ,1
+,,moo,mo:,1
+,,gone,nai ,1
+,,peek-a-boo [not SU],inaiinai,3
+,,I'm not here [not SU],inaijo  ,3
+,,please no! [not SU],jadajo,3
+,,fell down [not SU],oʨiʨat:a,4
+,,it's over,owaʨ:at:a ,4
+,,horsey/gallop sd.,pakapaka,4

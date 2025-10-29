@@ -293,7 +293,32 @@ full_data$geminate_A <- as.numeric(grepl("-", full_data$Vremoved_actual))
 
 ####################################################################################
 
-## Target forms - needs adding
+## Target forms - needs checking
+
+nsyl_target_list <- full_data %>%
+  split(., f = .$nsyl_target)
+
+sample_target_loop_base <- lapply(nsyl_target_list, FUN = function(element) {
+  split_syl <- element %>% separate(Vremoved_target, c("S1C1_target", "S2C1_target", 
+                                                       "S3C1_target", "S4C1_target"), "V")
+  split_syl2 <- split_syl %>%
+    dplyr::mutate(SFC1_target = ifelse(nsyl_target == 1 & !is.na(S2C1_target), S2C1_target, 0),     # create a category that is just codas
+                  S2C1_target = ifelse(nsyl_target == 1 & !is.na(SFC1_target), 0, S2C1_target),     # codas will always be aligned with codas
+                  SFC1_target = ifelse(nsyl_target == 2 & !is.na(S3C1_target), S3C1_target, SFC1_target),
+                  S3C1_target = ifelse(nsyl_target == 2 & !is.na(SFC1_target), 0, S3C1_target),
+                  SFC1_target = ifelse(nsyl_target == 3 & !is.na(S4C1_target), S4C1_target, SFC1_target),
+                  S4C1_target = ifelse(nsyl_target == 3 & !is.na(SFC1_target), 0, S4C1_target))
+  split_clust <- split_syl2 %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(S2C1_target, c("TS2C1", "TS2C2", "TS2C3"), sep = "(?<=.)") %>%
+    tidyr::separate(S3C1_target, c("TS3C1", "TS3C2", "TS3C3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
+    filter(!(Gloss %in% split_clust$Gloss))
+})
+
+target_list_base <- do.call(rbind.data.frame, sample_IPAtarget_loop_base) %>% mutate(TS1CF1 = "",
+                                                                                     TS1CF2 = "",
+                                                                                     TS1CF3 = "")
+
 
 #######################################################################################
 

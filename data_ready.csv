@@ -1,22 +1,22 @@
 Subject,Age,Gloss,IPAtarget,IPAactual,Language,IPA,nsyl_target
-Adeline,25,au revoir,oʁəvwaʁ,ova,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,ova,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,bwa,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,ɔpa,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,ovwa,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,o va,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,o pa,French,NA,NA
-Adeline,25,au revoir,oʁəvwaʁ,o va,French,NA,NA
-Adeline,25,bain,bɛ,da,French,NA,NA
-Adeline,25,bain,bɛ,adla,French,NA,NA
-Adeline,25,bisou,bizu,ado,French,NA,NA
-Adeline,25,bisou,bizu,ɛdu,French,NA,NA
-Adeline,25,bisou,bizu,atu,French,NA,NA
-Adeline,25,bisou,bizu,ətu,French,NA,NA
-Adeline,25,bisou,bizu,atu,French,NA,NA
-Adeline,25,bobo,bobo,aboβo,French,NA,NA
-Adeline,25,bobo,bobo,abobu,French,NA,NA
-Adeline,25,bobo,bobo,abobu,French,NA,NA
+Adeline,25,au revoir,oʁəvwaʁ,ova,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,ova,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,bwa,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,ɔpa,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,ovwa,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,o va,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,o pa,French,oʁə=vwaʁ,2
+Adeline,25,au revoir,oʁəvwaʁ,o va,French,oʁə=vwaʁ,2
+Adeline,25,bain,bɛ,da,French,bɛ,1
+Adeline,25,bain,bɛ,adla,French,bɛ,1
+Adeline,25,bisou,bizu,ado,French,bizu,2
+Adeline,25,bisou,bizu,ɛdu,French,bizu,2
+Adeline,25,bisou,bizu,atu,French,bizu,2
+Adeline,25,bisou,bizu,ətu,French,bizu,2
+Adeline,25,bisou,bizu,atu,French,bizu,2
+Adeline,25,bobo,bobo,aboβo,French,bobo,2
+Adeline,25,bobo,bobo,abobu,French,bobo,2
+Adeline,25,bobo,bobo,abobu,French,bobo,2
 Adeline,25, boum,bum,bu,French,NA,NA
 Adeline,25, boum,bum,ɔpu,French,NA,NA
 Adeline,25, boum,bum,a bu,French,NA,NA
@@ -30,112 +30,112 @@ Adeline,25, boum,bum,bu,French,NA,NA
 Adeline,25, boum,bum,bu,French,NA,NA
 Adeline,25, boum,bum,bu,French,NA,NA
 Adeline,25, boum,bum,bu,French,NA,NA
-Adeline,25,brosse,bʁɔs,ə gʁɔ,French,NA,NA
+Adeline,25,brosse,bʁɔs,ə gʁɔ,French,bʁɔs,1
 Adeline,25,champs,ʃɑ,otɔ,French,NA,NA
-Adeline,25,chapeau,ʃapo,apo,French,NA,NA
-Adeline,25,chapeau,ʃapo,apo,French,NA,NA
-Adeline,25,chapeau,ʃapo,apo,French,NA,NA
-Adeline,25,chapeau,ʃapo,apo,French,NA,NA
-Adeline,25,chapeau,ʃapo,ə apu,French,NA,NA
-Adeline,25,chapeau,ʃapo,apu,French,NA,NA
-Adeline,25,chapeau,ʃapo,abo,French,NA,NA
-Adeline,25,chapeau,ʃapo,afo,French,NA,NA
-Adeline,25,chapeau,ʃapo,apu,French,NA,NA
-Adeline,25,chat,ʃa,va,French,NA,NA
-Adeline,25,chat,ʃa,ə a va,French,NA,NA
-Adeline,25,chat,ʃa,va,French,NA,NA
-Adeline,25,chat,ʃa,ala va,French,NA,NA
-Adeline,25,chat,ʃa,ba,French,NA,NA
-Adeline,25,chat,ʃa,pa a va,French,NA,NA
-Adeline,25,chat,ʃa,a ba,French,NA,NA
-Adeline,25,chat,ʃa,a va,French,NA,NA
-Adeline,25,chat,ʃa,la va,French,NA,NA
-Adeline,25,chat,ʃa,o va,French,NA,NA
-Adeline,25,chat,ʃa,va ba ba,French,NA,NA
-Adeline,25,coucou,kuku,kuku,French,NA,NA
-Adeline,25,coucou,kuku,kuku,French,NA,NA
-Adeline,25,coucou,kuku,kuku,French,NA,NA
-Adeline,25,coucou,kuku,kuku,French,NA,NA
-Adeline,25,coucou,kuku,kuku,French,NA,NA
-Adeline,25,coucou,kuku,kuku,French,NA,NA
-Adeline,25,coucou,kuku,kuɣu,French,NA,NA
-Adeline,25,coucou,kuku,ə kohko,French,NA,NA
-Adeline,25,coucou,kuku,a kugu,French,NA,NA
-Adeline,25,coucou,kuku,aku,French,NA,NA
+Adeline,25,chapeau,ʃapo,apo,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,apo,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,apo,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,apo,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,ə apu,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,apu,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,abo,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,afo,French,ʃapo,2
+Adeline,25,chapeau,ʃapo,apu,French,ʃapo,2
+Adeline,25,chat,ʃa,va,French,ʃa,1
+Adeline,25,chat,ʃa,ə a va,French,ʃa,1
+Adeline,25,chat,ʃa,va,French,ʃa,1
+Adeline,25,chat,ʃa,ala va,French,ʃa,1
+Adeline,25,chat,ʃa,ba,French,ʃa,1
+Adeline,25,chat,ʃa,pa a va,French,ʃa,1
+Adeline,25,chat,ʃa,a ba,French,ʃa,1
+Adeline,25,chat,ʃa,a va,French,ʃa,1
+Adeline,25,chat,ʃa,la va,French,ʃa,1
+Adeline,25,chat,ʃa,o va,French,ʃa,1
+Adeline,25,chat,ʃa,va ba ba,French,ʃa,1
+Adeline,25,coucou,kuku,kuku,French,kuku,2
+Adeline,25,coucou,kuku,kuku,French,kuku,2
+Adeline,25,coucou,kuku,kuku,French,kuku,2
+Adeline,25,coucou,kuku,kuku,French,kuku,2
+Adeline,25,coucou,kuku,kuku,French,kuku,2
+Adeline,25,coucou,kuku,kuku,French,kuku,2
+Adeline,25,coucou,kuku,kuɣu,French,kuku,2
+Adeline,25,coucou,kuku,ə kohko,French,kuku,2
+Adeline,25,coucou,kuku,a kugu,French,kuku,2
+Adeline,25,coucou,kuku,aku,French,kuku,2
 Adeline,25,dodo,dodo,tutu,French,NA,NA
 Adeline,25,en dehors,ɑdəɔʁ,o da,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ako,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,okɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,kɔ,French,NA,NA
-Adeline,25,encore,ɑkɔʁ,ɔlkɔ,French,NA,NA
-Adeline,25,lave,lav,la,French,NA,NA
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔkɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ako,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,okɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,kɔ,French,ɑkɔʁ,2
+Adeline,25,encore,ɑkɔʁ,ɔlkɔ,French,ɑkɔʁ,2
+Adeline,25,lave,lav,la,French,lav,1
 Adeline,25,là,la,la,French,NA,NA
 Adeline,25,là,la,la,French,NA,NA
 Adeline,25,là,la,la,French,NA,NA
 Adeline,25,là,la,la,French,NA,NA
 Adeline,25,là,la,da,French,NA,NA
 Adeline,25,là,la,da ta,French,NA,NA
-Adeline,25,maman,mamɑ,mamɑ,French,NA,NA
-Adeline,25,maman,mamɑ,mamɑ,French,NA,NA
-Adeline,25,maman,mamɑ,mamɑ,French,NA,NA
-Adeline,25,miaou,mjau,vau,French,NA,NA
-Adeline,25,miaou,mjau,vau,French,NA,NA
-Adeline,25,miaou,mjau,mau,French,NA,NA
-Adeline,25,moi,mwa,ma,French,NA,NA
-Adeline,25,non,nɔ,no,French,NA,NA
-Adeline,25,non,nɔ,no,French,NA,NA
-Adeline,25,oh,o,o,French,NA,NA
-Adeline,25,oh,o,o,French,NA,NA
-Adeline,25,oh,o,o,French,NA,NA
+Adeline,25,maman,mamɑ,mamɑ,French,mamɑ,2
+Adeline,25,maman,mamɑ,mamɑ,French,mamɑ,2
+Adeline,25,maman,mamɑ,mamɑ,French,mamɑ,2
+Adeline,25,miaou,mjau,vau,French,mjau,1
+Adeline,25,miaou,mjau,vau,French,mjau,1
+Adeline,25,miaou,mjau,mau,French,mjau,1
+Adeline,25,moi,mwa,ma,French,mwa,1
+Adeline,25,non,nɔ,no,French,nɔ,1
+Adeline,25,non,nɔ,no,French,nɔ,1
+Adeline,25,oh,o,o,French,o,1
+Adeline,25,oh,o,o,French,o,1
+Adeline,25,oh,o,o,French,o,1
 Adeline,25,oiseau,wazo,əʒlo,French,NA,NA
-Adeline,25,papa,papa,papa,French,NA,NA
-Adeline,25,papa,papa,papa,French,NA,NA
-Adeline,25,papa,papa,a papa,French,NA,NA
+Adeline,25,papa,papa,papa,French,papa,2
+Adeline,25,papa,papa,papa,French,papa,2
+Adeline,25,papa,papa,a papa,French,papa,2
 Adeline,25,parti,paʁti,ate,French,NA,NA
-Adeline,25,tiens,tjɛ,ta,French,NA,NA
-Adeline,25,tiens,tjɛ,ta,French,NA,NA
-Adeline,25,tiens,tjɛ,ta,French,NA,NA
-Adeline,25,tiens,tjɛ,ta,French,NA,NA
+Adeline,25,tiens,tjɛ,ta,French,tjɛ,1
+Adeline,25,tiens,tjɛ,ta,French,tjɛ,1
+Adeline,25,tiens,tjɛ,ta,French,tjɛ,1
+Adeline,25,tiens,tjɛ,ta,French,tjɛ,1
 Adeline,25,trois,tRwa,ka,French,NA,NA
 Adeline,25,vachou,vaʃu,oʒu,French,NA,NA
-Adeline,25,voilà,vwala,wala,French,NA,NA
-Adeline,25,voilà,vwala,ala,French,NA,NA
+Adeline,25,voilà,vwala,wala,French,vwala,2
+Adeline,25,voilà,vwala,ala,French,vwala,2
 Adeline,25,voiture,vwatyʁ,atu,French,NA,NA
 Adeline,25,voiture,vwatyʁ,atu,French,NA,NA
-Adeline,25,vroum,vʁum,wu,French,NA,NA
+Adeline,25,vroum,vʁum,wu,French,vʁum,1
 Gaël,22,accrocher,akʁɔʃe,xʁoʃe,French,NA,NA
 Gaël,22,accrocher,akʁɔʃe,xoʃe,French,NA,NA
-Gaël,22,ballon,balo,lalo:,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,bebe,bebe,French,NA,NA
-Gaël,22,bébé,NA,bebe,French,NA,NA
-Gaël,22,bébé,NA,bebe,French,NA,NA
-Gaël,22,bébé,NA,bebe,French,NA,NA
-Gaël,22,bébé,NA,bebe,French,NA,NA
-Gaël,22,bébé,NA,bebe,French,NA,NA
-Gaël,22,bleu,blø,be:e,French,NA,NA
-Gaël,22,bleu,blø,blœ,French,NA,NA
-Gaël,22,bleu,blø,ble:,French,NA,NA
-Gaël,22,bleu,blø,blœ:e,French,NA,NA
-Gaël,22,bleu,blø,blœ:,French,NA,NA
-Gaël,22,bleu,blø,blœ:e,French,NA,NA
-Gaël,22,bleu,blø,blœ:,French,NA,NA
-Gaël,22,bleu,NA,blœ:,French,NA,NA
+Gaël,22,ballon,balo,lalo:,French,balo,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bébé,bebe,bebe,French,bebe,2
+Gaël,22,bleu,blø,be:e,French,blø,1
+Gaël,22,bleu,blø,blœ,French,blø,1
+Gaël,22,bleu,blø,ble:,French,blø,1
+Gaël,22,bleu,blø,blœ:e,French,blø,1
+Gaël,22,bleu,blø,blœ:,French,blø,1
+Gaël,22,bleu,blø,blœ:e,French,blø,1
+Gaël,22,bleu,blø,blœ:,French,blø,1
+Gaël,22,bleu,blø,blœ:,French,blø,1
 Gaël,22,c'est ça,sesa,esa,French,NA,NA
 Gaël,22,c'est ça,sesa,es,French,NA,NA
 Gaël,22,c'est ça,sesa,esa:,French,NA,NA
@@ -162,102 +162,102 @@ Gaël,22,chercher,ʃɛʁ=ʃe,ʃaʃe,French,NA,NA
 Gaël,22,chercher,ʃɛʁ=ʃe,aʃe,French,NA,NA
 Gaël,22,chercher,ʃɛʁ=ʃe,ase,French,NA,NA
 Gaël,22,la dame la,ladam=la,adalə,French,NA,NA
-Gaël,22,dedans,dəda,ada,French,NA,NA
-Gaël,22,deux,dø,dœ,French,NA,NA
-Gaël,22,dodo,dodo,dodo,French,NA,NA
+Gaël,22,dedans,dəda,ada,French,dəda,2
+Gaël,22,deux,dø,dœ,French,dø,1
+Gaël,22,dodo,dodo,dodo,French,dodo,2
 Gaël,22,dormir,doʁ=mi,doʁ,French,NA,NA
-Gaël,22,écrit,ekʁi,eχri,French,NA,NA
-Gaël,22,écrit,ekʁi,iχri,French,NA,NA
+Gaël,22,écrit,ekʁi,eχri,French,ekri,2
+Gaël,22,écrit,ekʁi,iχri,French,ekri,2
 Gaël,22,feu,fø,əfœ:,French,NA,NA
-Gaël,22,Gael?,gaɛl,gaʔal,French,NA,NA
-Gaël,22,grelot,gʁəlo,eχo,French,NA,NA
-Gaël,22,gros,gʁo,egro:,French,NA,NA
-Gaël,22,gros,gʁo,egro,French,NA,NA
-Gaël,22,gros,gʁo,egro,French,NA,NA
-Gaël,22,grosse,gʁos,egrəs,French,NA,NA
-Gaël,22,ici,isi,is,French,NA,NA
-Gaël,22,ici,isi,isi,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,la,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là,NA,la,French,NA,NA
-Gaël,22,là bas,laba,aba,French,NA,NA
-Gaël,22,là bas,laba,aba,French,NA,NA
-Gaël,22,machine,maʃin,ʃe,French,NA,NA
-Gaël,22,machine,maʃin,aʃe,French,NA,NA
-Gaël,22,maman,mama,mama,French,NA,NA
-Gaël,22,maman,mama,ma,French,NA,NA
-Gaël,22,maman,mama,mama,French,NA,NA
-Gaël,22,maman,mama,ama,French,NA,NA
-Gaël,22,maman,mama,mama,French,NA,NA
-Gaël,22,maman,mama,mama,French,NA,NA
-Gaël,22,maman,mama,ma,French,NA,NA
-Gaël,22,non,no,no,French,NA,NA
-Gaël,22,non,no,no,French,NA,NA
-Gaël,22,ouais,we,wɛ,French,NA,NA
-Gaël,22,ouais,we,we,French,NA,NA
-Gaël,22,ouais,we,wɛ,French,NA,NA
-Gaël,22,ouais,we,wɛ,French,NA,NA
-Gaël,22,ouais,we,wɛ,French,NA,NA
-Gaël,22,ouais,we,wɛ,French,NA,NA
-Gaël,22,ouais,we,wɛ,French,NA,NA
-Gaël,22,oui,wi,wi,French,NA,NA
-Gaël,22,oui,wi,we,French,NA,NA
-Gaël,22,oui,wi,wi,French,NA,NA
-Gaël,22,oui,wi,wi,French,NA,NA
-Gaël,22,oui,wi,wi,French,NA,NA
-Gaël,22,oui,wi,wi,French,NA,NA
-Gaël,22,oui,wi,wi,French,NA,NA
-Gaël,22,oui,NA,wi,French,NA,NA
-Gaël,22,ouvre,uvʁ,euv,French,NA,NA
-Gaël,22,ouvre,uvʁ,euvr,French,NA,NA
-Gaël,22,ouvre,uvʁ,auvre,French,NA,NA
-Gaël,22,ouvre,uvʁ,vχe,French,NA,NA
-Gaël,22,ouvre,uvʁ,œvre,French,NA,NA
-Gaël,22,ouvre,uvʁ,euvr,French,NA,NA
-Gaël,22,ouvrir,uvʁiʁ,oχri,French,NA,NA
-Gaël,22,ouvrir,uvʁiʁ,uχri,French,NA,NA
-Gaël,22,ouvrir,uvʁiʁ,uvχri,French,NA,NA
-Gaël,22,ouvrir,uvʁiʁ,auvri,French,NA,NA
-Gaël,22,ouvrir,uvʁiʁ,uvχre,French,NA,NA
-Gaël,22,ouvrir,uvʁiʁ,uvχri,French,NA,NA
-Gaël,22,papa,papa,papa,French,NA,NA
-Gaël,22,papa,papa,epap,French,NA,NA
-Gaël,22,papa,papa,pap,French,NA,NA
-Gaël,22,pas,pa,epa,French,NA,NA
-Gaël,22,pas,pa,apa,French,NA,NA
+Gaël,22,Gael?,gaɛl,gaʔal,French,gaɛl,1
+Gaël,22,grelot,gʁəlo,eχo,French,gʁəlo,2
+Gaël,22,gros,gʁo,egro:,French,gʁo,1
+Gaël,22,gros,gʁo,egro,French,gʁo,1
+Gaël,22,gros,gʁo,egro,French,gʁo,1
+Gaël,22,grosse,gʁos,egrəs,French,gʁos,1
+Gaël,22,ici,isi,is,French,isi,2
+Gaël,22,ici,isi,isi,French,isi,2
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là,la,la,French,la,1
+Gaël,22,là bas,laba,aba,French,laba,2
+Gaël,22,là bas,laba,aba,French,laba,2
+Gaël,22,machine,maʃin,ʃe,French,maʃin,2
+Gaël,22,machine,maʃin,aʃe,French,maʃin,2
+Gaël,22,maman,mama,mama,French,mama,2
+Gaël,22,maman,mama,ma,French,mama,2
+Gaël,22,maman,mama,mama,French,mama,2
+Gaël,22,maman,mama,ama,French,mama,2
+Gaël,22,maman,mama,mama,French,mama,2
+Gaël,22,maman,mama,mama,French,mama,2
+Gaël,22,maman,mama,ma,French,mama,2
+Gaël,22,non,no,no,French,no,1
+Gaël,22,non,no,no,French,no,1
+Gaël,22,ouais,we,wɛ,French,we,1
+Gaël,22,ouais,we,we,French,we,1
+Gaël,22,ouais,we,wɛ,French,we,1
+Gaël,22,ouais,we,wɛ,French,we,1
+Gaël,22,ouais,we,wɛ,French,we,1
+Gaël,22,ouais,we,wɛ,French,we,1
+Gaël,22,ouais,we,wɛ,French,we,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,oui,wi,we,French,wi,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,oui,wi,wi,French,wi,1
+Gaël,22,ouvre,uvʁ,euv,French,uvʁ,1
+Gaël,22,ouvre,uvʁ,euvr,French,uvʁ,1
+Gaël,22,ouvre,uvʁ,auvre,French,uvʁ,1
+Gaël,22,ouvre,uvʁ,vχe,French,uvʁ,1
+Gaël,22,ouvre,uvʁ,œvre,French,uvʁ,1
+Gaël,22,ouvre,uvʁ,euvr,French,uvʁ,1
+Gaël,22,ouvrir,uvʁiʁ,oχri,French,uv=ʁir,2
+Gaël,22,ouvrir,uvʁiʁ,uχri,French,uv=ʁir,2
+Gaël,22,ouvrir,uvʁiʁ,uvχri,French,uv=ʁir,2
+Gaël,22,ouvrir,uvʁiʁ,auvri,French,uv=ʁir,2
+Gaël,22,ouvrir,uvʁiʁ,uvχre,French,uv=ʁir,2
+Gaël,22,ouvrir,uvʁiʁ,uvχri,French,uv=ʁir,2
+Gaël,22,papa,papa,papa,French,papa,2
+Gaël,22,papa,papa,epap,French,papa,2
+Gaël,22,papa,papa,pap,French,papa,2
+Gaël,22,pas,pa,epa,French,pa,1
+Gaël,22,pas,pa,apa,French,pa,1
 Gaël,22,plus,ply,aplœ,French,NA,NA
-Gaël,22,roue,ʁu,iχu,French,NA,NA
-Gaël,22,roue,ʁu,iχu,French,NA,NA
-Gaël,22,rouge,ʁuʒ,rojo,French,NA,NA
+Gaël,22,roue,ʁu,iχu,French,ʁu,1
+Gaël,22,roue,ʁu,iχu,French,ʁu,1
+Gaël,22,rouge,ʁuʒ,rojo,French,ʁuʒ,1
 Gaël,22,sou,su,esu,French,NA,NA
 Gaël,22,sou,su,esu,French,NA,NA
 Gaël,22,sou,su,esu,French,NA,NA
-Gaël,22,tas,ta,ta,French,NA,NA
-Gaël,22,tas,ta,ta:,French,NA,NA
-Gaël,22,tas,ta,ota,French,NA,NA
-Gaël,22,tas,ta,ta,French,NA,NA
-Gaël,22,tas,ta,ota,French,NA,NA
-Gaël,22,tout seul,tusøl,tusɛ,French,NA,NA
+Gaël,22,tas,ta,ta,French,ta,1
+Gaël,22,tas,ta,ta:,French,ta,1
+Gaël,22,tas,ta,ota,French,ta,1
+Gaël,22,tas,ta,ta,French,ta,1
+Gaël,22,tas,ta,ota,French,ta,1
+Gaël,22,tout seul,tusøl,tusɛ,French,tusøl,2
 Gaël,22,trax,tʁaks,χras,French,NA,NA
-Gaël,22,vert,vɛʁ,vɛ,French,NA,NA
-Gaël,22,voiture,vwatyʁ,tɛty,French,NA,NA
-Gaël,22,voiture,vwatyʁ,tɛty,French,NA,NA
+Gaël,22,vert,vɛʁ,vɛ,French,vɛʁ,1
+Gaël,22,voiture,vwatyʁ,tɛty,French,vwatyʁ,2
+Gaël,22,voiture,vwatyʁ,tɛty,French,vwatyʁ,2
 Ella,16,apple,æpəl,æpəʊɫ,UK,æpəl,2
 Ella,16,baby,beɪbi,beɪ:bi:,UK,beɪbi,2
 Ella,16,baby,beɪbi,beɪbɪn,UK,beɪbi,2
@@ -269,25 +269,25 @@ Ella,16,ball,bɔl,mbaʊ,UK,bɔl,1
 Ella,16,ball,bɔl,baʊʔ,UK,bɔl,1
 Ella,16,ball,bɔl,mbɑʊʔh,UK,bɔl,1
 Ella,16,ball,bɔl,baʊʔ,UK,bɔl,1
-Ella,16,beep beep,bi:pbi:p,bijə bijεp,UK,bi:pbi:p,2
+Ella,16,beep beep,bi:bi:p,bijə bijεp,UK,bi:bi:p,2
 Ella,16,bed,bɛd,mεʔt,UK,bɛd,1
 Ella,16,bed,bɛd,bεt,UK,bɛd,1
 Ella,16,bed,bɛd,bεʷɪ,UK,bɛd,1
 Ella,16,bed,bɛd,bεte,UK,bɛd,1
-Ella,16,bottle,baɾəl,bɑta:ɫ,UK,baɾəl,2
-Ella,16,bottle,baɾəl,bʷataʉ:,UK,baɾəl,2
-Ella,16,bottle,baɾəl,bɑtɪɫ,UK,baɾəl,2
-Ella,16,bottle,baɾəl,wɑta:ə,UK,baɾəl,2
-Ella,16,bottle,baɾəl,mɑtəʊ:,UK,baɾəl,2
-Ella,16,bottle,baɾəl,wɑtəl,UK,baɾəl,2
-Ella,16,bottle,baɾəl,ʔɑtəl,UK,baɾəl,2
-Ella,16,bottle,baɾəl,bɔtɑʉ,UK,baɾəl,2
-Ella,16,bottle,baɾəl,bɑtʊɫ,UK,baɾəl,2
-Ella,16,bottle,baɾəl,pɑtɜɫ,UK,baɾəl,2
-Ella,16,bottle,baɾəl,mbɑtəl,UK,baɾəl,2
-Ella,16,bottle,baɾəl,bɑta:ɫ,UK,baɾəl,2
-Ella,16,brush,brʌʃ,ʔrɪʃ,UK,brʌʃ,1
-Ella,16,brush,brʌʃ,ɪsʃɔ:,UK,brʌʃ,1
+Ella,16,bottle,batəl,bɑta:ɫ,UK,batəl,2
+Ella,16,bottle,batəl,bʷataʉ:,UK,batəl,2
+Ella,16,bottle,batəl,bɑtɪɫ,UK,batəl,2
+Ella,16,bottle,batəl,wɑta:ə,UK,batəl,2
+Ella,16,bottle,batəl,mɑtəʊ:,UK,batəl,2
+Ella,16,bottle,batəl,wɑtəl,UK,batəl,2
+Ella,16,bottle,batəl,ʔɑtəl,UK,batəl,2
+Ella,16,bottle,batəl,bɔtɑʉ,UK,batəl,2
+Ella,16,bottle,batəl,bɑtʊɫ,UK,batəl,2
+Ella,16,bottle,batəl,pɑtɜɫ,UK,batəl,2
+Ella,16,bottle,batəl,mbɑtəl,UK,batəl,2
+Ella,16,bottle,batəl,bɑta:ɫ,UK,batəl,2
+Ella,16,brush,bɹʌʃ,ʔrɪʃ,UK,bɹʌʃ,1
+Ella,16,brush,bɹʌʃ,ɪsʃɔ:,UK,bɹʌʃ,1
 Ella,16,bye,NA,ba:ʔaɪ:,UK,NA,NA
 Ella,16,bye,NA,baʔbaɪ:,UK,NA,NA
 Ella,16,bye,NA,ba:baɪx,UK,NA,NA
@@ -391,9 +391,9 @@ Ella,16,plate,pleɪt,məje:ʧ,UK,pleɪt,1
 Ella,16,plate,pleɪt,fəleɪʧ,UK,pleɪt,1
 Ella,16,play,pleɪ,pleɪ:,UK,pleɪ,1
 Ella,16,play,pleɪ,pleɪ:,UK,pleɪ,1
-Ella,16,rattle,ræɾəl,kεlεtɪŋ,UK,ræɾəl,2
-Ella,16,rattle,ræɾəl,hʌʔεtu,UK,ræɾəl,2
-Ella,16,rattle,ræɾəl,ɔtə:ʔwε,UK,ræɾəl,2
+Ella,16,rattle,rætəl,kεlεtɪŋ,UK,rætəl,2
+Ella,16,rattle,rætəl,hʌʔεtu,UK,rætəl,2
+Ella,16,rattle,rætəl,ɔtə:ʔwε,UK,rætəl,2
 Ella,16,spoon,spu:n,æmu:nε,UK,spu:n,1
 Ella,16,spoon,spu:n,m:u:n,UK,spu:n,1
 Ella,16,spoon,spu:n,ɪmu:n,UK,spu:n,1
@@ -406,10 +406,10 @@ Ella,16,aah,NA,ʔɑ::h,UK,NA,NA
 Ella,16,aah,NA,aʔɑ:,UK,NA,NA
 Ella,16,ah ah,NA,hæʔæʔ,UK,NA,NA
 Ella,16,ah ah,NA,ɑʔæ,UK,NA,NA
-Ella,16,woof woof,wufwuf,ijʌf ɹaf,UK,wufwuf,2
-Ella,16,woof woof,wufwuf,ijuf,UK,wufwuf,2
-Ella,16,woof woof,wufwuf,əɹf ɹεfʔwε,UK,wufwuf,2
-Ella,16,woof woof,wufwuf,əjʌk pɹεp,UK,wufwuf,2
+Ella,16,woof woof,wuf=wuf,ijʌf ɹaf,UK,wuf=wuf,2
+Ella,16,woof woof,wuf=wuf,ijuf,UK,wuf=wuf,2
+Ella,16,woof woof,wuf=wuf,əɹf ɹεfʔwε,UK,wuf=wuf,2
+Ella,16,woof woof,wuf=wuf,əjʌk pɹεp,UK,wuf=wuf,2
 Ivy,17,baby,beɪbi,babiç,UK,beɪbi,2
 Ivy,17,baby,beɪbi,bεbi:,UK,beɪbi,2
 Ivy,17,baby,beɪbi,biβiⁿ,UK,beɪbi,2
@@ -423,12 +423,12 @@ Ivy,17,balloon,bəlu:n,ɪwu:un,UK,bəlu:n,2
 Ivy,17,bee,bi:,bi:ju:m::,UK,bi:,1
 Ivy,17,bye bye,baɪbaɪ,babaɪç,UK,baɪbaɪ,2
 Ivy,17,camel,kæməl,hibɑbʊɫ,UK,kæməl,2
-Ivy,17,caterpillar,kæɾəpɪlə,əɹɑbəε,UK,kæɾəpɪlə,4
-Ivy,17,caterpillar,kæɾəpɪlə,əbε,UK,kæɾəpɪlə,4
-Ivy,17,cinderella,sɪndərɛlʌ,uɪɹa,UK,sɪndərɛlʌ,4
-Ivy,17,cinderella,sɪndərɛlʌ,iju:wiɹε,UK,sɪndərɛlʌ,4
-Ivy,17,cinderella,sɪndərɛlʌ,u:iɹæ,UK,sɪndərɛlʌ,4
-Ivy,17,cinderella,sɪndərɛlʌ,aɪjiçhɪɫɹæ,UK,sɪndərɛlʌ,4
+Ivy,17,caterpillar,kætəpɪlə,əɹɑbəε,UK,kætəpɪlə,4
+Ivy,17,caterpillar,kætəpɪlə,əbε,UK,kætəpɪlə,4
+Ivy,17,cinderella,sɪndəɹɛlʌ,uɪɹa,UK,sɪndəɹɛlʌ,4
+Ivy,17,cinderella,sɪndəɹɛlʌ,iju:wiɹε,UK,sɪndəɹɛlʌ,4
+Ivy,17,cinderella,sɪndəɹɛlʌ,u:iɹæ,UK,sɪndəɹɛlʌ,4
+Ivy,17,cinderella,sɪndəɹɛlʌ,aɪjiçhɪɫɹæ,UK,sɪndəɹɛlʌ,4
 Ivy,17,daddy,dædi,dadiç,UK,dædi,2
 Ivy,17,daddy,dædi,dætdiⁿ,UK,dædi,2
 Ivy,17,daddy,dædi,dadiç,UK,dædi,2
@@ -443,18 +443,18 @@ Ivy,17,down,daʊn,daʊʷm,UK,daʊn,1
 Ivy,17,elephant,ɛləfənt,εjəvɸ,UK,ɛləfənt,3
 Ivy,17,elephant,ɛləfənt,ijəʔu,UK,ɛləfənt,3
 Ivy,17,elephant,ɛləfənt,iju:ʂ,UK,ɛləfənt,3
-Ivy,17,giraffe,ʤəræf,əwɑ:ə,UK,ʤəræf,2
-Ivy,17,giraffe,ʤəræf,hija:əʊɸ,UK,ʤəræf,2
-Ivy,17,giraffe,ʤəræf,ɪr:a:æ,UK,ʤəræf,2
-Ivy,17,giraffe,ʤəræf,əwɑ:ə,UK,ʤəræf,2
+Ivy,17,giraffe,ʤəɹæf,əwɑ:ə,UK,ʤəɹæf,2
+Ivy,17,giraffe,ʤəɹæf,hija:əʊɸ,UK,ʤəɹæf,2
+Ivy,17,giraffe,ʤəɹæf,ɪr:a:æ,UK,ʤəɹæf,2
+Ivy,17,giraffe,ʤəɹæf,əwɑ:ə,UK,ʤəɹæf,2
 Ivy,17,hat,hæt,ɪshε,UK,hæt,1
 Ivy,17,Jessica,ʤɛsɪkʌ,ʊʃɪba:ʔɪ,UK,ʤɛsɪkʌ,3
 Ivy,17,Jessica,ʤɛsɪkʌ,ʃisʃæ,UK,ʤɛsɪkʌ,3
 Ivy,17,Jessica,ʤɛsɪkʌ,ʃiçjah:ʔ,UK,ʤɛsɪkʌ,3
-Ivy,17,jumpy,ʤʌmpi,ʤʊvɔɪⁿ,UK,ʤʌmpi,2
-Ivy,17,jumpy,ʤʌmpi,ʃɑʔʃa:ɪʃijə,UK,ʤʌmpi,2
-Ivy,17,jumpy,ʤʌmpi,ʃɔpʃɪʃ,UK,ʤʌmpi,2
-Ivy,17,jumpy,ʤʌmpi,ʃɑpiç,UK,ʤʌmpi,2
+Ivy,17,jumpy,ʤʌm=pi,ʤʊvɔɪⁿ,UK,ʤʌm=pi,2
+Ivy,17,jumpy,ʤʌm=pi,ʃɑʔʃa:ɪʃijə,UK,ʤʌm=pi,2
+Ivy,17,jumpy,ʤʌm=pi,ʃɔpʃɪʃ,UK,ʤʌm=pi,2
+Ivy,17,jumpy,ʤʌm=pi,ʃɑpiç,UK,ʤʌm=pi,2
 Ivy,17,lion,laijən,jɑʔwi,UK,laijən,2
 Ivy,17,lion,laijən,əjæⁿi:ç,UK,laijən,2
 Ivy,17,lion,laijən,ijaɪ:jiç,UK,laijən,2
@@ -467,7 +467,7 @@ Ivy,17,miaow,mjaʊ,hijaʊ:,UK,mjaʊ,1
 Ivy,17,miaow,mjaʊ,ijaʊ:ŋ,UK,mjaʊ,1
 Ivy,17,miaow,mjaʊ,i:ʔjaʊ:,UK,mjaʊ,1
 Ivy,17,miaow,mjaʊ,hijaʊ:,UK,mjaʊ,1
-Ivy,17,monkey,mʌŋki,m:iç,UK,mʌŋki,2
+Ivy,17,monkey,mʌŋ=ki,m:iç,UK,mʌŋ=ki,2
 Ivy,17,more,mɔ:, məʊ:,UK,mɔ:,1
 Ivy,17,more,mɔ:,m:əʊ,UK,mɔ:,1
 Ivy,17,more,mɔ:,məʊ:ŋ,UK,mɔ:,1
@@ -495,14 +495,14 @@ Ivy,17,star,sta:,dɒ:ə,UK,sta:,1
 Ivy,17,star,sta:,dɑ:ə,UK,sta:,1
 Ivy,17,teddy,tɛdi,hɪdiç,UK,tɛdi,2
 Ivy,17,teddy,tɛdi,dεdiç,UK,tɛdi,2
-Ivy,17,tractor,træktɔr,daɪʔtε,UK,træktɔr,2
-Ivy,17,tree,tri:,ɑ:ʧi:ə:i,UK,tri:,1
-Ivy,17,vroom,vru:m,vəɹʊm:,UK,vru:m,1
-Ivy,17,what's that?,wʌtsðæt,wʊtsjɪhaʔ,UK,wʌtsðæt,2
-Ivy,17,what's that?,wʌtsðæt,hɔɪʔzæʔ,UK,wʌtsðæt,2
-Ivy,17,what's that?,wʌtsðæt,ɒʔwʊʃjæ,UK,wʌtsðæt,2
-Ivy,17,what's that?,wʌtsðæt,wʊʃiçra:ʔ,UK,wʌtsðæt,2
-Ivy,17,what's that?,wʌtsðæt,hizjæ,UK,wʌtsðæt,2
+Ivy,17,tractor,træk=tɔr,daɪʔtε,UK,træk=tɔr,2
+Ivy,17,tree,tɹi:,ɑ:ʧi:ə:i,UK,tɹi:,1
+Ivy,17,vroom,vɹu:m,vəɹʊm:,UK,vɹu:m,1
+Ivy,17,what's that?,wʌts=ðæt,wʊtsjɪhaʔ,UK,wʌts=ðæt,2
+Ivy,17,what's that?,wʌts=ðæt,hɔɪʔzæʔ,UK,wʌts=ðæt,2
+Ivy,17,what's that?,wʌts=ðæt,ɒʔwʊʃjæ,UK,wʌts=ðæt,2
+Ivy,17,what's that?,wʌts=ðæt,wʊʃiçra:ʔ,UK,wʌts=ðæt,2
+Ivy,17,what's that?,wʌts=ðæt,hizjæ,UK,wʌts=ðæt,2
 Ivy,17,whee,wi:,əwi::ç,UK,wi:,1
 Ivy,17,whee,wi:,əwi:n,UK,wi:,1
 Ivy,17,woof,wʊf, wɑɸwəɸʔwε,UK,wʊf,1
@@ -515,7 +515,7 @@ Ivy,17,yeah,yɛ,ijæʔə,UK,yɛ,1
 Ivy,17,yeah,yɛ,ijæ,UK,yɛ,1
 Ivy,17,yeah,yɛ,ijæɦ,UK,yɛ,1
 Ivy,17,yeah,yɛ,jə,UK,yɛ,1
-Ivy,17,zebra,zibʌ,wεbə,UK,zibʌ,2
+Ivy,17,zebra,zibɹʌ,wεbə,UK,zibɹʌ,2
 Ivy,17,ow,NA,aʉw,UK,NA,NA
 Ivy,17,quack quack,NA,ərɔb:vɔbɔ,UK,NA,NA
 Ivy,17,quack quack,NA,əvɒ:,UK,NA,NA
@@ -523,14 +523,14 @@ Ivy,17,ribbit,NA,wi:əɹi,UK,NA,NA
 Ivy,17,ribbit,NA,jəʔiçɹʊg,UK,NA,NA
 Ivy,17,ribbit,NA,ʧi:uvaβi,UK,NA,NA
 Ivy,17,ribbit,NA,əwi:uɹi,UK,NA,NA
-Lewis,18,all gone,algɔn,əgɒːmʔ,UK,algɔn,2
-Lewis,18,all gone,algɔn,ʔɔːvɒmʔ,UK,algɔn,2
-Lewis,18,all gone,algɔn,əːwɒmʔ,UK,algɔn,2
-Lewis,18,all gone,algɔn,ɒɹʌʔ,UK,algɔn,2
-Lewis,18,all gone,algɔn,hʊŋːgamʔ,UK,algɔn,2
-Lewis,18,all gone,algɔn,hɜːgɒmː,UK,algɔn,2
-Lewis,18,all gone,algɔn,əʊgɒʔm,UK,algɔn,2
-Lewis,18,all gone,algɔn,əβːgəm,UK,algɔn,2
+Lewis,18,all gone,al=gɔn,əgɒːmʔ,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,ʔɔːvɒmʔ,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,əːwɒmʔ,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,ɒɹʌʔ,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,hʊŋːgamʔ,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,hɜːgɒmː,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,əʊgɒʔm,UK,al=gɔn,2
+Lewis,18,all gone,al=gɔn,əβːgəm,UK,al=gɔn,2
 Lewis,18,apple,æpəl,ʔaʊbɛ,UK,æpəl,2
 Lewis,18,ball,bɔl,dɒː,UK,bɔl,1
 Lewis,18,ball,bɔl,dɒːː,UK,bɔl,1
@@ -595,7 +595,7 @@ Lewis,18,oh no,o:no:,ɜːʔənɔːː,UK,o:no:,2
 Lewis,18,oh no,o:no:,eʊnɔːː,UK,o:no:,2
 Lewis,18,oh no,o:no:,ɔːːnɔːː,UK,o:no:,2
 Lewis,18,oh no,o:no:,ɔːnɔː,UK,o:no:,2
-Lewis,18,pushchair,puʄtʃe:,əwuɸtɛ,UK,puʄtʃe:,2
+Lewis,18,pushchair,puʃ=tʃe:,əwuɸtɛ,UK,puʃ=tʃe:,2
 Lewis,18,shoes,ʃu:z,mːː,UK,ʃu:z,1
 Lewis,18,shoes,ʃu:z,hʊβːː,UK,ʃu:z,1
 Lewis,18,shoes,ʃu:z,mːː,UK,ʃu:z,1
@@ -610,11 +610,11 @@ Lewis,18,sun,sʌn,dɒ,UK,sʌn,1
 Lewis,18,there,ðe:,dɛːjə,UK,ðe:,1
 Lewis,18,there,ðe:,dɛː,UK,ðe:,1
 Lewis,18,there,ðe:,dɛː,UK,ðe:,1
-Lewis,18,tractor,træktɔ,ɸːɛʔtɛː,UK,træktɔ,2
-Lewis,18,tractor,træktɔ,ɸaʔtɛːːəː,UK,træktɔ,2
-Lewis,18,tractor,træktɔ,təwaʔsːa,UK,træktɔ,2
-Lewis,18,tractor,træktɔ,wɑʔndə,UK,træktɔ,2
-Lewis,18,tractor,træktɔ,dæːtʊ,UK,træktɔ,2
+Lewis,18,tractor,tɹæk=tɔ,ɸːɛʔtɛː,UK,tɹæk=tɔ,2
+Lewis,18,tractor,tɹæk=tɔ,ɸaʔtɛːːəː,UK,tɹæk=tɔ,2
+Lewis,18,tractor,tɹæk=tɔ,təwaʔsːa,UK,tɹæk=tɔ,2
+Lewis,18,tractor,tɹæk=tɔ,wɑʔndə,UK,tɹæk=tɔ,2
+Lewis,18,tractor,tɹæk=tɔ,dæːtʊ,UK,tɹæk=tɔ,2
 Lewis,18,train,treɪn,tɪʊ,UK,treɪn,1
 Lewis,18,truck,trʌk,tɪwʊ,UK,trʌk,1
 Lewis,18,truck,trʌk,təwʊːʔt,UK,trʌk,1
@@ -631,8 +631,8 @@ Lewis,18,uh-oh,ʌʔoʊ,ʔɒʔɔː,UK,ʌʔoʊ,2
 Lewis,18,uh-oh,ʌʔoʊ,ʔəʔɔːɸ,UK,ʌʔoʊ,2
 Lewis,18,uh-oh,ʌʔoʊ,ʔɪʔɔːːwʊ,UK,ʌʔoʊ,2
 Lewis,18,uh-oh,ʌʔoʊ,ʔʊʔʊːu,UK,ʌʔoʊ,2
-Lewis,18,woof woof,wʊfwʊf,wːəwəβː,UK,wʊfwʊf,2
-Lewis,18,woof woof,wʊfwʊf,əwɜweʊ,UK,wʊfwʊf,2
+Lewis,18,woof woof,wʊf=wʊf,wːəwəβː,UK,wʊf=wʊf,2
+Lewis,18,woof woof,wʊf=wʊf,əwɜweʊ,UK,wʊf=wʊf,2
 Lewis,18,choo-choo,NA,ʉɸhʊː,UK,NA,NA
 Lewis,18,choo-choo,NA,fɪstɜː,UK,NA,NA
 Lewis,18,choo-choo,NA,ʃːʉstʷəːʊ,UK,NA,NA
@@ -647,7 +647,7 @@ Patrick,18,bath,bæθ,baʔɪ,UK,bæθ,1
 Patrick,18,bath,bæθ,baʔɪ,UK,bæθ,1
 Patrick,18,bee,bi:,wεbʷi:,UK,bi:,1
 Patrick,18,bee,bi:,bʷi:bʷi:,UK,bi:,1
-Patrick,18,beebies,bi:bI:z,bibəwi:,UK,bi:bI:z,2
+Patrick,18,beebies,bi:bi:z,bibəwi:,UK,bi:bi:z,2
 Patrick,18,book,bʊk,bəʷʊʔ,UK,bʊk,1
 Patrick,18,book,bʊk,buʔug,UK,bʊk,1
 Patrick,18,book,bʊk,bəʊ,UK,bʊk,1
@@ -732,23 +732,23 @@ Patrick,18,ow,ɒʊ,a:ʷəʊ,UK,ɒʊ,1
 Patrick,18,phone,foʊn,waʔʊn,UK,foʊn,1
 Patrick,18,phone,foʊn,waʔeʊn,UK,foʊn,1
 Patrick,18,phone,foʊn,wa:ʔəʊ,UK,foʊn,1
-Patrick,18,tractor,træktɔ:,dakga:h,UK,træktɔ:,2
-Patrick,18,tractor,træktɔ:,dæʔɪdə:,UK,træktɔ:,2
+Patrick,18,tractor,træk=tɔ:,dakga:h,UK,træk=tɔ:,2
+Patrick,18,tractor,træk=tɔ:,dæʔɪdə:,UK,træk=tɔ:,2
 Patrick,18,uh oh,ʌʔoʊ,ʌhʔɑ:əʊ,UK,ʌʔoʊ,2
 Patrick,18,uh oh,ʌʔoʊ,ɔʔəʊ:,UK,ʌʔoʊ,2
 Patrick,18,uh oh,ʌʔoʊ,ʌhʔəʊ:,UK,ʌʔoʊ,2
 Patrick,18,uh oh,ʌʔoʊ,ɔʔəʊ:,UK,ʌʔoʊ,2
 Patrick,18,uh oh,ʌʔoʊ,ʌhʔəʊ:,UK,ʌʔoʊ,2
-Patrick,18,water,wɒɾə,waʔwɔ:,UK,wɒɾə,2
-Patrick,18,water,wɒɾə,wɔʔwɑ:,UK,wɒɾə,2
-Patrick,18,water,wɒɾə,wɔwɔ:,UK,wɒɾə,2
-Patrick,18,water,wɒɾə,waβwɔ:,UK,wɒɾə,2
-Patrick,18,water,wɒɾə,waʔwɔ:,UK,wɒɾə,2
-Patrick,18,water,wɒɾə,waʔwɔ:,UK,wɒɾə,2
-Patrick,18,water,wɒɾə,wɔʔwɑ:,UK,wɒɾə,2
+Patrick,18,water,wɒtə,waʔwɔ:,UK,wɒtə,2
+Patrick,18,water,wɒtə,wɔʔwɑ:,UK,wɒtə,2
+Patrick,18,water,wɒtə,wɔwɔ:,UK,wɒtə,2
+Patrick,18,water,wɒtə,waβwɔ:,UK,wɒtə,2
+Patrick,18,water,wɒtə,waʔwɔ:,UK,wɒtə,2
+Patrick,18,water,wɒtə,waʔwɔ:,UK,wɒtə,2
+Patrick,18,water,wɒtə,wɔʔwɑ:,UK,wɒtə,2
 Patrick,18,wheel,wi:l,nwi əʊ:əʊ,UK,wi:l,1
 Patrick,18,wheel,wi:l,wi:jəʊ:,UK,wi:l,1
-Patrick,18,woof woof,wʊfwʊf,wʊʷuʔ,UK,wʊfwʊf,2
+Patrick,18,woof woof,wʊf=wʊf,wʊʷuʔ,UK,wʊf=wʊf,2
 Patrick,18,aah,NA,ɔ:ʔɪʷəʊ:,UK,NA,NA
 Patrick,18,quack quack,NA,aʔ ɪʔ aʔɪ,UK,NA,NA
 Patrick,18,quack quack,NA,ɪ εɢ ɪ a,UK,NA,NA
@@ -758,7 +758,7 @@ Patrick,18,squeak squeak,NA,mikəwi:,UK,NA,NA
 Rachel,17,all gone,NA,guːgɒː,UK,NA,NA
 Rachel,17,apple,NA,bɒpɔːʔəʃ,UK,NA,NA
 Rachel,17,away,NA,waːeɪθ,UK,NA,NA
-Rachel,17,baa baa black sheep,bɑbɑblækʄip,bɑːbajɪ,UK,bɑbɑblækʄip,4
+Rachel,17,baa baa black sheep,bɑbɑblæk=ʃip,bɑːbajɪ,UK,bɑbɑblæk=ʃip,4
 Rachel,17,baby,beibi,bəbiː,UK,beibi,2
 Rachel,17,baby,beibi,beɪbɪʔ,UK,beibi,2
 Rachel,17,baby,beibi,pəbɪː,UK,beibi,2
@@ -810,8 +810,8 @@ Rachel,17,duck,dʌk,ʊŋkəkx,UK,dʌk,1
 Rachel,17,duck,dʌk,kʊʔ  k,UK,dʌk,1
 Rachel,17,fish,NA,hɔːθː,UK,NA,NA
 Rachel,17,fish,NA,hɔwəts,UK,NA,NA
-Rachel,17,flowers,NA,əwɒːwəsːː,UK,NA,2
-Rachel,17,flowers,NA,ʊwəʊwaθ,UK,NA,2
+Rachel,17,flowers,flaʊ=əz,əwɒːwəsːː,UK,flaʊ=əz,2
+Rachel,17,flowers,flaʊ=əz,ʊwəʊwaθ,UK,flaʊ=əz,2
 Rachel,17,get you,NA,gɒɪjə,UK,NA,NA
 Rachel,17,go,goʊ,gəːʊ,UK,goʊ,1
 Rachel,17,go,goʊ,gaʊ,UK,goʊ,1
@@ -827,19 +827,19 @@ Rachel,17,miaow,NA,miːjaʊm,UK,NA,NA
 Rachel,17,Mummy,mami,əwɛwi,UK,mami,2
 Rachel,17,Mummy,mami,ɜmamːɪː,UK,mami,2
 Rachel,17,Mummy,mami,mɪəwɪ,UK,mami,2
-Rachel,17,night night,naɪtnaɪt,næːnʔ,UK,naɪtnaɪt,2
-Rachel,17,night night,naɪtnaɪt,naːː,UK,naɪtnaɪt,2
+Rachel,17,night night,naɪt=naɪt,næːnʔ,UK,naɪt=naɪt,2
+Rachel,17,night night,naɪt=naɪt,naːː,UK,naɪt=naɪt,2
 Rachel,17,noise,nɔɪz,nːɔɪθ,UK,nɔɪz,1
 Rachel,17,one two three,NA,əwɪː  ʊwɜː  tɜʔt,UK,NA,NA
 Rachel,17,piggy,NA,pəbeɪbɪ,UK,NA,NA
-Rachel,17,please,pll:z,bɪtːɪːʔ,UK,pll:z,1
-Rachel,17,please,pll:z,pɪθː,UK,pll:z,1
-Rachel,17,please,pll:z,meɪθ,UK,pll:z,1
-Rachel,17,please,pll:z,pɪːθ,UK,pll:z,1
-Rachel,17,please,pll:z,pɪs  pi,UK,pll:z,1
-Rachel,17,please,pll:z,peɪθ,UK,pll:z,1
-Rachel,17,quack quack,kwækkwæk,ɪwa  əwa,UK,kwækkwæk,2
-Rachel,17,quack quack,kwækkwæk,əwaʔʊwə,UK,kwækkwæk,2
+Rachel,17,please,pli:z,bɪtːɪːʔ,UK,pli:z,1
+Rachel,17,please,pli:z,pɪθː,UK,pli:z,1
+Rachel,17,please,pli:z,meɪθ,UK,pli:z,1
+Rachel,17,please,pli:z,pɪːθ,UK,pli:z,1
+Rachel,17,please,pli:z,pɪs  pi,UK,pli:z,1
+Rachel,17,please,pli:z,peɪθ,UK,pli:z,1
+Rachel,17,quack quack,kwækwæk,ɪwa  əwa,UK,kwækwæk,2
+Rachel,17,quack quack,kwækwæk,əwaʔʊwə,UK,kwækwæk,2
 Tobias,18,a-boo,əbu:,wɛbʷʊ,UK,əbu:,2
 Tobias,18,baa,bɑ:,bɒxː,UK,bɑ:,1
 Tobias,18,baa,bɑ:,bɒːx,UK,bɑ:,1
@@ -882,13 +882,13 @@ Tobias,18,eeyore,i:jɔ:,ijɔː,UK,i:jɔ:,2
 Tobias,18,eeyore,i:jɔ:,ɪʔɒʔɔʔ,UK,i:jɔ:,2
 Tobias,18,eeyore,i:jɔ:,wiːjʊ,UK,i:jɔ:,2
 Tobias,18,hippo,hɪpoʊ,hɒ  bɔwə,UK,hɪpoʊ,2
-Tobias,18,honk honk,hɔŋkhɔŋk,ŋːʊ  ŋʊ,UK,hɔŋkhɔŋk,2
-Tobias,18,honk honk,hɔŋkhɔŋk,ʊ  ɒ,UK,hɔŋkhɔŋk,2
-Tobias,18,honk honk,hɔŋkhɔŋk,ɒ  ʔəː,UK,hɔŋkhɔŋk,2
-Tobias,18,honk honk,hɔŋkhɔŋk,ɒː  ɒx,UK,hɔŋkhɔŋk,2
-Tobias,18,honk honk,hɔŋkhɔŋk,əʊɣ  ɜː,UK,hɔŋkhɔŋk,2
-Tobias,18,honk honk,hɔŋkhɔŋk,ɒ ɒ ɒ,UK,hɔŋkhɔŋk,2
-Tobias,18,honk honk,hɔŋkhɔŋk,ʔɒː,UK,hɔŋkhɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,ŋːʊ  ŋʊ,UK,hɔŋk=hɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,ʊ  ɒ,UK,hɔŋk=hɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,ɒ  ʔəː,UK,hɔŋk=hɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,ɒː  ɒx,UK,hɔŋk=hɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,əʊɣ  ɜː,UK,hɔŋk=hɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,ɒ ɒ ɒ,UK,hɔŋk=hɔŋk,2
+Tobias,18,honk honk,hɔŋk=hɔŋk,ʔɒː,UK,hɔŋk=hɔŋk,2
 Tobias,18,miaow,mjao,biːja,UK,mjao,1
 Tobias,18,miaow,mjao,biːjə,UK,mjao,1
 Tobias,18,miaow,mjao,biːjəː,UK,mjao,1
@@ -906,8 +906,8 @@ Tobias,18,miaow,mjao,biːjə,UK,mjao,1
 Tobias,18,miaow,mjao,biːjə,UK,mjao,1
 Tobias,18,miaow,mjao,biːjə,UK,mjao,1
 Tobias,18,miaow,mjao,biːjə,UK,mjao,1
-Tobias,18,monkey,mʌŋki,mːəmːi,UK,mʌŋki,2
-Tobias,18,monkey,mʌŋki,mːɔːwɪː,UK,mʌŋki,2
+Tobias,18,monkey,mʌŋ=ki,mːəmːi,UK,mʌŋ=ki,2
+Tobias,18,monkey,mʌŋ=ki,mːɔːwɪː,UK,mʌŋ=ki,2
 Tobias,18,moo,mu:,mːʊː,UK,mu:,1
 Tobias,18,moo,mu:,ɪmɪ̃ʊ̃ː,UK,mu:,1
 Tobias,18,moo,mu:,ɪ̃mɪ̃ʊ̃,UK,mu:,1
@@ -928,9 +928,9 @@ Tobias,18,quack quack,NA,ʔaʔ,UK,NA,NA
 Tobias,18,quack quack,NA,ʔəʔɒʔɒʔ,UK,NA,NA
 Tobias,18,quack quack,NA,ʔɒːʔʊʔ,UK,NA,NA
 Tobias,18,quack quack,NA,aːʔɒʔɴɒ̃ʔ,UK,NA,NA
-Tobias,18,ribbit ribbit,rɪbɪt,ʊwɛʔəwɛʔ,UK,rɪbɪt,2
-Tobias,18,ribbit ribbit,rɪbɪt,əwɛʔʊwɛʔ,UK,rɪbɪt,2
-Tobias,18,ribbit ribbit,rɪbɪt,əwɛʔɹɛʔ,UK,rɪbɪt,2
+Tobias,18,ribbit ribbit,ɹɪbɪt,ʊwɛʔəwɛʔ,UK,ɹɪbɪt,2
+Tobias,18,ribbit ribbit,ɹɪbɪt,əwɛʔʊwɛʔ,UK,ɹɪbɪt,2
+Tobias,18,ribbit ribbit,ɹɪbɪt,əwɛʔɹɛʔ,UK,ɹɪbɪt,2
 Tobias,18,snail,sneɪl,sː,UK,sneɪl,1
 Tobias,18,snail,sneɪl,əθːː,UK,sneɪl,1
 Tobias,18,snail,sneɪl,tsːːː,UK,sneɪl,1
@@ -962,44 +962,44 @@ Tobias,18,there,ðɛə,hədɛːʔɪ,UK,ðɛə,1
 Tobias,18,there,ðɛə,dɒɛː,UK,ðɛə,1
 Tobias,18,there,ðɛə,ɪdɛː,UK,ðɛə,1
 Tobias,18,tick tock,tɪktɔk,tiʔdɔʔ,UK,tɪktɔk,2
-Tobias,18,toot toot,tu:ttu:t,ʒʊ  ʒʊː,UK,tu:ttu:t,2
-Tobias,18,toot toot,tu:ttu:t,dʊ  dʊːɹɪ,UK,tu:ttu:t,2
-Tobias,18,toot toot,tu:ttu:t,tʊʔdʊwɪ,UK,tu:ttu:t,2
-Tobias,18,toot toot,tu:ttu:t,dʊʔtɒɪjə,UK,tu:ttu:t,2
+Tobias,18,toot toot,tu:tu:t,ʒʊ  ʒʊː,UK,tu:tu:t,2
+Tobias,18,toot toot,tu:tu:t,dʊ  dʊːɹɪ,UK,tu:tu:t,2
+Tobias,18,toot toot,tu:tu:t,tʊʔdʊwɪ,UK,tu:tu:t,2
+Tobias,18,toot toot,tu:tu:t,dʊʔtɒɪjə,UK,tu:tu:t,2
 Tobias,18,tortoise,tɔ:təs,bɒːdi,UK,tɔ:təs,2
 Tobias,18,what's that,NA,awɪdsaʔ,UK,NA,NA
 Tobias,18,what's that,NA,ɪzsaʔ,UK,NA,NA
 Tobias,18,what's that,NA,əzɪdɫzʲaʔ,UK,NA,NA
 Tobias,18,what's that,NA,ɪzʲaʔ,UK,NA,NA
 Tobias,18,what's that,NA,ɪzʲaːʔə,UK,NA,NA
-Tobias,18,woof woof,wufwuf,ʊ,UK,wufwuf,2
-Tobias,18,woof woof,wufwuf,ŋgʊ  ʊ,UK,wufwuf,2
-Tobias,18,woof woof,wufwuf,ɪʊ  ʊɸ,UK,wufwuf,2
-Tobias,18,woof woof,wufwuf,ə̃ ə̃ɸ,UK,wufwuf,2
+Tobias,18,woof woof,wuf=wuf,ʊ,UK,wuf=wuf,2
+Tobias,18,woof woof,wuf=wuf,ŋgʊ  ʊ,UK,wuf=wuf,2
+Tobias,18,woof woof,wuf=wuf,ɪʊ  ʊɸ,UK,wuf=wuf,2
+Tobias,18,woof woof,wuf=wuf,ə̃ ə̃ɸ,UK,wuf=wuf,2
 Tobias,18,eek eek,NA,bʷi  i,UK,NA,NA
 Tobias,18,hoo-hoo [owl noise],NA,ʊ  ʊːɸ,UK,NA,NA
-Atte,20,ääni,NA,æ:ni,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,äiti,NA,æiti,Finnish,NA,NA
-Atte,20,äiti,NA,æiti,Finnish,NA,NA
-Atte,20,äiti,NA,æiti,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,äiti,NA,æit:i,Finnish,NA,NA
-Atte,20,aja,NA,aj:a,Finnish,NA,NA
-Atte,20,aja,NA,aj:a,Finnish,NA,NA
+Atte,20,ääni,æ:ni,æ:ni,Finnish,æ:ni,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,äiti,æiti,æiti,Finnish,æiti,2
+Atte,20,äiti,æiti,æiti,Finnish,æiti,2
+Atte,20,äiti,æiti,æiti,Finnish,æiti,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,äiti,æiti,æit:i,Finnish,æiti,2
+Atte,20,aja,aja,aj:a,Finnish,aja,2
+Atte,20,aja,aja,aj:a,Finnish,aja,2
 Atte,20,api,NA,api,Finnish,NA,NA
 Atte,20,api,NA,api,Finnish,NA,NA
 Atte,20,api,NA,api,Finnish,NA,NA
 Atte,20,api,NA,api,Finnish,NA,NA
 Atte,20,api,NA,api,Finnish,NA,NA
-Atte,20,ankka,NA,ak:a,Finnish,NA,NA
-Atte,20,ankka,NA,ank:a,Finnish,NA,NA
-Atte,20,ankka,NA,aik:a,Finnish,NA,NA
-Atte,20,ankka,NA,ag:a,Finnish,NA,NA
+Atte,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Atte,20,ankka,aŋk:a,ank:a,Finnish,aŋk:a,2
+Atte,20,ankka,aŋk:a,aik:a,Finnish,aŋk:a,2
+Atte,20,ankka,aŋk:a,ag:a,Finnish,aŋk:a,2
 Atte,20,Atti,NA,at:i,Finnish,NA,NA
 Atte,20,Atti,NA,at,Finnish,NA,NA
 Atte,20,Atti,NA,at:i,Finnish,NA,NA
@@ -1010,92 +1010,92 @@ Atte,20,Atti,NA,at:i,Finnish,NA,NA
 Atte,20,Atti,NA,at:i,Finnish,NA,NA
 Atte,20,Atti,NA,at:i,Finnish,NA,NA
 Atte,20,Atti,NA,at:i,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,autoa,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,auto:,Finnish,NA,NA
-Atte,20,auto,NA,au,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,auto,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
-Atte,20,auto,NA,aut:o,Finnish,NA,NA
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,autoa,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,auto:,Finnish,auto,2
+Atte,20,auto,auto,au,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,auto,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
+Atte,20,auto,auto,aut:o,Finnish,auto,2
 Atte,20,naani,NA,nana,Finnish,NA,NA
-Atte,20,heppa,NA,ep:a,Finnish,NA,NA
-Atte,20,isi,NA,içi,Finnish,NA,NA
-Atte,20,isi,NA,aiçi,Finnish,NA,NA
-Atte,20,isi,NA,ihi,Finnish,NA,NA
-Atte,20,isi,NA,içi,Finnish,NA,NA
-Atte,20,isi,NA,içi,Finnish,NA,NA
-Atte,20,isi,NA,içi,Finnish,NA,NA
-Atte,20,isi,NA,içi,Finnish,NA,NA
-Atte,20,isi,NA,içi,Finnish,NA,NA
-Atte,20,kaksi,NA,tati,Finnish,NA,NA
-Atte,20,kala,NA,ala,Finnish,NA,NA
-Atte,20,kello,NA,el:o,Finnish,NA,NA
-Atte,20,kello,NA,ol:o,Finnish,NA,NA
-Atte,20,kello,NA,el:o,Finnish,NA,NA
-Atte,20,kippaa,NA,pip:a,Finnish,NA,NA
-Atte,20,kippaa,NA,bip:a,Finnish,NA,NA
-Atte,20,loppu,NA,op:u,Finnish,NA,NA
-Atte,20,loppu,NA,op:u,Finnish,NA,NA
-Atte,20,loppu,NA,op:u,Finnish,NA,NA
-Atte,20,loppu,NA,op:u,Finnish,NA,NA
-Atte,20,matto,NA,tat:o,Finnish,NA,NA
-Atte,20,matto,NA,atat:o:,Finnish,NA,NA
-Atte,20,matto,NA,tat:oa,Finnish,NA,NA
-Atte,20,matto,NA,tat:o,Finnish,NA,NA
-Atte,20,Minni,NA,nin:i,Finnish,NA,NA
-Atte,20,Minni,NA,nin:i,Finnish,NA,NA
-Atte,20,Minni,NA,nin:i,Finnish,NA,NA
-Atte,20,Minni,NA,nin:i,Finnish,NA,NA
-Atte,20,nalle,NA,al:e,Finnish,NA,NA
-Atte,20,nalle,NA,al:e,Finnish,NA,NA
-Atte,20,pallo,NA,al:o,Finnish,NA,NA
-Atte,20,pallo,NA,hal:o,Finnish,NA,NA
-Atte,20,pallo,NA,al:o,Finnish,NA,NA
-Atte,20,pappa,NA,pop:a,Finnish,NA,NA
-Atte,20,pappa,NA,apop:a,Finnish,NA,NA
-Atte,20,pupu,NA,pupu,Finnish,NA,NA
-Atte,20,ralliauto,NA,lu:liauto,Finnish,NA,NA
-Atte,20,ralliauto,NA,lu:liauto,Finnish,NA,NA
-Atte,20,sammui,NA,am:u.auto,Finnish,NA,NA
-Atte,20,sammui,NA,autum,Finnish,NA,NA
-Atte,20,sammui,NA,am:u,Finnish,NA,NA
-Atte,20,sammui,NA,am:u.auto,Finnish,NA,NA
-Atte,20,sammui,NA,am:u.auto,Finnish,NA,NA
-Atte,20,sammui,NA,autum,Finnish,NA,NA
-Atte,20,sammui,NA,autum,Finnish,NA,NA
-Atte,20,sammui,NA,am:u,Finnish,NA,NA
-Atte,20,sammui,NA,am:u.auto,Finnish,NA,NA
-Atte,20,sammui,NA,am:u.auto,Finnish,NA,NA
-Atte,20,sammui,NA,autum,Finnish,NA,NA
-Atte,20,sammui,NA,autum,Finnish,NA,NA
-Atte,20,tippui,NA,pip:u,Finnish,NA,NA
+Atte,20,heppa,hep:a,ep:a,Finnish,hep:a,2
+Atte,20,isi,isi,içi,Finnish,isi,2
+Atte,20,isi,isi,aiçi,Finnish,isi,2
+Atte,20,isi,isi,ihi,Finnish,isi,2
+Atte,20,isi,isi,içi,Finnish,isi,2
+Atte,20,isi,isi,içi,Finnish,isi,2
+Atte,20,isi,isi,içi,Finnish,isi,2
+Atte,20,isi,isi,içi,Finnish,isi,2
+Atte,20,isi,isi,içi,Finnish,isi,2
+Atte,20,kaksi,kaksi,tati,Finnish,kaksi,2
+Atte,20,kala,kala,ala,Finnish,kala,2
+Atte,20,kello,kel:o,el:o,Finnish,kel:o,2
+Atte,20,kello,kel:o,ol:o,Finnish,kel:o,2
+Atte,20,kello,kel:o,el:o,Finnish,kel:o,2
+Atte,20,kippaa,kip:a:,pip:a,Finnish,kip:a:,2
+Atte,20,kippaa,kip:a:,bip:a,Finnish,kip:a:,2
+Atte,20,loppu,lop:u,op:u,Finnish,lop:u,2
+Atte,20,loppu,lop:u,op:u,Finnish,lop:u,2
+Atte,20,loppu,lop:u,op:u,Finnish,lop:u,2
+Atte,20,loppu,lop:u,op:u,Finnish,lop:u,2
+Atte,20,matto,mat:o,tat:o,Finnish,mat:o,2
+Atte,20,matto,mat:o,atat:o:,Finnish,mat:o,2
+Atte,20,matto,mat:o,tat:oa,Finnish,mat:o,2
+Atte,20,matto,mat:o,tat:o,Finnish,mat:o,2
+Atte,20,Minni,min:i,nin:i,Finnish,min:i,2
+Atte,20,Minni,min:i,nin:i,Finnish,min:i,2
+Atte,20,Minni,min:i,nin:i,Finnish,min:i,2
+Atte,20,Minni,min:i,nin:i,Finnish,min:i,2
+Atte,20,nalle,nal:e,al:e,Finnish,nal:e,2
+Atte,20,nalle,nal:e,al:e,Finnish,nal:e,2
+Atte,20,pallo,pal:o,al:o,Finnish,pal:o,2
+Atte,20,pallo,pal:o,hal:o,Finnish,pal:o,2
+Atte,20,pallo,pal:o,al:o,Finnish,pal:o,2
+Atte,20,pappa,pap:a,pop:a,Finnish,pap:a,2
+Atte,20,pappa,pap:a,apop:a,Finnish,pap:a,2
+Atte,20,pupu,pupu,pupu,Finnish,pupu,2
+Atte,20,ralliauto,ral:iauto,lu:liauto,Finnish,ral:iauto,4
+Atte,20,ralliauto,ral:iauto,lu:liauto,Finnish,ral:iauto,4
+Atte,20,sammui,sam:ui,am:u.auto,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,autum,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,am:u,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,am:u.auto,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,am:u.auto,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,autum,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,autum,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,am:u,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,am:u.auto,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,am:u.auto,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,autum,Finnish,sam:ui,3
+Atte,20,sammui,sam:ui,autum,Finnish,sam:ui,3
+Atte,20,tippui,tip:ui,pip:u,Finnish,tip:ui,3
 Atte,20,trakto,NA,kak:o,Finnish,NA,NA
 Atte,20,trakto,NA,gak:oa,Finnish,NA,NA
 Atte,20,trakto,NA,kak:o,Finnish,NA,NA
@@ -1103,357 +1103,357 @@ Atte,20,trakto,NA,kak:o,Finnish,NA,NA
 Atte,20,trakto,NA,kak:o,Finnish,NA,NA
 Atte,20,trakto,NA,kak:o,Finnish,NA,NA
 Atte,20,trakto,NA,kak:o,Finnish,NA,NA
-Atte,20,ukko,NA,uk:o,Finnish,NA,NA
-Atte,20,ukko,NA,æk:o,Finnish,NA,NA
-Atte,20,ukko,NA,uk:on,Finnish,NA,NA
-Atte,20,ukko,NA,uk:o:,Finnish,NA,NA
-Atte,20,ukko,NA,auk:o,Finnish,NA,NA
-Atte,20,ukko,NA,uk:o,Finnish,NA,NA
-Atte,20,ukko,NA,uk:o,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a:,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a,Finnish,NA,NA
-Eelis,20,ankka,NA,ak:a,Finnish,NA,NA
-Eelis,20,anna,NA,an:a,Finnish,NA,NA
-Eelis,20,aukasta,NA,ak:a,Finnish,NA,NA
-Eelis,20,bää,NA,bo,Finnish,NA,NA
-Eelis,20,bää,NA,bo,Finnish,NA,NA
-Eelis,20,Eetu,NA,e:tu,Finnish,NA,NA
-Eelis,20,Eetu,NA,et:u,Finnish,NA,NA
-Eelis,20,Eetu,NA,e:tu,Finnish,NA,NA
-Eelis,20,ei,NA,ei,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:o,Finnish,NA,NA
-Eelis,20,heppa,NA,ep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,he:p:a:,Finnish,NA,NA
-Eelis,20,heppa,NA,he:p:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,hep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,ep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,ep:a,Finnish,NA,NA
-Eelis,20,heppa,NA,he:p:a,Finnish,NA,NA
-Eelis,20,Hippi,NA,ip:i:,Finnish,NA,NA
-Eelis,20,Hippi,NA,ip:i:,Finnish,NA,NA
-Eelis,20,Hippi,NA,ip:i:,Finnish,NA,NA
-Eelis,20,istuu,NA,it:u:,Finnish,NA,NA
-Eelis,20,istuu,NA,it:u,Finnish,NA,NA
-Eelis,20,istuu,NA,it:u:,Finnish,NA,NA
-Eelis,20,istuu,NA,it:u:,Finnish,NA,NA
-Eelis,20,istuu,NA,it:u,Finnish,NA,NA
-Eelis,20,itkee,NA,ik:e:,Finnish,NA,NA
-Eelis,20,kakka,NA,kak:a,Finnish,NA,NA
-Eelis,20,kakka,NA,kak:a,Finnish,NA,NA
-Eelis,20,kakka,NA,kak:a,Finnish,NA,NA
-Eelis,20,kakka,NA,kak:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,kik:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,gi:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:oa,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,ki:k:a,Finnish,NA,NA
-Eelis,20,kiikkaa,NA,gi:k:a,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki:,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki,Finnish,NA,NA
-Eelis,20,kiinni,NA,gi:,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki:,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki:,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki:,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki:,Finnish,NA,NA
-Eelis,20,kiinni,NA,ki:,Finnish,NA,NA
-Eelis,20,kiitos,NA,gi:,Finnish,NA,NA
-Eelis,20,kukka,NA,kak:a,Finnish,NA,NA
-Eelis,20,kukka,NA,kak:a:,Finnish,NA,NA
-Eelis,20,loppu,NA,çpu,Finnish,NA,NA
-Eelis,20,loppu,NA,op:u,Finnish,NA,NA
-Eelis,20,loppu,NA,çpu,Finnish,NA,NA
+Atte,20,ukko,uk:o,uk:o,Finnish,uk:o,2
+Atte,20,ukko,uk:o,æk:o,Finnish,uk:o,2
+Atte,20,ukko,uk:o,uk:on,Finnish,uk:o,2
+Atte,20,ukko,uk:o,uk:o:,Finnish,uk:o,2
+Atte,20,ukko,uk:o,auk:o,Finnish,uk:o,2
+Atte,20,ukko,uk:o,uk:o,Finnish,uk:o,2
+Atte,20,ukko,uk:o,uk:o,Finnish,uk:o,2
+Eelis,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Eelis,20,ankka,aŋk:a,ak:a:,Finnish,aŋk:a,2
+Eelis,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Eelis,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Eelis,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Eelis,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Eelis,20,ankka,aŋk:a,ak:a,Finnish,aŋk:a,2
+Eelis,20,anna,an:a,an:a,Finnish,an:a,2
+Eelis,20,aukasta,aukasta,ak:a,Finnish,aukasta,3
+Eelis,20,bää,bæ:,bo,Finnish,bæ:,1
+Eelis,20,bää,bæ:,bo,Finnish,bæ:,1
+Eelis,20,Eetu,e:tu,e:tu,Finnish,e:tu,2
+Eelis,20,Eetu,e:tu,et:u,Finnish,e:tu,2
+Eelis,20,Eetu,e:tu,e:tu,Finnish,e:tu,2
+Eelis,20,ei,ei,ei,Finnish,ei,1
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:o,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,ep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,he:p:a:,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,he:p:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,hep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,ep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,ep:a,Finnish,hep:a,2
+Eelis,20,heppa,hep:a,he:p:a,Finnish,hep:a,2
+Eelis,20,Hippi,hip:i,ip:i:,Finnish,hip:i,2
+Eelis,20,Hippi,hip:i,ip:i:,Finnish,hip:i,2
+Eelis,20,Hippi,hip:i,ip:i:,Finnish,hip:i,2
+Eelis,20,istuu,istu:,it:u:,Finnish,istu:,2
+Eelis,20,istuu,istu:,it:u,Finnish,istu:,2
+Eelis,20,istuu,istu:,it:u:,Finnish,istu:,2
+Eelis,20,istuu,istu:,it:u:,Finnish,istu:,2
+Eelis,20,istuu,istu:,it:u,Finnish,istu:,2
+Eelis,20,itkee,itke:,ik:e:,Finnish,itke:,2
+Eelis,20,kakka,kak:a,kak:a,Finnish,kak:a,2
+Eelis,20,kakka,kak:a,kak:a,Finnish,kak:a,2
+Eelis,20,kakka,kak:a,kak:a,Finnish,kak:a,2
+Eelis,20,kakka,kak:a,kak:a,Finnish,kak:a,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,kik:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,gi:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:oa,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,ki:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiikkaa,ki:k:a:,gi:k:a,Finnish,ki:k:a:,2
+Eelis,20,kiinni,ki:n:i,ki:,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,ki,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,gi:,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,ki:,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,ki:,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,ki:,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,ki:,Finnish,ki:n:i,2
+Eelis,20,kiinni,ki:n:i,ki:,Finnish,ki:n:i,2
+Eelis,20,kiitos,ki:tos,gi:,Finnish,ki:tos,2
+Eelis,20,kukka,kuk:a,kak:a,Finnish,kuk:a,2
+Eelis,20,kukka,kuk:a,kak:a:,Finnish,kuk:a,2
+Eelis,20,loppu,lop:u,çpu,Finnish,lop:u,2
+Eelis,20,loppu,lop:u,op:u,Finnish,lop:u,2
+Eelis,20,loppu,lop:u,çpu,Finnish,lop:u,2
 Eelis,20,makkara,NA,ak:a,Finnish,NA,NA
-Eelis,20,mamma,NA,mam:a,Finnish,NA,NA
-Eelis,20,mamma,NA,mum:u,Finnish,NA,NA
+Eelis,20,mamma,mam:a,mam:a,Finnish,mam:a,2
+Eelis,20,mamma,mam:a,mum:u,Finnish,mam:a,2
 Eelis,20,nappi,NA,ap:i,Finnish,NA,NA
-Eelis,20,noin,NA,noi,Finnish,NA,NA
-Eelis,20,noin,NA,noin,Finnish,NA,NA
-Eelis,20,noin,NA,noi,Finnish,NA,NA
-Eelis,20,noin,NA,noin,Finnish,NA,NA
-Eelis,20,omppu,NA,çpu,Finnish,NA,NA
-Eelis,20,omppu,NA,op:u,Finnish,NA,NA
-Eelis,20,pää,NA,po,Finnish,NA,NA
-Eelis,20,pappa,NA,bap:a,Finnish,NA,NA
-Eelis,20,pipi,NA,pip:i,Finnish,NA,NA
-Eelis,20,pipi,NA,pipi,Finnish,NA,NA
-Eelis,20,pipi,NA,pip:i,Finnish,NA,NA
-Eelis,20,pois,NA,boi,Finnish,NA,NA
-Eelis,20,pois,NA,poi,Finnish,NA,NA
-Eelis,20,pois,NA,boi,Finnish,NA,NA
-Eelis,20,pois,NA,boi,Finnish,NA,NA
-Eelis,20,pois,NA,boi,Finnish,NA,NA
-Eelis,20,pois,NA,boi,Finnish,NA,NA
-Eelis,20,pois,NA,boi,Finnish,NA,NA
-Eelis,20,pois,NA,poi,Finnish,NA,NA
-Eelis,20,poppa,NA,pçpa,Finnish,NA,NA
-Eelis,20,poppa,NA,popo,Finnish,NA,NA
-Eelis,20,puu,NA,pu:,Finnish,NA,NA
+Eelis,20,noin,noin,noi,Finnish,noin,1
+Eelis,20,noin,noin,noin,Finnish,noin,1
+Eelis,20,noin,noin,noi,Finnish,noin,1
+Eelis,20,noin,noin,noin,Finnish,noin,1
+Eelis,20,omppu,omp:u,çpu,Finnish,omp:u,2
+Eelis,20,omppu,omp:u,op:u,Finnish,omp:u,2
+Eelis,20,pää,pæ:,po,Finnish,pæ:,1
+Eelis,20,pappa,pap:a,bap:a,Finnish,pap:a,2
+Eelis,20,pipi,pipi,pip:i,Finnish,pipi,2
+Eelis,20,pipi,pipi,pipi,Finnish,pipi,2
+Eelis,20,pipi,pipi,pip:i,Finnish,pipi,2
+Eelis,20,pois,pois,boi,Finnish,pois,1
+Eelis,20,pois,pois,poi,Finnish,pois,1
+Eelis,20,pois,pois,boi,Finnish,pois,1
+Eelis,20,pois,pois,boi,Finnish,pois,1
+Eelis,20,pois,pois,boi,Finnish,pois,1
+Eelis,20,pois,pois,boi,Finnish,pois,1
+Eelis,20,pois,pois,boi,Finnish,pois,1
+Eelis,20,pois,pois,poi,Finnish,pois,1
+Eelis,20,poppa,pop:a,pçpa,Finnish,pop:a,2
+Eelis,20,poppa,pop:a,popo,Finnish,pop:a,2
+Eelis,20,puu,pu:,pu:,Finnish,pu:,1
 Eelis,20,räppäa,NA,opo,Finnish,NA,NA
-Eelis,20,rikki,NA,ik:i,Finnish,NA,NA
-Eelis,20,rikki,NA,ik:i,Finnish,NA,NA
-Eelis,20,suu,NA,u:,Finnish,NA,NA
-Eelis,20,suu,NA,u:,Finnish,NA,NA
-Eelis,20,suu,NA,u:,Finnish,NA,NA
-Eelis,20,tuo,NA,tu:,Finnish,NA,NA
-Eelis,20,tuo,NA,tu:,Finnish,NA,NA
-Eelis,20,tuu,NA,tu:,Finnish,NA,NA
-Eliisa,15,bää,NA,pää,Finnish,NA,NA
-Eliisa,15,bää,NA,pää,Finnish,NA,NA
-Eliisa,15,bää,NA,pää,Finnish,NA,NA
-Eliisa,15,"haloo, hallo",NA,a.o,Finnish,NA,NA
-Eliisa,15,"haloo, hallo",NA,a.o:,Finnish,NA,NA
-Eliisa,15,hauva,NA,hau.u,Finnish,NA,NA
-Eliisa,15,hauva,NA,ha.u,Finnish,NA,NA
-Eliisa,15,hauva,NA,hauvau,Finnish,NA,NA
-Eliisa,15,hauva,NA,aua,Finnish,NA,NA
-Eliisa,15,hauva,NA,aua:,Finnish,NA,NA
-Eliisa,15,hauva,NA,au,Finnish,NA,NA
-Eliisa,15,hauva,NA,hau:,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,ihi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,isi,NA,içi,Finnish,NA,NA
-Eliisa,15,istu,NA,it:u,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:hto,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:sto,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:stu,Finnish,NA,NA
-Eliisa,15,juusto,NA,u:sto,Finnish,NA,NA
-Eliisa,15,kakalla,NA,kaka,Finnish,NA,NA
-Eliisa,15,kakalla,NA,kaka,Finnish,NA,NA
+Eelis,20,rikki,NA,ik:i,Finnish,NA,2
+Eelis,20,rikki,NA,ik:i,Finnish,NA,2
+Eelis,20,suu,su:,u:,Finnish,su:,1
+Eelis,20,suu,su:,u:,Finnish,su:,1
+Eelis,20,suu,su:,u:,Finnish,su:,1
+Eelis,20,tuo,tuo,tu:,Finnish,tuo,1
+Eelis,20,tuo,tuo,tu:,Finnish,tuo,1
+Eelis,20,tuu,tu:,tu:,Finnish,tu:,1
+Eliisa,15,bää,bæ:,pää,Finnish,bæ:,1
+Eliisa,15,bää,bæ:,pää,Finnish,bæ:,1
+Eliisa,15,bää,bæ:,pää,Finnish,bæ:,1
+Eliisa,15,"haloo, hallo",hal:o:,a.o,Finnish,hal:o:,2
+Eliisa,15,"haloo, hallo",hal:o:,a.o:,Finnish,hal:o:,2
+Eliisa,15,hauva,hauʋa,hau.u,Finnish,hauʋa,2
+Eliisa,15,hauva,hauʋa,ha.u,Finnish,hauʋa,2
+Eliisa,15,hauva,hauʋa,hauvau,Finnish,hauʋa,2
+Eliisa,15,hauva,hauʋa,aua,Finnish,hauʋa,2
+Eliisa,15,hauva,hauʋa,aua:,Finnish,hauʋa,2
+Eliisa,15,hauva,hauʋa,au,Finnish,hauʋa,2
+Eliisa,15,hauva,hauʋa,hau:,Finnish,hauʋa,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,ihi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,isi,isi,içi,Finnish,isi,2
+Eliisa,15,istu,istu,it:u,Finnish,istu,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:hto,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:sto,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:stu,Finnish,ju:sto,2
+Eliisa,15,juusto,ju:sto,u:sto,Finnish,ju:sto,2
+Eliisa,15,kakalla,kakal:a,kaka,Finnish,kakal:a,3
+Eliisa,15,kakalla,kakal:a,kaka,Finnish,kakal:a,3
 Eliisa,15,kakku,NA,kak:o,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:k:u,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:ku,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:k:o,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:k:u,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:k:u,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:k:u,Finnish,NA,NA
-Eliisa,15,kiikkuu,NA,ki:k:u,Finnish,NA,NA
-Eliisa,15,kirja,NA,ki:a,Finnish,NA,NA
-Eliisa,15,kirja,NA,ki:,Finnish,NA,NA
-Eliisa,15,kirja,NA,ki:a,Finnish,NA,NA
-Eliisa,15,kissa,NA,iç:a,Finnish,NA,NA
-Eliisa,15,kissa,NA,iç:i,Finnish,NA,NA
-Eliisa,15,kissa,NA,iç:a,Finnish,NA,NA
-Eliisa,15,kissa,NA,iç:a,Finnish,NA,NA
-Eliisa,15,kissa,NA,iç:a,Finnish,NA,NA
-Eliisa,15,kukka,NA,kuk:a,Finnish,NA,NA
-Eliisa,15,kukkia,NA,kuk:ia,Finnish,NA,NA
-Eliisa,15,kukkia,NA,kuk:ia,Finnish,NA,NA
+Eliisa,15,kiikkuu,ki:k:u:,ki:k:u,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:ku,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:k:o,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:k:u,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:k:u,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:k:u,Finnish,ki:k:u:,2
+Eliisa,15,kiikkuu,ki:k:u:,ki:k:u,Finnish,ki:k:u:,2
+Eliisa,15,kirja,kirja,ki:a,Finnish,kirja,2
+Eliisa,15,kirja,kirja,ki:,Finnish,kirja,2
+Eliisa,15,kirja,kirja,ki:a,Finnish,kirja,2
+Eliisa,15,kissa,kis:a,iç:a,Finnish,kis:a,2
+Eliisa,15,kissa,kis:a,iç:i,Finnish,kis:a,2
+Eliisa,15,kissa,kis:a,iç:a,Finnish,kis:a,2
+Eliisa,15,kissa,kis:a,iç:a,Finnish,kis:a,2
+Eliisa,15,kissa,kis:a,iç:a,Finnish,kis:a,2
+Eliisa,15,kukka,kuk:a,kuk:a,Finnish,kuk:a,2
+Eliisa,15,kukkia,kuk:ia,kuk:ia,Finnish,kuk:ia,3
+Eliisa,15,kukkia,kuk:ia,kuk:ia,Finnish,kuk:ia,3
 Eliisa,15,litu,NA,titu,Finnish,NA,NA
 Eliisa,15,litu,NA,tito,Finnish,NA,NA
 Eliisa,15,litu,NA,tito,Finnish,NA,NA
 Eliisa,15,litu,NA,titu,Finnish,NA,NA
 Eliisa,15,litu,NA,titu,Finnish,NA,NA
 Eliisa,15,litu,NA,titu,Finnish,NA,NA
-Eliisa,15,mummu /muumu,NA,mum:u,Finnish,NA,NA
-Eliisa,15,mummu /muumu,NA,mçm,Finnish,NA,NA
-Eliisa,15,mummu /muumu,NA,mu:mu,Finnish,NA,NA
-Eliisa,15,mummu /muumu,NA,muumu,Finnish,NA,NA
-Eliisa,15,muumi,NA,mu:i,Finnish,NA,NA
-Eliisa,15,muumi,NA,mu:i,Finnish,NA,NA
-Eliisa,15,nukke,NA,kuk:e,Finnish,NA,NA
-Eliisa,15,nukke,NA,kuk:e,Finnish,NA,NA
-Eliisa,15,nukkuu,NA,kuk:u,Finnish,NA,NA
-Eliisa,15,nukkuu,NA,kuk:u:,Finnish,NA,NA
-Eliisa,15,oho,NA,oho,Finnish,NA,NA
-Eliisa,15,oho,NA,uhu,Finnish,NA,NA
-Eliisa,15,oho,NA,oho,Finnish,NA,NA
-Eliisa,15,oho,NA,oho,Finnish,NA,NA
-Eliisa,15,pallo,NA,pap:u,Finnish,NA,NA
-Eliisa,15,pallo,NA,pap:u,Finnish,NA,NA
-Eliisa,15,paperi,NA,pape,Finnish,NA,NA
-Eliisa,15,paperi,NA,papa,Finnish,NA,NA
-Eliisa,15,paperi,NA,papa,Finnish,NA,NA
-Eliisa,15,pappa,NA,pap:a,Finnish,NA,NA
-Eliisa,15,pappa,NA,pap:a,Finnish,NA,NA
-Eliisa,15,pappa,NA,pap:a,Finnish,NA,NA
-Eliisa,15,pappa,NA,pap:a,Finnish,NA,NA
-Eliisa,15,piiloon,NA,i.o:,Finnish,NA,NA
-Eliisa,15,pomppi,NA,pop:i,Finnish,NA,NA
-Eliisa,15,pomppi,NA,pop:i:,Finnish,NA,NA
-Eliisa,15,pupu,NA,pupo,Finnish,NA,NA
-Eliisa,15,pupu,NA,pupu,Finnish,NA,NA
-Eliisa,15,pupu,NA,pupo,Finnish,NA,NA
-Eliisa,15,rikki,NA,kik:i,Finnish,NA,NA
-Eliisa,15,"tippu, tippuu",NA,pip:u,Finnish,NA,NA
-Eliisa,15,"tippu, tippuu",NA,pip:u,Finnish,NA,NA
-Eliisa,15,tuo,NA,tuo,Finnish,NA,NA
-Eliisa,15,tuo,NA,tu:,Finnish,NA,NA
-Eliisa,15,tuo,NA,tu,Finnish,NA,NA
-Eliisa,15,tuo,NA,tuo,Finnish,NA,NA
-Eliisa,15,tuo,NA,tuo,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,t:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,tyttö,NA,tyt:o,Finnish,NA,NA
-Eliisa,15,vettä,NA,tito,Finnish,NA,NA
+Eliisa,15,mummu /muumu,"mum:u, mu:mu",mum:u,Finnish,"mum:u, mu:mu",2
+Eliisa,15,mummu /muumu,"mum:u, mu:mu",mçm,Finnish,"mum:u, mu:mu",2
+Eliisa,15,mummu /muumu,"mum:u, mu:mu",mu:mu,Finnish,"mum:u, mu:mu",2
+Eliisa,15,mummu /muumu,"mum:u, mu:mu",muumu,Finnish,"mum:u, mu:mu",2
+Eliisa,15,muumi,mu:mi,mu:i,Finnish,mu:mi,2
+Eliisa,15,muumi,mu:mi,mu:i,Finnish,mu:mi,2
+Eliisa,15,nukke,nuk:e,kuk:e,Finnish,nuk:e,2
+Eliisa,15,nukke,nuk:e,kuk:e,Finnish,nuk:e,2
+Eliisa,15,nukkuu,nuk:u:,kuk:u,Finnish,nuk:u:,2
+Eliisa,15,nukkuu,nuk:u:,kuk:u:,Finnish,nuk:u:,2
+Eliisa,15,oho,oho,oho,Finnish,oho,2
+Eliisa,15,oho,oho,uhu,Finnish,oho,2
+Eliisa,15,oho,oho,oho,Finnish,oho,2
+Eliisa,15,oho,oho,oho,Finnish,oho,2
+Eliisa,15,pallo,pal:o,pap:u,Finnish,pal:o,2
+Eliisa,15,pallo,pal:o,pap:u,Finnish,pal:o,2
+Eliisa,15,paperi,paperi,pape,Finnish,paperi,3
+Eliisa,15,paperi,paperi,papa,Finnish,paperi,3
+Eliisa,15,paperi,paperi,papa,Finnish,paperi,3
+Eliisa,15,pappa,pap:a,pap:a,Finnish,pap:a,2
+Eliisa,15,pappa,pap:a,pap:a,Finnish,pap:a,2
+Eliisa,15,pappa,pap:a,pap:a,Finnish,pap:a,2
+Eliisa,15,pappa,pap:a,pap:a,Finnish,pap:a,2
+Eliisa,15,piiloon,pi:lo:n,i.o:,Finnish,pi:lo:n,2
+Eliisa,15,pomppi,pomp:i,pop:i,Finnish,pomp:i,2
+Eliisa,15,pomppi,pomp:i,pop:i:,Finnish,pomp:i,2
+Eliisa,15,pupu,pupu,pupo,Finnish,pupu,2
+Eliisa,15,pupu,pupu,pupu,Finnish,pupu,2
+Eliisa,15,pupu,pupu,pupo,Finnish,pupu,2
+Eliisa,15,rikki,rikk:i,kik:i,Finnish,rikk:i,2
+Eliisa,15,"tippu, tippuu","tip:u, tip:u:",pip:u,Finnish,"tip:u, tip:u:",2
+Eliisa,15,"tippu, tippuu","tip:u, tip:u:",pip:u,Finnish,"tip:u, tip:u:",2
+Eliisa,15,tuo,tuo,tuo,Finnish,tuo,1
+Eliisa,15,tuo,tuo,tu:,Finnish,tuo,1
+Eliisa,15,tuo,tuo,tu,Finnish,tuo,1
+Eliisa,15,tuo,tuo,tuo,Finnish,tuo,1
+Eliisa,15,tuo,tuo,tuo,Finnish,tuo,1
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,t:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Eliisa,15,vettä,vet:æ,tito,Finnish,vet:æ,2
 Eliisa,15,ihaha,NA,ih:a,Finnish,NA,NA
 Eliisa,15,ihaha,NA,ih:aha,Finnish,NA,NA
 Eliisa,15,ihaha,NA,ihaha,Finnish,NA,NA
-Mira,17,ei,NA,ei,Finnish,NA,NA
-Mira,17,ei,NA,ei,Finnish,NA,NA
-Mira,17,häntä,NA,nen:æ,Finnish,NA,NA
-Mira,17,häntä,NA,nen:æ,Finnish,NA,NA
-Mira,17,häntä,NA,nen:æ,Finnish,NA,NA
-Mira,17,jalka,NA,gala,Finnish,NA,NA
-Mira,17,jalka,NA,lala,Finnish,NA,NA
-Mira,17,juna,NA,nuna,Finnish,NA,NA
-Mira,17,juustoa,NA,tut:oa,Finnish,NA,NA
-Mira,17,kaataa,NA,ka:ta,Finnish,NA,NA
-Mira,17,kaataa,NA,ka:ka,Finnish,NA,NA
-Mira,17,kala,NA,ʎaʎa,Finnish,NA,NA
-Mira,17,kala,NA,kata,Finnish,NA,NA
-Mira,17,kenkä,NA,nenæ,Finnish,NA,NA
-Mira,17,kenkä,NA,nenæ,Finnish,NA,NA
-Mira,17,kukka,NA,kak:ʰa,Finnish,NA,NA
-Mira,17,kuu,NA,ku:,Finnish,NA,NA
-Mira,17,lintu,NA,tito,Finnish,NA,NA
-Mira,17,loppu,NA,pop:u,Finnish,NA,NA
-Mira,17,luumu,NA,mu:mu,Finnish,NA,NA
-Mira,17,luumu,NA,mum:u,Finnish,NA,NA
-Mira,17,miao,NA,au:,Finnish,NA,NA
-Mira,17,miao,NA,au,Finnish,NA,NA
-Mira,17,miao,NA,au:,Finnish,NA,NA
-Mira,17,miao,NA,au,Finnish,NA,NA
-Mira,17,mummu,NA,mum:u,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mama,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a:,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,Muumi/Moomin,NA,mam:a,Finnish,NA,NA
-Mira,17,[Muumi]pappa,NA,pap:a,Finnish,NA,NA
-Mira,17,Myy,Myy,mʉ:,Finnish,Myy,NA
-Mira,17,nalle,NA,ʎaʎ:a,Finnish,NA,NA
-Mira,17,napa,NA,papa,Finnish,NA,NA
-Mira,17,napa,NA,papa,Finnish,NA,NA
-Mira,17,nenä,NA,nenæ,Finnish,NA,NA
-Mira,17,paapaa,NA,pa:pa:,Finnish,NA,NA
-Mira,17,pelle,NA,pel:oe,Finnish,NA,NA
-Mira,17,piiloon,NA,pi:lo,Finnish,NA,NA
-Mira,17,setä,NA,tetæ,Finnish,NA,NA
-Mira,17,täällä,NA,æ:læ,Finnish,NA,NA
-Mira,17,tonttu,NA,təto,Finnish,NA,NA
-Mira,17,tonttu,NA,tyto,Finnish,NA,NA
-Mira,17,tonttu,NA,təto,Finnish,NA,NA
-Mira,17,tyttö,NA,tyt:o,Finnish,NA,NA
-Mira,17,tyttö,NA,tit:o,Finnish,NA,NA
-Mira,17,tyttö,NA,tʉ:o,Finnish,NA,NA
-Mira,17,tyttö,NA,tyt:o,Finnish,NA,NA
-Mira,17,tyyny,NA,ny:ny,Finnish,NA,NA
-Mira,17,tyyny,NA,nʉ:n,Finnish,NA,NA
+Mira,17,ei,ei,ei,Finnish,ei,1
+Mira,17,ei,ei,ei,Finnish,ei,1
+Mira,17,häntä,hæntɛ,nen:æ,Finnish,hæntɛ,2
+Mira,17,häntä,hæntɛ,nen:æ,Finnish,hæntɛ,2
+Mira,17,häntä,hæntɛ,nen:æ,Finnish,hæntɛ,2
+Mira,17,jalka,jalka,gala,Finnish,jalka,2
+Mira,17,jalka,jalka,lala,Finnish,jalka,2
+Mira,17,juna,juna,nuna,Finnish,juna,2
+Mira,17,juustoa,ju:stoa,tut:oa,Finnish,ju:stoa,3
+Mira,17,kaataa,ka:ta:,ka:ta,Finnish,ka:ta:,2
+Mira,17,kaataa,ka:ta:,ka:ka,Finnish,ka:ta:,2
+Mira,17,kala,kala,ʎaʎa,Finnish,kala,2
+Mira,17,kala,kala,kata,Finnish,kala,2
+Mira,17,kenkä,kenkæ,nenæ,Finnish,kenkæ,2
+Mira,17,kenkä,kenkæ,nenæ,Finnish,kenkæ,2
+Mira,17,kukka,kuk:a,kak:ʰa,Finnish,kuk:a,2
+Mira,17,kuu,ku:,ku:,Finnish,ku:,1
+Mira,17,lintu,lintu,tito,Finnish,lintu,2
+Mira,17,loppu,lop:u,pop:u,Finnish,lop:u,2
+Mira,17,luumu,lu:mu,mu:mu,Finnish,lu:mu,2
+Mira,17,luumu,lu:mu,mum:u,Finnish,lu:mu,2
+Mira,17,miao,miao,au:,Finnish,miao,1
+Mira,17,miao,miao,au,Finnish,miao,1
+Mira,17,miao,miao,au:,Finnish,miao,1
+Mira,17,miao,miao,au,Finnish,miao,1
+Mira,17,mummu,mum:u,mum:u,Finnish,mum:u,2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mama,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a:,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,Muumi/Moomin,"mu:mi, mo:min",mam:a,Finnish,"mu:mi, mo:min",2
+Mira,17,[Muumi]pappa,mu:mipap:a,pap:a,Finnish,mu:mipap:a,4
+Mira,17,Myy,mü:,mʉ:,Finnish,mü:,1
+Mira,17,nalle,nal:e,ʎaʎ:a,Finnish,nal:e,2
+Mira,17,napa,napa,papa,Finnish,napa,2
+Mira,17,napa,napa,papa,Finnish,napa,2
+Mira,17,nenä,nenæ,nenæ,Finnish,nenæ,2
+Mira,17,paapaa,pa:pa:,pa:pa:,Finnish,pa:pa:,2
+Mira,17,pelle,pel:e,pel:oe,Finnish,pel:e,2
+Mira,17,piiloon,pi:lo:n,pi:lo,Finnish,pi:lo:n,2
+Mira,17,setä,setæ,tetæ,Finnish,setæ,2
+Mira,17,täällä,tæ:l:æ,æ:læ,Finnish,tæ:l:æ,2
+Mira,17,tonttu,tont:u,təto,Finnish,tont:u,2
+Mira,17,tonttu,tont:u,tyto,Finnish,tont:u,2
+Mira,17,tonttu,tont:u,təto,Finnish,tont:u,2
+Mira,17,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Mira,17,tyttö,tüt:ö,tit:o,Finnish,tüt:ö,2
+Mira,17,tyttö,tüt:ö,tʉ:o,Finnish,tüt:ö,2
+Mira,17,tyttö,tüt:ö,tyt:o,Finnish,tüt:ö,2
+Mira,17,tyyny,tü:nü,ny:ny,Finnish,tü:nü,2
+Mira,17,tyyny,tü:nü,nʉ:n,Finnish,tü:nü,2
 Sini,15,yhtään,NA,yt:æ:,Finnish,NA,NA
-Sini,15,ei,NA,ei,Finnish,NA,NA
-Sini,15,ei ole,NA,eio,Finnish,NA,NA
-Sini,15,ei ole,NA,eio:,Finnish,NA,NA
-Sini,15,heihei,NA,ei.ei,Finnish,NA,NA
-Sini,15,heppa,NA,ep:a,Finnish,NA,NA
-Sini,15,istuu,NA,it:u:,Finnish,NA,NA
+Sini,15,ei,ei,ei,Finnish,ei,1
+Sini,15,ei ole,ei ole,eio,Finnish,ei ole,3
+Sini,15,ei ole,ei ole,eio:,Finnish,ei ole,3
+Sini,15,heihei,heihei,ei.ei,Finnish,heihei,2
+Sini,15,heppa,hep:a,ep:a,Finnish,hep:a,2
+Sini,15,istuu,istu:,it:u:,Finnish,istu:,2
 Sini,15,jugurtti,NA,uku,Finnish,NA,NA
-Sini,15,juna,NA,u.a,Finnish,NA,NA
+Sini,15,juna,juna,u.a,Finnish,juna,2
 Sini,15,kakku,NA,kak:a,Finnish,NA,NA
-Sini,15,kiikkaa,NA,ki:k:a:,Finnish,NA,NA
-Sini,15,kiikkaa,NA,ki:k:u:,Finnish,NA,NA
-Sini,15,kiikkaa,NA,kik:a:,Finnish,NA,NA
-Sini,15,kirahvi,NA,ki:.a,Finnish,NA,NA
-Sini,15,kirahvi,NA,ki.a,Finnish,NA,NA
-Sini,15,kirja,NA,ki:a,Finnish,NA,NA
-Sini,15,kirja,NA,ki:,Finnish,NA,NA
-Sini,15,korkki,NA,kok:i,Finnish,NA,NA
-Sini,15,korkki,NA,ko:k:i,Finnish,NA,NA
-Sini,15,korkki,NA,ku:k:i,Finnish,NA,NA
+Sini,15,kiikkaa,kik:a:,ki:k:a:,Finnish,kik:a:,2
+Sini,15,kiikkaa,kik:a:,ki:k:u:,Finnish,kik:a:,2
+Sini,15,kiikkaa,kik:a:,kik:a:,Finnish,kik:a:,2
+Sini,15,kirahvi,kirahvi,ki:.a,Finnish,kirahvi,3
+Sini,15,kirahvi,kirahvi,ki.a,Finnish,kirahvi,3
+Sini,15,kirja,kirja,ki:a,Finnish,kirja,2
+Sini,15,kirja,kirja,ki:,Finnish,kirja,2
+Sini,15,korkki,kork:i,kok:i,Finnish,kork:i,2
+Sini,15,korkki,kork:i,ko:k:i,Finnish,kork:i,2
+Sini,15,korkki,kork:i,ku:k:i,Finnish,kork:i,2
 Sini,15,korva,NA,ko:a,Finnish,NA,NA
 Sini,15,koti,NA,koki,Finnish,NA,NA
-Sini,15,kukka,NA,kuk:a,Finnish,NA,NA
+Sini,15,kukka,kuk:a,kuk:a,Finnish,kuk:a,2
 Sini,15,kuppi,NA,kuk:i,Finnish,NA,NA
-Sini,15,kynä,NA,ku.a,Finnish,NA,NA
+Sini,15,kynä,künæ,ku.a,Finnish,künæ,2
 Sini,15,laukku,NA,auk:u,Finnish,NA,NA
 Sini,15,leipä,NA,eipæ,Finnish,NA,NA
-Sini,15,loppu,NA,op:u,Finnish,NA,NA
-Sini,15,loppu,NA,ap:u,Finnish,NA,NA
-Sini,15,loppu,NA,top:u,Finnish,NA,NA
-Sini,15,loppu,NA,pop:u,Finnish,NA,NA
-Sini,15,loppu,NA,ep:u,Finnish,NA,NA
-Sini,15,lusikka,NA,uk:a,Finnish,NA,NA
+Sini,15,loppu,lop:u,op:u,Finnish,lop:u,2
+Sini,15,loppu,lop:u,ap:u,Finnish,lop:u,2
+Sini,15,loppu,lop:u,top:u,Finnish,lop:u,2
+Sini,15,loppu,lop:u,pop:u,Finnish,lop:u,2
+Sini,15,loppu,lop:u,ep:u,Finnish,lop:u,2
+Sini,15,lusikka,lusik:a,uk:a,Finnish,lusik:a,3
 Sini,15,minun,NA,mi.u,Finnish,NA,NA
-Sini,15,mummi,NA,m:i,Finnish,NA,NA
+Sini,15,mummi,mum:i,m:i,Finnish,mum:i,2
 Sini,15,nami,NA,ami,Finnish,NA,NA
-Sini,15,napa,NA,apa,Finnish,NA,NA
-Sini,15,nappi,NA,pap:i,Finnish,NA,NA
-Sini,15,nappi,NA,pa:pi,Finnish,NA,NA
-Sini,15,nappi,NA,ap:i,Finnish,NA,NA
-Sini,15,oppista,NA,op:i,Finnish,NA,NA
-Sini,15,pallo,NA,pa:,Finnish,NA,NA
-Sini,15,pallo,NA,bal:o,Finnish,NA,NA
-Sini,15,pallo,NA,pa:.o,Finnish,NA,NA
+Sini,15,napa,napa,apa,Finnish,napa,2
+Sini,15,nappi,nap:i,pap:i,Finnish,nap:i,2
+Sini,15,nappi,nap:i,pa:pi,Finnish,nap:i,2
+Sini,15,nappi,nap:i,ap:i,Finnish,nap:i,2
+Sini,15,oppista,op:ista,op:i,Finnish,op:ista,3
+Sini,15,pallo,pal:o,pa:,Finnish,pal:o,2
+Sini,15,pallo,pal:o,bal:o,Finnish,pal:o,2
+Sini,15,pallo,pal:o,pa:.o,Finnish,pal:o,2
 Sini,15,paperi,NA,papi,Finnish,NA,NA
 Sini,15,piilo,NA,pi:.o,Finnish,NA,NA
-Sini,15,pois,NA,poiç,Finnish,NA,NA
-Sini,15,pupu,NA,pupu,Finnish,NA,NA
-Sini,15,pupu,NA,pəpə,Finnish,NA,NA
-Sini,15,puu,NA,pu:,Finnish,NA,NA
+Sini,15,pois,pois,poiç,Finnish,pois,1
+Sini,15,pupu,pupu,pupu,Finnish,pupu,2
+Sini,15,pupu,pupu,pəpə,Finnish,pupu,2
+Sini,15,puu,pu:,pu:,Finnish,pu:,1
 Sini,15,puuro,NA,pu:.o,Finnish,NA,NA
 Sini,15,pyörä,NA,pu:.æ,Finnish,NA,NA
-Sini,15,rikki,NA,kik:i,Finnish,NA,NA
-Sini,15,rikki,NA,ik:i,Finnish,NA,NA
-Sini,15,roska,NA,ok:a,Finnish,NA,NA
+Sini,15,rikki,rik:i,kik:i,Finnish,rik:i,2
+Sini,15,rikki,rik:i,ik:i,Finnish,rik:i,2
+Sini,15,roska,roska,ok:a,Finnish,roska,2
 Sini,15,sakset,NA,kak:i,Finnish,NA,NA
 Sini,15,setä,NA,tetæ,Finnish,NA,NA
 Sini,15,suklaa,NA,uk:a,Finnish,NA,NA
 Sini,15,tässä,NA,tæ,Finnish,NA,NA
-Sini,15,täti,NA,tæti,Finnish,NA,NA
-Sini,15,tipahti,NA,pipa,Finnish,NA,NA
-Sini,15,tutti,NA,tut:i,Finnish,NA,NA
-Sini,15,tyttö,NA,tut:o,Finnish,NA,NA
-Sini,15,tyttö,NA,tut:o,Finnish,NA,NA
-Sini,15,tyttö,NA,tut:o,Finnish,NA,NA
-Sini,15,ukki,NA,uk:i,Finnish,NA,NA
-Sini,15,vettä,NA,et:æ,Finnish,NA,NA
+Sini,15,täti,tæti,tæti,Finnish,tæti,2
+Sini,15,tipahti,tipahti,pipa,Finnish,tipahti,3
+Sini,15,tutti,tut:i,tut:i,Finnish,tut:i,2
+Sini,15,tyttö,tüt:ö,tut:o,Finnish,tüt:ö,2
+Sini,15,tyttö,tüt:ö,tut:o,Finnish,tüt:ö,2
+Sini,15,tyttö,tüt:ö,tut:o,Finnish,tüt:ö,2
+Sini,15,ukki,uk:i,uk:i,Finnish,uk:i,2
+Sini,15,vettä,vet:æ,et:æ,Finnish,vet:æ,2
 Sini,15,viili,NA,i:.i,Finnish,NA,NA
 Sini,15,hauhau,NA,au.au,Finnish,NA,NA
 Sini,15,kvaak-kvaak,NA,ka:k-ka:k,Finnish,NA,NA
@@ -2374,81 +2374,81 @@ Shazim,25,yay maon hai,je: mao he:,i: məu,Urdu,NA,NA
 Shazim,25,AUNTI nay diya hai,a:nti ne dija he:,a:t:i ne da: e,Urdu,NA,NA
 Shazim,25,MAMA ko ai ho gaye,mama ko a:i ho gəi,m:amə ai:,Urdu,NA,NA
 Shazim,25,MAMA ko ai ho gaye,mama ko a:i ho gəi,m:ama: a:i,Urdu,NA,NA
-Basile,20,ah,NA,a,French,NA,NA
-Basile,20,ah,NA,a,French,NA,NA
-Basile,20,badaboum,NA,pu ba,French,NA,NA
+Basile,20,ah,a,a,French,a,1
+Basile,20,ah,a,a,French,a,1
+Basile,20,badaboum,badabum,pu ba,French,badabum,3
 Basile,20,balayer,NA,pəele,French,NA,NA
-Basile,20,barbe à papa,NA,baba,French,NA,NA
-Basile,20,barbe à papa,NA,maba baba,French,NA,NA
-Basile,20,barbe à papa,NA,bamba a,French,NA,NA
-Basile,20,barbe à papa,NA,papa,French,NA,NA
-Basile,20,barbe à papa,NA,maba,French,NA,NA
-Basile,20,barbe à papa,NA,papa,French,NA,NA
-Basile,20,barbe à papa,NA,baba,French,NA,NA
-Basile,20,barbe à papa,NA,baba,French,NA,NA
-Basile,20,barbe à papa,NA,baba,French,NA,NA
-Basile,20,barbe à papa,NA,baba,French,NA,NA
-Basile,20,barbe à papa,NA,baba,French,NA,NA
-Basile,20,barbe à papa,NA,maba,French,NA,NA
+Basile,20,barbe à papa,baʁb=a=papa,baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,maba baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,bamba a,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,papa,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,maba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,papa,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,baba,French,baʁb=a=papa,4
+Basile,20,barbe à papa,baʁb=a=papa,maba,French,baʁb=a=papa,4
 Basile,20,beurk,NA,ke,French,NA,NA
-Basile,20,bisou,NA,bu,French,NA,NA
-Basile,20,bottes,NA,bo,French,NA,NA
-Basile,20,bottes,NA,po,French,NA,NA
-Basile,20,bottes,NA,bo,French,NA,NA
-Basile,20,bottes,NA,bo,French,NA,NA
-Basile,20,boum,NA,bu,French,NA,NA
-Basile,20,boum,NA,pu,French,NA,NA
-Basile,20,bravo,NA,babo,French,NA,NA
-Basile,20,bravo,NA,babo,French,NA,NA
-Basile,20,ça,NA,dʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,aʒa,French,NA,NA
-Basile,20,ça,NA,əʒa,French,NA,NA
-Basile,20,ça,NA,əɬa,French,NA,NA
-Basile,20,ça,NA,əða,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,ʒa,French,NA,NA
-Basile,20,ça,NA,aʒa,French,NA,NA
-Basile,20,ça,NA,aʒa,French,NA,NA
-Basile,20,ça,NA,aʒa,French,NA,NA
-Basile,20,ça,NA,aʒa,French,NA,NA
-Basile,20,ça,NA,aʒa,French,NA,NA
-Basile,20,ça,NA,əʒa,French,NA,NA
-Basile,20,ça,NA,əʒa,French,NA,NA
+Basile,20,bisou,bizu,bu,French,bizu,2
+Basile,20,bottes,bot,bo,French,bot,1
+Basile,20,bottes,bot,po,French,bot,1
+Basile,20,bottes,bot,bo,French,bot,1
+Basile,20,bottes,bot,bo,French,bot,1
+Basile,20,boum,bum,bu,French,bum,1
+Basile,20,boum,bum,pu,French,bum,1
+Basile,20,bravo,bʁavo,babo,French,bʁavo,2
+Basile,20,bravo,bʁavo,babo,French,bʁavo,2
+Basile,20,ça,sa,dʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,aʒa,French,sa,1
+Basile,20,ça,sa,əʒa,French,sa,1
+Basile,20,ça,sa,əɬa,French,sa,1
+Basile,20,ça,sa,əða,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,ʒa,French,sa,1
+Basile,20,ça,sa,aʒa,French,sa,1
+Basile,20,ça,sa,aʒa,French,sa,1
+Basile,20,ça,sa,aʒa,French,sa,1
+Basile,20,ça,sa,aʒa,French,sa,1
+Basile,20,ça,sa,aʒa,French,sa,1
+Basile,20,ça,sa,əʒa,French,sa,1
+Basile,20,ça,sa,əʒa,French,sa,1
 Basile,20,canapé,NA,mate,French,NA,NA
-Basile,20,canard/coin-coin,NA,kaka,French,NA,NA
-Basile,20,canard/coin-coin,NA,akɔ,French,NA,NA
-Basile,20,canard/coin-coin,NA,əka,French,NA,NA
-Basile,20,canard/coin-coin,NA,ka,French,NA,NA
-Basile,20,canard/coin-coin,NA,kaka,French,NA,NA
+Basile,20,canard/coin-coin,kanaʁ,kaka,French,kanaʁ,2
+Basile,20,canard/coin-coin,kanaʁ,akɔ,French,kanaʁ,2
+Basile,20,canard/coin-coin,kanaʁ,əka,French,kanaʁ,2
+Basile,20,canard/coin-coin,kanaʁ,ka,French,kanaʁ,2
+Basile,20,canard/coin-coin,kanaʁ,kaka,French,kanaʁ,2
 Basile,20,cassé,NA,atʃe,French,NA,NA
-Basile,20,coucou,NA,kuku,French,NA,NA
-Basile,20,coucou,NA,kuku,French,NA,NA
+Basile,20,coucou,kuku,kuku,French,kuku,2
+Basile,20,coucou,kuku,kuku,French,kuku,2
 Basile,20,divan,NA,vəvə,French,NA,NA
 Basile,20,doux,NA,tu,French,NA,NA
-Basile,20,encore,NA,ko,French,NA,NA
-Basile,20,encore,NA,ɔkɔ,French,NA,NA
-Basile,20,encore,NA,ako,French,NA,NA
-Basile,20,hou,NA,ə vu vu,French,NA,NA
-Basile,20,joue,NA,lu,French,NA,NA
+Basile,20,encore,akoʁ,ko,French,akoʁ,2
+Basile,20,encore,akoʁ,ɔkɔ,French,akoʁ,2
+Basile,20,encore,akoʁ,ako,French,akoʁ,2
+Basile,20,hou,u,ə vu vu,French,u,1
+Basile,20,joue,ʒu,lu,French,ʒu,1
 Basile,20, là,NA,e la,French,NA,NA
 Basile,20, là,NA,la,French,NA,NA
 Basile,20, là,NA,əla,French,NA,NA
-Basile,20,l'eau,NA,lo,French,NA,NA
-Basile,20,l'eau,NA,elu,French,NA,NA
-Basile,20,l'eau,NA,ə lo,French,NA,NA
-Basile,20,l'eau,NA,lo lo,French,NA,NA
-Basile,20,l'eau,NA,lo,French,NA,NA
-Basile,20,l'eau,NA,lo,French,NA,NA
-Basile,20,l'eau,NA,lo,French,NA,NA
-Basile,20,l'eau,NA,lo,French,NA,NA
+Basile,20,l'eau,lo,lo,French,lo,1
+Basile,20,l'eau,lo,elu,French,lo,1
+Basile,20,l'eau,lo,ə lo,French,lo,1
+Basile,20,l'eau,lo,lo lo,French,lo,1
+Basile,20,l'eau,lo,lo,French,lo,1
+Basile,20,l'eau,lo,lo,French,lo,1
+Basile,20,l'eau,lo,lo,French,lo,1
+Basile,20,l'eau,lo,lo,French,lo,1
 Basile,20, loup,NA,ə lo,French,NA,NA
 Basile,20, loup,NA,ə lə,French,NA,NA
 Basile,20, loup,NA,lo,French,NA,NA
@@ -2464,186 +2464,186 @@ Basile,20, livre,NA,lə,French,NA,NA
 Basile,20, livre,NA,lə,French,NA,NA
 Basile,20, livre,NA,le,French,NA,NA
 Basile,20, livre,NA,li,French,NA,NA
-Basile,20,maman,NA,mamɑ,French,NA,NA
-Basile,20,maman,NA,nama,French,NA,NA
-Basile,20,maman,NA,a mamɑ,French,NA,NA
-Basile,20,maman,NA,e mamɑ,French,NA,NA
-Basile,20,maman,NA,ema,French,NA,NA
-Basile,20,maman,NA,ə lø,French,NA,NA
-Basile,20,maman,NA,mamɑ,French,NA,NA
-Basile,20,maman,NA,mamɑ,French,NA,NA
-Basile,20,maman,NA,mamɑ,French,NA,NA
-Basile,20,maman,NA,mamɑ,French,NA,NA
-Basile,20,maman,NA,mamɑ,French,NA,NA
+Basile,20,maman,mama,mamɑ,French,mama,2
+Basile,20,maman,mama,nama,French,mama,2
+Basile,20,maman,mama,a mamɑ,French,mama,2
+Basile,20,maman,mama,e mamɑ,French,mama,2
+Basile,20,maman,mama,ema,French,mama,2
+Basile,20,maman,mama,ə lø,French,mama,2
+Basile,20,maman,mama,mamɑ,French,mama,2
+Basile,20,maman,mama,mamɑ,French,mama,2
+Basile,20,maman,mama,mamɑ,French,mama,2
+Basile,20,maman,mama,mamɑ,French,mama,2
+Basile,20,maman,mama,mamɑ,French,mama,2
 Basile,20,mouton,NA,ətə,French,NA,NA
-Basile,20,musique,NA,keke,French,NA,NA
-Basile,20,musique,NA,kəkə,French,NA,NA
-Basile,20,musique,NA,kəke,French,NA,NA
-Basile,20,musique,NA,keke,French,NA,NA
-Basile,20,musique,NA,keke,French,NA,NA
-Basile,20,nonnon,NA,nɔnɔ,French,NA,NA
-Basile,20,nonnon,NA,ɔ,French,NA,NA
-Basile,20,oh,NA,o,French,NA,NA
-Basile,20,oh,NA,pa,French,NA,NA
-Basile,20,oh,NA,o,French,NA,NA
-Basile,20,oh,NA,o,French,NA,NA
-Basile,20,ouh,NA,u,French,NA,NA
-Basile,20,paf,NA,pa,French,NA,NA
-Basile,20,paf,NA,pa,French,NA,NA
-Basile,20,paf,NA,pa,French,NA,NA
-Basile,20,paf,NA,pa,French,NA,NA
-Basile,20,paf,NA,pa,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,page,NA,papapa,French,NA,NA
-Basile,20,page,NA,papo,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,page,NA,pa,French,NA,NA
-Basile,20,pan,NA,po,French,NA,NA
-Basile,20,papa,NA,papa,French,NA,NA
-Basile,20,papa,NA,pa pə,French,NA,NA
-Basile,20,papa,NA,papa,French,NA,NA
-Basile,20,papa,NA,papa,French,NA,NA
-Basile,20,pin pon,NA,pa pu,French,NA,NA
-Basile,20,pin pon,NA,pu,French,NA,NA
-Basile,20,pin pon,NA,apo,French,NA,NA
-Basile,20,pin pon,NA,po,French,NA,NA
-Basile,20,pin pon,NA,pu,French,NA,NA
-Basile,20,pin pon,NA,pu,French,NA,NA
-Basile,20,pin pon,NA,po,French,NA,NA
-Basile,20,poire/pomme,NA,pu,French,NA,NA
-Basile,20,poire/pomme,NA,pu,French,NA,NA
+Basile,20,musique,muzik,keke,French,muzik,2
+Basile,20,musique,muzik,kəkə,French,muzik,2
+Basile,20,musique,muzik,kəke,French,muzik,2
+Basile,20,musique,muzik,keke,French,muzik,2
+Basile,20,musique,muzik,keke,French,muzik,2
+Basile,20,nonnon,nono,nɔnɔ,French,nono,2
+Basile,20,nonnon,nono,ɔ,French,nono,2
+Basile,20,oh,o,o,French,o,1
+Basile,20,oh,o,pa,French,o,1
+Basile,20,oh,o,o,French,o,1
+Basile,20,oh,o,o,French,o,1
+Basile,20,ouh,u,u,French,u,1
+Basile,20,paf,paf,pa,French,paf,1
+Basile,20,paf,paf,pa,French,paf,1
+Basile,20,paf,paf,pa,French,paf,1
+Basile,20,paf,paf,pa,French,paf,1
+Basile,20,paf,paf,pa,French,paf,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,page,paʒ,papapa,French,paʒ,1
+Basile,20,page,paʒ,papo,French,paʒ,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,page,paʒ,pa,French,paʒ,1
+Basile,20,pan,pa,po,French,pa,1
+Basile,20,papa,papa,papa,French,papa,2
+Basile,20,papa,papa,pa pə,French,papa,2
+Basile,20,papa,papa,papa,French,papa,2
+Basile,20,papa,papa,papa,French,papa,2
+Basile,20,pin pon,pipo,pa pu,French,pipo,2
+Basile,20,pin pon,pipo,pu,French,pipo,2
+Basile,20,pin pon,pipo,apo,French,pipo,2
+Basile,20,pin pon,pipo,po,French,pipo,2
+Basile,20,pin pon,pipo,pu,French,pipo,2
+Basile,20,pin pon,pipo,pu,French,pipo,2
+Basile,20,pin pon,pipo,po,French,pipo,2
+Basile,20,poire/pomme,pwaʁ,pu,French,pwaʁ,1
+Basile,20,poire/pomme,pwaʁ,pu,French,pwaʁ,1
 Basile,20,puzzle,NA,ulə,French,NA,NA
-Basile,20,t'aide,NA,ati,French,NA,NA
-Basile,20,t'aide,NA,tu tu,French,NA,NA
-Basile,20,tchou,NA,ə tu,French,NA,NA
+Basile,20,t'aide,tɛd,ati,French,tɛd,1
+Basile,20,t'aide,tɛd,tu tu,French,tɛd,1
+Basile,20,tchou,tʃu,ə tu,French,tʃu,1
 Basile,20,teuton,NA,tøto,French,NA,NA
 Basile,20,tricoter,NA,kote,French,NA,NA
-Basile,20,voiture,NA,ɛvu,French,NA,NA
-Basile,20,voiture,NA,wu vu,French,NA,NA
-Basile,20,vroum,NA,βu,French,NA,NA
-Julien,19,Ah,NA,a,French,NA,NA
-Julien,19,Ah,NA,a,French,NA,NA
-Julien,19,Boubou,NA,bubu,French,NA,NA
-Julien,19,Boubou,NA,babuə,French,NA,NA
-Julien,19,Boubou,NA,bubə,French,NA,NA
+Basile,20,voiture,vwatyʁ,ɛvu,French,vwatyʁ,2
+Basile,20,voiture,vwatyʁ,wu vu,French,vwatyʁ,2
+Basile,20,vroum,vrum,βu,French,vrum,1
+Julien,19,Ah,a,a,French,a,1
+Julien,19,Ah,a,a,French,a,1
+Julien,19,Boubou,bubu,bubu,French,bubu,2
+Julien,19,Boubou,bubu,babuə,French,bubu,2
+Julien,19,Boubou,bubu,bubə,French,bubu,2
 Julien,19,Clé,NA,ke,French,NA,NA
 Julien,19,Clé,NA,kˡe,French,NA,NA
 Julien,19,Clé,NA,ke,French,NA,NA
-Julien,19,Corinne,NA,ləɬe,French,NA,NA
-Julien,19,cot cot,NA,ku ku,French,NA,NA
+Julien,19,Corinne,korin,ləɬe,French,korin,2
+Julien,19,cot cot,kot=kot,ku ku,French,kot=kot,2
 Julien,19, croco,NA,koko,French,NA,NA
 Julien,19, croco,NA,a gogo,French,NA,NA
 Julien,19, croco,NA,koko,French,NA,NA
 Julien,19, croco,NA,kokə,French,NA,NA
-Julien,19,Cubes,NA,a ke,French,NA,NA
-Julien,19,les deux,NA,ə de,French,NA,NA
+Julien,19,Cubes,kub,a ke,French,kub,1
+Julien,19,les deux,ledø,ə de,French,ledø,2
 Julien,19,plus grand,NA,pu χə,French,NA,NA
-Julien,19,Là,NA,wa,French,NA,NA
-Julien,19,Là,NA,wa,French,NA,NA
-Julien,19,Là,NA,wa,French,NA,NA
-Julien,19,Maman,NA,mamɑ,French,NA,NA
-Julien,19,Meuh,NA,əmø,French,NA,NA
-Julien,19,Miaou,NA,mau,French,NA,NA
-Julien,19,Miaou,NA,maum,French,NA,NA
-Julien,19,Miaou,NA,maɔ,French,NA,NA
-Julien,19,Miaou,NA,mau,French,NA,NA
-Julien,19,Nana,NA,nana,French,NA,NA
-Julien,19,Non,NA,nɔ,French,NA,NA
-Julien,19,Non,NA,da,French,NA,NA
-Julien,19,Non,NA,na,French,NA,NA
-Julien,19,Non,NA,nɑ,French,NA,NA
-Julien,19,Non,NA,nɔ,French,NA,NA
-Julien,19,Non,NA,nɔ,French,NA,NA
-Julien,19,Non,NA,nɔ,French,NA,NA
-Julien,19,Non,NA,nɔ,French,NA,NA
-Julien,19,Oh,NA,o,French,NA,NA
+Julien,19,Là,la,wa,French,la,1
+Julien,19,Là,la,wa,French,la,1
+Julien,19,Là,la,wa,French,la,1
+Julien,19,Maman,mama,mamɑ,French,mama,2
+Julien,19,Meuh,mø,əmø,French,mø,1
+Julien,19,Miaou,mjau,mau,French,mjau,1
+Julien,19,Miaou,mjau,maum,French,mjau,1
+Julien,19,Miaou,mjau,maɔ,French,mjau,1
+Julien,19,Miaou,mjau,mau,French,mjau,1
+Julien,19,Nana,nana,nana,French,nana,2
+Julien,19,Non,no,nɔ,French,no,1
+Julien,19,Non,no,da,French,no,1
+Julien,19,Non,no,na,French,no,1
+Julien,19,Non,no,nɑ,French,no,1
+Julien,19,Non,no,nɔ,French,no,1
+Julien,19,Non,no,nɔ,French,no,1
+Julien,19,Non,no,nɔ,French,no,1
+Julien,19,Non,no,nɔ,French,no,1
+Julien,19,Oh,o,o,French,o,1
 Julien,19, ouais,NA,we,French,NA,NA
 Julien,19, ouais,NA,we,French,NA,NA
 Julien,19, ouais,NA,we,French,NA,NA
-Julien,19,Papa,NA,papa,French,NA,NA
-Julien,19,Papa,NA,papa,French,NA,NA
-Julien,19,Papa,NA,papa,French,NA,NA
-Julien,19,Pas,NA,pa,French,NA,NA
-Julien,19,Petit,NA,aopti,French,NA,NA
-Julien,19,Pin pon,NA,pa po,French,NA,NA
-Julien,19,Pin pon,NA,pa fo,French,NA,NA
-Julien,19,Pin pon,NA,a pa po,French,NA,NA
-Julien,19,Piou,NA,ə pə pə,French,NA,NA
-Julien,19,Plein,NA,ka ka,French,NA,NA
-Julien,19,Popi,NA,pətɛ,French,NA,NA
-Julien,19,Tonton,NA,kɔkɔ,French,NA,NA
-Julien,19,Tonton,NA,kɔkɔ,French,NA,NA
+Julien,19,Papa,papa,papa,French,papa,2
+Julien,19,Papa,papa,papa,French,papa,2
+Julien,19,Papa,papa,papa,French,papa,2
+Julien,19,Pas,papa,pa,French,papa,1
+Julien,19,Petit,pøti,aopti,French,pøti,2
+Julien,19,Pin pon,pipo,pa po,French,pipo,2
+Julien,19,Pin pon,pipo,pa fo,French,pipo,2
+Julien,19,Pin pon,pipo,a pa po,French,pipo,2
+Julien,19,Piou,pju,ə pə pə,French,pju,1
+Julien,19,Plein,pla,ka ka,French,pla,1
+Julien,19,Popi,popi,pətɛ,French,popi,2
+Julien,19,Tonton,toto,kɔkɔ,French,toto,2
+Julien,19,Tonton,toto,kɔkɔ,French,toto,2
 Romuald,21,à bientôt,NA,tato,French,NA,NA
-Romuald,21,ah,NA,a,French,NA,NA
-Romuald,21,ah,NA,a,French,NA,NA
-Romuald,21,ah,NA,a,French,NA,NA
-Romuald,21,ah,NA,a,French,NA,NA
-Romuald,21,ah,NA,a,French,NA,NA
-Romuald,21,allô,NA,əlo,French,NA,NA
+Romuald,21,ah,a,a,French,a,1
+Romuald,21,ah,a,a,French,a,1
+Romuald,21,ah,a,a,French,a,1
+Romuald,21,ah,a,a,French,a,1
+Romuald,21,ah,a,a,French,a,1
+Romuald,21,allô,alo,əlo,French,alo,2
 Romuald,21,alors,NA,alɔː,French,NA,NA
 Romuald,21,alors,NA,ajɔ dadapa,French,NA,NA
-Romuald,21,l'avion,NA,lajø,French,NA,NA
-Romuald,21,ballon,NA,galo,French,NA,NA
-Romuald,21,bobo,NA,bobo,French,NA,NA
-Romuald,21,bobo,NA,bobobo,French,NA,NA
-Romuald,21,bobo,NA,bobo,French,NA,NA
-Romuald,21,bobo,NA,bobobo,French,NA,NA
-Romuald,21,boum,NA,bu,French,NA,NA
-Romuald,21,boum,NA,bu,French,NA,NA
-Romuald,21,ça,NA,ɕa,French,NA,NA
-Romuald,21,ça,NA,ʃa,French,NA,NA
-Romuald,21,ça,NA,n tʃa,French,NA,NA
-Romuald,21,ça,NA,a,French,NA,NA
-Romuald,21,ça,NA,ka,French,NA,NA
-Romuald,21,ça,NA,ɕa,French,NA,NA
-Romuald,21,ça,NA,ɕa,French,NA,NA
-Romuald,21,ça,NA,ɕa,French,NA,NA
-Romuald,21,cassé,NA,kace,French,NA,NA
-Romuald,21,cassé,NA,kake,French,NA,NA
-Romuald,21,cassé,NA,katə,French,NA,NA
-Romuald,21,cassé,NA,katːa,French,NA,NA
-Romuald,21,cassé,NA,ake,French,NA,NA
-Romuald,21,cassé,NA,kake,French,NA,NA
-Romuald,21,cassé,NA,kace,French,NA,NA
-Romuald,21,cassé,NA,kace,French,NA,NA
-Romuald,21,cassé,NA,kace,French,NA,NA
-Romuald,21,cassé,NA,kake,French,NA,NA
+Romuald,21,l'avion,lavjo,lajø,French,lavjo,2
+Romuald,21,ballon,balo,galo,French,balo,2
+Romuald,21,bobo,bobo,bobo,French,bobo,2
+Romuald,21,bobo,bobo,bobobo,French,bobo,2
+Romuald,21,bobo,bobo,bobo,French,bobo,2
+Romuald,21,bobo,bobo,bobobo,French,bobo,2
+Romuald,21,boum,bum,bu,French,bum,1
+Romuald,21,boum,bum,bu,French,bum,1
+Romuald,21,ça,sa,ɕa,French,sa,1
+Romuald,21,ça,sa,ʃa,French,sa,1
+Romuald,21,ça,sa,n tʃa,French,sa,1
+Romuald,21,ça,sa,a,French,sa,1
+Romuald,21,ça,sa,ka,French,sa,1
+Romuald,21,ça,sa,ɕa,French,sa,1
+Romuald,21,ça,sa,ɕa,French,sa,1
+Romuald,21,ça,sa,ɕa,French,sa,1
+Romuald,21,cassé,kase,kace,French,kase,2
+Romuald,21,cassé,kase,kake,French,kase,2
+Romuald,21,cassé,kase,katə,French,kase,2
+Romuald,21,cassé,kase,katːa,French,kase,2
+Romuald,21,cassé,kase,ake,French,kase,2
+Romuald,21,cassé,kase,kake,French,kase,2
+Romuald,21,cassé,kase,kace,French,kase,2
+Romuald,21,cassé,kase,kace,French,kase,2
+Romuald,21,cassé,kase,kace,French,kase,2
+Romuald,21,cassé,kase,kake,French,kase,2
 Romuald,21,tləla,NA,tləla,French,NA,NA
 Romuald,21,cochon,NA,təso,French,NA,NA
 Romuald,21,cochon,NA,təto,French,NA,NA
 Romuald,21,dominos,NA,ominə,French,NA,NA
-Romuald,21,fait dodo,NA,de dəto,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop,NA,ɔp,French,NA,NA
-Romuald,21,hop-là,NA,ɔp a,French,NA,NA
-Romuald,21,hop-là,NA,ap a,French,NA,NA
-Romuald,21,hop-là,NA,tətətətə ɔp a,French,NA,NA
-Romuald,21,hop-là,NA,ap,French,NA,NA
-Romuald,21,là,NA,la,French,NA,NA
-Romuald,21,là,NA,ə la,French,NA,NA
-Romuald,21,là,NA,dʲa,French,NA,NA
-Romuald,21,là,NA,ti la la,French,NA,NA
-Romuald,21,là,NA,da,French,NA,NA
-Romuald,21,là,NA,la,French,NA,NA
-Romuald,21,là,NA,la,French,NA,NA
-Romuald,21,là,NA,la,French,NA,NA
-Romuald,21,la tête,NA,ta te,French,NA,NA
-Romuald,21,la vache,NA,vavam,French,NA,NA
-Romuald,21,mouton,NA,əto,French,NA,NA
-Romuald,21,mouton,NA,ɔto,French,NA,NA
-Romuald,21,mouton,NA,to,French,NA,NA
-Romuald,21,mouton,NA,əto,French,NA,NA
-Romuald,21,mouton,NA,to,French,NA,NA
+Romuald,21,fait dodo,fedodo,de dəto,French,fedodo,3
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop,op,ɔp,French,op,1
+Romuald,21,hop-là,op=la,ɔp a,French,op=la,2
+Romuald,21,hop-là,op=la,ap a,French,op=la,2
+Romuald,21,hop-là,op=la,tətətətə ɔp a,French,op=la,2
+Romuald,21,hop-là,op=la,ap,French,op=la,2
+Romuald,21,là,la,la,French,la,1
+Romuald,21,là,la,ə la,French,la,1
+Romuald,21,là,la,dʲa,French,la,1
+Romuald,21,là,la,ti la la,French,la,1
+Romuald,21,là,la,da,French,la,1
+Romuald,21,là,la,la,French,la,1
+Romuald,21,là,la,la,French,la,1
+Romuald,21,là,la,la,French,la,1
+Romuald,21,la tête,latɛt,ta te,French,latɛt,2
+Romuald,21,la vache,lavaʃ,vavam,French,lavaʃ,2
+Romuald,21,mouton,muto,əto,French,muto,2
+Romuald,21,mouton,muto,ɔto,French,muto,2
+Romuald,21,mouton,muto,to,French,muto,2
+Romuald,21,mouton,muto,əto,French,muto,2
+Romuald,21,mouton,muto,to,French,muto,2
 Romuald,21,non,NA,nɔ,French,NA,NA
 Romuald,21,non,NA,nɔcəco,French,NA,NA
 Romuald,21,non,NA,do,French,NA,NA
@@ -2663,11 +2663,11 @@ Romuald,21,non,NA,nɔ,French,NA,NA
 Romuald,21,non,NA,nɔ,French,NA,NA
 Romuald,21,non,NA,nɔ,French,NA,NA
 Romuald,21,pas ça,NA,nɔba da,French,NA,NA
-Romuald,21,papa,NA,papa,French,NA,NA
-Romuald,21,pas,NA,pa,French,NA,NA
+Romuald,21,papa,papa,papa,French,papa,2
+Romuald,21,pas,papa,pa,French,papa,1
 Romuald,21,un livre,NA,də li,French,NA,NA
 Romuald,21,un livre,NA,gə li,French,NA,NA
-Romuald,21,voilà,NA,ela,French,NA,NA
+Romuald,21,voilà,vwala,ela,French,vwala,2
 Vincent,18, non,NA,nɔ,French,NA,NA
 Vincent,18, non,NA,ə nɔ,French,NA,NA
 Vincent,18, non,NA,nɑ,French,NA,NA
@@ -2689,105 +2689,105 @@ Vincent,18, train,NA,kʁɛ,French,NA,NA
 Vincent,18, train,NA,a kʁɛ,French,NA,NA
 Vincent,18, train,NA,a kʁɛ,French,NA,NA
 Vincent,18, train,NA,a kʁɛ,French,NA,NA
-Vincent,18,a pas,NA,a pɛ,French,NA,NA
-Vincent,18,accroche,NA,aʃoʃ,French,NA,NA
-Vincent,18,allô,NA,alɔ,French,NA,NA
-Vincent,18,allô,NA,alo,French,NA,NA
-Vincent,18,allô,NA,alə,French,NA,NA
-Vincent,18,allô,NA,ao,French,NA,NA
-Vincent,18,allô,NA,alɔ,French,NA,NA
-Vincent,18,attends,NA,atə,French,NA,NA
-Vincent,18,boum,NA,bum,French,NA,NA
-Vincent,18,boum,NA,bum,French,NA,NA
-Vincent,18,boum,NA,bum,French,NA,NA
-Vincent,18,bravo,NA,avo,French,NA,NA
-Vincent,18,bravo,NA,awo,French,NA,NA
-Vincent,18,bravo,NA,avo,French,NA,NA
-Vincent,18,bravo,NA,avo,French,NA,NA
-Vincent,18,bravo,NA,avo,French,NA,NA
-Vincent,18,caché,NA,a hahɛ,French,NA,NA
-Vincent,18,caché,NA,aɕe,French,NA,NA
-Vincent,18,casser,NA,a taɕe,French,NA,NA
-Vincent,18,chercher,NA,əʃəʃy,French,NA,NA
-Vincent,18,chercher,NA,əʃəʃi,French,NA,NA
-Vincent,18,encore,NA,atə,French,NA,NA
-Vincent,18,entends,NA,atɑ,French,NA,NA
+Vincent,18,a pas,apa,a pɛ,French,apa,2
+Vincent,18,accroche,akʁoʃ,aʃoʃ,French,akʁoʃ,2
+Vincent,18,allô,alo,alɔ,French,alo,2
+Vincent,18,allô,alo,alo,French,alo,2
+Vincent,18,allô,alo,alə,French,alo,2
+Vincent,18,allô,alo,ao,French,alo,2
+Vincent,18,allô,alo,alɔ,French,alo,2
+Vincent,18,attends,ata,atə,French,ata,2
+Vincent,18,boum,bum,bum,French,bum,1
+Vincent,18,boum,bum,bum,French,bum,1
+Vincent,18,boum,bum,bum,French,bum,1
+Vincent,18,bravo,bravo,avo,French,bravo,2
+Vincent,18,bravo,bravo,awo,French,bravo,2
+Vincent,18,bravo,bravo,avo,French,bravo,2
+Vincent,18,bravo,bravo,avo,French,bravo,2
+Vincent,18,bravo,bravo,avo,French,bravo,2
+Vincent,18,caché,kaʃe,a hahɛ,French,kaʃe,2
+Vincent,18,caché,kaʃe,aɕe,French,kaʃe,2
+Vincent,18,casser,kase,a taɕe,French,kase,2
+Vincent,18,chercher,ʃeʁ=ʃe,əʃəʃy,French,ʃeʁ=ʃe,2
+Vincent,18,chercher,ʃeʁ=ʃe,əʃəʃi,French,ʃeʁ=ʃe,2
+Vincent,18,encore,akoʀ,atə,French,akoʀ,2
+Vincent,18,entends,ata,atɑ,French,ata,2
 Vincent,18,essaye,NA,eɕɛ,French,NA,NA
 Vincent,18,essaye,NA,ebə la,French,NA,NA
-Vincent,18,est parti,NA,a paty,French,NA,NA
-Vincent,18,fermé,NA,ame,French,NA,NA
-Vincent,18,garage,NA,alaʃ,French,NA,NA
-Vincent,18,hop,NA,ap,French,NA,NA
-Vincent,18,hop,NA,ap,French,NA,NA
-Vincent,18,ici,NA,isi,French,NA,NA
-Vincent,18,ici,NA,iʃi,French,NA,NA
-Vincent,18,"l'autre, autres",NA,l etʁ,French,NA,NA
-Vincent,18,"l'autre, autres",NA,ot,French,NA,NA
-Vincent,18,l'avion,NA,j ajɔ,French,NA,NA
-Vincent,18,l'avion,NA,a n ajɔ,French,NA,NA
-Vincent,18,l'avion,NA,j ajɔ,French,NA,NA
-Vincent,18,là,NA,la,French,NA,NA
-Vincent,18,là,NA,la,French,NA,NA
-Vincent,18,là,NA,əla,French,NA,NA
-Vincent,18,là,NA,la,French,NA,NA
-Vincent,18,là,NA,la,French,NA,NA
-Vincent,18,la lune,NA,la lylə,French,NA,NA
-Vincent,18,la lune,NA,la lyjəjə,French,NA,NA
-Vincent,18,la lune,NA,la lyl,French,NA,NA
-Vincent,18,la lune,NA,ja jy,French,NA,NA
-Vincent,18,la lune,NA,la lydelə,French,NA,NA
-Vincent,18,la lune,NA,a la ly,French,NA,NA
-Vincent,18,la lune,NA,la ly,French,NA,NA
-Vincent,18,la lune,NA,la lyl,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,ə taty,French,NA,NA
-Vincent,18,la voiture,NA,a katy,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,la voiture,NA,a taty,French,NA,NA
-Vincent,18,là-haut,NA,lao,French,NA,NA
-Vincent,18,là-haut,NA,lao,French,NA,NA
-Vincent,18,là-haut,NA,lao,French,NA,NA
-Vincent,18,là-haut,NA,lao,French,NA,NA
-Vincent,18,le biberon,NA,ə meɔ,French,NA,NA
-Vincent,18,le chien,NA,a ʃø,French,NA,NA
-Vincent,18,le pain,NA,ə pɛ,French,NA,NA
-Vincent,18,le pain,NA,a pɛ,French,NA,NA
-Vincent,18,le pain,NA,ə pɛ,French,NA,NA
-Vincent,18,le pain,NA,a pɛ,French,NA,NA
-Vincent,18,marche pas,NA,afa,French,NA,NA
-Vincent,18,marche pas,NA,af pa,French,NA,NA
-Vincent,18,marche pas,NA,af pa,French,NA,NA
-Vincent,18,marche pas,NA,af pa,French,NA,NA
-Vincent,18,marche pas,NA,af pa,French,NA,NA
-Vincent,18,marche pas,NA,af pa,French,NA,NA
-Vincent,18,marche pas,NA,af pa,French,NA,NA
-Vincent,18,micro,NA,ikʁɔ,French,NA,NA
-Vincent,18,non ici,NA,nɔ ɕi,French,NA,NA
-Vincent,18,ok,NA,okɛ,French,NA,NA
-Vincent,18,ouais,NA,vɛ,French,NA,NA
-Vincent,18,ouais,NA,wɛ,French,NA,NA
-Vincent,18,ouais,NA,vɛ,French,NA,NA
-Vincent,18,ouais,NA,wɛ,French,NA,NA
-Vincent,18,ouais,NA,wɛ,French,NA,NA
-Vincent,18,rouge,NA,wuʃ,French,NA,NA
-Vincent,18,rouge,NA,luʃ,French,NA,NA
-Vincent,18,rouge,NA,luʃ,French,NA,NA
-Vincent,18,rouge,NA,luʃ,French,NA,NA
-Vincent,18,super,NA,əpɛ,French,NA,NA
+Vincent,18,est parti,epaʁ=ti,a paty,French,epaʁ=ti,3
+Vincent,18,fermé,fɛʁ=me,ame,French,fɛʁ=me,2
+Vincent,18,garage,gaʁaʒ,alaʃ,French,gaʁaʒ,2
+Vincent,18,hop,op,ap,French,op,1
+Vincent,18,hop,op,ap,French,op,1
+Vincent,18,ici,isi,isi,French,isi,2
+Vincent,18,ici,isi,iʃi,French,isi,2
+Vincent,18,"l'autre, autres",lotʀ,l etʁ,French,lotʀ,1
+Vincent,18,"l'autre, autres",lotʀ,ot,French,lotʀ,1
+Vincent,18,l'avion,lavjo,j ajɔ,French,lavjo,2
+Vincent,18,l'avion,lavjo,a n ajɔ,French,lavjo,2
+Vincent,18,l'avion,lavjo,j ajɔ,French,lavjo,2
+Vincent,18,là,la,la,French,la,1
+Vincent,18,là,la,la,French,la,1
+Vincent,18,là,la,əla,French,la,1
+Vincent,18,là,la,la,French,la,1
+Vincent,18,là,la,la,French,la,1
+Vincent,18,la lune,lalun,la lylə,French,lalun,2
+Vincent,18,la lune,lalun,la lyjəjə,French,lalun,2
+Vincent,18,la lune,lalun,la lyl,French,lalun,2
+Vincent,18,la lune,lalun,ja jy,French,lalun,2
+Vincent,18,la lune,lalun,la lydelə,French,lalun,2
+Vincent,18,la lune,lalun,a la ly,French,lalun,2
+Vincent,18,la lune,lalun,la ly,French,lalun,2
+Vincent,18,la lune,lalun,la lyl,French,lalun,2
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,ə taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a katy,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,la voiture,lavwatyʁ,a taty,French,lavwatyʁ,3
+Vincent,18,là-haut,lao,lao,French,lao,2
+Vincent,18,là-haut,lao,lao,French,lao,2
+Vincent,18,là-haut,lao,lao,French,lao,2
+Vincent,18,là-haut,lao,lao,French,lao,2
+Vincent,18,le biberon,løbibʁo,ə meɔ,French,løbibʁo,3
+Vincent,18,le chien,løʃja,a ʃø,French,løʃja,2
+Vincent,18,le pain,løpa,ə pɛ,French,løpa,2
+Vincent,18,le pain,løpa,a pɛ,French,løpa,2
+Vincent,18,le pain,løpa,ə pɛ,French,løpa,2
+Vincent,18,le pain,løpa,a pɛ,French,løpa,2
+Vincent,18,marche pas,maʁʃ=pa,afa,French,maʁʃ=pa,2
+Vincent,18,marche pas,maʁʃ=pa,af pa,French,maʁʃ=pa,2
+Vincent,18,marche pas,maʁʃ=pa,af pa,French,maʁʃ=pa,2
+Vincent,18,marche pas,maʁʃ=pa,af pa,French,maʁʃ=pa,2
+Vincent,18,marche pas,maʁʃ=pa,af pa,French,maʁʃ=pa,2
+Vincent,18,marche pas,maʁʃ=pa,af pa,French,maʁʃ=pa,2
+Vincent,18,marche pas,maʁʃ=pa,af pa,French,maʁʃ=pa,2
+Vincent,18,micro,mik=ʁo,ikʁɔ,French,mik=ʁo,2
+Vincent,18,non ici,noisi,nɔ ɕi,French,noisi,3
+Vincent,18,ok,oke,okɛ,French,oke,2
+Vincent,18,ouais,we,vɛ,French,we,1
+Vincent,18,ouais,we,wɛ,French,we,1
+Vincent,18,ouais,we,vɛ,French,we,1
+Vincent,18,ouais,we,wɛ,French,we,1
+Vincent,18,ouais,we,wɛ,French,we,1
+Vincent,18,rouge,ruʒ,wuʃ,French,ruʒ,1
+Vincent,18,rouge,ruʒ,luʃ,French,ruʒ,1
+Vincent,18,rouge,ruʒ,luʃ,French,ruʒ,1
+Vincent,18,rouge,ruʒ,luʃ,French,ruʒ,1
+Vincent,18,super,supeʁ,əpɛ,French,supeʁ,2
 Vincent,18,tête,NA,a tetɛt,French,NA,NA
-Vincent,18,un autre,NA,a n ot,French,NA,NA
-Vincent,18,un deux,NA,a dø,French,NA,NA
-Vincent,18,un deux,NA,a dø,French,NA,NA
-Vincent,18,vert,NA,vɛ,French,NA,NA
-Vincent,18,vert,NA,vɛ,French,NA,NA
-Vincent,18,voilà,NA,ala,French,NA,NA
-Vincent,18,voilà,NA,ala,French,NA,NA
-Vincent,18,voilà,NA,ala,French,NA,NA
+Vincent,18,un autre,ʌnotʁ,a n ot,French,ʌnotʁ,2
+Vincent,18,un deux,ʌdø,a dø,French,ʌdø,2
+Vincent,18,un deux,ʌdø,a dø,French,ʌdø,2
+Vincent,18,vert,vɛʁ,vɛ,French,vɛʁ,1
+Vincent,18,vert,vɛʁ,vɛ,French,vɛʁ,1
+Vincent,18,voilà,vwala,ala,French,vwala,2
+Vincent,18,voilà,vwala,ala,French,vwala,2
+Vincent,18,voilà,vwala,ala,French,vwala,2
 Taro,23,"oh, gone [not SU]",aiʨ:at:a,ʌɪdʲəd:a,Japanese,NA,NA
 Taro,23,"oh, gone [not SU]",aiʨ:at:a,ʨɪt:a,Japanese,NA,NA
 Taro,23,"hey, what's this? [not SU]",anandakoɾe,ʌnʌndʌkɔɛ,Japanese,NA,NA
