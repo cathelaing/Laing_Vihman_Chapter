@@ -10,37 +10,22 @@ full_data %>% group_by(Subject, Language) %>% tally()
 # remove vowels
 
 # substitute all target vowels for generic V because I don't care about vowels
-full_data$Vremoved_target <- gsub("([
-e 
-a
-ɑ
-u
-ə
-ɔ
-ɛ
-o
-i
-ø
-y
-ɥ
-œ
-æ
-ɤ
-ɯ])", "V", full_data$IPAtarget) 
+full_data$Vremoved_target <- gsub("([ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ ɯ ])", "V", full_data$IPAtarget) 
 
-## assumptions about the data:
-
-# palatalized consonants = Cj
-full_data$Vremoved_target <- gsub("ʲ", "j", full_data$Vremoved_target)  
-
-## questions about the data:
-
-# what to do about transcriptions marked with "?", "Q3", "[lVttV?]", "&"
-
-full_data$Vremoved_target <- gsub("VVV", "V", full_data$Vremoved_target)  # remove triphthongs to count as single vowel (following Monaghan et al 2010 but also because we're not looking at vowels here)
-full_data$Vremoved_target <- gsub("VV", "V", full_data$Vremoved_target)  # remove diphthongs to count as single vowel (following Monaghan et al 2010 but also because we're not looking at vowels here)
-full_data <- full_data %>% mutate(nsyl_target = stringr::str_count(Vremoved_target, "V"),
-                                                          nsyl_target = ifelse(nsyl_target == 0, 1, nsyl_target))
+full_data$Vremoved_target <- gsub("ʁ", "R", full_data$Vremoved_target) # code won't run properly with /ʁ/ so change to /R/
+full_data$Vremoved_target <- gsub("V::", "V", full_data$Vremoved_target)
+full_data$Vremoved_target <- gsub("V:::", "V", full_data$Vremoved_target) 
+full_data$Vremoved_target <- gsub("Vːː", "V", full_data$Vremoved_target)  
+full_data$Vremoved_target <- gsub("Vː", "V", full_data$Vremoved_target)  
+full_data$Vremoved_target <- gsub("V:", "V", full_data$Vremoved_target)  
+full_data$Vremoved_target <- gsub("VVV", "V", full_data$Vremoved_target)  
+full_data$Vremoved_target <- gsub("VV", "V", full_data$Vremoved_target)
+full_data$Vremoved_target <- gsub("Ṽ", "V", full_data$Vremoved_target) ## check this works
+full_data$Vremoved_target <- gsub("ʷ", "w", full_data$Vremoved_target) ## check all the below
+full_data$Vremoved_target <- gsub("ⁿ", "n", full_data$Vremoved_target)
+full_data$Vremoved_target <- gsub("ʲ", "j", full_data$Vremoved_target) ## check this with Marilyn
+full_data$Vremoved_target <- gsub("ʰ", "", full_data$Vremoved_target)  ## just remove aspiration?
+full_data$Vremoved_target <- gsub("t¸", "t", full_data$Vremoved_target)
 
 full_data$Vremoved_target <- gsub("ʁ", "R", full_data$Vremoved_target) # code won't run properly with /ʁ/ so change to /R/
 full_data$Vremoved_target <- gsub("ʁ", "R", full_data$Vremoved_target) # code won't run properly with /ʁ/ so change to /R/
@@ -65,55 +50,6 @@ full_data$Vremoved_actual <- gsub("ⁿ", "n", full_data$Vremoved_actual)
 full_data$Vremoved_actual <- gsub("ʲ", "j", full_data$Vremoved_actual) ## check this with Marilyn
 full_data$Vremoved_actual <- gsub("ʰ", "", full_data$Vremoved_actual)  ## just remove aspiration?
 full_data$Vremoved_actual <- gsub("t¸", "t", full_data$Vremoved_actual)
-
-
-######
-
-## To check with Marilyn:
-# ...Vp:VʃV
-# V?VʷVʊ::
-# ?
-#[V2VdVffVrVntVtVrgVts?]
-#[:]
-#[VtV]
-#bVbV...dV
-# bVʔV[B]V[=VtVpVclVsVrVfVlVps:V117]
-# bVˈbV[:]
-# [?]
-# hVp'*2)
-# kVhːhttV[Q3]
-# jV)
-# kVk*2)
-# kVʔV...
-# mV[Q2]
-# mVlːʲV[Q2]
-# nV-nV
-# pl̥VʰpV[CH]
-# pʰVtʰVpʰVpʰkʰV..
-# tVː'gVː
-# tVːkŋ̩̻
-# ts̩tʰV[x2,Vwh]
-# ts̩ɬV̥V[wh]
-# wVʔwV*2)
-# wʊʰʷVʔ
-# , - what is this supposed to be?
-# devoicing - need to go through csv file and manually change these :(  ˳
-
-#Meeting with Marilyn
-# remove imitations
-# remove segments marked as ?
-# remove palatalized consonants
-
-# ' - deleted in main doc
-#ʰ - deleted in main doc
-# ̩ - deleted in main doc
-# m̻ - might need to go through and find all of these....
-# | - deleted in main doc
-
-# ŋ̩  - re-run code and check this
- 
-
-#####
 
 ## replace long consonants to maintain geminate equivalents across all datasets
 full_data$Vremoved_actual <- gsub("t:", "t-t", full_data$Vremoved_actual)
@@ -232,7 +168,8 @@ full_data <- full_data %>% mutate(nsyl_actual = stringr::str_count(Vremoved_actu
 #checks <- as.data.frame(unique(French$Vremoved_actual))
 
 full_data <- full_data %>% mutate(TargetCV = str_replace_all(str_replace_all(IPAtarget, 
-                                                                       "[e a ɑ u ə ɔ ɛ o i ø y ɥ œ æ ɤ]", "V"), "[^V]", "C"),
+                                                                             "[ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ  ɯ ɶ]",
+                                                                             "V"), "[^V]", "C"),
                                 TargetCV = as.factor(TargetCV))
 
 target_structures_sample <- as.data.frame(levels(full_data$TargetCV)) # list all structures in the data
@@ -255,7 +192,7 @@ target_structures_sample <- target_structures_sample %>%
   mutate(TargetCV_edited = as.factor(TargetCV_edited))
 
 full_data <- full_data %>% mutate(ActualCV = str_replace_all(str_replace_all(IPAactual, 
-                                                                       "[ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ]",
+                                                                       "[ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ  ɯ ɶ]",
                                                                        "V"), "[^V]", "C"),
                             ActualCV = as.factor(ActualCV))
 
@@ -281,8 +218,7 @@ actual_structures_sample <- actual_structures_sample %>%
 full_data <- full_data %>% left_join(target_structures_sample) %>%
   left_join(actual_structures_sample)  # join with main dataframe
 
-full_data %>% group_by(nsyl_actual) %>% tally()  # some 10-syl words which are vocal play - remove anything above 5 syls (apareil photo)
-
+full_data %>% group_by(nsyl_actual) %>% tally()
 ### split the syllables for alignment
 
 ## separating the geminates from the non-geminates - creating new variable to identify 
@@ -291,36 +227,131 @@ full_data %>% group_by(nsyl_actual) %>% tally()  # some 10-syl words which are v
 full_data$geminate_T <- as.numeric(grepl("-", full_data$Vremoved_target))
 full_data$geminate_A <- as.numeric(grepl("-", full_data$Vremoved_actual))
 
+full_data_disyls <- full_data %>% filter(nsyl_target == 2)
+full_data_disyls %>% group_by(nsyl_actual) %>% tally() ## 2 instances of 5syl productions, most 1-3
+
 ####################################################################################
 
-## Target forms - needs checking
+## Target forms: split between simple and complex structures; no geminates in complex structures
 
-nsyl_target_list <- full_data %>%
+full_data_disyls <- full_data_disyls %>% mutate(complex = grepl("=", IPAtarget))
+
+nsyl_target_list_complex_Cinit <- full_data_disyls %>%
+  filter(complex == T) %>%
+  filter(str_detect(TargetCV_edited, '^C')) %>%
   split(., f = .$nsyl_target)
 
-sample_target_loop_base <- lapply(nsyl_target_list, FUN = function(element) {
-  split_syl <- element %>% separate(Vremoved_target, c("S1C1_target", "S2C1_target", 
-                                                       "S3C1_target", "S4C1_target"), "V")
-  split_syl2 <- split_syl %>%
-    dplyr::mutate(SFC1_target = ifelse(nsyl_target == 1 & !is.na(S2C1_target), S2C1_target, 0),     # create a category that is just codas
-                  S2C1_target = ifelse(nsyl_target == 1 & !is.na(SFC1_target), 0, S2C1_target),     # codas will always be aligned with codas
-                  SFC1_target = ifelse(nsyl_target == 2 & !is.na(S3C1_target), S3C1_target, SFC1_target),
-                  S3C1_target = ifelse(nsyl_target == 2 & !is.na(SFC1_target), 0, S3C1_target),
-                  SFC1_target = ifelse(nsyl_target == 3 & !is.na(S4C1_target), S4C1_target, SFC1_target),
-                  S4C1_target = ifelse(nsyl_target == 3 & !is.na(SFC1_target), 0, S4C1_target))
-  split_clust <- split_syl2 %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-    tidyr::separate(S2C1_target, c("TS2C1", "TS2C2", "TS2C3"), sep = "(?<=.)") %>%
-    tidyr::separate(S3C1_target, c("TS3C1", "TS3C2", "TS3C3"), sep = "(?<=.)") %>%
+sample_IPAtarget_loop_complex_Cinit <- lapply(nsyl_target_list_complex_Cinit, FUN = function(element) {
+  split_syl <- element %>% separate(Vremoved_target, c("S1C1_target", "S2C1_target"), "=") %>%
+    separate(S1C1_target, c("S1C1_target", "S1CF_target"), "V") %>%
+    separate(S2C1_target, c("SFC1_target", "SFCF_target"), "V")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
     tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-    filter(!(Gloss %in% split_clust$Gloss))
+    tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
 })
 
-target_list_base <- do.call(rbind.data.frame, sample_IPAtarget_loop_base) %>% mutate(TS1CF1 = "",
-                                                                                     TS1CF2 = "",
-                                                                                     TS1CF3 = "")
+target_list_complex_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_complex_Cinit) 
 
+
+nsyl_target_list_complex_Vinit <- full_data_disyls %>%
+  filter(complex == T) %>%
+  filter(str_detect(TargetCV_edited, '^V')) %>%
+  split(., f = .$nsyl_target)
+
+sample_IPAtarget_loop_complex_Vinit <- lapply(nsyl_target_list_complex_Vinit, FUN = function(element) {
+  split_syl <- element %>% separate(Vremoved_target, c("S1C1_target", "S2C1_target"), "=") %>%
+     separate(S1C1_target, c("S1C1_target", "S1CF_target"), "V") %>%
+     separate(S2C1_target, c("SFC1_target", "SFCF_target"), "V")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+      tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  })
+
+target_list_complex_Vinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_complex_Vinit) 
+
+target_list_complex <- rbind(target_list_complex_Cinit, target_list_complex_Vinit)
+
+### non-complex clusters (with and without geminates):
+
+## without geminates
+
+nsyl_target_list_Cinit <- full_data_disyls %>%
+  filter(complex == F & geminate_T == 0) %>%
+  filter(str_detect(TargetCV_edited, '^C')) %>%
+  split(., f = .$nsyl_target)
+
+sample_IPAtarget_loop_Cinit <- lapply(nsyl_target_list_Cinit, FUN = function(element) {
+  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+     tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
+     tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+})
+
+target_list_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_Cinit) 
+
+nsyl_target_list_Vinit <- full_data_disyls %>%
+  filter(complex == F & geminate_T == 0) %>%
+  filter(str_detect(TargetCV_edited, '^V')) %>%
+  split(., f = .$nsyl_target)
+
+sample_IPAtarget_loop_Vinit <- lapply(nsyl_target_list_Vinit, FUN = function(element) {
+  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+})
+
+target_list_Vinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_Vinit) 
+
+target_list <- rbind(target_list_Cinit, target_list_Vinit) %>% mutate(TS1CF1 = "",
+                                                                      TS1CF2 = "", 
+                                                                      TS1CF3 = "")
+
+## with geminates
+
+nsyl_target_list_gem_Cinit <- full_data_disyls %>%
+  filter(complex == F & geminate_T == 1) %>%
+  filter(str_detect(TargetCV_edited, '^C')) %>%
+  split(., f = .$nsyl_target)
+
+sample_IPAtarget_loop_gem_Cinit <- lapply(nsyl_target_list_gem_Cinit, FUN = function(element) {
+  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V") %>%
+    tidyr::separate(SFC1_target, c("S1CF_target", "SFC1_target"), "-")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+      tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+})
+
+target_list_gem_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Cinit) %>% mutate(TS1CF1 = "",
+                                                                                               TS1CF2 = "", 
+                                                                                               TS1CF3 = "")
+
+nsyl_target_list_gem_Vinit <- full_data_disyls %>%
+  filter(complex == F & geminate_T == 1) %>%
+  filter(str_detect(TargetCV_edited, '^V')) %>%
+  split(., f = .$nsyl_target)
+
+sample_IPAtarget_loop_gem_Vinit <- lapply(nsyl_target_list_gem_Vinit, FUN = function(element) {
+  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V") %>%
+      tidyr::separate(SFC1_target, c("S1CF_target", "SFC1_target"), "-")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+})
+
+target_list_gem_Vinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Vinit)
+
+target_list_gem <- rbind(target_list_gem_Cinit, target_list_gem_Vinit)
+
+target_list_all <- rbind(target_list, target_list_complex, target_list_gem) %>% mutate(data_type = "target")
 
 #######################################################################################
+
+### Actual forms ###
 
 Vinitial <- full_data %>% filter(stringr::str_detect(ActualCV, "^V")) # DF for looking at V-intial structures only
 Cinitial <- full_data %>% filter(stringr::str_detect(ActualCV, "^C")|stringr::str_detect(ActualCV, "^G"))    # DF for looking at C-intial structures only

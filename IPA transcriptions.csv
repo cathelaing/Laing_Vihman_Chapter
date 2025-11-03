@@ -3,7 +3,7 @@ UK,Ella,apple,æpəl,2
 ,,baby,beɪbi,2
 ,,beep beep,bi:bi:p,2
 ,,bottle,batəl,2
-,,bye(bye),baɪbaɪ,2
+,,byebye,baɪbaɪ,2
 ,,cuddle,kʌdəl,2
 ,,daddy,dædi,2
 ,,glasses,glæsəs,2
@@ -11,15 +11,15 @@ UK,Ella,apple,æpəl,2
 ,,Michelle,miʃɛl,2
 ,,mummy,mʌmi,2
 ,,open,oʊpən,2
-,,pap pap (car),pæppæp,2
+,,pap pap,pæppæp,2
 ,,piggie,pɪgi,2
-,,rattle,rætəl,2
+,,rattle,ɹætəl,2
 ,,woof woof,wuf=wuf,2
 ,,ball,bɔl,1
 ,,bed,bɛd,1
 ,,brush,bɹʌʃ,1
 ,,cake,keik,1
-,,cup (cup),kʌp,1
+,,cup,kʌp,1
 ,,door,dɔ,1
 ,,fall,feil,1
 ,,hair,heə,1
@@ -43,10 +43,12 @@ UK,Ella,apple,æpəl,2
 ,,lion,laijən,2
 ,,monkey,mʌŋ=ki,2
 ,,mummy,mʌmi,2
-,,rabbit,ræbɪt,2
-,,row row,roʊroʊ,2
+,,quack quack,kwakwak,2
+,,ribbit,ɹɪbɪt,2
+,,rabbit,ɹæbɪt,2
+,,row row,ɹoʊɹoʊ,2
 ,,teddy,tɛdi,2
-,,tractor,træk=tɔr,2
+,,tractor,tɹæk=tə,2
 ,,what's that?,wʌts=ðæt,2
 ,,zebra,zibɹʌ,2
 ,,bag,bæg,1
@@ -70,11 +72,13 @@ UK,Ella,apple,æpəl,2
 ,,caterpillar,kætəpɪlə,4
 ,,cinderella,sɪndəɹɛlʌ,4
 ,Lewis,all gone,al=gɔn,2
+,,choo-choo,tʃu:tʃu:,2
 ,,apple,æpəl,2
 ,,circle,səkəl,2
 ,,ladder,lædə,2
 ,,oh no,o:no:,2
 ,,pushchair,puʃ=tʃe:,2
+,,wee,wi:,1
 ,,tractor,tɹæk=tɔ,2
 ,,uh-oh,ʌʔoʊ,2
 ,,woof woof,wʊf=wʊf,2
@@ -97,17 +101,19 @@ UK,Ella,apple,æpəl,2
 ,,star,stɒ:,1
 ,,sun,sʌn,1
 ,,there,ðe:,1
-,,train,treɪn,1
-,,truck,trʌk,1
+,,train,tɹeɪn,1
+,,truck,tɹʌk,1
 ,,banana,bənænə,3
 ,Patrick,baby,beɪbi,2
 ,,beebies,bi:bi:z,2
-,,D2 (R2D2),di:tu:,2
+,,D2,di:tu:,2
 ,,daddy,dædi,2
-,,Doody (Monty),du:di,2
+,,Doody,du:di,2
+,,quack quack,kwakwak,2
+,,squeak squeak,skwi:k=skwi:k,2
 ,,hello,hɛloʊ,2
 ,,horsey,hɔ:si,2
-,,tractor,træk=tɔ:,2
+,,tractor,tɹæk=tɔ:,2
 ,,uh oh,ʌʔoʊ,2
 ,,water,wɒtə,2
 ,,woof woof,wʊf=wʊf,2
@@ -131,11 +137,11 @@ UK,Ella,apple,æpəl,2
 ,,apple ,æpəl,2
 ,,away ,ʌwei,2
 ,,baby,beibi,2
-,,Beba [Rebecca] ,bɛba,2
+,,Beba,bɛba,2
 ,,beep beep ,bibip,2
 ,,biscuits ,bis=kits,2
 ,,Daisy ,deɪzi,2
-,,(a) doggy,dɑgi,2
+,,doggy,dɑgi,2
 ,,flowers,flaʊ=əz,2
 ,,get you ,gɛtjʌ,2
 ,,hello,həloʊ,2
@@ -183,7 +189,7 @@ UK,Ella,apple,æpəl,2
 ,,cup of tea,kʌpʌti:,3
 ,,here you go,hi:jəgoʊ,3
 ,,knees and toes ,ni:zən=toʊz,3
-,,one two three (m),wan=tu:θɹi:,3
+,,one two three,wan=tu:θɹi:,3
 ,,a rainbow ,ɹein=boʊ,3
 ,,round and round ,ɹaʊnd=n=ɹaʊnd,3
 ,,tomato ,təmatoʊ,3
@@ -214,7 +220,7 @@ UK,Ella,apple,æpəl,2
 ,,book ,bʊk,1
 ,,boots,bu:ts,1
 ,,box,baks,1
-,,(a) bus,bʌs,1
+,,bus,bʌs,1
 ,,cat ,kæt,1
 ,,miaow,mjao,1
 ,,moo,mu:,1
@@ -224,9 +230,12 @@ UK,Ella,apple,æpəl,2
 ,,ta ,ta:,1
 ,,that,ðæt,1
 ,,there,ðɛə,1
+,,eek eek ,i:ki:k,2
+,,hoo hoo,hu:hu:,2
+,,quack quack,kwækwæk,2
 ,,butterfly,bʌtəflaɪ,3
-Japanese,Takeru,pillow,tyyny ,
-,,aye-aye (lemur),aiai,2
+Japanese,Takeru,pillow,tyyny ,2
+,,aye-aye,aiai,2
 ,,that,aɾe,2
 ,,found it,atːa,2
 ,,Barney,baːniː,2
@@ -240,7 +249,7 @@ Japanese,Takeru,pillow,tyyny ,
 ,,guitar,gitaː?,2
 ,,go go,goː goː,2
 ,,flower,hana,2
-,,good (d.m.) ,iː ne (im.) ,2
+,,good,iː ne (im.) ,2
 ,,ouch,itai,2
 ,,don't want to,jada,2
 ,,hooray,jatːaː,2
@@ -259,22 +268,22 @@ Japanese,Takeru,pillow,tyyny ,
 ,,put it there,oite,2
 ,,whoops,otːo,2
 ,,bread,papːaː,2
-,,pigeon (BT),popːo,2
-,,take (it)!,totːe,2
+,,pigeon,popːo,2
+,,take,totːe,2
 ,,daddy,totːoː (*3),2
 ,,stuck,ʦɯita,2
-,,doggie (BT),wãɴwãɴ,2
-,,elephant,zoːsãɴ,2
+,,doggie,waŋwaŋ,2
+,,elephant,zoːsaŋ,2
 ,,ah,a:a,1
 ,,vroom,bɯː,1
-,,yes,hai [*11],1
+,,yes,hai,1
 ,,moo/cow,moː,1
 ,,"gone, isn't any",nai,1
 ,,discourse marker,neː,1
 ,,open,akete,3
 ,,did it,dekita (*3),3
 ,,one more,moːikːo,3
-,,Totoro (animation character),totoɾo,3
+,,Totoro,totoɾo,3
 ,,it broke ,kowaɾeta (im.),4
 ,,what color,nani iɾo,4
 ,,name of mythical creature,makːɯɾokɯɾosɯke,5
@@ -282,14 +291,14 @@ Welsh,Gwyn,adar,adar,2
 ,,babi,babi,2
 ,,blodau,blodai,2
 ,,Bwgan ,bugan,2
-,,cadw (im.),kadu,2
+,,cadw ,kadu,2
 ,,cwaccwac ,kwakkwak,2
 ,,"dau, tri ",daitri,2
 ,,eh-oh,e-o,2
 ,,giraffe ,dʒiraf,2
 ,,Guto,gito,2
 ,,helo ,helo,2
-,,lala(la),lala,2
+,,lala,lala,2
 ,,Lucy,lusi,2
 ,,mwnci ,munki,2
 ,,Noa,noa,2
@@ -297,54 +306,54 @@ Welsh,Gwyn,adar,adar,2
 ,,tedi,tedi,2
 ,,bwyd ,buid,1
 ,,cloc,klok,1
-,,clown (im.),klaun,1
+,,clown ,klaun,1
 ,,dad,dad,1
 ,,dau,dai,1
 ,,diolch,djolx,1
 ,,glaw,glau,1
 ,,hyp,hip,1
 ,,lawr,laur,1
-,,llaw (im.),ɬau,1
+,,llaw ,ɬau,1
 ,,mam,mam,1
 ,,moo ,mu,1
 ,,mwy,mui,1
-,,nain  (im.),nain,1
-,,pain (im.),pain,1
+,,nain  ,nain,1
+,,pain ,pain,1
 ,,plop,plop,1
 ,,Smot,smot,1
 ,,taid,taid,1
 ,,tri,tri,1
-,,wy (im.),ui,1
+,,wy ,ui,1
 ,,eliffant ,elifant,3
-,,Jac-y-Jwc (im.),dʒakidʒuk,3
+,,Jac-y-Jwc ,dʒakidʒuk,3
 ,,Tinky-La-La,tinkilala,3
 ,Carys,tractor,traktor,2
-,,tata (im.) ,tata,2
+,,tata  ,tata,2
 ,,Lucy,lusi,2
 ,,gaggag  ,gaggag,2
 ,,hiya  ,haija,2
 ,,hwnna ,huna,2
 ,,eisio  ,eiʃo,2
-,,lorry (im.),lori,2
+,,lorry ,lori,2
 ,,Meira ,meira,2
 ,,tedi  ,tedi,2
 ,,La-La,lala,2
 ,,eira  ,eira,2
-,,paid (im.) ,paid,1
-,,(peth) da  ,da,1
+,,paid  ,paid,1
+,,da  ,da,1
 ,,do  ,do,1
 ,,chwech  ,xwex,1
 ,,tri  ,tri,1
-,,taid  (im.),taid,1
-,,glas  (im.),glas,1
+,,taid  ,taid,1
+,,glas  ,glas,1
 ,,ia  ,lala,1
-,,coch (im.) ,kox,1
+,,coch,kox,1
 ,,mam,mam,1
 ,,na  ,na,1
-,,nain  (im.) ,nain,1
-,,plis (im.),plis,1
+,,nain   ,nain,1
+,,plis ,plis,1
 ,,pws ,pus,1
-,,dad (im.),dad,1
+,,dad,dad,1
 ,,tyrd  ,tyrd,1
 ,,aw  ,au,1
 ,,dau tri pedwar,daitripedwar,4
@@ -359,9 +368,9 @@ Welsh,Gwyn,adar,adar,2
 ,,hwnna,huna,2
 ,,moron,moron,2
 ,,mwnci,munki,2
-,,sos goch,sosgox,2
-,,syrthio,sɨrθjo,2
-,,(nos) da,da,1
+,,sos goch,sos=gox,2
+,,syrthio,sɨr=θjo,2
+,,da,da,1
 ,,aw,au,1
 ,,beic,baik,1
 ,,boch,box,1
@@ -378,7 +387,7 @@ Welsh,Gwyn,adar,adar,2
 ,,pêl,pe:l,1
 ,,Po,po,1
 ,,pws,pus,1
-,,rhein  ,rhain [voiceless r],1
+,,rhein  ,rhain,1
 ,,styc,stuk,1
 ,,tê,te:,1
 ,,tri,tri,1
@@ -386,22 +395,22 @@ Welsh,Gwyn,adar,adar,2
 ,,crocodeil,krokodail,3
 ,Elen,babi,babi,2
 ,,biscuit ,biskit,2
-,,choochoo (im.),tʃutʃu,2
+,,choochoo ,tʃutʃu,2
 ,,"dau, tri",daitri,2
 ,,Dipsi,dipsi,2
 ,,geegee,dʒidʒi,2
 ,,hello,helo,2
 ,,hiya,haija,2
-,,hwnna (tedi),huna,2
+,,hwnna,huna,2
 ,,La-La,lala,2
-,,llyga(dau),ɨɨga,2
+,,llyga,ɨɨga,2
 ,,oh god ,ogad,2
 ,,seesaw,seso,2
 ,,tata,tata,2
 ,,tedi,tedi,2
 ,,uh-oh,aʔo,2
 ,,beic,baik,1
-,,Bryn (im.),brɨn,1
+,,Bryn ,brɨn,1
 ,,ceg,keg,1
 ,,cloc,klok,1
 ,,da/diolch,da,1
@@ -411,14 +420,14 @@ Welsh,Gwyn,adar,adar,2
 ,,pen,pen,1
 ,,Po,po,1
 ,,trwyn  ,truin,1
-,,(hwnna?) Bryn ,hunabrɨn,3
+,,hwnna Bryn ,hunabrɨn,3
 ,,gwgalu,gugalu,3
 ,,llwy fana ,ɬuivana,3
 ,,pêl fyna,pe:lvɨna,3
 ,,pen fyna,penvɨna,3
 ,,baba fyna,babavɨna,4
 ,,"dau, tri, pedwar    ",daitrpedwar,4
-French,Adeline,au revoir,oʁə=vwaʁ,2
+French,Adeline,au revoir,oʁ=vwaʁ,2
 ,,bisou,bizu,2
 ,,bobo,bobo,2
 ,,chapeau,ʃapo,2
@@ -433,12 +442,12 @@ French,Adeline,au revoir,oʁə=vwaʁ,2
 ,,voilà,vwala,2
 ,,voiture ,vwatyʁ,2
 ,,bain,bɛ,1
-,,(oh) boum,(o)bum,1
+,,boum,bum,1
 ,,brosse,bʁɔs,1
 ,,champs ,ʃɑ,1
 ,,chat,ʃa,1
 ,,lave,lav,1
-,,là (là),la,1
+,,là,la,1
 ,,miaou,mjau,1
 ,,moi,mwa,1
 ,,non,nɔ,1
@@ -451,10 +460,8 @@ French,Adeline,au revoir,oʁə=vwaʁ,2
 ,,bravo,bʁavo,2
 ,,canard/coin-coin,kanaʁ,2
 ,,cassé ,kase,2
-,,cassé,kase,2
 ,,coucou,kuku,2
 ,,divan ,diva,2
-,,divan,diva,
 ,,encore,akoʁ,2
 ,,lequel ,løkel,2
 ,,lequel,løkel,2
@@ -635,7 +642,7 @@ French,Adeline,au revoir,oʁə=vwaʁ,2
 ,,train,tʁa,1
 ,,boum,bum,1
 ,,hop,op,1
-,,"l'autre, autres",lotʀ,1
+,,"l'autre, autres",lotʁ,1
 ,,là,la,1
 ,,ouais,we,1
 ,,rouge,ruʒ,1
@@ -772,7 +779,7 @@ Finnish,Atte,ääni,æ:ni,2
 ,,Myy,mu:,1
 ,,juustoa ,ju:stoa,3
 ,,[Muumi]pappa,mu:mipap:a,4
-,Sini,(ei ole) yhtään,[ei ole]uhtæ:n,2
+,Sini,(ei ole) yhtään,ei oleuhtæ:n,5
 ,,yhtään,uhtæ:n,2
 ,,heihei ,heihei,2
 ,,heppa,hep:a,2
@@ -845,41 +852,320 @@ Finnish,Atte,ääni,æ:ni,2
 ,,tiktak,kikak,2
 ,,nam-nam,mam=mam,2
 ,,nami,nami,2
-Japanese,Haruo,foot,açi  ,2
+Urdu,Afan,mama ,mama,2
+,,ajao, a:dʒao,2
+,,baba,baba,2
+,,han,ha:,1
+,,yay ,je:,1
+,,na/ nahin, nahi,2
+,,do,do,1
+,,phool,pu:l,1
+,,Saima,səmi:na,3
+,,"mimmi BT, (o)",m:im:i,3
+,,Bazil,bazil,2
+,,AUNTI,anti,2
+,,idhar,idar,2
+,,bhaye,bai,1
+,,bhow bhow,bəu bəu ,2
+,,gaye,gəi,1
+,,chunti,tʃunʈi,2
+,,ta,ta:,1
+,,anda,ənɖɑ,2
+,,JUICE,dʒu:s,1
+,,chai (im.),tʃa:i,1
+,,jaaee (im.),dʒa:e,1
+,,Durrain,dur:i,2
+,,dawaye,də va:i,2
+,,COW,kau,1
+,,DOGGY BT,dɔggi,2
+,,UNCLE,ʌŋkal,2
+,,ganda (im.),gandə,2
+,,baal,ba:l,1
+,,udhar,udʰar,2
+,,pani,pan:i,2
+,,mam BT,mam,1
+,,vo,vo,1
+,,dada,dada,2
+,,chacha,tʃa:tʃə,2
+,,Rabia,ra:bja,2
+,,ooper,u:pər,2
+,,yay hai,je he:,2
+,,JUICE do,dʒu:s=do,2
+,,maon ajao,ma:o adʒao,3
+,,"aunti gaye hai, aunti gaye",anti gəi,3
+,Radia,BALL,bɔl,1
+,,dhakan,ɖʰakən,2
+,,band,bʌnd,1
+,,daal,ɖa:l,1
+,,chalo,tʃal:o,2
+,,BOTTLE ,bɒtəl,2
+,,MAMA,mam:a,2
+,,bismillah,bismil:a,3
+,,aur,ɔr,1
+,,"one, two, three",wən tu: tʰri:,3
+,,nahin,nəhi,2
+,,khana,kʰa:na,2
+,,Allah,əl:a,2
+,,toba,tɔb:a,2
+,,machar,mətʃʰər,2
+,,PILLOW,pilo,2
+,,ganda,gəndə,2
+,,Allahuakbar,əllahuakbar,5
+,,daalu,ɖa:l:u,2
+,,Allahhafiz,əl:a hafiz,4
+,,vava BT,va:hva,2
+,,utaro,uta:ro,3
+,,dadi,da:di,2
+,,oho!,oho:,2
+,,BASKET,ba:skit,2
+,,Allahhu,əl:ahu,3
+,,nino BT,ni:no,2
+,,yay,je,1
+,,acha ,ətʃə,2
+,,kapra,kəpɽa,2
+,,davayee,dəva:i,2
+,,ayee!,a:i:,2
+,,kharab hogya (im.),xəra:b ho gja,4
+,,daal dya (im.),ɖa:l dija,3
+,,gir gaya,gir=gja,2
+,,so rahi (im.),so rəhi,3
+,,"kha lo,kha lun",kʰalo,2
+,,theek hai,tʰi:k=hæ,2
+,,kya bat hai? (im.),kjaba:thæ,3
+,, sona,sona,2
+,Shazim,BALL,bɔl,1
+,,yay ,je,1
+,,ayee! (o),a:i:,2
+,,CATTY BT,kœti,2
+,,AUNTI,a:nti,2
+,,miyon(o) BT,mi:jəo:,2
+,,TRACTOR,trœktər,2
+,,EYES,a:iz,2
+,,aur,ɔr,1
+,,nano,na:no:,2
+,,khala,kʰala,2
+,,bhayee,bʰa:i,2
+,,duddu BT,dud:u,2
+,,JUICE,dʒu:s,1
+,,MAMA,mam:a,2
+,,ajao(im.),a:dʒao,2
+,,baow baow(o)BT,bʰəu bʰəu ,2
+,,chuchu(o) BT,tʃu:tʃu,2
+,,LION,lain,1
+,,Kashmir,kaʃmir,2
+,,AEROPLANE,æːropleɪn,3
+,,mamu,ma:mu,2
+,,COW,ka:o,1
+,,CAKE(im.),ke:k,1
+,,baba,baba,2
+,,HORSE,hɔːrs,1
+,,billi,bil:i,2
+,,DOGGY BT,dɒɡi,2
+,,chunti,tʃu:nʈi,2
+,,"ajjan (o), BT",əj:a:,2
+,,NO,no,1
+,,phuppo,pʰup:o,2
+,,abbu jee,əb:u dʒi,3
+,,dado,dad:o,2
+,,chachu,tʃa:tʃu,2
+,,yay kya hai ,je: kja he,3
+,,yay maon hai,je: mao he:,3
+,,AUNTI nay diya hai(im.),a:nti ne dija he:,6
+,,MAMA ko ai ho gaye( i),mama ko a:i ho gəi,6
+Japanese,Taro,"oh, gone ",aiʨ:at:a ,3
+,,"hey, what's this? ",anandakoɾe ,5
+,,hot ,at:sɯi (im.),2
+,,baby,bebi:,2
+,,ball,bo:ɾɯ,2
+,,car,bɯbɯ,2
+,,train ,den=ɕa ,2
+,,bath/sound of pouring water,dʑadʑa,2
+,,"pencil, writing  ",dʑidʑi ,2
+,,juice,dʑɯ:sɯ,2
+,,here you are,hai,1
+,,went in,hait:a,2
+,,book ,hon  (im.),1
+,,ouch ,itai ,2
+,,found (s'th) ,itai ,2
+,,here ,koko ,2
+,,cookie ,kɯk:i: ,2
+,,shoes,kɯtsɯ,2
+,,all gone ,nainai ,2
+,,what's this? ,nanikoɾe ,4
+,,sleep,nen:e,2
+,,cat/meow,njan,1
+,,got up ,ok:iɕita (im.) ,4
+,,eyes,omeme (im.),3
+,,fish,ototo,3
+,,biting sound ,pakɯn,2
+,,daddy,papa,2
+,,bird,pipi,2
+,,splashing sound,piʨapiʨa,4
+,,apple,ɾiŋ=go,2
+,,alligator,wani,2
+,,doggy,wanwan,2
+French,Gaël,accrocher,akʁɔʃe,3
+,,ballon  ,balo,2
+,,bébé ,bebe,2
+,,bleu ,blø,1
+,,c'est ça  ,sesa,2
+,,casser,kase,2
+,,chercher,ʃɛʁ=ʃe,2
+,,la dame la,ladam=la,3
+,,dedans ,dəda,2
+,,deux ,dø,1
+,,dodo ,dodo,2
+,,dormir,doʁ=mi,2
+,,écrit ,ekʁi,2
+,,feu ,fø,1
+,,Gael?,gaɛl,1
+,,grelot ,gʁəlo,2
+,,gros ,gʁo,1
+,,grosse ,gʁos,1
+,,ici ,isi,2
+,,là ,la,1
+,,là bas ,laba,2
+,,machine ,maʃin,2
+,,maman ,mama,2
+,,non ,no,1
+,,ouais ,we,1
+,,oui ,wi,1
+,,ouvre ,uvʁ,1
+,,ouvrir ,uvʁiʁ,2
+,,papa ,papa,2
+,,pas ,pa,1
+,,plus ,ply,1
+,,roue ,ʁu,1
+,,rouge ,ʁuʒ,1
+,,sou ,su,1
+,,tas ,ta,1
+,,tout seul ,tusøl,2
+,,trax,tʁaks,1
+,,vert ,vɛʁ,1
+,,voiture ,vwatyʁ,2
+Japanese,Hiromi,foot,anjo,2
+,,Barney (dinosaur),baːniː,2
+,,baby,beːbiː,2
+,,ball,boːɾɯ,2
+,,"car (BT), vroom",bɯbːɯː,2
+,,fish [ENG],fiɕːɯ,2
+,,eight,haʨi,2
+,,hippopotamus,kaba,2
+,,duck,kakːa,2
+,,turtle,kame,2
+,,cute,kawaiː,2
+,,cake,keːki,2
+,,this,koɾe,2
+,,this (Hello) Kitty,koɾe kitiː,4
+,,mom,mama,2
+,,ear-chan,mimitʃan,3
+,,ear,mimi,2
+,,neko 'cat,neko,2
+,,sleep,nenːe,2
+,,panda,pan=da,2
+,,daddy,papa,2
+,,butterfly,ʨoːʨo,2
+,,doggie,waŋwaŋ jo,3
+,,(peek-a-) boo,baː,1
+,,sh,ɕiː,1
+,,roar,gao,1
+,,tooth,ha,1
+,,good,iː,1
+,,eye,me,1
+,,moo ,moː,1
+,,"all gone, isn't any",nai,1
+,,kiss,ʨɯ,1
+,,hand,te,1
+,,baby-chan,bebiːʨaŋ,3
+,,jump-jump,ʥam=pɯʥam=pɯ,2
+,,peek-a-boo,inai inai baː,5
+,,kangaroo,kaŋ=gaɾɯː,3
+,,here-here,koko koko,4
+,,horsie (BT),pakapaka,4
+,,foot +dm1,aŋjo jo,3
+,,foot +dm2,aŋjo ne:,3
+,,cute +dm,kawaiː neː,3
+,,this ball,koɾe boːɾɯ,4
+,,this Kitty,koɾe kitiː,4
+,,this+dm,koɾe ne,3
+,,sleep+dm,nenːe jo,3
+,Haruo,foot,açi  ,2
 ,,"what's up, this is odd'",aɾe ,2
 ,,"here it is, found it",at:a ,2
-,,hot,aʦɯi,2
+,,hot,aʨ:i (im.),2
 ,,byebye,baibai,2
 ,,cheers (hands up),baŋ=zai   (im.),2
 ,,baby,bebi,2
 ,,car,bɯbɯ ,2
 ,,hold me,dak:o (im.),2
-,,don't [not SU],dame (im.),2
+,,don't ,dame (im.),2
 ,,telephone,deŋ=wa  ,2
 ,,please,do:zo ,2
-,,where [not SU],doko ,2
+,,where ,doko ,2
+,,fall-down sound,doŋ,1
 ,,jump,dʑam=pɯ,2
 ,,juice,ʥɯ:sɯ ,2
 ,,hello (telephone),haɾo:,2
-,,I want it [not SU],hoɕi: (im.),2
+,,I want it ,hoɕi: (im.),2
 ,,"no, don't want to",ija ,2
-,,ouch [not SU],itai  ,2
+,,peek-a-boo ,inaiinai,4
+,,I'm not here ,inaijo  ,3
+,,ouch ,itai  ,2
+,,please no! ,jadajo,3
 ,,effort sound,joiɕo  ,2
-,,here [not SU],koko ,2
-,,this [not SU],kore,2
+,,here ,koko ,2
+,,this ,koɾe,2
 ,,shoes,kɯk:ɯ ,2
-,,mummy [not SU],mama ,2
-,,all gone,nainai  ,2
-,,take off clothes,nɯgɯ ,2
-,,choochoo,pop:o (im.),2
-,,stand up!,taʨ:I (im.),2
-,,doggie,waŋwaŋ,2
-,,fall-down sound,doŋ,1
+,,mummy ,mama ,2
 ,,moo,mo:,1
 ,,gone,nai ,1
-,,peek-a-boo [not SU],inaiinai,3
-,,I'm not here [not SU],inaijo  ,3
-,,please no! [not SU],jadajo,3
-,,fell down [not SU],oʨiʨat:a,4
+,,all gone,nainai  ,2
+,,take off clothes,nɯgɯ ,2
+,,fell down ,oʨiʨat:a,4
 ,,it's over,owaʨ:at:a ,4
 ,,horsey/gallop sd.,pakapaka,4
+,,choochoo,pop:o (im.),2
+,,stand up!,taʨ:I (im.),2
+,,doggie,waŋwaŋ (im.) ,2
+,,banana (child's word),namɯnamɯ  ,4
+,,roar sound,gao (im.),1
+,,rolling sound? lying down?,goɾoŋ (im.),2
+,,no (pulls on vest),no: ,1
+,Kazuko,shake hands,akushu,3
+,,rain,ame,2
+,,thank you,arigato (im.),4
+,,foot,ashi,2
+,,baby,bebitʃan,3
+,,Big Bird,big=bɜ:d,2
+,,hat,bo:shi,2
+,,car,bubu,2
+,,pig,buta (im.) ,2
+,,hold me,dak:o,2
+,,telephone,den=wa,2
+,,please,do:zo,2
+,,milk,gjɯːɲjɯː,2
+,,chattering,gotogoto,4
+,,here you are,hai,1
+,,hello,haɾo:,2
+,,people,hito (im.),2
+,,doesn't exist,inai (im.),2
+,,pouring liquid sound,jaa,1
+,,ticktock,kotʃikotʃi,4
+,,mouth,kutʃi (im.),2
+,,Mr. Bear,kumatʃan,3
+,,cloud,kumo,2
+,,comb,kushi (im.),2
+,,ear,mimi,2
+,,ear-chan,mimitʃan,3
+,,chewing sound,mushamusha (im.),4
+,,"all gone, put away",nainai,2
+,,sleeping,nen:e,2
+,,kitty,nyan:yan,2
+,,granny,obaatʃama ,4
+,,naval,oheso,3
+,,eyes,omeme,3
+,,daiper,omutsu (im.),3
+,,dolly,oniŋg=jotʃan,4
+,,plate,osara,3
+,,Mr. Horsie,oumatʃan,3
+,,baby-chan,bebiːʨaŋ,3

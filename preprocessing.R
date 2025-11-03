@@ -22,22 +22,27 @@ data_ready$IPAactual <- gsub("\\s*\\([^\\)]+\\)","", as.character(data_ready$IPA
 data_ready$Gloss <- gsub("\\s*\\([^\\)]+\\)","", as.character(data_ready$Gloss))
 data_ready$IPAtarget <- gsub("\\s*\\([^\\)]+\\)","", as.character(data_ready$IPAtarget))
 
-FR_prepped <- read_csv("Prepared_data_FR.csv") %>%
-  fill(Gloss, IPAtarget, .direction = "down") %>%
-  mutate(Language = "French")
-
-# remove data in parentheses
-FR_prepped$IPAactual <- gsub("\\s*\\([^\\)]+\\)","", as.character(FR_prepped$IPAactual))
-FR_prepped$Gloss <- gsub("\\s*\\([^\\)]+\\)","", as.character(FR_prepped$Gloss))
-FR_prepped$IPAtarget <- gsub("\\s*\\([^\\)]+\\)","", as.character(FR_prepped$IPAtarget))
-
-all_data <- rbind(FR_prepped, data_ready)
+# FR_prepped <- read_csv("Prepared_data_FR.csv") %>%
+#   fill(Gloss, IPAtarget, .direction = "down") %>%
+#   mutate(Language = "French")
+# 
+# # remove data in parentheses
+# FR_prepped$IPAactual <- gsub("\\s*\\([^\\)]+\\)","", as.character(FR_prepped$IPAactual))
+# FR_prepped$Gloss <- gsub("\\s*\\([^\\)]+\\)","", as.character(FR_prepped$Gloss))
+# FR_prepped$IPAtarget <- gsub("\\s*\\([^\\)]+\\)","", as.character(FR_prepped$IPAtarget))
+# 
+# all_data <- rbind(FR_prepped, data_ready)
 
 #usable_data <- all_data %>% group_by(Subject, Language) %>% tally()
 
 IPA_transcriptions <- read_csv("IPA transcriptions.csv")%>%
-  fill(Language, Subject) %>%
-  group_by(Subject, Language, Gloss) %>% slice(1)
+  fill(Language, Subject) 
+
+IPA_transcriptions$Gloss <- gsub("\\s*\\([^\\)]+\\)","", as.character(IPA_transcriptions$Gloss))
+IPA_transcriptions$IPA <- gsub("\\s*\\([^\\)]+\\)","", as.character(IPA_transcriptions$IPA))
+
+IPA_transcriptions <- IPA_transcriptions %>%
+   group_by(Subject, Language, Gloss, nsyl_target) %>% slice(1)
 
 usable_data <- c("Ella",
                  "Ivy",
@@ -70,12 +75,10 @@ usable_data <- c("Ella",
                  "Elen" 
                  )
 
-
-all_data <- all_data %>% filter(Subject %in% usable_data) %>%
+all_data <- data_ready %>% filter(Subject %in% usable_data) %>%
   left_join(IPA_transcriptions) %>%
-  mutate(IPAtarget = ifelse(is.na(IPAtarget), IPA, IPAtarget)) #%>%
-  #fill(IPAtarget)
-
-to_transcribe <- all_data %>% filter(is.na(IPAtarget)) %>% group_by(Language, Subject, Gloss) %>% tally()
+  mutate(IPAtarget = ifelse(is.na(IPAtarget), IPA, IPAtarget)) %>%
+  fill(IPAtarget) %>%
+  dplyr::select(-IPA)
 
 write_csv(all_data, "data_ready.csv")
