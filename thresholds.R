@@ -12,7 +12,7 @@ names(thresholds) <- paste("threshold", thresholds, sep ="_") # name list object
 
 globaldistance_list <- lapply(thresholds, function(t) {
   filter(globaldistance, distance_norm < t) %>%
-    group_by(Speaker, gloss1) %>%                     # for gloss1 side of the data, otherwise 50% of data is missed (oops)
+    group_by(Speaker, gloss1, data_type) %>%                     # for gloss1 side of the data, otherwise 50% of data is missed (oops)
     tally()
 })
 
