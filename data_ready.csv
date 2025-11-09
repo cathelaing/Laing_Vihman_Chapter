@@ -24,7 +24,7 @@ French,Gaël,22,bleu,blø,blœ:,1
 French,Gaël,22,bleu,blø,blœ:,1
 French,Gaël,22,c'est ça,sesa,esa,2
 French,Gaël,22,c'est ça,sesa,es,2
-French,Gaël,22,c'est ça,sesa,esa:,2
+French,Gaël,22,c'est ça,sesa,esa,2
 French,Gaël,22,c'est ça,sesa,əsa,2
 French,Gaël,22,c'est ça,sesa,əsea,2
 French,Gaël,22,c'est ça,sesa,esa,2
@@ -200,9 +200,9 @@ UK,Ella,16,door,dɔ,dɔx,1
 UK,Ella,16,door,dɔ,dɔʔɪ,1
 UK,Ella,16,door,dɔ,dɔ:,1
 UK,Ella,16,fall,feil,hʷaʊʔ,1
-UK,Ella,16,glasses,glæsəs,ɪjasi:ç,2
+UK,Ella,16,glasses,glæsəs,ɪjasiç,2
 UK,Ella,16,glasses,glæsəs,ijaʃi,2
-UK,Ella,16,glasses,glæsəs,aʔsi:,2
+UK,Ella,16,glasses,glæsəs,aʔsi,2
 UK,Ella,16,glasses,glæsəs,kaʔʃi,2
 UK,Ella,16,glasses,glæsəs,ijasʃiju,2
 UK,Ella,16,glasses,glæsəs,ɪlasʃɪ,2
@@ -287,10 +287,10 @@ UK,Ella,16,spoon,spu:n,æmu:nε,1
 UK,Ella,16,toast,to:ʊst,kəjəʊs,1
 UK,Ella,16,toast,to:ʊst,kətəʊɸs,1
 UK,Ella,16,toast,to:ʊst,kətəʊɸs,1
-UK,Ella,16,woof woof,wuf=wuf,ijʌf ɹaf,2
+UK,Ella,16,woof woof,wuf=wuf,ijʌfɹaf,2
 UK,Ella,16,woof woof,wuf=wuf,ijuf,2
-UK,Ella,16,woof woof,wuf=wuf,əɹf ɹεfʔwε,2
-UK,Ella,16,woof woof,wuf=wuf,əjʌk pɹεp,2
+UK,Ella,16,woof woof,wuf=wuf,əɹfɹεfʔwε,2
+UK,Ella,16,woof woof,wuf=wuf,əjʌkpɹεp,2
 UK,Ivy,17,baby,beɪbi,babiç,2
 UK,Ivy,17,baby,beɪbi,bεbi:,2
 UK,Ivy,17,baby,beɪbi,biβiⁿ,2
@@ -326,7 +326,7 @@ UK,Ivy,17,elephant,ɛləfənt,ijəʔu,3
 UK,Ivy,17,elephant,ɛləfənt,iju:ʂ,3
 UK,Ivy,17,giraffe,ʤəɹæf,əwɑ:ə,2
 UK,Ivy,17,giraffe,ʤəɹæf,hija:əʊɸ,2
-UK,Ivy,17,giraffe,ʤəɹæf,ɪr:a:æ,2
+UK,Ivy,17,giraffe,ʤəɹæf,ɪɹ:a:æ,2
 UK,Ivy,17,giraffe,ʤəɹæf,əwɑ:ə,2
 UK,Ivy,17,hat,hæt,ɪshε,1
 UK,Ivy,17,Jessica,ʤɛsɪkʌ,ʊʃɪba:ʔɪ,3
@@ -368,7 +368,7 @@ UK,Ivy,17,row row,ɹoʊɹoʊ,wa:əro:,2
 UK,Ivy,17,row row,ɹoʊɹoʊ,əraʊ:βaʉ:,2
 UK,Ivy,17,row row,ɹoʊɹoʊ,əɹa:ɫəɸ,2
 UK,Ivy,17,row row,ɹoʊɹoʊ,ɪɹavβə:u:,2
-UK,Ivy,17,snake,sneɪk,ʃi;jæ,1
+UK,Ivy,17,snake,sneɪk,ʃi:jæ,1
 UK,Ivy,17,snake,sneɪk,ʃeɪ:jε,1
 UK,Ivy,17,star,sta:,dɒ:,1
 UK,Ivy,17,star,sta:,dɑ:,1
@@ -386,8 +386,8 @@ UK,Ivy,17,what's that?,wʌts=ðæt,wʊʃiçra:ʔ,2
 UK,Ivy,17,what's that?,wʌts=ðæt,hizjæ,2
 UK,Ivy,17,whee,wi:,əwi::ç,1
 UK,Ivy,17,whee,wi:,əwi:n,1
-UK,Ivy,17,woof,wʊf, wɑɸwəɸʔwε,1
-UK,Ivy,17,woof,wʊf,wəʔɸ,1
+UK,Ivy,17,woof,wʊf=wʊf, wɑɸwəɸʔwε,2
+UK,Ivy,17,woof,wʊf=wʊf,wəʔɸ,2
 UK,Ivy,17,yay!,yei,jaɪç,1
 UK,Ivy,17,yay!,yei,jəʔaɪ:,1
 UK,Ivy,17,yeah,yɛ,hijε,1
@@ -645,7 +645,7 @@ UK,Rachel,17,Beba,bɛba,bɛbəːts,2
 UK,Rachel,17,Beba,bɛba,bebəːθ,2
 UK,Rachel,17,beep beep,bibip,bɛbiːjə,2
 UK,Rachel,17,bike,baik,mːaʔaʔ,1
-UK,Rachel,17,biscuits,bis=kits,pɪʔθʷɪʔθ tθ,2
+UK,Rachel,17,biscuits,bis=kits,pɪʔθʷɪʔθtθ,2
 UK,Rachel,17,boo,bu:,wɛwʊʔbəʊː,1
 UK,Rachel,17,bye,baɪ,ɸaːːɪ,1
 UK,Rachel,17,bye,baɪ,bɛːiː,1
@@ -688,7 +688,7 @@ UK,Rachel,17,duck,dʌk,ʊŋkəkx,1
 UK,Rachel,17,duck,dʌk,kʊʔ  k,1
 UK,Rachel,17,fish,fɪʃ,hɔːθː,1
 UK,Rachel,17,fish,fɪʃ,hɔwəts,1
-UK,Rachel,17,flowers,flaʊ=əz,əwɒːwəsːː,2
+UK,Rachel,17,flowers,flaʊ=əz,əwɒːwəsː,2
 UK,Rachel,17,flowers,flaʊ=əz,ʊwəʊwaθ,2
 UK,Rachel,17,get you,gɛtjʌ,gɒɪjə,2
 UK,Rachel,17,go,goʊ,gəːʊ,1
@@ -791,7 +791,7 @@ UK,Tobias,18,moo,mu:,ɪmɪ̃ʊ̃ː,1
 UK,Tobias,18,moo,mu:,ɪ̃mɪ̃ʊ̃,1
 UK,Tobias,18,moo,mu:,bəmɜːː,1
 UK,Tobias,18,mouse,maʊs,mʊə,1
-UK,Tobias,18,neenaw,ni:nɔ:,nĩːja,2
+UK,Tobias,18,neenaw,ni:nɔ:,niːja,2
 UK,Tobias,18,neenaw,ni:nɔ:,iːːna,2
 UK,Tobias,18,peacock,pi:kak,biʔʧɔʔ,2
 UK,Tobias,18,plane,pleɪn,beɪ,1
@@ -847,7 +847,7 @@ UK,Tobias,18,toot toot,tu:tu:t,dʊʔtɒɪjə,2
 UK,Tobias,18,tortoise,tɔ:təs,bɒːdi,2
 UK,Tobias,18,what's that,wʌts=ðæt,awɪdsaʔ,2
 UK,Tobias,18,what's that,wʌts=ðæt,ɪzsaʔ,2
-UK,Tobias,18,what's that,wʌts=ðæt,əzɪdɫzʲaʔ,2
+UK,Tobias,18,what's that,wʌts=ðæt,əzɪdɫzjaʔ,2
 UK,Tobias,18,what's that,wʌts=ðæt,ɪzʲaʔ,2
 UK,Tobias,18,what's that,wʌts=ðæt,ɪzʲaːʔə,2
 UK,Tobias,18,woof woof,wuf=wuf,ʊ,2
@@ -961,16 +961,16 @@ Finnish,Atte,20,pappa,pap:a,apop:a,2
 Finnish,Atte,20,pupu,pupu,pupu,2
 Finnish,Atte,20,ralliauto,ral:i=auto,lu:liauto,4
 Finnish,Atte,20,ralliauto,ral:i=auto,lu:liauto,4
-Finnish,Atte,20,sammui,sam:ui,am:u.auto,3
+Finnish,Atte,20,sammui,sam:ui,am:uauto,3
 Finnish,Atte,20,sammui,sam:ui,autum,3
 Finnish,Atte,20,sammui,sam:ui,am:u,3
-Finnish,Atte,20,sammui,sam:ui,am:u.auto,3
-Finnish,Atte,20,sammui,sam:ui,am:u.auto,3
+Finnish,Atte,20,sammui,sam:ui,am:uauto,3
+Finnish,Atte,20,sammui,sam:ui,am:uauto,3
 Finnish,Atte,20,sammui,sam:ui,autum,3
 Finnish,Atte,20,sammui,sam:ui,autum,3
 Finnish,Atte,20,sammui,sam:ui,am:u,3
-Finnish,Atte,20,sammui,sam:ui,am:u.auto,3
-Finnish,Atte,20,sammui,sam:ui,am:u.auto,3
+Finnish,Atte,20,sammui,sam:ui,am:uauto,3
+Finnish,Atte,20,sammui,sam:ui,am:uauto,3
 Finnish,Atte,20,sammui,sam:ui,autum,3
 Finnish,Atte,20,sammui,sam:ui,autum,3
 Finnish,Atte,20,tippui,tip:ui,pip:u,3
@@ -1092,13 +1092,13 @@ Finnish,Eelis,20,suu,su:,u:,1
 Finnish,Eelis,20,tuo,tuo,tu:,1
 Finnish,Eelis,20,tuo,tuo,tu:,1
 Finnish,Eelis,20,tuu,tu:,tu:,1
-Finnish,Eliisa,15,bää,bæ:,pää,1
-Finnish,Eliisa,15,bää,bæ:,pää,1
-Finnish,Eliisa,15,bää,bæ:,pää,1
-Finnish,Eliisa,15,"haloo, hallo",hal:o:,a.o,2
-Finnish,Eliisa,15,"haloo, hallo",hal:o:,a.o:,2
-Finnish,Eliisa,15,hauva,hauʋa,hau.u,2
-Finnish,Eliisa,15,hauva,hauʋa,ha.u,2
+Finnish,Eliisa,15,bää,bæ:,paa,1
+Finnish,Eliisa,15,bää,bæ:,paa,1
+Finnish,Eliisa,15,bää,bæ:,paa,1
+Finnish,Eliisa,15,"haloo, hallo",hal:o:,ao,2
+Finnish,Eliisa,15,"haloo, hallo",hal:o:,ao:,2
+Finnish,Eliisa,15,hauva,hauʋa,hauu,2
+Finnish,Eliisa,15,hauva,hauʋa,hau,2
 Finnish,Eliisa,15,hauva,hauʋa,hauvau,2
 Finnish,Eliisa,15,hauva,hauʋa,aua,2
 Finnish,Eliisa,15,hauva,hauʋa,aua:,2
@@ -1179,7 +1179,7 @@ Finnish,Eliisa,15,pappa,pap:a,pap:a,2
 Finnish,Eliisa,15,pappa,pap:a,pap:a,2
 Finnish,Eliisa,15,pappa,pap:a,pap:a,2
 Finnish,Eliisa,15,pappa,pap:a,pap:a,2
-Finnish,Eliisa,15,piiloon,pi:lo:n,i.o:,2
+Finnish,Eliisa,15,piiloon,pi:lo:n,io:,2
 Finnish,Eliisa,15,pomppi,pomp:i,pop:i,2
 Finnish,Eliisa,15,pomppi,pomp:i,pop:i:,2
 Finnish,Eliisa,15,pupu,pupu,pupo,2
@@ -1266,17 +1266,17 @@ Finnish,Sini,15,yhtään,uhtæ:n,yt:æ:,2
 Finnish,Sini,15,ei,ei,ei,1
 Finnish,Sini,15,ei ole,ei ole,eio,3
 Finnish,Sini,15,ei ole,ei ole,eio:,3
-Finnish,Sini,15,heihei,heihei,ei.ei,2
+Finnish,Sini,15,heihei,heihei,eiei,2
 Finnish,Sini,15,heppa,hep:a,ep:a,2
 Finnish,Sini,15,istuu,istu:,it:u:,2
 Finnish,Sini,15,jugurtti,jugurt:i,uku,3
-Finnish,Sini,15,juna,juna,u.a,2
+Finnish,Sini,15,juna,juna,ua,2
 Finnish,Sini,15,kakku,kak:u,kak:a,2
 Finnish,Sini,15,kiikkaa,kik:a:,ki:k:a:,2
 Finnish,Sini,15,kiikkaa,kik:a:,ki:k:u:,2
 Finnish,Sini,15,kiikkaa,kik:a:,kik:a:,2
-Finnish,Sini,15,kirahvi,kirahvi,ki:.a,3
-Finnish,Sini,15,kirahvi,kirahvi,ki.a,3
+Finnish,Sini,15,kirahvi,kirahvi,ki:a,3
+Finnish,Sini,15,kirahvi,kirahvi,kia,3
 Finnish,Sini,15,kirja,kirja,ki:a,2
 Finnish,Sini,15,kirja,kirja,ki:,2
 Finnish,Sini,15,korkki,kork:i,kok:i,2
@@ -1286,7 +1286,7 @@ Finnish,Sini,15,korva,korva,ko:a,2
 Finnish,Sini,15,koti,koti,koki,2
 Finnish,Sini,15,kukka,kuk:a,kuk:a,2
 Finnish,Sini,15,kuppi,kup:i,kuk:i,2
-Finnish,Sini,15,kynä,kunæ,ku.a,2
+Finnish,Sini,15,kynä,kunæ,kua,2
 Finnish,Sini,15,laukku,lauk:u,auk:u,2
 Finnish,Sini,15,leipä,leipæ,eipæ,2
 Finnish,Sini,15,loppu,lop:u,op:u,2
@@ -1295,7 +1295,7 @@ Finnish,Sini,15,loppu,lop:u,top:u,2
 Finnish,Sini,15,loppu,lop:u,pop:u,2
 Finnish,Sini,15,loppu,lop:u,ep:u,2
 Finnish,Sini,15,lusikka,lusik:a,uk:a,3
-Finnish,Sini,15,minun,minun,mi.u,2
+Finnish,Sini,15,minun,minun,miu,2
 Finnish,Sini,15,mummi,mum:i,m:i,2
 Finnish,Sini,15,nami,nami,ami,2
 Finnish,Sini,15,napa,napa,apa,2
@@ -1305,15 +1305,15 @@ Finnish,Sini,15,nappi,nap:i,ap:i,2
 Finnish,Sini,15,oppista,op:ista,op:i,3
 Finnish,Sini,15,pallo,pal:o,pa:,2
 Finnish,Sini,15,pallo,pal:o,bal:o,2
-Finnish,Sini,15,pallo,pal:o,pa:.o,2
+Finnish,Sini,15,pallo,pal:o,pa:o,2
 Finnish,Sini,15,paperi,paperi,papi,3
-Finnish,Sini,15,piilo,pi:lo,pi:.o,2
+Finnish,Sini,15,piilo,pi:lo,pi:o,2
 Finnish,Sini,15,pois,pois,poiç,1
 Finnish,Sini,15,pupu,pupu,pupu,2
 Finnish,Sini,15,pupu,pupu,pəpə,2
 Finnish,Sini,15,puu,pu:,pu:,1
-Finnish,Sini,15,puuro,pu:ro,pu:.o,2
-Finnish,Sini,15,pyörä,puoræ,pu:.æ,2
+Finnish,Sini,15,puuro,pu:ro,pu:o,2
+Finnish,Sini,15,pyörä,puoræ,pu:æ,2
 Finnish,Sini,15,rikki,rik:i,kik:i,2
 Finnish,Sini,15,rikki,rik:i,ik:i,2
 Finnish,Sini,15,roska,roska,ok:a,2
@@ -1329,11 +1329,11 @@ Finnish,Sini,15,tyttö,tut:o,tut:o,2
 Finnish,Sini,15,tyttö,tut:o,tut:o,2
 Finnish,Sini,15,ukki,uk:i,uk:i,2
 Finnish,Sini,15,vettä,vet:æ,et:æ,2
-Finnish,Sini,15,viili,vi:li,i:.i,2
-Finnish,Sini,15,hauhau,au=au,au.au,2
+Finnish,Sini,15,viili,vi:li,i:i,2
+Finnish,Sini,15,hauhau,au=au,auau,2
 Finnish,Sini,15,kvaak-kvaak,ka:k=ka:k,ka:k-ka:k,2
-Finnish,Sini,15,tiktak,kikak,ki.kak,2
-Finnish,Sini,15,nam-nam,mam=mam,mam.mam,2
+Finnish,Sini,15,tiktak,kikak,kikak,2
+Finnish,Sini,15,nam-nam,mam=mam,mam:am,2
 Japanese,Hiromi,21,foot,anjo,aija,2
 Japanese,Hiromi,21,foot,anjo,aija,2
 Japanese,Hiromi,21,Barney,baːniː,baːi,2
@@ -1478,7 +1478,7 @@ Japanese,Takeru,21,vroom,bɯː,bɯː,1
 Japanese,Takeru,21,vroom,bɯː,bɯː,1
 Japanese,Takeru,21,choochoo,ɕɯɕːɯː,ɕɯɕːɯː,2
 Japanese,Takeru,21,choochoo,ɕɯɕːɯː,içʔʝi,2
-Japanese,Takeru,21,choochoo,ɕɯɕːɯː,ıɕʔʑi,2
+Japanese,Takeru,21,choochoo,ɕɯɕːɯː,iɕʔʑi,2
 Japanese,Takeru,21,who,daɾe,daɾe,2
 Japanese,Takeru,21,who,daɾe,dæjɛ,2
 Japanese,Takeru,21,who,daɾe,dedæ,2
@@ -1569,23 +1569,23 @@ Japanese,Takeru,21,all gone,nai nai,nainai,2
 Japanese,Takeru,21,all gone,nai nai,nai nai,2
 Japanese,Takeru,21,all gone,nai nai,nai nai,2
 Japanese,Takeru,21,what,nani,nani,2
-Japanese,Takeru,21,what,nani,nanı,2
+Japanese,Takeru,21,what,nani,nani,2
 Japanese,Takeru,21,what,nani,nanɛ,2
 Japanese,Takeru,21,what,nani,næni,2
 Japanese,Takeru,21,what,nani,nanɛ,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
-Japanese,Takeru,21,what,nani,nanı,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
+Japanese,Takeru,21,what,nani,nani,2
 Japanese,Takeru,21,what color,nani iɾo,nani iɾo,4
 Japanese,Takeru,21,what color,nani iɾo,nani nə,4
 Japanese,Takeru,21,discourse marker,neː,neː,1
@@ -1634,7 +1634,7 @@ Japanese,Takeru,21,elephant,zoːsaŋ,zoːsaɴ,2
 Japanese,Takeru,21,elephant,zoːsaŋ,dʲoʑɤ,2
 Japanese,Haruo,20,foot,açi,ʔɔʤɪ:,2
 Japanese,Haruo,20,foot,açi,ʰʌçɪ:,2
-Japanese,Haruo,20,foot,açi,ʌttjʰɪ:,2
+Japanese,Haruo,20,foot,açi,ʌt:jʰɪ:,2
 Japanese,Haruo,20,"what's up, this is odd'",aɾe,aɾe:,2
 Japanese,Haruo,20,"what's up, this is odd'",aɾe,aja::,2
 Japanese,Haruo,20,"what's up, this is odd'",aɾe,aɾa:,2
@@ -1642,7 +1642,7 @@ Japanese,Haruo,20,"what's up, this is odd'",aɾe,ʔʌdɛ:,2
 Japanese,Haruo,20,"what's up, this is odd'",aɾe,ʔʌɾɛ:,2
 Japanese,Haruo,20,"what's up, this is odd'",aɾe,aɾe:,2
 Japanese,Haruo,20,"what's up, this is odd'",aɾe,aɾe:,2
-Japanese,Haruo,20,"here it is, found it",at:a,atta [wh],2
+Japanese,Haruo,20,"here it is, found it",at:a,at:a,2
 Japanese,Haruo,20,"here it is, found it",at:a,at:ʰa,2
 Japanese,Haruo,20,hot,aʨ:i,ʌt:ɕi:,2
 Japanese,Haruo,20,hot,aʨ:i,ʌt:ɕi:,2
@@ -1664,7 +1664,7 @@ Japanese,Haruo,20,hold me,dak:o,ʔʌ:daʔ,2
 Japanese,Haruo,20,don't,dame,mɛ:,2
 Japanese,Haruo,20,telephone,deŋ=wa,daba:,2
 Japanese,Haruo,20,please,do:zo,dʲɔ:dʲɔ:,2
-Japanese,Haruo,20,where,doko,do.ko,2
+Japanese,Haruo,20,where,doko,doko,2
 Japanese,Haruo,20,fall-down sound,doŋ,dʌm,1
 Japanese,Haruo,20,fall-down sound,doŋ,dɔn,1
 Japanese,Haruo,20,fall-down sound,doŋ,dæ:,1
@@ -1677,7 +1677,7 @@ Japanese,Haruo,20,jump,dʑam=pɯ,dæmp,2
 Japanese,Haruo,20,juice,ʥɯ:sɯ,ʧʊʃ:ʊ,2
 Japanese,Haruo,20,juice,ʥɯ:sɯ,dʲʊtʲʊ:,2
 Japanese,Haruo,20,juice,ʥɯ:sɯ,ʧɯʧɯ:,2
-Japanese,Haruo,20,juice,ʥɯ:sɯ,jʊt:'ʊ,2
+Japanese,Haruo,20,juice,ʥɯ:sɯ,jʊt:ʊ,2
 Japanese,Haruo,20,juice,ʥɯ:sɯ,dʲʊtʲʊ:,2
 Japanese,Haruo,20,juice,ʥɯ:sɯ,dʲʊtʲʊ:,2
 Japanese,Haruo,20,juice,ʥɯ:sɯ,dʲʊtʲʊ:,2
@@ -1867,7 +1867,7 @@ Japanese,Kazuko,15,telephone,den=wa,ʧɪ::wɑ,2
 Japanese,Kazuko,15,telephone,den=wa,gɪ̃wɑʔ,2
 Japanese,Kazuko,15,telephone,den=wa,gɪ::dwɑ̃ʔ,2
 Japanese,Kazuko,15,telephone,den=wa,gʰɪnjʌʔ,2
-Japanese,Kazuko,15,telephone,den=wa,gɪ:nwʌ?,2
+Japanese,Kazuko,15,telephone,den=wa,gɪ:nwʌʔ,2
 Japanese,Kazuko,15,please,do:zo,dɔ:zo,2
 Japanese,Kazuko,15,please,do:zo,dɔ:dɔʔ,2
 Japanese,Kazuko,15,please,do:zo,dʊ::ɬɔʔ,2
@@ -2233,7 +2233,7 @@ Urdu,Shazim,25,billi,bil:i,bəl:i,2
 Urdu,Shazim,25,DOGGY BT,dɒɡi,dat:i,2
 Urdu,Shazim,25,chunti,tʃu:nʈi,tu:ti,2
 Urdu,Shazim,25,"ajjan, BT",əj:a:,əj:a:,2
-Urdu,Shazim,25,NO,no,nũ:,1
+Urdu,Shazim,25,NO,no,nu:,1
 Urdu,Shazim,25,phuppo,pʰup:o,pup:o,2
 Urdu,Shazim,25,abbu jee,əbbu dʒi,a:budʒi,3
 Urdu,Shazim,25,dado,dad:o,dad:o,2
@@ -2406,7 +2406,7 @@ French,Julien,19,Boubou,bubu,bubu,2
 French,Julien,19,Boubou,bubu,babuə,2
 French,Julien,19,Boubou,bubu,bubə,2
 French,Julien,19,Clé,kle,ke,1
-French,Julien,19,Clé,kle,kˡe,1
+French,Julien,19,Clé,kle,kle,1
 French,Julien,19,Clé,kle,ke,1
 French,Julien,19,Corinne,korin,ləɬe,2
 French,Julien,19,cot cot,kot=kot,ku ku,2
@@ -2460,7 +2460,7 @@ French,Romuald,21,ah,a,a,1
 French,Romuald,21,ah,a,a,1
 French,Romuald,21,allô,alo,əlo,2
 French,Romuald,21,alors,aloʁ,alɔː,2
-French,Romuald,21,alors,aloʁ,ajɔ dadapa,2
+French,Romuald,21,alors,aloʁ,ajɔdadapa,2
 French,Romuald,21,l'avion,lavjo,lajø,2
 French,Romuald,21,ballon,balo,galo,2
 French,Romuald,21,bobo,bobo,bobo,2
@@ -2502,7 +2502,7 @@ French,Romuald,21,hop,op,ɔp,1
 French,Romuald,21,hop,op,ɔp,1
 French,Romuald,21,hop-là,op=la,ɔp a,2
 French,Romuald,21,hop-là,op=la,ap a,2
-French,Romuald,21,hop-là,op=la,tətətətə ɔp a,2
+French,Romuald,21,hop-là,op=la,tətətətəɔpa,2
 French,Romuald,21,hop-là,op=la,ap,2
 French,Romuald,21,là,la,la,1
 French,Romuald,21,là,la,ə la,1
@@ -2812,7 +2812,7 @@ Welsh,Gwyn,17,giraffe,dʒiraf,dija,2
 Welsh,Gwyn,17,giraffe,dʒiraf,djɪaf,2
 Welsh,Gwyn,17,giraffe,dʒiraf,dʒaʔθija:f,2
 Welsh,Gwyn,17,glaw,glau,glaʊ,1
-Welsh,Gwyn,17,glaw,glau,gl̩̩aʊ,1
+Welsh,Gwyn,17,glaw,glau,glaʊ,1
 Welsh,Gwyn,17,Guto,gito,xlʊda:,2
 Welsh,Gwyn,17,helo,helo,ʔalo:,2
 Welsh,Gwyn,17,helo,helo,ʔaləʊ:,2
@@ -3045,9 +3045,9 @@ Welsh,Elen,18,oh god,ogad,hɒ:ga:t,2
 Welsh,Elen,18,oh god,ogad,ʔʊʔə:gɒ:tʰ,2
 Welsh,Elen,18,oh god,ogad,aʰgɔ:d,2
 Welsh,Elen,18,pêl,pe:l,pa:l,1
-Welsh,Elen,18,pêl fyna,pe:lvɨna,bal.əla,3
-Welsh,Elen,18,pêl fyna,pe:lvɨna,pal.əla,3
-Welsh,Elen,18,pêl fyna,pe:lvɨna,pəl.əla,3
+Welsh,Elen,18,pêl fyna,pe:lvɨna,baləla,3
+Welsh,Elen,18,pêl fyna,pe:lvɨna,paləla,3
+Welsh,Elen,18,pêl fyna,pe:lvɨna,pələla,3
 Welsh,Elen,18,pen,pen,bən,1
 Welsh,Elen,18,pen,pen,pən,1
 Welsh,Elen,18,pen,pen,bən,1

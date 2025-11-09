@@ -10,7 +10,7 @@ full_data %>% group_by(Subject, Language) %>% tally()
 # remove vowels
 
 # substitute all target vowels for generic V because I don't care about vowels
-full_data$Vremoved_target <- gsub("([ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ ɯ ])", "V", full_data$IPAtarget) 
+full_data$Vremoved_target <- gsub("([ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ ɯ ʏ ı  ])", "V", full_data$IPAtarget) 
 
 full_data$Vremoved_target <- gsub("ʁ", "R", full_data$Vremoved_target) # code won't run properly with /ʁ/ so change to /R/
 full_data$Vremoved_target <- gsub("V::", "V", full_data$Vremoved_target)
@@ -33,7 +33,7 @@ full_data$Vremoved_target <- gsub("Vː", "V", full_data$Vremoved_target)
 
 # substitute all actual vowels for generic V because I don't care about vowels here either
 
-full_data$Vremoved_actual <- gsub("([ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ ɯ])", "V", 
+full_data$Vremoved_actual <- gsub("([ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ ɶ ʏ ı ɯ])", "V", 
                                   full_data$IPAactual)    # vowels taken from runnng Phone Inventory script in Phon
 
 full_data$Vremoved_actual <- gsub("ʁ", "R", full_data$Vremoved_actual) # code won't run properly with /ʁ/ so change to /R/
@@ -50,6 +50,7 @@ full_data$Vremoved_actual <- gsub("ⁿ", "n", full_data$Vremoved_actual)
 full_data$Vremoved_actual <- gsub("ʲ", "j", full_data$Vremoved_actual) ## check this with Marilyn
 full_data$Vremoved_actual <- gsub("ʰ", "", full_data$Vremoved_actual)  ## just remove aspiration?
 full_data$Vremoved_actual <- gsub("t¸", "t", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("ʷ", "w", full_data$Vremoved_actual) ## check all the below
 
 ## replace long consonants to maintain geminate equivalents across all datasets
 full_data$Vremoved_actual <- gsub("t:", "t-t", full_data$Vremoved_actual)
@@ -111,6 +112,14 @@ full_data$Vremoved_actual <- gsub("ɸː", "ɸ-ɸ", full_data$Vremoved_actual)
 full_data$Vremoved_actual <- gsub("mːː", "m-m", full_data$Vremoved_actual)
 full_data$Vremoved_actual <- gsub("βː", "β-β", full_data$Vremoved_actual)
 full_data$Vremoved_actual <- gsub("wː", "w-w", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("ʒ:", "ʒ-ʒ", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("θ:", "θ-θ", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("ʎ:", "ʎ-ʎ", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("w:", "w-w", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("ʨ:", "ʨ-ɕ", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("ʤ:", "ʤ-ʒ", full_data$Vremoved_actual)
+full_data$Vremoved_actual <- gsub("c:", "c-c", full_data$Vremoved_actual)
+
 
 full_data$Vremoved_target <- gsub("t:", "t-t", full_data$Vremoved_target)
 full_data$Vremoved_target <- gsub("b:", "b-b", full_data$Vremoved_target)
@@ -160,14 +169,14 @@ full_data$Vremoved_target <- gsub("ɬː", "ɬ-ɬ", full_data$Vremoved_target)
 full_data$Vremoved_target <- gsub("xː", "x-x", full_data$Vremoved_target)
 full_data$Vremoved_target <- gsub("fː", "f-f", full_data$Vremoved_target)
 full_data$Vremoved_target <- gsub("çː", "ç-ç", full_data$Vremoved_target)
-
+full_data$Vremoved_target <- gsub("ɕː", "ɕ-ɕ", full_data$Vremoved_target)
 
 full_data <- full_data %>% mutate(nsyl_actual = stringr::str_count(Vremoved_actual, "V"),
                                                           nsyl_actual = ifelse(nsyl_actual == 0, 1, nsyl_actual))
 
 #checks <- as.data.frame(unique(French$Vremoved_actual))
 
-full_data <- full_data %>% mutate(TargetCV = str_replace_all(str_replace_all(IPAtarget, 
+full_data <- full_data %>% mutate(TargetCV = str_replace_all(str_replace_all(IPAtarget,
                                                                              "[ø e a y ʌ ɛ o ɥ u i ɔ ɑ ɪ ə æ ɜ ʉ ɨ œ ɒ ɤ ɵ ʊ ε ɚ  ɯ ɶ]",
                                                                              "V"), "[^V]", "C"),
                                 TargetCV = as.factor(TargetCV))
@@ -245,10 +254,10 @@ sample_IPAtarget_loop_complex_Cinit <- lapply(nsyl_target_list_complex_Cinit, FU
   split_syl <- element %>% separate(Vremoved_target, c("S1C1_target", "S2C1_target"), "=") %>%
     separate(S1C1_target, c("S1C1_target", "S1CF_target"), "V") %>%
     separate(S2C1_target, c("SFC1_target", "SFCF_target"), "V")
-  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-    tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
-    tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-    tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(S1CF_target, c("S1CF1", "S1CF2", "S1CF3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
 })
 
 target_list_complex_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_complex_Cinit) 
@@ -263,10 +272,10 @@ sample_IPAtarget_loop_complex_Vinit <- lapply(nsyl_target_list_complex_Vinit, FU
   split_syl <- element %>% separate(Vremoved_target, c("S1C1_target", "S2C1_target"), "=") %>%
      separate(S1C1_target, c("S1C1_target", "S1CF_target"), "V") %>%
      separate(S2C1_target, c("SFC1_target", "SFCF_target"), "V")
-  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-      tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
-      tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-      tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
+      tidyr::separate(S1CF_target, c("S1CF1", "S1CF2", "S1CF3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
   })
 
 target_list_complex_Vinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_complex_Vinit) 
@@ -284,9 +293,9 @@ nsyl_target_list_Cinit <- full_data_disyls %>%
 
 sample_IPAtarget_loop_Cinit <- lapply(nsyl_target_list_Cinit, FUN = function(element) {
   split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V")
-  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-     tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-     tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
+     tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
+     tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
 })
 
 target_list_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_Cinit) 
@@ -298,16 +307,16 @@ nsyl_target_list_Vinit <- full_data_disyls %>%
 
 sample_IPAtarget_loop_Vinit <- lapply(nsyl_target_list_Vinit, FUN = function(element) {
   split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V")
-  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-    tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-    tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
 })
 
 target_list_Vinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_Vinit) 
 
-target_list <- rbind(target_list_Cinit, target_list_Vinit) %>% mutate(TS1CF1 = "",
-                                                                      TS1CF2 = "", 
-                                                                      TS1CF3 = "")
+target_list <- rbind(target_list_Cinit, target_list_Vinit) %>% mutate(S1CF1 = "",
+                                                                      S1CF2 = "", 
+                                                                      S1CF3 = "")
 
 ## with geminates
 
@@ -319,15 +328,15 @@ nsyl_target_list_gem_Cinit <- full_data_disyls %>%
 sample_IPAtarget_loop_gem_Cinit <- lapply(nsyl_target_list_gem_Cinit, FUN = function(element) {
   split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V") %>%
     tidyr::separate(SFC1_target, c("S1CF_target", "SFC1_target"), "-")
-  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-      tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
-      tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-      tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
+      tidyr::separate(S1CF_target, c("S1CF1", "S1CF2", "S1CF3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
+      tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
 })
 
-target_list_gem_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Cinit) %>% mutate(TS1CF1 = "",
-                                                                                               TS1CF2 = "", 
-                                                                                               TS1CF3 = "")
+target_list_gem_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Cinit) %>% mutate(S1CF1 = "",
+                                                                                               S1CF2 = "", 
+                                                                                               S1CF3 = "")
 
 nsyl_target_list_gem_Vinit <- full_data_disyls %>%
   filter(complex == F & geminate_T == 1) %>%
@@ -337,256 +346,409 @@ nsyl_target_list_gem_Vinit <- full_data_disyls %>%
 sample_IPAtarget_loop_gem_Vinit <- lapply(nsyl_target_list_gem_Vinit, FUN = function(element) {
   split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V") %>%
       tidyr::separate(SFC1_target, c("S1CF_target", "SFC1_target"), "-")
-  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("TS1C1", "TS1C2", "TS1C3"), sep = "(?<=.)") %>%
-    tidyr::separate(S1CF_target, c("TS1CF1", "TS1CF2", "TS1CF3"), sep = "(?<=.)") %>%
-    tidyr::separate(SFC1_target, c("TSFC1", "TSFC2", "TSFC3"), sep = "(?<=.)") %>%
-    tidyr::separate(SFCF_target, c("TSFCF1", "TSFCF2", "TSFCF3"), sep = "(?<=.)")
+  split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
+    tidyr::separate(S1CF_target, c("S1CF1", "S1CF2", "S1CF3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
+    tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
 })
 
 target_list_gem_Vinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Vinit)
 
 target_list_gem <- rbind(target_list_gem_Cinit, target_list_gem_Vinit)
 
-target_list_all <- rbind(target_list, target_list_complex, target_list_gem) %>% mutate(data_type = "target")
+target_list_all <- rbind(target_list, target_list_complex, target_list_gem) %>% 
+  mutate(data_type = "target",
+         S1C4 = "",
+         S1CF4 = "",
+         S2C1 = "",
+         S2C2 = "",
+         S2C3 = "",
+         S2C4 = "",
+         S2CF1 = "",
+         S2CF2 = "",
+         S2CF3 = "",
+         S2CF4 = "",
+         S3C1 = "",
+         S3C2 = "",
+         S3C3 = "",
+         S3C4 = "",
+         S3CF1 = "",
+         S3CF2 = "",
+         S3CF3 = "",
+         S3CF4 = "",
+         S4C1 = "", 
+         S4C2 = "", 
+         S4C3 = "", 
+         S4C4 = "", 
+         S5C1 = "", 
+         S5C2 = "", 
+         S5C3 = "", 
+         S5C4 = "", 
+         S6C1 = "", 
+         S6C2 = "", 
+         S6C3 = "", 
+         S6C4 = "",
+         SFC4 = "",
+         SFCF4 = "") %>% dplyr::select(-Vremoved_actual)
 
 #######################################################################################
 
 ### Actual forms ###
 
-Vinitial <- full_data %>% filter(stringr::str_detect(ActualCV, "^V")) # DF for looking at V-intial structures only
-Cinitial <- full_data %>% filter(stringr::str_detect(ActualCV, "^C")|stringr::str_detect(ActualCV, "^G"))    # DF for looking at C-intial structures only
-
-nsyl_actual_list_nogem <- full_data %>%
+nsyl_actual_list_nogem_Cinit <- full_data_disyls %>%
   filter(geminate_A == 0) %>%
+  filter(str_detect(ActualCV_edited, '^C')) %>%
+  mutate(final_seg = ifelse(grepl("V$", Vremoved_actual), "V", "C")) %>%
   split(., f = .$nsyl_actual)
 
-loop_actual_base_nogem <- lapply(nsyl_actual_list_nogem, FUN = function(element) {
-  split_syl_Cinit <- element %>% filter(ActualCV %in% Cinitial$ActualCV) %>%
-    separate(Vremoved_actual, c("S1C1_actual", "S2C1_actual", "S3C1_actual", "S4C1_actual", "S5C1_actual",
-                                "S6C1_actual", "S7C1_actual"), "V")
+loop_actual_base_nogem_Cinit <- lapply(nsyl_actual_list_nogem_Cinit, FUN = function(element) {
+  split_syl_Cinit <- element %>% separate(Vremoved_actual, c("S1C1_actual", "S2C1_actual", 
+                                                             "S3C1_actual", "S4C1_actual", 
+                                                             "S5C1_actual", "S6C1_actual"), "V")
   split_sylCinit2 <- split_syl_Cinit %>%
-    mutate(SFC1_actual = ifelse(nsyl_actual == 1 & !is.na(S2C1_actual), S2C1_actual, 0),     # create a category that is just codas
-           S2C1_actual = ifelse(nsyl_actual == 1 & !is.na(SFC1_actual), 0, S2C1_actual),     # codas will always be aligned with codas
-           SFC1_actual = ifelse(nsyl_actual == 2 & !is.na(S3C1_actual), S3C1_actual, SFC1_actual),
-           S3C1_actual = ifelse(nsyl_actual == 2 & !is.na(SFC1_actual), 0, S3C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 3 & !is.na(S4C1_actual), S4C1_actual, SFC1_actual),
-           S4C1_actual = ifelse(nsyl_actual == 3 & !is.na(SFC1_actual), 0, S4C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 4 & !is.na(S5C1_actual), S5C1_actual, SFC1_actual),
-           S5C1_actual = ifelse(nsyl_actual == 4 & !is.na(SFC1_actual), 0, S5C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 5 & !is.na(S6C1_actual), S6C1_actual, SFC1_actual),
-           S6C1_actual = ifelse(nsyl_actual == 5 & !is.na(SFC1_actual), 0, S6C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 6 & !is.na(S7C1_actual), S7C1_actual, SFC1_actual),
-           S7C1_actual = ifelse(nsyl_actual == 6 & !is.na(SFC1_actual), 0, S7C1_actual))
-  split_clust_Cinit_final <- split_sylCinit2 %>% separate(S1C1_actual, 
-                                                          c("S1C1", "S1C2", "S1C3", "S1C4"), 
-                                                          sep = "(?<=.)") %>%
+    mutate(S1CF_actual = ifelse(nsyl_actual == 1 & (!is.na(S2C1_actual)) &
+                                  final_seg == "C", S2C1_actual, NA),
+           SFCF_actual = ifelse(nsyl_actual == 2 & !is.na(S3C1_actual) &
+                                  final_seg == "C", S3C1_actual, NA),
+           SFC1_actual = ifelse(nsyl_actual == 2, S2C1_actual, NA),
+           S2C1_actual = ifelse(nsyl_actual == 2 & !is.na(SFC1_actual), NA, S2C1_actual),
+           S3C1_actual = ifelse(nsyl_actual == 2 & !is.na(SFCF_actual), NA, S3C1_actual),
+           SFCF_actual = ifelse(nsyl_actual == 3 & !is.na(S4C1_actual) & final_seg == "C",
+                                S4C1_actual, SFCF_actual),
+           SFC1_actual = ifelse(nsyl_actual == 3, S3C1_actual, SFC1_actual),
+           S4C1_actual = ifelse(nsyl_actual == 3 & !is.na(SFCF_actual), NA, S4C1_actual),
+           S3C1_actual = ifelse(nsyl_actual == 3 & !is.na(SFC1_actual), NA, S3C1_actual),
+           SFCF_actual = ifelse(nsyl_actual == 4 & !is.na(S5C1_actual) & final_seg == "C",
+                                S5C1_actual, SFCF_actual),
+           SFC1_actual = ifelse(nsyl_actual == 4, S4C1_actual, SFC1_actual),
+           S5C1_actual = ifelse(nsyl_actual == 4 & !is.na(SFCF_actual), NA, S5C1_actual),
+           S4C1_actual = ifelse(nsyl_actual == 4 & !is.na(SFC1_actual), NA, S4C1_actual),
+           SFC1_actual = ifelse(nsyl_actual == 5 & final_seg == "V", S5C1_actual, SFC1_actual),
+           S5C1_actual = ifelse(nsyl_actual == 5 & !is.na(SFC1_actual), NA, S5C1_actual))
+  split_clust_Cinit_final <- split_sylCinit2 %>%
+    separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
+    separate(S1CF_actual, c("S1CF1", "S1CF2", "S1CF3", "S1CF4"), sep = "(?<=.)") %>%
     separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
     separate(S3C1_actual, c("S3C1", "S3C2", "S3C3", "S3C4"), sep = "(?<=.)") %>%
     separate(S4C1_actual, c("S4C1", "S4C2", "S4C3", "S4C4"), sep = "(?<=.)") %>%
     separate(S5C1_actual, c("S5C1", "S5C2", "S5C3", "S5C4"), sep = "(?<=.)") %>%
     separate(S6C1_actual, c("S6C1", "S6C2", "S6C3", "S6C4"), sep = "(?<=.)") %>%
-    separate(S7C1_actual, c("S7C1", "S7C2", "S7C3", "S7C4"), sep = "(?<=.)") %>%
-    separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)")
-  split_syl_Vinit <- element %>% filter(ActualCV %in% Vinitial$ActualCV) %>%
-    separate(Vremoved_actual, c("S1C1_actual", "S2C1_actual", "S3C1_actual", "S4C1_actual", "S5C1_actual",
-                                "S6C1_actual", "S7C1_actual"), "V")
-  split_sylVinit2 <- split_syl_Vinit %>%
-    mutate(SFC1_actual = ifelse(nsyl_actual == 1 & !is.na(S2C1_actual), S2C1_actual, 0),     # create a category that is just codas
-           S2C1_actual = ifelse(nsyl_actual == 1 & !is.na(SFC1_actual), 0, S2C1_actual),     # codas will always be aligned with codas
-           SFC1_actual = ifelse(nsyl_actual == 2 & !is.na(S3C1_actual), S3C1_actual, SFC1_actual),
-           S3C1_actual = ifelse(nsyl_actual == 2 & !is.na(SFC1_actual), 0, S3C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 3 & !is.na(S4C1_actual), S4C1_actual, SFC1_actual),
-           S4C1_actual = ifelse(nsyl_actual == 3 & !is.na(SFC1_actual), 0, S4C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 4 & !is.na(S5C1_actual), S5C1_actual, SFC1_actual),
-           S5C1_actual = ifelse(nsyl_actual == 4 & !is.na(SFC1_actual), 0, S5C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 5 & !is.na(S6C1_actual), S6C1_actual, SFC1_actual),
-           S6C1_actual = ifelse(nsyl_actual == 5 & !is.na(SFC1_actual), 0, S6C1_actual),
-           SFC1_actual = ifelse(nsyl_actual == 6 & !is.na(S7C1_actual), S7C1_actual, SFC1_actual),
-           S7C1_actual = ifelse(nsyl_actual == 6 & !is.na(SFC1_actual), 0, S7C1_actual))
-  split_clust_Vinit_final <- split_sylVinit2 %>% separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
-    separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
-    separate(S3C1_actual, c("S3C1", "S3C2", "S3C3", "S3C4"), sep = "(?<=.)") %>%
-    separate(S4C1_actual, c("S4C1", "S4C2", "S4C3", "S4C4"), sep = "(?<=.)") %>%
-    separate(S5C1_actual, c("S5C1", "S5C2", "S5C3", "S5C4"), sep = "(?<=.)") %>%
-    separate(S6C1_actual, c("S6C1", "S6C2", "S6C3", "S6C4"), sep = "(?<=.)") %>%
-    separate(S7C1_actual, c("S7C1", "S7C2", "S7C3", "S7C4"), sep = "(?<=.)") %>%
-    separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)")
-  sample_IPA_CVinit <- rbind(split_clust_Vinit_final, split_clust_Cinit_final)
+    separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
+    separate(SFCF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)") %>%
+    mutate(S1C3 = ifelse(!is.na(S1C4) & S1C3 == "", S1C4, S1C3),
+           S1C4 = NA,
+           SFCF3 = ifelse(!is.na(SFCF4) & SFCF3 == "", SFCF4, SFCF3),
+           SFCF4 = NA,
+           SFC3 = ifelse(!is.na(SFC4) & SFC3 == "", SFC4, SFC3),
+           SFC4 = NA)
 })
 
-actual_list_base_nogem <- do.call(rbind.data.frame, loop_actual_base_nogem) %>%
-  dplyr::select(-TargetCV, -ActualCV, -ActualCV_edited, -IPAtarget, -Vremoved_target) %>%
-  mutate(
-    S1CF1 = "",
-    S1CF2 = "",
-    S1CF3 = "",
-    S1CF4 = "",
-    S2CF1 = "",
-    S2CF2 = "",
-    S2CF3 = "",
-    S2CF4 = "",
-    S3CF1 = "",
-    S3CF2 = "",
-    S3CF3 = "",
-    S3CF4 = "",
-    SFCF1 = "",
-    SFCF2 = "",
-    SFCF3 = "",
-    SFCF4 = "",
-    geminate_A = F
-  )
+actual_nogem_Cinit <- do.call(rbind.data.frame, loop_actual_base_nogem_Cinit) 
 
+### V-initial
 
-nsyl_actual_list_gem <- full_data %>%
-  filter(geminate_A == 1) %>%
+nsyl_actual_list_nogem_Vinit <- full_data_disyls %>%
+  filter(geminate_A == 0) %>%
+  filter(str_detect(ActualCV_edited, '^V')) %>%
+  mutate(final_seg = ifelse(grepl("V$", Vremoved_actual), "V", "C")) %>%
   split(., f = .$nsyl_actual)
 
-loop_actual_base_gem <- lapply(nsyl_actual_list_gem, FUN = function(element) {
-  split_syl_Cinit <- element %>% filter(ActualCV %in% Cinitial$ActualCV) %>%
-    separate(Vremoved_actual, c("seg1", "seg2", "seg3", "seg4", "seg5"), "V")
-   split_sylCinit2 <- split_syl_Cinit %>%
-     rename("SF_actual" = "seg5") %>%
-     mutate(SF_actual = ifelse((is.na(SF_actual)|SF_actual == "") & !is.na(seg4),
-                                 seg4, SF_actual),
-            S4C1_actual = ifelse(nsyl_actual == 5, seg4, NA)) %>%
-     dplyr::select(-seg4) %>%
-     separate(seg3, c("seg3a", "seg3b"), "-") %>%
-     mutate(S3C1_actual = ifelse(nsyl_actual == 4 & !is.na(SF_actual), seg3b, NA),
-            SF_actual = ifelse(nsyl_actual > 1 & is.na(SF_actual)|SF_actual == "", seg3b, SF_actual)) %>%
-     dplyr::select(-seg3b) %>%
-     mutate(SXCF_actual = ifelse(nsyl_actual < 5 & !is.na(SF_actual), seg3a, NA),
-            S4C1_actual = ifelse(nsyl_actual == 5 & is.na(S3C1_actual), seg3a, S4C1_actual),
-            SF_actual = ifelse(!is.na(seg3a) & is.na(SF_actual), seg3a, SF_actual)) %>%
-     dplyr::select(-seg3a) %>%
-     separate(seg2, c("seg2a", "seg2b"), "-") %>%
-     mutate(SF_actual = ifelse(nsyl_actual == 1 &
-                                   (is.na(SF_actual)|SF_actual == ""), seg2b, SF_actual),
-            SFC1_actual = ifelse(nsyl_actual == 2 & !is.na(seg2b), seg2b, NA),
-            S2C1_actual = ifelse(nsyl_actual == 3, seg2b, NA)) %>%
-     dplyr::select(-seg2b) %>%
-     mutate(S1CF_actual = ifelse(nsyl_actual == 1 &
-                                   (!is.na(SF_actual)) & (!grepl("-", seg1)), seg2a, NA),
-            SF_actual = ifelse(nsyl_actual == 1 & is.na(SF_actual), seg2a, SF_actual),
-            ## individual case that prob needs removing:
-            S2C1_actual = ifelse(nsyl_actual == 1 & grepl("βʔβʔβ", seg2a), seg2a, S2C1_actual),
-            SFC1_actual = ifelse(nsyl_actual == 2 & is.na(SFC1_actual) &
-                                   (is.na(SF_actual)|SF_actual == ""), seg2a, SFC1_actual),
-            S2C1_actual = ifelse(nsyl_actual == 2 & !is.na(SXCF_actual), seg2a, S2C1_actual),
-            S1CF_actual = ifelse(nsyl_actual == 2 & (!grepl("-", seg1)) &
-                                   is.na(SXCF_actual), seg2a, S1CF_actual),
-            # now need to sort some specific tokens that don't pattern with others
-            SFC1_actual = ifelse(nsyl_actual == 2 & seg1 == "m-m" & seg2a == "ʔ", "ʔ", SFC1_actual),
-            SXCF_actual = ifelse(nsyl_actual == 2 & seg1 == "m-m" & seg2a == "m", "m", SXCF_actual),
-            S3C1_actual = ifelse(nsyl_actual == 3 & seg1 == "n-n", seg2a, S3C1_actual),
-            S1CF_actual = ifelse(nsyl_actual == 3 & !is.na(S2C1_actual), seg2a, S1CF_actual),
-            S2C1_actual = ifelse(nsyl_actual == 3 & !is.na(SXCF_actual) &
-                                   is.na(S2C1_actual), seg2a, S2C1_actual),
-            S2C1_actual = ifelse(nsyl_actual == 4 & is.na(S2C1_actual), seg2a, S2C1_actual)) %>%
-     dplyr::select(-seg2a) %>%
-     separate(seg1, c("S1C1_actual", "seg1b"), "-") %>%
-     mutate(SFC1_actual = ifelse(nsyl_actual == 1 & !is.na(SF_actual), seg1b, SFC1_actual),
-            SF_actual = ifelse(nsyl_actual == 1 & is.na(SF_actual), seg1b, SF_actual),
-            S2C1_actual = ifelse((nsyl_actual == 2|nsyl_actual == 3) & is.na(S2C1_actual), seg1b, S2C1_actual),
-            S3C1_actual = ifelse(nsyl_actual == 2 & !is.na(S2C1_actual), seg1b, S3C1_actual)) %>%
-     dplyr::select(-seg1b) %>%
-     #fixing some errors:
-     mutate(S3C1_actual = ifelse(Gloss == "money" & IPAactual == "m:ʌm:ɪ", NA, S3C1_actual),
-            S3CF_actual = ifelse(SXCF_actual == "β" & nsyl_actual == 2, "β", NA),
-            SXCF_actual = ifelse(SXCF_actual == "β" & nsyl_actual == 2, NA, SXCF_actual),
-            S2CF_actual = ifelse(!is.na(SXCF_actual) & nsyl_actual == 2, SXCF_actual, NA),
-            SXCF_actual = ifelse(!is.na(SXCF_actual) & nsyl_actual == 2, NA, SXCF_actual),
-            S3CF_actual = ifelse(!is.na(SXCF_actual) & nsyl_actual == 3, SXCF_actual, S3CF_actual),
-            SXCF_actual = ifelse(!is.na(SXCF_actual) & nsyl_actual == 3, NA, SXCF_actual),
-            S2CF_actual = ifelse(!is.na(SXCF_actual) & nsyl_actual == 4, SXCF_actual, S2CF_actual),
-            SXCF_actual = ifelse(!is.na(SXCF_actual) & nsyl_actual == 4, NA, SXCF_actual)) %>%
-     dplyr::select(-SXCF_actual) #%>%
-     ## now sort nsyls so it's accurate ## update: ignoring, it's complicated and may not be needed
-     # mutate(nsyl_actual = ifelse(nsyl_actual == 1, 2, nsyl_actual),
-     #        nsyl_actual = ifelse(nsyl_actual == 2 & !is.na(S2C1_actual) & is.na(S3C1_actual), 3, nsyl_actual),
-     #        nsyl_actual = ifelse(nsyl_actual == 3 & !is.na(S3C1_actual) & is.na(S4C1_actual), 4, nsyl_actual),
-     #        nsyl_actual = ifelse(nsyl_actual == 4 & !is.na(S4C1_actual), 5, nsyl_actual))
-   split_clust_Cinit_final <- split_sylCinit2 %>% 
-     separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
-     separate(S1CF_actual, c("S1CF1", "S1CF2", "S1CF3", "S1CF4"), sep = "(?<=.)") %>%
-     separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
-     separate(S2CF_actual, c("S2CF1", "S2CF2", "S2CF3", "S2CF4"), sep = "(?<=.)") %>%
-     separate(S3C1_actual, c("S3C1", "S3C2", "S3C3", "S3C4"), sep = "(?<=.)") %>%
-     separate(S3CF_actual, c("S3CF1", "S3CF2", "S3CF3", "S3CF4"), sep = "(?<=.)") %>%
-     separate(S4C1_actual, c("S4C1", "S4C2", "S4C3", "S4C4"), sep = "(?<=.)") %>%
-     separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
-     separate(SF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)")
-   
-   #### Now work on vowel-initial forms
-   
-  split_syl_Vinit <- element %>% filter(ActualCV %in% Vinitial$ActualCV) %>%
-    separate(Vremoved_actual, c("seg1", "seg2", "seg3", "seg4", "seg5"), "V") %>%
-    separate(seg2, c("seg2a", "seg2b", "seg2c"), "-", remove = F) %>%
-    mutate(S1CF_actual = ifelse(grepl("-", seg2), seg2a, NA),
-           S2C1_actual = ifelse(!grepl("-", seg2), seg2a, NA),
-           S2C1_actual = ifelse(grepl("-", seg2), seg2b, S2C1_actual),
-           SFC1_actual = ifelse(!is.na(seg2c), seg2c, NA)) %>%
-    dplyr::select(-seg1, -seg2, -seg2a, -seg2b, -seg2c) %>%
-    separate(seg3, c("seg3a", "seg3b"), "-", remove = F) %>%
-    mutate(
-            S3C1_actual = ifelse(nsyl_actual ==4 & is.na(seg3b), seg3a, NA),
-            S3C1_actual = ifelse(nsyl_actual ==4 & !is.na(seg3b), seg3b, S3C1_actual),
-            SFC1_actual = ifelse(nsyl_actual ==3 & !is.na(seg3b), seg3b, SFC1_actual),
-            S3C1_actual = ifelse(nsyl_actual ==3 & grepl("-", seg4), seg3a, S3C1_actual),
-            S2CF_actual = ifelse(grepl("-", seg3), seg3a, NA),
-            SFC1_actual = ifelse(nsyl_actual == 3 & (!is.na(seg4)|seg4 !=""), seg3a, SFC1_actual)) %>%
-    dplyr::select(-seg3, -seg3a, -seg3b) %>%
-    separate(seg4, c("seg4a", "seg4b"), "-", remove = F) %>%
-    mutate(SFC1_actual = ifelse(seg5 == "" & is.na(seg4b) & is.na(SFC1_actual), seg4a, SFC1_actual),
-         SFCF_actual = ifelse(!is.na(seg4b), seg4b, NA),
-         SFCF_actual = ifelse(is.na(seg5) & is.na(seg4b) & is.na(SFCF_actual), seg4a, SFCF_actual)) %>%
-   dplyr::select(-seg4, -seg4a, -seg4b, -seg5)
+loop_actual_base_nogem_Vinit <- lapply(nsyl_actual_list_nogem_Vinit, FUN = function(element) {
+  split_syl_Vinit <- element %>% separate(Vremoved_actual, c("S1C1_actual", "S2C1_actual", 
+                                                             "S3C1_actual", "S4C1_actual", 
+                                                             "S5C1_actual", "S6C1_actual"), "V")
   split_sylVinit2 <- split_syl_Vinit %>%
-      mutate(
-             nsyl_actual = ifelse(nsyl_actual == 1, 2, nsyl_actual),
-             ## adding data manually due to idiosyncratic token
-             S3CF_actual = ifelse(ActualCV == "VCVCCVCCC", "s", NA),
-             SFC1_actual = ifelse(ActualCV == "VCVCCVCCC", NA, SFC1_actual),
-             nsyl_actual = ifelse(ActualCV == "VCVCCVCCC", 4, nsyl_actual))
+    mutate(SFCF_actual = ifelse(nsyl_actual == 1 & (!is.na(S2C1_actual)) &
+                                  final_seg == "C", S2C1_actual, NA),
+           SFC1_actual = ifelse(nsyl_actual == 1 & (!is.na(S2C1_actual)) &
+                                  final_seg == "V", S2C1_actual, NA),
+           SFCF_actual = ifelse(nsyl_actual == 2 & !is.na(S3C1_actual) &
+                                  final_seg == "C", S3C1_actual, SFCF_actual),
+           SFC1_actual = ifelse(nsyl_actual == 2 & (is.na(SFC1_actual)|SFC1_actual == "") &
+                                  (is.na(S3C1_actual)|S3C1_actual == "") &
+                         final_seg == "V", S2C1_actual, SFC1_actual),
+           SFC1_actual = ifelse(nsyl_actual == 2 & !is.na(SFCF_actual) & is.na(SFC1_actual),
+                                S2C1_actual, SFC1_actual),
+  S2C1_actual = ifelse(nsyl_actual == 2 & !is.na(SFC1_actual), NA, S2C1_actual),
+  S3C1_actual = ifelse(nsyl_actual == 2 & !is.na(SFCF_actual), NA, S3C1_actual),
+  SFCF_actual = ifelse(nsyl_actual == 3 & !is.na(S4C1_actual) & final_seg == "C",
+                       S4C1_actual, SFCF_actual),
+  SFC1_actual = ifelse(nsyl_actual == 3, S3C1_actual, SFC1_actual),
+  S4C1_actual = ifelse(nsyl_actual == 3 & !is.na(SFCF_actual), NA, S4C1_actual),
+  S3C1_actual = ifelse(nsyl_actual == 3 & !is.na(SFC1_actual), NA, S3C1_actual),
+  SFCF_actual = ifelse(nsyl_actual == 4 & !is.na(S5C1_actual) & final_seg == "C",
+                       S5C1_actual, SFCF_actual),
+  SFC1_actual = ifelse(nsyl_actual == 4, S4C1_actual, SFC1_actual),
+  S5C1_actual = ifelse(nsyl_actual == 4 & !is.na(SFCF_actual), NA, S5C1_actual),
+  S4C1_actual = ifelse(nsyl_actual == 4 & !is.na(SFC1_actual), NA, S4C1_actual),
+  SFC1_actual = ifelse(nsyl_actual == 5 & final_seg == "V", S5C1_actual, SFC1_actual),
+  S5C1_actual = ifelse(nsyl_actual == 5 & !is.na(SFC1_actual), NA, S5C1_actual))
+  split_clust_Vinit_final <- split_sylVinit2 %>% 
+    separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
+    separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
+    separate(S3C1_actual, c("S3C1", "S3C2", "S3C3", "S3C4"), sep = "(?<=.)") %>%
+    separate(S4C1_actual, c("S4C1", "S4C2", "S4C3", "S4C4"), sep = "(?<=.)") %>%
+    separate(S5C1_actual, c("S5C1", "S5C2", "S5C3", "S5C4"), sep = "(?<=.)") %>%
+    separate(S6C1_actual, c("S6C1", "S6C2", "S6C3", "S6C4"), sep = "(?<=.)") %>%
+    separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
+    separate(SFCF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)") %>%
+    mutate(SFC3 = ifelse(!is.na(SFC4) & SFC3 == "", SFC4, SFC3),
+           SFC4 = NA)
+})
+
+actual_nogem_Vinit <- do.call(rbind.data.frame, loop_actual_base_nogem_Vinit) %>%
+  mutate(S1CF1 = "",
+         S1CF2 = "",
+         S1CF3 = "",
+         S1CF4 = "")
+
+actual_list_nogem <- rbind(actual_nogem_Cinit, actual_nogem_Vinit) %>%
+  mutate(S2CF1 = "", 
+         S2CF2 = "", 
+         S2CF3 = "", 
+         S2CF4 = "",
+         S3CF1 = "", 
+         S3CF2 = "", 
+         S3CF3 = "", 
+         S3CF4 = "")%>%
+  dplyr::select(-final_seg)
+
+## geminates
+
+## consonant-initial
+
+nsyl_actual_list_gem_Cinit <- full_data_disyls %>%
+  filter(geminate_A == 1) %>%
+  filter(str_detect(ActualCV_edited, '^C')) %>%
+  split(., f = .$nsyl_actual)
+
+loop_actual_base_gem_Cinit <- lapply(nsyl_actual_list_gem_Cinit, FUN = function(element) {
+  split_syl_Cinit <- element %>% separate(Vremoved_actual, c("seg1", "seg2", "seg3", "seg4"), "V")
+  split_sylCinit2 <- split_syl_Cinit %>%
+    separate(seg4, c("seg4", "SFC1_actual")) %>%
+    mutate(S3CF_actual = ifelse(!is.na(SFC1_actual), seg4, NA),
+           SFCF_actual = ifelse(is.na(SFC1_actual), seg4, NA)) %>%
+    dplyr::select(-seg4) %>%
+    separate(seg3, c("seg3a", "seg3b"), "-") %>%
+    mutate(SFC1_actual = ifelse(is.na(SFC1_actual), seg3b, SFC1_actual)) %>%
+    mutate(S3C1_actual = ifelse(!is.na(S3CF_actual), seg3a, NA),
+           SFC1_actual = ifelse(is.na(SFC1_actual) & 
+                                grepl("V$", ActualCV_edited), seg3a, SFC1_actual),
+           SFCF_actual = ifelse(is.na(SFC1_actual) & !is.na(seg3a), seg3a, SFCF_actual)) %>%
+    dplyr::select(-seg3a, -seg3b) %>%
+    separate(seg2, c("seg2a", "seg2b"), "-") %>%
+    mutate(SFC1_actual = ifelse((is.na(SFC1_actual)|SFC1_actual == "") & !is.na(seg2b), seg2b, SFC1_actual),
+           SFC1_actual = ifelse((is.na(SFC1_actual)|SFC1_actual == "") & grepl("V$", ActualCV_edited), 
+                              seg2b, SFC1_actual),
+           SFCF_actual = ifelse((is.na(SFC1_actual)|SFC1_actual == "") & grepl("C$", ActualCV_edited),
+                                seg2a, SFCF_actual),
+           S1CF_actual = ifelse(!is.na(seg2b) & !grepl("-", seg1), seg2a, NA),
+           S2CF_actual = ifelse(!is.na(SFC1_actual) & grepl("-", seg1), seg2a, NA)) %>%
+    dplyr::select(-seg2a, -seg2b) %>% 
+    separate(seg1, c("S1C1_actual", "S2C1_actual"), "-") %>%
+    mutate(checks = ifelse(is.na(SFC1_actual) & !is.na(S2C1_actual), 1, 0),
+           SFC1_actual = ifelse(checks == 1, S2C1_actual, SFC1_actual),
+           S2C1_actual = ifelse(checks == 1, NA, S2C1_actual)) %>%
+    dplyr::select(-checks)
+    split_clust_Cinit_final <- split_sylCinit2 %>%
+      separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
+      separate(S1CF_actual, c("S1CF1", "S1CF2", "S1CF3", "S1CF4"), sep = "(?<=.)") %>%
+      separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
+      separate(S2CF_actual, c("S2CF1", "S2CF2", "S2CF3", "S2CF4"), sep = "(?<=.)") %>%
+      separate(S3C1_actual, c("S3C1", "S3C2", "S3C3", "S3C4"), sep = "(?<=.)") %>%
+      separate(S3CF_actual, c("S3CF1", "S3CF2", "S3CF3", "S3CF4"), sep = "(?<=.)") %>%
+      separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
+      separate(SFCF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)")
+})
+
+actual_gem_Cinit <- do.call(rbind.data.frame, loop_actual_base_gem_Cinit)
+
+## vowel-initial
+
+nsyl_actual_list_gem_Vinit <- full_data_disyls %>%
+  filter(geminate_A == 1) %>%
+  filter(str_detect(ActualCV_edited, '^V')) %>%
+  split(., f = .$nsyl_actual)
+
+loop_actual_base_gem_Vinit <- lapply(nsyl_actual_list_gem_Vinit, FUN = function(element) {
+  split_syl_Vinit <- element %>% separate(Vremoved_actual, c("S1C1_actual", "seg2", "seg3", "seg4"), "V")
+   split_sylVinit2 <- split_syl_Vinit %>%
+      separate(seg4, c("seg4", "SFC1_actual")) %>%
+     mutate(S3CF_actual = ifelse(!is.na(SFC1_actual), seg4, NA),
+            SFC1_actual = ifelse(is.na(SFC1_actual), seg4, SFC1_actual)) %>%
+    dplyr::select(-seg4) %>%
+     separate(seg3, c("seg3a", "seg3b"), "-") %>%
+     mutate(S3C1_actual = ifelse(!is.na(SFC1_actual) & nsyl_actual == 4, seg3b, NA),
+            SFC1_actual = ifelse((is.na(SFC1_actual)|SFC1_actual == ""), seg3b, SFC1_actual),
+            S2CF_actual = ifelse(!is.na(seg3b) & !is.na(SFC1_actual), seg3a, NA),
+            S3C1_actual = ifelse(is.na(seg3b) & !is.na(SFC1_actual), seg3a, S3C1_actual),
+            SFCF_actual = ifelse(is.na(seg3b) & is.na(SFC1_actual), seg3a, NA)) %>%
+      dplyr::select(-seg3a, -seg3b) %>%
+      separate(seg2, c("seg2a", "seg2b"), "-") %>%
+      mutate(SFC1_actual = ifelse(is.na(SFC1_actual) & !is.na(seg2b), seg2b, SFC1_actual),
+             S1CF_actual = ifelse(!is.na(seg2b), seg2a, NA),
+             S2C1_actual = ifelse(is.na(seg2b), seg2a, NA)) %>%
+     dplyr::select(-seg2a, -seg2b) 
   split_clust_Vinit_final <- split_sylVinit2 %>%
+    separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
     separate(S1CF_actual, c("S1CF1", "S1CF2", "S1CF3", "S1CF4"), sep = "(?<=.)") %>%
     separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
     separate(S2CF_actual, c("S2CF1", "S2CF2", "S2CF3", "S2CF4"), sep = "(?<=.)") %>%
     separate(S3C1_actual, c("S3C1", "S3C2", "S3C3", "S3C4"), sep = "(?<=.)") %>%
     separate(S3CF_actual, c("S3CF1", "S3CF2", "S3CF3", "S3CF4"), sep = "(?<=.)") %>%
     separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
-    separate(SFCF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)") %>%
-    mutate(S1C1 = "",
-           S1C2 = "",
-           S1C3 = "",
-           S1C4 = "",
-           S4C1 = "",
-           S4C2 = "",
-           S4C3 = "",
-           S4C4 = "")
-    sample_IPA_CVinit <- rbind(split_clust_Vinit_final, split_clust_Cinit_final)
+    separate(SFCF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)")
 })
 
-#colnames.c<- colnames(actual_list_base_gem)
+actual_gem_Vinit <- do.call(rbind.data.frame, loop_actual_base_gem_Vinit)
 
-actual_list_base_gem <- do.call(rbind.data.frame, loop_actual_base_gem) %>% 
-  dplyr::select(-TargetCV, -ActualCV, -ActualCV_edited, -IPAtarget, -Vremoved_target) %>%
-  mutate(
-    S5C1 = "",
-    S5C2 = "",
-    S5C3 = "",
-    S5C4 = "",
-    S6C1 = "",
-    S6C2 = "",
-    S6C3 = "",
-    S6C4 = "",
-    S7C1 = "",
-    S7C2 = "",
-    S7C3 = "",
-    S7C4 = "",
-    geminate_A = T
-  )
+### to work on next:
 
-all_data_sample <- rbind(actual_list_base_nogem, actual_list_base_gem) %>%
+# decide which columns to include in each DF
+# actual-list_nogem has S2 assigned but not CF in a lot of cases
+# in one case CF is 0
+
+actual_list_gem <- rbind(actual_gem_Cinit, actual_gem_Vinit) %>%
+  mutate(S4C1 = "",
+         S4C2 = "",
+         S4C3 = "",
+         S4C4 = "",
+         S5C1 = "",
+         S5C2 = "",
+         S5C3 = "",
+         S5C4 = "",
+         S6C1 = "",
+         S6C2 = "",
+         S6C3 = "",
+         S6C4 = "")
+
+### sort manual alignments:
+
+manually_assign <- c("pɪʔθʷɪʔθtθ", 
+                     "wɑɸwəɸʔwε", 
+                     "içʔʝi", 
+                     "uvχri", 
+                     "uvχre", 
+                     "uvχri",
+                     "əzɪdɫzjaʔ" ,
+                    "əjʌkpɹεp")
+
+manual_Cinit <- full_data_disyls %>%
+  filter(IPAactual %in% manually_assign) %>%
+  filter(str_detect(ActualCV_edited, '^C')) %>%
+  split(., f = .$nsyl_actual)
+
+loop_actual_base_man_Cinit <- lapply(manual_Cinit, FUN = function(element) {
+  split_syl_Cinit <- element %>% separate(Vremoved_actual, c("S1C1_actual", "seg2", "seg3"), "V") %>%
+    mutate(SFC1_actual = ifelse(nsyl_actual == 2, seg2, NA),
+           S2C1_actual = ifelse(nsyl_actual == 3, seg2, NA),
+           SFCF_actual = ifelse(nsyl_actual == 2, seg3, NA),
+           SFC1_actual = ifelse(nsyl_actual == 3, seg3, SFC1_actual)) %>%
+    dplyr::select(-seg2, -seg3)
+  split_clust_Cinit_final <- split_syl_Cinit %>%
+    separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
+    separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
+    separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
+    separate(SFCF_actual, c("SFCF1", "SFCF2", "SFCF3", "SFCF4"), sep = "(?<=.)") %>%
+  mutate(SFC3 = ifelse((is.na(SFC3)|SFC3 == "") & !is.na(SFC4), SFC4, SFC3),
+         SFC4 = ifelse(!is.na(SFC4), NA, SFC4),
+         SFCF3 = ifelse((is.na(SFCF3)|SFCF3 == "") & !is.na(SFCF4), SFCF4, SFCF3),
+         SFCF4 = ifelse(!is.na(SFCF4), NA, SFCF4))
+})
+
+actual_man_Cinit <- do.call(rbind.data.frame, loop_actual_base_man_Cinit) %>%
+  mutate(S1CF1 = "",
+         S1CF2 = "", 
+         S1CF3 = "", 
+         S1CF4 = "",
+         S2CF1 = "", 
+         S2CF2 = "", 
+         S2CF3 = "", 
+         S2CF4 = "",
+         S3C1 = "", 
+         S3C2 = "", 
+         S3C3 = "", 
+         S3C4 = "",
+         S3CF1 = "", 
+         S3CF2 = "", 
+         S3CF3 = "", 
+         S3CF4 = "", 
+         S4C1 = "", 
+         S4C2 = "", 
+         S4C3 = "", 
+         S4C4 = "", 
+         S5C1 = "", 
+         S5C2 = "", 
+         S5C3 = "", 
+         S5C4 = "", 
+         S6C1 = "", 
+         S6C2 = "", 
+         S6C3 = "", 
+         S6C4 = "")
+
+manual_Vinit <- full_data_disyls %>%
+  filter(IPAactual %in% manually_assign) %>%
+  filter(str_detect(ActualCV_edited, '^V')) %>%
+  split(., f = .$nsyl_actual)
+
+loop_actual_base_man_Vinit <- lapply(manual_Vinit, FUN = function(element) {
+  split_syl_Vinit <- element %>% separate(Vremoved_actual, c("S1C1_actual", "seg2", "seg3"), "V") %>%
+    mutate(SFC1_actual = ifelse(nsyl_actual == 2, seg2, NA),
+           S2C1_actual = ifelse(nsyl_actual == 3, seg2, NA),
+           SFC1_actual = ifelse(nsyl_actual == 3, seg3, SFC1_actual)) %>%
+     dplyr::select(-seg2, -seg3)
+  split_clust_Vinit_final <- split_syl_Vinit %>%
+    separate(S1C1_actual, c("S1C1", "S1C2", "S1C3", "S1C4"), sep = "(?<=.)") %>%
+    separate(S2C1_actual, c("S2C1", "S2C2", "S2C3", "S2C4"), sep = "(?<=.)") %>%
+    separate(SFC1_actual, c("SFC1", "SFC2", "SFC3", "SFC4"), sep = "(?<=.)") %>%
+    mutate(SFC3 = ifelse((is.na(SFC3)|SFC3 == "") & !is.na(SFC4), SFC4, SFC3),
+           SFC4 = ifelse(!is.na(SFC4), NA, SFC4))
+})
+
+actual_man_Vinit <- do.call(rbind.data.frame, loop_actual_base_man_Vinit) %>%
+  mutate(S1CF1 = "",
+         S1CF2 = "", 
+         S1CF3 = "", 
+         S1CF4 = "",
+         S2CF1 = "", 
+         S2CF2 = "", 
+         S2CF3 = "", 
+         S2CF4 = "",
+         S3C1 = "", 
+         S3C2 = "", 
+         S3C3 = "", 
+         S3C4 = "",
+         S3CF1 = "", 
+         S3CF2 = "", 
+         S3CF3 = "", 
+         S3CF4 = "", 
+         SFCF1 = "", 
+         SFCF2 = "", 
+         SFCF3 = "", 
+         SFCF4 = "",
+         S4C1 = "", 
+         S4C2 = "", 
+         S4C3 = "", 
+         S4C4 = "", 
+         S5C1 = "", 
+         S5C2 = "", 
+         S5C3 = "", 
+         S5C4 = "", 
+         S6C1 = "", 
+         S6C2 = "", 
+         S6C3 = "", 
+         S6C4 = "")
+
+actual_list_man <- rbind(actual_man_Vinit, actual_man_Cinit)
+
+actual_list_all <- rbind(actual_list_nogem, 
+                         actual_list_gem, 
+                         actual_list_man) %>% 
+  mutate(data_type = "actual")  %>% dplyr::select(-Vremoved_target)
+
+####
+
+all_data_sample <- rbind(target_list_all, actual_list_all) %>%
   mutate(across(everything(), ~replace(., . %in% c(" ", "", 0), NA))) %>%
   tibble::rowid_to_column("ID")
 
@@ -595,8 +757,11 @@ all_data_sample_final <- all_data_sample %>% dplyr::select(ID,
                                                            Age,
                                                            Gloss,
                                                            geminate_A,
+                                                           geminate_T,
                                                            IPAactual,
-                                                           nsyl_actual
+                                                           IPAtarget,
+                                                           nsyl_actual, 
+                                                           data_type
                                                            )
 
 write_csv(all_data_sample_final, "all_data_sample_final.csv")
@@ -677,49 +842,60 @@ distinctive.feature.matrix <- tribble(~Symbol, ~Sonorant, ~Consonantal, ~Voice, 
                                       )    
 
 
-####### Probably don't need ########################################
+###############################################
 
-# colnames_target <- actual_target_French %>% filter(data_type == "target") %>% dplyr::select(ID, starts_with("S"), -Subject)
-# #colnames(colnames_target) <- sub("T","",colnames(colnames_target))
-# target_list <- setNames(lapply(names(colnames_target)[-1], function(x) cbind(colnames_target[1], 
-#                                                                              colnames_target[x])), 
-#                         names(colnames_target)[-1])
-# 
-# output_target <- lapply(target_list, FUN = function(element) {
-#   target_segment <- data.frame(element,
-#                                distinctive.feature.matrix[match(element[,2], distinctive.feature.matrix$Symbol), 2:14], 
-#                                stringsAsFactors=FALSE) %>%
-#     replace(is.na(.), 0)
-# })
-# 
-# output_target_df <- as.data.frame(output_target)
-# colnames(output_target_df)[1] <- "unique"
-# 
-# output_target_df <- output_target_df %>% dplyr::select(unique, -ends_with("data_type") & -ends_with(".ID")) %>%
-#    rename("ID" = "unique") %>%
-#   left_join(French_comparison_final)
+## target
 
-##################################################
+colnames_target <- all_data_sample %>% 
+  filter(data_type == "target") %>% 
+  dplyr::select(ID, starts_with("S"), -Subject)
+colnames(colnames_target) <- sub("T","",colnames(colnames_target))
+target_list <- setNames(lapply(names(colnames_target)[-1], function(x) cbind(colnames_target[1],
+                                                                             colnames_target[x])),
+                        names(colnames_target)[-1])
 
-colnames_sample <- all_data_sample %>% dplyr::select(ID, starts_with("S"), -Subject)
-
-sample_list <- setNames(lapply(names(colnames_sample)[-1], function(x) cbind(colnames_sample[1], 
-                                                                             colnames_sample[x])), 
-                        names(colnames_sample)[-1])
-
-output_sample <- lapply(sample_list, FUN = function(element) {
-  sample_segment <- data.frame(element,
+output_target <- lapply(target_list, FUN = function(element) {
+  target_segment <- data.frame(element,
                                distinctive.feature.matrix[match(element[,2], 
-                                                                distinctive.feature.matrix$Symbol), 2:13], 
-                               stringsAsFactors=FALSE)  %>%
+                                                                distinctive.feature.matrix$Symbol), 2:13],
+                               stringsAsFactors=FALSE) %>%
     replace(is.na(.), 0)
 })
 
-output_df <- as.data.frame(output_sample)
+output_target_df <- as.data.frame(output_target)
+colnames(output_target_df)[1] <- "unique"
 
-colnames(output_df)[1] <- "unique"
-output_df <- output_df %>% #dplyr::select(unique, -ends_with(".ID")) %>%
+output_target_df <- output_target_df %>% 
+  dplyr::select(unique, -ends_with("data_type") & -ends_with(".ID")) %>%
+   rename("ID" = "unique") %>%
+  left_join(all_data_sample_final)
+
+## actual
+
+colnames_actual <- all_data_sample %>% 
+  filter(data_type == "actual") %>% 
+  dplyr::select(ID, starts_with("S"), -Subject)
+colnames(colnames_actual) <- sub("T","",colnames(colnames_actual))
+actual_list <- setNames(lapply(names(colnames_actual)[-1], function(x) cbind(colnames_actual[1],
+                                                                             colnames_actual[x])),
+                        names(colnames_actual)[-1])
+
+output_actual <- lapply(actual_list, FUN = function(element) {
+  actual_segment <- data.frame(element,
+                               distinctive.feature.matrix[match(element[,2], 
+                                                                distinctive.feature.matrix$Symbol), 2:13],
+                               stringsAsFactors=FALSE) %>%
+    replace(is.na(.), 0)
+})
+
+output_actual_df <- as.data.frame(output_actual)
+colnames(output_actual_df)[1] <- "unique"
+
+output_actual_df <- output_actual_df %>% 
+  dplyr::select(unique, -ends_with("data_type") & -ends_with(".ID")) %>%
   rename("ID" = "unique") %>%
   left_join(all_data_sample_final)
 
-write_csv(output_df, "output_df.csv")
+output_all <- rbind(output_target_df, output_actual_df)
+
+write_csv(output_all, "output_df.csv")
