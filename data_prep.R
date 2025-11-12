@@ -5,7 +5,6 @@ options("encoding" = "UTF-8")
 
 full_data <- read_csv("data_ready.csv") 
 
-full_data %>% group_by(Subject, Language) %>% tally()
 
 # remove vowels
 
@@ -326,17 +325,15 @@ nsyl_target_list_gem_Cinit <- full_data_disyls %>%
   split(., f = .$nsyl_target)
 
 sample_IPAtarget_loop_gem_Cinit <- lapply(nsyl_target_list_gem_Cinit, FUN = function(element) {
-  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V") %>%
-    tidyr::separate(SFC1_target, c("S1CF_target", "SFC1_target"), "-")
+  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "S1CF_target", "SFCF_target"), "V") %>%
+     tidyr::separate(S1CF_target, c("S1CF_target", "SFC1_target"), "-")
   split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
       tidyr::separate(S1CF_target, c("S1CF1", "S1CF2", "S1CF3"), sep = "(?<=.)") %>%
       tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
       tidyr::separate(SFCF_target, c("SFCF1", "SFCF2", "SFCF3"), sep = "(?<=.)")
 })
 
-target_list_gem_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Cinit) %>% mutate(S1CF1 = "",
-                                                                                               S1CF2 = "", 
-                                                                                               S1CF3 = "")
+target_list_gem_Cinit <- do.call(rbind.data.frame, sample_IPAtarget_loop_gem_Cinit)
 
 nsyl_target_list_gem_Vinit <- full_data_disyls %>%
   filter(complex == F & geminate_T == 1) %>%
@@ -344,8 +341,8 @@ nsyl_target_list_gem_Vinit <- full_data_disyls %>%
   split(., f = .$nsyl_target)
 
 sample_IPAtarget_loop_gem_Vinit <- lapply(nsyl_target_list_gem_Vinit, FUN = function(element) {
-  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "SFC1_target", "SFCF_target"), "V") %>%
-      tidyr::separate(SFC1_target, c("S1CF_target", "SFC1_target"), "-")
+  split_syl <- element %>% tidyr::separate(Vremoved_target, c("S1C1_target", "S1CF_target", "SFCF_target"), "V") %>%
+       tidyr::separate(S1CF_target, c("S1CF_target", "SFC1_target"), "-")
   split_clust <- split_syl %>% tidyr::separate(S1C1_target, c("S1C1", "S1C2", "S1C3"), sep = "(?<=.)") %>%
     tidyr::separate(S1CF_target, c("S1CF1", "S1CF2", "S1CF3"), sep = "(?<=.)") %>%
     tidyr::separate(SFC1_target, c("SFC1", "SFC2", "SFC3"), sep = "(?<=.)") %>%
@@ -749,20 +746,24 @@ actual_list_all <- rbind(actual_list_nogem,
 ####
 
 all_data_sample <- rbind(target_list_all, actual_list_all) %>%
+  mutate(geminate_T = ifelse(geminate_T == 1, T, F),
+         geminate_A = ifelse(geminate_A == 1, T, F)) %>%
   mutate(across(everything(), ~replace(., . %in% c(" ", "", 0), NA))) %>%
   tibble::rowid_to_column("ID")
 
 all_data_sample_final <- all_data_sample %>% dplyr::select(ID, 
                                                            Subject,
+                                                           Language,
                                                            Age,
                                                            Gloss,
-                                                           geminate_A,
-                                                           geminate_T,
                                                            IPAactual,
                                                            IPAtarget,
                                                            nsyl_actual, 
-                                                           data_type
+                                                           data_type,
+                                                           geminate_T,
+                                                           geminate_A
                                                            )
+
 
 write_csv(all_data_sample_final, "all_data_sample_final.csv")
 
@@ -898,4 +899,5 @@ output_actual_df <- output_actual_df %>%
 
 output_all <- rbind(output_target_df, output_actual_df)
 
-write_csv(output_all, "output_df.csv")
+#write_csv(output_all, "output_df.csv")
+write.csv(output_all,"output_df.csv",fileEncoding = "UTF-8")

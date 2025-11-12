@@ -6,7 +6,7 @@ library(igraph)
 
 globaldistance <- read_csv("globaldistance_final.csv")
 distance_df <- read_csv("distance_df.csv") %>% dplyr::select(
-  Subject, Age, Gloss, GlossID, geminate_A) %>%
+  Subject, Age, Gloss, GlossID, geminate_A, geminate_T, data_type) %>%
   rename(gloss1 = GlossID)
 thresholds <- read_csv("globalthresholds.csv") %>% left_join(distance_df)
 

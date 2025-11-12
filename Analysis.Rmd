@@ -13,19 +13,22 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(ggplot2)
 library(igraph)
+library(kableExtra)
+library(webshot2)
 
+options("encoding" = "UTF-8")
 ```
 
 ```{r load data}
 
 main_data <- read_csv("data_ready.csv")
-distance_data <- read_csv("output_df.csv")
-
+distance_data<- read.csv("output_df.csv", header = TRUE, fileEncoding = "UTF-8")
+#check <- distance_data %>% dplyr::select(S2CF1.S2CF1, Gloss, IPAactual)
 ```
 
 ## Data
 
-```{r summary data}
+```{r summary data - full}
 
 n_infants <- main_data %>% group_by(Subject, Language) %>% tally()
 n_langs <- main_data %>% group_by(Language) %>% tally()
@@ -45,23 +48,220 @@ types_data <- main_data %>% group_by(Subject, Gloss) %>% tally() %>%
                                        min_typ = min(n),
                                        max_typ = max(n),
                                        sd_typ = sd(n))
+
+types_tokens <- main_data %>% group_by(Gloss) %>% tally() %>%
+  summarise(n_typ = length(Gloss),
+            n_tok = sum(n)) 
+
+
 ```
 
+```{r summary data - disyllables}
+
+disyl_data <- main_data %>% filter(nsyl_target == 2)
+
+types_tokens <- disyl_data %>% group_by(Gloss) %>% tally() %>%
+  summarise(n_typ = length(Gloss),
+            n_tok = sum(n)) 
+
+mean_tok_disyl <- disyl_data %>% 
+  group_by(Subject) %>% 
+  tally()%>% 
+  ungroup() %>% 
+  summarise(mean_tok = mean(n),
+            sd_tok = sd(n))
+
+mean_typ_disyl <- disyl_data %>% 
+  group_by(Subject, Gloss) %>% 
+  tally() %>%
+  ungroup() %>%
+  group_by(Subject) %>% 
+  tally() %>% 
+  summarise(mean_typ = mean(n),
+            sd_typ = sd(n))
+
+```
+
+```{r table 1}
+
+infants <- main_data %>% group_by(Language, Subject) %>% slice(1) %>% ungroup() %>%
+  group_by(Language) %>% tally()
+
+ages <- main_data %>% 
+  group_by(Language) %>% 
+  summarise(mean_age = mean(Age),
+            sd_age = sd(Age)) %>%
+  dplyr::select(-Language)
+
+n_typ <- main_data %>% group_by(Subject, Language, Gloss) %>% tally() %>%
+  ungroup() %>%
+  group_by(Language, Subject) %>% 
+  tally() %>% 
+  summarise(mean_typ = mean(n),
+            sd_typ = sd(n)) %>%
+  dplyr::select(-Language)
+
+n_tok <- main_data %>% 
+  group_by(Language,Subject) %>% 
+  tally() %>% 
+  summarise(mean_tok = mean(n), 
+            sd_tok = sd(n)) %>%
+  dplyr::select(-Language)
+
+n_typ_disyl <- disyl_data %>% group_by(Subject, Language, Gloss) %>% tally() %>%
+  ungroup() %>%
+  group_by(Language, Subject) %>% 
+  tally() %>% 
+  summarise(mean_typ_di = mean(n),
+            sd_typ_di = sd(n)) %>%
+  dplyr::select(-Language)
+
+n_tok_disyl <- disyl_data %>% 
+  group_by(Language,Subject) %>% 
+  tally() %>% 
+  summarise(mean_tok_di = mean(n), 
+            sd_tok_di = sd(n)) %>%
+  dplyr::select(-Language)
+
+Table1 <- cbind(infants, ages, n_typ, n_tok, n_typ_disyl, n_tok_disyl) %>%
+  mutate_if(is.numeric, ~round(., 2)) %>%
+  mutate(sd_age = paste0("(", sd_age, ")"),
+         sd_typ = paste0("(", sd_typ, ")"),
+         sd_tok = paste0("(", sd_tok, ")"),
+         sd_typ_di = paste0("(", sd_typ_di, ")"),
+         sd_tok_di = paste0("(", sd_tok_di, ")")) %>%
+  unite("Mean age (SD)", mean_age, sd_age, sep = " ") %>%
+  unite("Mean word types (SD)", mean_typ, sd_typ, sep = " ") %>%
+  unite("Mean word tokens (SD)", mean_tok, sd_tok, sep = " ") %>%
+  unite("Mean word types (SD) (disyl. targets)", mean_typ_di, sd_typ_di, sep = " ") %>%
+  unite("Mean word tokens (SD) (disyl. targets)", mean_tok_di, sd_tok_di, sep = " ") %>%
+  rename("n infants" = n)
+
+kable(Table1) %>% kable_styling("striped") %>% save_kable("Table1.pdf")
+```
+
+```{r syllable numbers - Table 2}
+
+distance_data %>% filter(data_type == "actual" & nsyl_actual == 2)
+
+distance_data %>% filter(data_type == "actual" & nsyl_actual == 2) %>% 
+  tally() %>% 
+  summarise(n_disyl = sum(n),
+            pc_disyl = n_disyl/1818)
+
+prop_syls <- distance_data %>% filter(data_type == "actual") %>% 
+  group_by(nsyl_actual) %>% 
+  tally() %>%  
+  mutate(prop = n/1818) %>%
+  mutate_if(is.numeric, ~round(., 2)) %>%
+  rename("proportion" = prop) %>%
+  dplyr::select(-n)
+
+Table2 <- distance_data %>% filter(data_type == "actual") %>% 
+  group_by(Language, nsyl_actual) %>% tally() %>% 
+  pivot_wider(names_from = Language, values_from = n) %>%
+  mutate_all(~replace(., is.na(.), 0)) %>%
+  left_join(prop_syls) %>%
+  rename("n syllables" = nsyl_actual)
+
+  
+kable(Table2) %>% kable_styling("striped") %>% save_kable("Table2.pdf")
+
+```
 
 ```{r ex of distance table}
 
-checks <- distance_data %>% dplyr::select(Gloss, IPAactual, 
-                                S1C1.S1C1, S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
-                                S2C1.S2C1, S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
-                                SFC1.SFC1, SFC2.SFC2, 
-                                SFCF1.SFCF1, SFCF2.SFCF2,
-                                nsyl_actual) %>%
-  filter(S1C1.S1C1 != "0" &
-           nsyl_actual ==2) %>%
+Table3 <- distance_data %>% dplyr::select(Subject, Language, Gloss, IPAactual, 
+                                S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
+                                S2C1.S2C1, #S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
+                                SFC1.SFC1, #SFC2.SFC2, 
+                                SFCF1.SFCF1, #SFCF2.SFCF2,
+                                nsyl_actual, data_type
+                                ) %>%
+  filter(#S1C1.S1C1 != "0" &
+           #nsyl_actual ==2 &
+             data_type == "actual" & 
+             Language == "UK") %>%
   group_by(Gloss) %>%
-  slice(1)
+  slice(1) %>%
+  filter(Gloss %in% c("cuddle", "cookie", "phuppo", "eeyore", "flowers")) %>%
+  dplyr::select(-nsyl_actual, -data_type) %>%
+  rename("IPA" = IPAactual)
 
-### need to go through and check all S2s as they are not in SF position - SFCFs are showing up in SFC1 position
+names(Table3) <- sub(".*\\.", "", names(Table3))
+names(Table3)
+
+kable(Table3) %>% kable_styling("striped") %>% save_kable("Table3.pdf")
+
+```
+
+```{r ex of distance table - geminates}
+#set.seed(24)
+
+Table4a <- distance_data %>%
+  filter(
+    geminate_T == T,
+    data_type == "target") %>%
+  group_by(Language, Gloss)  %>%
+  slice(1) %>%
+  mutate(`Data type` = ifelse(Subject == "Atte", "Target", "")
+         ) %>%
+  dplyr::select(`Data type`,Subject, Language, Gloss, IPAtarget,
+                                S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
+                                S1CF1.S1CF1, S1CF2.S1CF2,
+                                S2C1.S2C1, S2CF1.S2CF1, #S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
+                                SFC1.SFC1, #SFC2.SFC2,
+                                #SFCF1.SFCF1, SFCF2.SFCF2,
+                                ) %>%
+  filter(Gloss %in% c("ankka", "hot", "cookie", "phuppo")) %>%
+  rename("IPA" = IPAtarget) %>%
+  mutate(Gloss = fct_recode(Gloss,
+                            "ankka 'duck'" = "ankka",
+                            "kukki 'cookie'" = "cookie",
+                            "atsui 'hot" = "hot",
+                            "phuppo 'uncle'" = "phuppo"),
+         )
+
+names(Table4a) <- sub(".*\\.", "", names(Table4a))
+names(Table4a)
+
+Table4b <- distance_data %>%
+  filter(
+    geminate_A == T,
+    data_type == "actual") %>%
+  group_by(Language, Gloss)  %>%
+  slice(1) %>%
+  mutate(`Data type` = ifelse(Subject == "Mira", "Actual", "")
+         ) %>%
+  dplyr::select(`Data type`, Subject, Language, Gloss, IPAactual,
+                                S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
+                                S1CF1.S1CF1, S1CF2.S1CF2,
+                                S2C1.S2C1, S2CF1.S2CF1,#S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
+                                SFC1.SFC1, #SFC2.SFC2,
+                                #SFCF1.SFCF1, SFCF2.SFCF2
+                                ) %>%
+   filter(Gloss %in% c("häntä", "roska", "cassé", "Mummy")) %>%
+   rename("IPA" = IPAactual) %>%
+  mutate(Gloss = fct_recode(Gloss,
+                            "häntä 'him'" = "häntä",
+                            "roska 'rubbish'" = "roska",
+                            "cassé 'broken" = "cassé"))
+
+names(Table4b) <- sub(".*\\.", "", names(Table4b))
+names(Table4b)
+
+Table4 <- rbind(Table4a, Table4b)
+
+kable(Table4) %>% kable_styling("striped") %>% save_kable("Table4.pdf")
+
+```
+
+
+
+```{r distance matrix}
+
+#source("mini_matrix.R")
+
 ```
 
 
