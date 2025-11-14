@@ -81,4 +81,6 @@ all_data <- data_ready %>% filter(Subject %in% usable_data) %>%
   fill(IPAtarget) %>%
   dplyr::select(-IPA)
 
-write_csv(all_data, "data_ready.csv")
+#write_csv(all_data, "data_ready.csv")
+#write.csv(all_data,"data_ready.csv",fileEncoding = "UTF-8")
+readr::write_excel_csv(all_data,"data_ready.csv")

@@ -24,6 +24,7 @@ options("encoding" = "UTF-8")
 main_data <- read_csv("data_ready.csv")
 distance_data<- read.csv("output_df.csv", header = TRUE, fileEncoding = "UTF-8")
 #check <- distance_data %>% dplyr::select(S2CF1.S2CF1, Gloss, IPAactual)
+network_graphs <- read_csv("globalsmallworlddata.csv")
 ```
 
 ## Data
@@ -265,16 +266,13 @@ kable(Table4) %>% kable_styling("striped") %>% save_kable("Table4.pdf")
 ```
 
 
-```{r cars}
-summary(cars)
+```{r network graphs}
+
+infant_lang <- main_data %>% group_by(Subject, Language, Age) %>% tally() %>%
+  rename("Speaker" = Subject)
+
+network_graphs <- network_graphs %>% left_join(infant_lang) %>%
+  filter
+
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

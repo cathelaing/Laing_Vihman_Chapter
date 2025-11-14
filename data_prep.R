@@ -900,4 +900,5 @@ output_actual_df <- output_actual_df %>%
 output_all <- rbind(output_target_df, output_actual_df)
 
 #write_csv(output_all, "output_df.csv")
-write.csv(output_all,"output_df.csv",fileEncoding = "UTF-8")
+#write.csv(output_all,"output_df.csv",fileEncoding = "UTF-8")
+readr::write_excel_csv(output_all,"output_df.csv")

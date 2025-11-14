@@ -259,16 +259,16 @@ Atte,Atti3511,actual,2,0.25
 Atte,Atti3512,actual,2,0.25
 Atte,Atti3513,actual,2,0.25
 Atte,Atti3514,actual,2,0.25
-Atte,Minni1512,target,3,0.25
-Atte,Minni1513,target,3,0.25
-Atte,Minni1514,target,3,0.25
-Atte,Minni1515,target,3,0.25
+Atte,Minni1512,target,1,0.25
+Atte,Minni1513,target,1,0.25
+Atte,Minni1514,target,1,0.25
+Atte,Minni1515,target,1,0.25
 Atte,Minni3209,actual,1,0.25
 Atte,Minni3210,actual,1,0.25
 Atte,Minni3211,actual,1,0.25
 Atte,Minni3212,actual,1,0.25
-Atte,aja1112,target,3,0.25
-Atte,aja1113,target,3,0.25
+Atte,aja1112,target,4,0.25
+Atte,aja1113,target,4,0.25
 Atte,aja3500,actual,2,0.25
 Atte,aja3501,actual,2,0.25
 Atte,ankka1769,target,1,0.25
@@ -365,11 +365,11 @@ Atte,isi2892,actual,6,0.25
 Atte,isi2893,actual,6,0.25
 Atte,isi2894,actual,6,0.25
 Atte,kaksi2162,actual,1,0.25
-Atte,kala276,target,2,0.25
+Atte,kala276,target,1,0.25
 Atte,kala2895,actual,4,0.25
-Atte,kello1499,target,2,0.25
-Atte,kello1500,target,2,0.25
-Atte,kello1501,target,2,0.25
+Atte,kello1499,target,3,0.25
+Atte,kello1500,target,3,0.25
+Atte,kello1501,target,3,0.25
 Atte,kello3527,actual,4,0.25
 Atte,kello3528,actual,4,0.25
 Atte,kello3529,actual,4,0.25
@@ -385,10 +385,10 @@ Atte,loppu3530,actual,3,0.25
 Atte,loppu3531,actual,3,0.25
 Atte,loppu3532,actual,3,0.25
 Atte,loppu3533,actual,3,0.25
-Atte,matto1508,target,3,0.25
-Atte,matto1509,target,3,0.25
-Atte,matto1510,target,3,0.25
-Atte,matto1511,target,3,0.25
+Atte,matto1508,target,1,0.25
+Atte,matto1509,target,1,0.25
+Atte,matto1510,target,1,0.25
+Atte,matto1511,target,1,0.25
 Atte,matto3206,actual,2,0.25
 Atte,matto3207,actual,2,0.25
 Atte,matto3208,actual,2,0.25
@@ -402,11 +402,11 @@ Atte,pallo1520,target,2,0.25
 Atte,pallo3213,actual,1,0.25
 Atte,pallo3536,actual,4,0.25
 Atte,pallo3537,actual,4,0.25
-Atte,pappa1521,target,2,0.25
-Atte,pappa1522,target,2,0.25
+Atte,pappa1521,target,3,0.25
+Atte,pappa1522,target,3,0.25
 Atte,pappa3214,actual,3,0.25
 Atte,pupu2163,actual,2,0.25
-Atte,pupu277,target,2,0.25
+Atte,pupu277,target,1,0.25
 Atte,ukko1783,target,1,0.25
 Atte,ukko1784,target,1,0.25
 Atte,ukko1785,target,1,0.25
@@ -441,7 +441,7 @@ Atte,äiti3496,actual,2,0.25
 Atte,äiti3497,actual,2,0.25
 Atte,äiti3498,actual,2,0.25
 Atte,äiti3499,actual,2,0.25
-Atte,ääni1101,target,4,0.25
+Atte,ääni1101,target,3,0.25
 Atte,ääni2861,actual,4,0.25
 Basile,bisou1927,actual,1,0.25
 Basile,bisou677,target,1,0.25
@@ -594,9 +594,9 @@ Eelis,Eetu1158,target,2,0.25
 Eelis,Eetu2896,actual,3,0.25
 Eelis,Eetu2897,actual,3,0.25
 Eelis,Eetu3553,actual,2,0.25
-Eelis,Hippi1539,target,2,0.25
-Eelis,Hippi1540,target,2,0.25
-Eelis,Hippi1541,target,2,0.25
+Eelis,Hippi1539,target,1,0.25
+Eelis,Hippi1540,target,1,0.25
+Eelis,Hippi1541,target,1,0.25
 Eelis,Hippi3557,actual,4,0.25
 Eelis,Hippi3558,actual,4,0.25
 Eelis,Hippi3559,actual,4,0.25
@@ -614,22 +614,23 @@ Eelis,ankka3548,actual,2,0.25
 Eelis,ankka3549,actual,2,0.25
 Eelis,ankka3550,actual,2,0.25
 Eelis,ankka3551,actual,2,0.25
-Eelis,heppa1523,target,2,0.25
-Eelis,heppa1524,target,2,0.25
-Eelis,heppa1525,target,2,0.25
-Eelis,heppa1526,target,2,0.25
-Eelis,heppa1527,target,2,0.25
-Eelis,heppa1528,target,2,0.25
-Eelis,heppa1529,target,2,0.25
-Eelis,heppa1530,target,2,0.25
-Eelis,heppa1531,target,2,0.25
-Eelis,heppa1532,target,2,0.25
-Eelis,heppa1533,target,2,0.25
-Eelis,heppa1534,target,2,0.25
-Eelis,heppa1535,target,2,0.25
-Eelis,heppa1536,target,2,0.25
-Eelis,heppa1537,target,2,0.25
-Eelis,heppa1538,target,2,0.25
+Eelis,anna1797,target,1,0.25
+Eelis,heppa1523,target,1,0.25
+Eelis,heppa1524,target,1,0.25
+Eelis,heppa1525,target,1,0.25
+Eelis,heppa1526,target,1,0.25
+Eelis,heppa1527,target,1,0.25
+Eelis,heppa1528,target,1,0.25
+Eelis,heppa1529,target,1,0.25
+Eelis,heppa1530,target,1,0.25
+Eelis,heppa1531,target,1,0.25
+Eelis,heppa1532,target,1,0.25
+Eelis,heppa1533,target,1,0.25
+Eelis,heppa1534,target,1,0.25
+Eelis,heppa1535,target,1,0.25
+Eelis,heppa1536,target,1,0.25
+Eelis,heppa1537,target,1,0.25
+Eelis,heppa1538,target,1,0.25
 Eelis,heppa3215,actual,2,0.25
 Eelis,heppa3216,actual,2,0.25
 Eelis,heppa3217,actual,2,0.25
@@ -688,14 +689,14 @@ Eelis,kiikkaa3238,actual,2,0.25
 Eelis,kiikkaa3239,actual,2,0.25
 Eelis,kiikkaa3240,actual,2,0.25
 Eelis,kiikkaa3241,actual,2,0.25
-Eelis,kiinni1557,target,1,0.25
-Eelis,kiinni1558,target,1,0.25
-Eelis,kiinni1559,target,1,0.25
-Eelis,kiinni1560,target,1,0.25
-Eelis,kiinni1561,target,1,0.25
-Eelis,kiinni1562,target,1,0.25
-Eelis,kiinni1563,target,1,0.25
-Eelis,kiinni1564,target,1,0.25
+Eelis,kiinni1557,target,2,0.25
+Eelis,kiinni1558,target,2,0.25
+Eelis,kiinni1559,target,2,0.25
+Eelis,kiinni1560,target,2,0.25
+Eelis,kiinni1561,target,2,0.25
+Eelis,kiinni1562,target,2,0.25
+Eelis,kiinni1563,target,2,0.25
+Eelis,kiinni1564,target,2,0.25
 Eelis,kiinni1832,actual,2,0.25
 Eelis,kiinni1833,actual,2,0.25
 Eelis,kiinni1834,actual,3,0.25
@@ -709,9 +710,9 @@ Eelis,kukka1565,target,2,0.25
 Eelis,kukka1566,target,2,0.25
 Eelis,kukka3242,actual,2,0.25
 Eelis,kukka3243,actual,2,0.25
-Eelis,loppu1567,target,3,0.25
-Eelis,loppu1568,target,3,0.25
-Eelis,loppu1569,target,3,0.25
+Eelis,loppu1567,target,2,0.25
+Eelis,loppu1568,target,2,0.25
+Eelis,loppu1569,target,2,0.25
 Eelis,loppu1841,actual,1,0.25
 Eelis,loppu1842,actual,1,0.25
 Eelis,loppu3566,actual,4,0.25
@@ -725,22 +726,21 @@ Eelis,omppu1798,target,1,0.25
 Eelis,omppu1799,target,1,0.25
 Eelis,omppu1843,actual,1,0.25
 Eelis,omppu3568,actual,4,0.25
-Eelis,pappa1573,target,1,0.25
+Eelis,pappa1573,target,2,0.25
 Eelis,pappa3246,actual,2,0.25
 Eelis,pipi2164,actual,2,0.25
-Eelis,pipi279,target,1,0.25
-Eelis,pipi280,target,1,0.25
-Eelis,pipi281,target,1,0.25
+Eelis,pipi279,target,2,0.25
+Eelis,pipi280,target,2,0.25
+Eelis,pipi281,target,2,0.25
 Eelis,pipi3247,actual,3,0.25
 Eelis,pipi3248,actual,3,0.25
-Eelis,poppa1574,target,1,0.25
-Eelis,poppa1575,target,1,0.25
+Eelis,poppa1574,target,2,0.25
+Eelis,poppa1575,target,2,0.25
 Eelis,poppa2165,actual,2,0.25
-Eelis,rikki1576,target,3,0.25
-Eelis,rikki1577,target,3,0.25
+Eelis,rikki1576,target,2,0.25
+Eelis,rikki1577,target,2,0.25
 Eelis,rikki3569,actual,2,0.25
 Eelis,rikki3570,actual,2,0.25
-Eelis,räppäa282,target,3,0.25
 Eelis,räppäa2898,actual,2,0.25
 Elen,Dipsi2622,actual,5,0.25
 Elen,La-La3073,actual,4,0.25
@@ -818,25 +818,25 @@ Eliisa,hauva2166,actual,1,0.25
 Eliisa,hauva2714,actual,5,0.25
 Eliisa,hauva2715,actual,5,0.25
 Eliisa,hauva2716,actual,5,0.25
-Eliisa,hauva283,target,2,0.25
-Eliisa,hauva284,target,2,0.25
-Eliisa,hauva285,target,2,0.25
-Eliisa,hauva286,target,2,0.25
-Eliisa,hauva287,target,2,0.25
-Eliisa,hauva288,target,2,0.25
-Eliisa,hauva289,target,2,0.25
-Eliisa,isi1165,target,2,0.25
-Eliisa,isi1166,target,2,0.25
-Eliisa,isi1167,target,2,0.25
-Eliisa,isi1168,target,2,0.25
-Eliisa,isi1169,target,2,0.25
-Eliisa,isi1170,target,2,0.25
-Eliisa,isi1171,target,2,0.25
-Eliisa,isi1172,target,2,0.25
-Eliisa,isi1173,target,2,0.25
-Eliisa,isi1174,target,2,0.25
-Eliisa,isi1175,target,2,0.25
-Eliisa,isi1176,target,2,0.25
+Eliisa,hauva283,target,1,0.25
+Eliisa,hauva284,target,1,0.25
+Eliisa,hauva285,target,1,0.25
+Eliisa,hauva286,target,1,0.25
+Eliisa,hauva287,target,1,0.25
+Eliisa,hauva288,target,1,0.25
+Eliisa,hauva289,target,1,0.25
+Eliisa,isi1165,target,3,0.25
+Eliisa,isi1166,target,3,0.25
+Eliisa,isi1167,target,3,0.25
+Eliisa,isi1168,target,3,0.25
+Eliisa,isi1169,target,3,0.25
+Eliisa,isi1170,target,3,0.25
+Eliisa,isi1171,target,3,0.25
+Eliisa,isi1172,target,3,0.25
+Eliisa,isi1173,target,3,0.25
+Eliisa,isi1174,target,3,0.25
+Eliisa,isi1175,target,3,0.25
+Eliisa,isi1176,target,3,0.25
 Eliisa,isi2899,actual,3,0.25
 Eliisa,isi2900,actual,3,0.25
 Eliisa,isi2901,actual,3,0.25
@@ -897,11 +897,11 @@ Eliisa,kirja1851,actual,3,0.25
 Eliisa,kirja301,target,1,0.25
 Eliisa,kirja302,target,1,0.25
 Eliisa,kirja303,target,1,0.25
-Eliisa,kissa1589,target,3,0.25
-Eliisa,kissa1590,target,3,0.25
-Eliisa,kissa1591,target,3,0.25
-Eliisa,kissa1592,target,3,0.25
-Eliisa,kissa1593,target,3,0.25
+Eliisa,kissa1589,target,1,0.25
+Eliisa,kissa1590,target,1,0.25
+Eliisa,kissa1591,target,1,0.25
+Eliisa,kissa1592,target,1,0.25
+Eliisa,kissa1593,target,1,0.25
 Eliisa,kissa3572,actual,2,0.25
 Eliisa,kissa3573,actual,2,0.25
 Eliisa,kissa3574,actual,2,0.25
@@ -921,29 +921,29 @@ Eliisa,litu2170,actual,2,0.25
 Eliisa,litu2171,actual,2,0.25
 Eliisa,litu2172,actual,2,0.25
 Eliisa,litu2173,actual,2,0.25
-Eliisa,mummu /muumu1595,target,1,0.25
-Eliisa,mummu /muumu1596,target,1,0.25
-Eliisa,mummu /muumu1597,target,1,0.25
-Eliisa,mummu /muumu1598,target,1,0.25
+Eliisa,mummu /muumu1595,target,2,0.25
+Eliisa,mummu /muumu1596,target,2,0.25
+Eliisa,mummu /muumu1597,target,2,0.25
+Eliisa,mummu /muumu1598,target,2,0.25
 Eliisa,mummu /muumu2174,actual,2,0.25
 Eliisa,mummu /muumu2175,actual,2,0.25
 Eliisa,mummu /muumu3257,actual,1,0.25
 Eliisa,muumi1853,actual,2,0.25
 Eliisa,muumi1854,actual,2,0.25
-Eliisa,muumi304,target,1,0.25
-Eliisa,muumi305,target,1,0.25
-Eliisa,nukke1599,target,1,0.25
-Eliisa,nukke1600,target,1,0.25
+Eliisa,muumi304,target,2,0.25
+Eliisa,muumi305,target,2,0.25
+Eliisa,nukke1599,target,2,0.25
+Eliisa,nukke1600,target,2,0.25
 Eliisa,nukke3258,actual,2,0.25
 Eliisa,nukke3259,actual,2,0.25
-Eliisa,nukkuu1601,target,1,0.25
-Eliisa,nukkuu1602,target,1,0.25
+Eliisa,nukkuu1601,target,2,0.25
+Eliisa,nukkuu1602,target,2,0.25
 Eliisa,nukkuu3260,actual,2,0.25
 Eliisa,nukkuu3261,actual,2,0.25
-Eliisa,oho1178,target,1,0.25
-Eliisa,oho1179,target,1,0.25
-Eliisa,oho1180,target,1,0.25
-Eliisa,oho1181,target,1,0.25
+Eliisa,oho1178,target,2,0.25
+Eliisa,oho1179,target,2,0.25
+Eliisa,oho1180,target,2,0.25
+Eliisa,oho1181,target,2,0.25
 Eliisa,oho2922,actual,3,0.25
 Eliisa,oho2923,actual,3,0.25
 Eliisa,oho2924,actual,3,0.25
@@ -952,18 +952,17 @@ Eliisa,pallo1603,target,2,0.25
 Eliisa,pallo1604,target,2,0.25
 Eliisa,pallo3262,actual,2,0.25
 Eliisa,pallo3263,actual,2,0.25
-Eliisa,pappa1605,target,2,0.25
-Eliisa,pappa1606,target,2,0.25
-Eliisa,pappa1607,target,2,0.25
-Eliisa,pappa1608,target,2,0.25
+Eliisa,pappa1605,target,3,0.25
+Eliisa,pappa1606,target,3,0.25
+Eliisa,pappa1607,target,3,0.25
+Eliisa,pappa1608,target,3,0.25
 Eliisa,pappa3264,actual,2,0.25
 Eliisa,pappa3265,actual,2,0.25
 Eliisa,pappa3266,actual,2,0.25
 Eliisa,pappa3267,actual,2,0.25
 Eliisa,piiloon2717,actual,5,0.25
-Eliisa,piiloon306,target,1,0.25
-Eliisa,pomppi1609,target,2,0.25
-Eliisa,pomppi1610,target,2,0.25
+Eliisa,pomppi1609,target,1,0.25
+Eliisa,pomppi1610,target,1,0.25
 Eliisa,pomppi3268,actual,2,0.25
 Eliisa,pomppi3269,actual,2,0.25
 Eliisa,pupu2176,actual,2,0.25
@@ -972,22 +971,23 @@ Eliisa,pupu2178,actual,2,0.25
 Eliisa,pupu307,target,2,0.25
 Eliisa,pupu308,target,2,0.25
 Eliisa,pupu309,target,2,0.25
+Eliisa,rikki1611,target,2,0.25
 Eliisa,rikki3270,actual,2,0.25
 Eliisa,"tippu, tippuu1612",target,2,0.25
 Eliisa,"tippu, tippuu1613",target,2,0.25
 Eliisa,"tippu, tippuu3271",actual,2,0.25
 Eliisa,"tippu, tippuu3272",actual,2,0.25
-Eliisa,tyttö1614,target,3,0.25
-Eliisa,tyttö1615,target,3,0.25
-Eliisa,tyttö1616,target,3,0.25
-Eliisa,tyttö1617,target,3,0.25
-Eliisa,tyttö1618,target,3,0.25
-Eliisa,tyttö1619,target,3,0.25
-Eliisa,tyttö1620,target,3,0.25
-Eliisa,tyttö1621,target,3,0.25
-Eliisa,tyttö1622,target,3,0.25
-Eliisa,tyttö1623,target,3,0.25
-Eliisa,tyttö1624,target,3,0.25
+Eliisa,tyttö1614,target,2,0.25
+Eliisa,tyttö1615,target,2,0.25
+Eliisa,tyttö1616,target,2,0.25
+Eliisa,tyttö1617,target,2,0.25
+Eliisa,tyttö1618,target,2,0.25
+Eliisa,tyttö1619,target,2,0.25
+Eliisa,tyttö1620,target,2,0.25
+Eliisa,tyttö1621,target,2,0.25
+Eliisa,tyttö1622,target,2,0.25
+Eliisa,tyttö1623,target,2,0.25
+Eliisa,tyttö1624,target,2,0.25
 Eliisa,tyttö3191,actual,2,0.25
 Eliisa,tyttö3273,actual,2,0.25
 Eliisa,tyttö3274,actual,2,0.25
@@ -1513,11 +1513,11 @@ Haruo,"here it is, found it3596",actual,8,0.25
 Haruo,"here it is, found it3597",actual,8,0.25
 Haruo,here2331,actual,17,0.25
 Haruo,here2332,actual,19,0.25
-Haruo,here500,target,4,0.25
-Haruo,here501,target,4,0.25
-Haruo,hold me1724,target,6,0.25
-Haruo,hold me1725,target,6,0.25
-Haruo,hold me1726,target,6,0.25
+Haruo,here500,target,5,0.25
+Haruo,here501,target,5,0.25
+Haruo,hold me1724,target,3,0.25
+Haruo,hold me1725,target,3,0.25
+Haruo,hold me1726,target,3,0.25
 Haruo,hold me2317,actual,6,0.25
 Haruo,hold me3372,actual,7,0.25
 Haruo,hot1211,target,10,0.25
@@ -1581,8 +1581,8 @@ Haruo,rolling sound? lying down?1899,actual,2,0.25
 Haruo,rolling sound? lying down?1900,actual,2,0.25
 Haruo,rolling sound? lying down?519,target,2,0.25
 Haruo,rolling sound? lying down?520,target,2,0.25
-Haruo,shoes1727,target,4,0.25
-Haruo,shoes1728,target,4,0.25
+Haruo,shoes1727,target,3,0.25
+Haruo,shoes1728,target,3,0.25
 Haruo,shoes3376,actual,7,0.25
 Haruo,shoes3377,actual,7,0.25
 Haruo,stand up!2348,actual,19,0.25
@@ -1626,8 +1626,8 @@ Hiromi,cake2217,actual,5,0.25
 Hiromi,cake376,target,2,0.25
 Hiromi,cake377,target,2,0.25
 Hiromi,cake378,target,2,0.25
-Hiromi,"car, vroom1670",target,3,0.25
-Hiromi,"car, vroom1671",target,3,0.25
+Hiromi,"car, vroom1670",target,2,0.25
+Hiromi,"car, vroom1671",target,2,0.25
 Hiromi,"car, vroom2210",actual,8,0.25
 Hiromi,"car, vroom3326",actual,3,0.25
 Hiromi,cute1872,actual,7,0.25
@@ -1648,7 +1648,7 @@ Hiromi,daddy406,target,2,0.25
 Hiromi,daddy407,target,2,0.25
 Hiromi,daddy408,target,2,0.25
 Hiromi,daddy409,target,2,0.25
-Hiromi,duck1673,target,2,0.25
+Hiromi,duck1673,target,1,0.25
 Hiromi,duck2213,actual,5,0.25
 Hiromi,ear2230,actual,2,0.25
 Hiromi,ear2231,actual,2,0.25
@@ -2030,8 +2030,8 @@ Kazuko,hello565,target,1,0.25
 Kazuko,hello566,target,1,0.25
 Kazuko,hello567,target,1,0.25
 Kazuko,hello568,target,1,0.25
-Kazuko,hold me1731,target,2,0.25
-Kazuko,hold me1732,target,2,0.25
+Kazuko,hold me1731,target,1,0.25
+Kazuko,hold me1732,target,1,0.25
 Kazuko,hold me3380,actual,1,0.25
 Kazuko,hold me3381,actual,2,0.25
 Kazuko,kitty1743,target,2,0.25
@@ -2059,21 +2059,21 @@ Kazuko,mouth571,target,2,0.25
 Kazuko,mouth572,target,2,0.25
 Kazuko,people1905,actual,1,0.25
 Kazuko,people1906,actual,1,0.25
-Kazuko,people569,target,1,0.25
-Kazuko,people570,target,1,0.25
+Kazuko,people569,target,2,0.25
+Kazuko,people570,target,2,0.25
 Kazuko,pig1903,actual,8,0.25
 Kazuko,pig2382,actual,3,0.25
 Kazuko,pig2383,actual,3,0.25
-Kazuko,pig543,target,2,0.25
-Kazuko,pig544,target,2,0.25
-Kazuko,pig545,target,2,0.25
+Kazuko,pig543,target,3,0.25
+Kazuko,pig544,target,3,0.25
+Kazuko,pig545,target,3,0.25
 Kazuko,please2389,actual,14,0.25
 Kazuko,please2390,actual,8,0.25
 Kazuko,please2391,actual,3,0.25
-Kazuko,please546,target,2,0.25
-Kazuko,please547,target,2,0.25
-Kazuko,please548,target,2,0.25
-Kazuko,please549,target,2,0.25
+Kazuko,please546,target,1,0.25
+Kazuko,please547,target,1,0.25
+Kazuko,please548,target,1,0.25
+Kazuko,please549,target,1,0.25
 Kazuko,rain1225,target,3,0.25
 Kazuko,rain1226,target,3,0.25
 Kazuko,rain1227,target,3,0.25
@@ -2211,11 +2211,11 @@ Lewis,woof woof1389,target,1,0.25
 Lewis,woof woof1390,target,1,0.25
 Lewis,woof woof3138,actual,2,0.25
 Mira,Muumi/Moomin2191,actual,2,0.25
-Mira,Muumi/Moomin325,target,1,0.25
-Mira,Muumi/Moomin326,target,1,0.25
-Mira,Muumi/Moomin327,target,1,0.25
-Mira,Muumi/Moomin328,target,1,0.25
-Mira,Muumi/Moomin329,target,1,0.25
+Mira,Muumi/Moomin325,target,3,0.25
+Mira,Muumi/Moomin326,target,3,0.25
+Mira,Muumi/Moomin327,target,3,0.25
+Mira,Muumi/Moomin328,target,3,0.25
+Mira,Muumi/Moomin329,target,3,0.25
 Mira,Muumi/Moomin3290,actual,2,0.25
 Mira,Muumi/Moomin3291,actual,2,0.25
 Mira,Muumi/Moomin3292,actual,2,0.25
@@ -2226,12 +2226,12 @@ Mira,Muumi/Moomin3296,actual,2,0.25
 Mira,Muumi/Moomin3297,actual,2,0.25
 Mira,Muumi/Moomin3298,actual,2,0.25
 Mira,Muumi/Moomin3299,actual,2,0.25
-Mira,Muumi/Moomin330,target,1,0.25
-Mira,Muumi/Moomin331,target,1,0.25
-Mira,Muumi/Moomin332,target,1,0.25
-Mira,Muumi/Moomin333,target,1,0.25
-Mira,Muumi/Moomin334,target,1,0.25
-Mira,Muumi/Moomin335,target,1,0.25
+Mira,Muumi/Moomin330,target,3,0.25
+Mira,Muumi/Moomin331,target,3,0.25
+Mira,Muumi/Moomin332,target,3,0.25
+Mira,Muumi/Moomin333,target,3,0.25
+Mira,Muumi/Moomin334,target,3,0.25
+Mira,Muumi/Moomin335,target,3,0.25
 Mira,häntä310,target,1,0.25
 Mira,häntä311,target,1,0.25
 Mira,häntä312,target,1,0.25
@@ -2243,23 +2243,21 @@ Mira,jalka2181,actual,2,0.25
 Mira,jalka313,target,1,0.25
 Mira,jalka314,target,1,0.25
 Mira,juna2182,actual,2,0.25
-Mira,juna315,target,1,0.25
+Mira,juna315,target,2,0.25
 Mira,kaataa2183,actual,2,0.25
 Mira,kaataa2184,actual,2,0.25
 Mira,kaataa316,target,3,0.25
 Mira,kaataa317,target,3,0.25
 Mira,kala2185,actual,2,0.25
 Mira,kala2186,actual,2,0.25
-Mira,kala318,target,3,0.25
-Mira,kala319,target,3,0.25
+Mira,kala318,target,2,0.25
+Mira,kala319,target,2,0.25
 Mira,kenkä2187,actual,2,0.25
 Mira,kenkä2188,actual,2,0.25
 Mira,kenkä320,target,1,0.25
 Mira,kenkä321,target,1,0.25
-Mira,kukka1626,target,1,0.25
 Mira,kukka3286,actual,1,0.25
 Mira,lintu2189,actual,3,0.25
-Mira,loppu1627,target,2,0.25
 Mira,loppu3287,actual,1,0.25
 Mira,luumu2190,actual,2,0.25
 Mira,luumu323,target,2,0.25
@@ -2267,31 +2265,30 @@ Mira,luumu324,target,2,0.25
 Mira,luumu3288,actual,2,0.25
 Mira,mummu1628,target,1,0.25
 Mira,mummu3289,actual,2,0.25
-Mira,nalle1629,target,2,0.25
+Mira,nalle1629,target,1,0.25
 Mira,nalle3300,actual,1,0.25
 Mira,napa2192,actual,2,0.25
 Mira,napa2193,actual,2,0.25
-Mira,napa336,target,2,0.25
-Mira,napa337,target,2,0.25
+Mira,napa336,target,1,0.25
+Mira,napa337,target,1,0.25
 Mira,nenä2194,actual,2,0.25
-Mira,nenä338,target,3,0.25
+Mira,nenä338,target,2,0.25
 Mira,paapaa2195,actual,2,0.25
-Mira,pelle1630,target,2,0.25
+Mira,pelle1630,target,1,0.25
 Mira,pelle3301,actual,1,0.25
 Mira,piiloon2196,actual,2,0.25
-Mira,piiloon340,target,1,0.25
 Mira,setä2197,actual,3,0.25
-Mira,setä341,target,2,0.25
-Mira,tonttu1632,target,4,0.25
-Mira,tonttu1633,target,4,0.25
-Mira,tonttu1634,target,4,0.25
+Mira,setä341,target,1,0.25
+Mira,tonttu1632,target,1,0.25
+Mira,tonttu1633,target,1,0.25
+Mira,tonttu1634,target,1,0.25
 Mira,tonttu2198,actual,3,0.25
 Mira,tonttu2199,actual,3,0.25
 Mira,tonttu2200,actual,3,0.25
-Mira,tyttö1635,target,4,0.25
-Mira,tyttö1636,target,4,0.25
-Mira,tyttö1637,target,4,0.25
-Mira,tyttö1638,target,4,0.25
+Mira,tyttö1635,target,1,0.25
+Mira,tyttö1636,target,1,0.25
+Mira,tyttö1637,target,1,0.25
+Mira,tyttö1638,target,1,0.25
 Mira,tyttö1855,actual,1,0.25
 Mira,tyttö3302,actual,2,0.25
 Mira,tyttö3303,actual,2,0.25
@@ -2299,7 +2296,7 @@ Mira,tyttö3304,actual,2,0.25
 Mira,tyyny2201,actual,2,0.25
 Mira,tyyny342,target,3,0.25
 Mira,tyyny343,target,3,0.25
-Mira,täällä1631,target,3,0.25
+Mira,täällä1631,target,1,0.25
 Mira,täällä2926,actual,3,0.25
 Patrick,D2184,target,6,0.25
 Patrick,D2185,target,6,0.25
@@ -2586,7 +2583,6 @@ Shazim,CATTY BT656,target,3,0.25
 Shazim,CATTY BT657,target,3,0.25
 Shazim,CATTY BT658,target,3,0.25
 Shazim,DOGGY BT3433,actual,5,0.25
-Shazim,DOGGY BT674,target,1,0.25
 Shazim,EYES1294,target,4,0.25
 Shazim,EYES1295,target,4,0.25
 Shazim,EYES2739,actual,5,0.25
@@ -2598,62 +2594,59 @@ Shazim,MAMA2452,actual,2,0.25
 Shazim,MAMA3425,actual,2,0.25
 Shazim,MAMA3426,actual,2,0.25
 Shazim,TRACTOR3422,actual,5,0.25
-Shazim,ajao1296,target,3,0.25
-Shazim,ajao1297,target,3,0.25
+Shazim,ajao1296,target,4,0.25
+Shazim,ajao1297,target,4,0.25
 Shazim,ajao3001,actual,3,0.25
 Shazim,ajao3613,actual,4,0.25
+Shazim,"ajjan, BT1808",target,2,0.25
 Shazim,"ajjan, BT3614",actual,1,0.25
-Shazim,ayee!1288,target,3,0.25
-Shazim,ayee!1289,target,3,0.25
-Shazim,ayee!1290,target,3,0.25
+Shazim,ayee!1288,target,5,0.25
+Shazim,ayee!1289,target,5,0.25
+Shazim,ayee!1290,target,5,0.25
 Shazim,ayee!2736,actual,5,0.25
 Shazim,ayee!2737,actual,5,0.25
 Shazim,ayee!2738,actual,5,0.25
 Shazim,baba2454,actual,2,0.25
 Shazim,baba3430,actual,3,0.25
 Shazim,baba3431,actual,3,0.25
-Shazim,baba671,target,4,0.25
-Shazim,baba672,target,4,0.25
-Shazim,baba673,target,4,0.25
+Shazim,baba671,target,2,0.25
+Shazim,baba672,target,2,0.25
+Shazim,baba673,target,2,0.25
 Shazim,baow baowBT2453,actual,2,0.25
-Shazim,baow baowBT666,target,4,0.25
+Shazim,baow baowBT666,target,2,0.25
 Shazim,bhayee1926,actual,2,0.25
-Shazim,bhayee664,target,3,0.25
-Shazim,billi1756,target,4,0.25
+Shazim,bhayee664,target,2,0.25
 Shazim,billi3432,actual,1,0.25
 Shazim,chachu3436,actual,5,0.25
 Shazim,chachu676,target,1,0.25
 Shazim,chuchu BT3427,actual,5,0.25
 Shazim,chuchu BT667,target,1,0.25
 Shazim,chunti2455,actual,5,0.25
-Shazim,dado1758,target,4,0.25
 Shazim,dado3435,actual,3,0.25
 Shazim,duddu BT3424,actual,3,0.25
 Shazim,duddu BT665,target,1,0.25
 Shazim,khala2451,actual,1,0.25
 Shazim,khala3423,actual,2,0.25
-Shazim,khala662,target,3,0.25
-Shazim,khala663,target,3,0.25
+Shazim,khala662,target,2,0.25
+Shazim,khala663,target,2,0.25
 Shazim,mamu3428,actual,2,0.25
-Shazim,mamu669,target,2,0.25
-Shazim,mamu670,target,2,0.25
+Shazim,mamu669,target,3,0.25
+Shazim,mamu670,target,3,0.25
 Shazim,miyon BT1925,actual,1,0.25
 Shazim,miyon BT659,target,2,0.25
-Shazim,phuppo1757,target,2,0.25
 Shazim,phuppo3434,actual,1,0.25
 Sini,hauhau2721,actual,4,0.25
 Sini,heihei2718,actual,4,0.25
-Sini,heihei344,target,1,0.25
-Sini,heppa1639,target,3,0.25
+Sini,heppa1639,target,2,0.25
 Sini,heppa3578,actual,3,0.25
 Sini,istuu3579,actual,2,0.25
 Sini,juna2719,actual,4,0.25
 Sini,juna345,target,1,0.25
-Sini,kakku1640,target,7,0.25
+Sini,kakku1640,target,4,0.25
 Sini,kakku3305,actual,2,0.25
-Sini,kiikkaa1641,target,7,0.25
-Sini,kiikkaa1642,target,7,0.25
-Sini,kiikkaa1643,target,7,0.25
+Sini,kiikkaa1641,target,4,0.25
+Sini,kiikkaa1642,target,4,0.25
+Sini,kiikkaa1643,target,4,0.25
 Sini,kiikkaa3306,actual,2,0.25
 Sini,kiikkaa3307,actual,2,0.25
 Sini,kiikkaa3308,actual,2,0.25
@@ -2661,33 +2654,33 @@ Sini,kirja1857,actual,4,0.25
 Sini,kirja1858,actual,4,0.25
 Sini,kirja346,target,2,0.25
 Sini,kirja347,target,2,0.25
-Sini,korkki1644,target,7,0.25
-Sini,korkki1645,target,7,0.25
-Sini,korkki1646,target,7,0.25
+Sini,korkki1644,target,1,0.25
+Sini,korkki1645,target,1,0.25
+Sini,korkki1646,target,1,0.25
 Sini,korkki3309,actual,2,0.25
 Sini,korkki3310,actual,2,0.25
 Sini,korkki3311,actual,2,0.25
 Sini,korva1859,actual,4,0.25
 Sini,korva348,target,1,0.25
 Sini,koti2202,actual,1,0.25
-Sini,koti349,target,5,0.25
-Sini,kukka1647,target,7,0.25
+Sini,koti349,target,3,0.25
+Sini,kukka1647,target,4,0.25
 Sini,kukka3312,actual,2,0.25
-Sini,kuppi1648,target,5,0.25
+Sini,kuppi1648,target,3,0.25
 Sini,kuppi3313,actual,2,0.25
 Sini,kvaak-kvaak1426,target,1,0.25
 Sini,kvaak-kvaak3324,actual,1,0.25
 Sini,kynä1860,actual,4,0.25
-Sini,kynä350,target,4,0.25
+Sini,kynä350,target,2,0.25
 Sini,laukku1649,target,3,0.25
 Sini,laukku3580,actual,2,0.25
 Sini,leipä2927,actual,3,0.25
-Sini,leipä351,target,6,0.25
-Sini,loppu1650,target,6,0.25
-Sini,loppu1651,target,6,0.25
-Sini,loppu1652,target,6,0.25
-Sini,loppu1653,target,6,0.25
-Sini,loppu1654,target,6,0.25
+Sini,leipä351,target,3,0.25
+Sini,loppu1650,target,5,0.25
+Sini,loppu1651,target,5,0.25
+Sini,loppu1652,target,5,0.25
+Sini,loppu1653,target,5,0.25
+Sini,loppu1654,target,5,0.25
 Sini,loppu3314,actual,2,0.25
 Sini,loppu3315,actual,3,0.25
 Sini,loppu3581,actual,3,0.25
@@ -2696,72 +2689,74 @@ Sini,loppu3583,actual,3,0.25
 Sini,minun1861,actual,2,0.25
 Sini,mummi1655,target,1,0.25
 Sini,mummi3192,actual,1,0.25
+Sini,nam-nam1427,target,1,0.25
 Sini,nami2928,actual,2,0.25
 Sini,nami353,target,1,0.25
 Sini,napa2929,actual,3,0.25
-Sini,napa354,target,5,0.25
-Sini,nappi1656,target,5,0.25
-Sini,nappi1657,target,5,0.25
-Sini,nappi1658,target,5,0.25
+Sini,napa354,target,4,0.25
+Sini,nappi1656,target,4,0.25
+Sini,nappi1657,target,4,0.25
+Sini,nappi1658,target,4,0.25
 Sini,nappi2203,actual,2,0.25
 Sini,nappi3316,actual,3,0.25
 Sini,nappi3584,actual,3,0.25
-Sini,pallo1659,target,4,0.25
-Sini,pallo1660,target,4,0.25
-Sini,pallo1661,target,4,0.25
+Sini,pallo1659,target,2,0.25
+Sini,pallo1660,target,2,0.25
+Sini,pallo1661,target,2,0.25
 Sini,pallo1862,actual,3,0.25
 Sini,pallo1863,actual,3,0.25
 Sini,piilo1864,actual,3,0.25
 Sini,piilo355,target,4,0.25
 Sini,pupu2204,actual,2,0.25
 Sini,pupu2205,actual,2,0.25
-Sini,pupu356,target,6,0.25
-Sini,pupu357,target,6,0.25
+Sini,pupu356,target,4,0.25
+Sini,pupu357,target,4,0.25
 Sini,puuro1865,actual,3,0.25
 Sini,puuro358,target,3,0.25
 Sini,pyörä1866,actual,3,0.25
 Sini,pyörä359,target,3,0.25
-Sini,rikki1662,target,3,0.25
-Sini,rikki1663,target,3,0.25
+Sini,rikki1662,target,4,0.25
+Sini,rikki1663,target,4,0.25
 Sini,rikki3318,actual,2,0.25
 Sini,rikki3585,actual,2,0.25
 Sini,roska3586,actual,2,0.25
 Sini,sakset3319,actual,2,0.25
 Sini,setä2206,actual,2,0.25
-Sini,setä362,target,4,0.25
+Sini,setä362,target,3,0.25
 Sini,suklaa3587,actual,2,0.25
 Sini,tiktak2208,actual,1,0.25
 Sini,tiktak366,target,1,0.25
-Sini,tutti1665,target,4,0.25
+Sini,tutti1665,target,5,0.25
 Sini,tutti3320,actual,2,0.25
-Sini,tyttö1666,target,4,0.25
-Sini,tyttö1667,target,4,0.25
-Sini,tyttö1668,target,4,0.25
+Sini,tyttö1666,target,5,0.25
+Sini,tyttö1667,target,5,0.25
+Sini,tyttö1668,target,5,0.25
 Sini,tyttö3321,actual,2,0.25
 Sini,tyttö3322,actual,2,0.25
 Sini,tyttö3323,actual,2,0.25
-Sini,tässä1664,target,4,0.25
+Sini,tässä1664,target,2,0.25
 Sini,tässä1867,actual,3,0.25
 Sini,täti2207,actual,2,0.25
 Sini,täti364,target,4,0.25
+Sini,ukki1800,target,3,0.25
 Sini,ukki3588,actual,2,0.25
-Sini,vettä1669,target,5,0.25
+Sini,vettä1669,target,1,0.25
 Sini,vettä3589,actual,2,0.25
 Sini,viili2720,actual,4,0.25
-Sini,viili365,target,2,0.25
+Sini,viili365,target,1,0.25
 Sini,yhtään3577,actual,2,0.25
 Takeru,Barney1881,actual,8,0.25
 Takeru,Barney2247,actual,6,0.25
-Takeru,Barney412,target,3,0.25
-Takeru,Barney413,target,3,0.25
+Takeru,Barney412,target,5,0.25
+Takeru,Barney413,target,5,0.25
 Takeru,all gone2272,actual,4,0.25
 Takeru,all gone2273,actual,4,0.25
 Takeru,all gone2274,actual,4,0.25
 Takeru,all gone2275,actual,4,0.25
-Takeru,all gone443,target,2,0.25
-Takeru,all gone444,target,2,0.25
-Takeru,all gone445,target,2,0.25
-Takeru,all gone446,target,2,0.25
+Takeru,all gone443,target,3,0.25
+Takeru,all gone444,target,3,0.25
+Takeru,all gone445,target,3,0.25
+Takeru,all gone446,target,3,0.25
 Takeru,aye-aye1186,target,4,0.25
 Takeru,aye-aye1187,target,4,0.25
 Takeru,aye-aye2722,actual,8,0.25
@@ -2774,8 +2769,8 @@ Takeru,ball414,target,5,0.25
 Takeru,ball415,target,5,0.25
 Takeru,ball416,target,5,0.25
 Takeru,ball417,target,5,0.25
-Takeru,big1197,target,3,0.25
-Takeru,big1198,target,3,0.25
+Takeru,big1197,target,5,0.25
+Takeru,big1198,target,5,0.25
 Takeru,big2942,actual,7,0.25
 Takeru,big3593,actual,1,0.25
 Takeru,bread1701,target,1,0.25
@@ -2790,26 +2785,26 @@ Takeru,bread3353,actual,3,0.25
 Takeru,bread3354,actual,3,0.25
 Takeru,bread3355,actual,3,0.25
 Takeru,bread3356,actual,3,0.25
-Takeru,choochoo1678,target,2,0.25
-Takeru,choochoo1679,target,2,0.25
-Takeru,choochoo1680,target,2,0.25
+Takeru,choochoo1678,target,1,0.25
+Takeru,choochoo1679,target,1,0.25
+Takeru,choochoo1680,target,1,0.25
 Takeru,choochoo2250,actual,8,0.25
 Takeru,choochoo2935,actual,3,0.25
 Takeru,choochoo2936,actual,1,0.25
 Takeru,choochoo3624,actual,3,0.25
-Takeru,combine1681,target,7,0.25
-Takeru,combine1682,target,7,0.25
-Takeru,combine1683,target,7,0.25
+Takeru,combine1681,target,4,0.25
+Takeru,combine1682,target,4,0.25
+Takeru,combine1683,target,4,0.25
 Takeru,combine3332,actual,5,0.25
 Takeru,combine3333,actual,8,0.25
 Takeru,combine3334,actual,5,0.25
-Takeru,daddy1722,target,5,0.25
-Takeru,daddy1723,target,5,0.25
+Takeru,daddy1722,target,4,0.25
+Takeru,daddy1723,target,4,0.25
 Takeru,daddy3369,actual,6,0.25
 Takeru,daddy3370,actual,8,0.25
-Takeru,do it!1687,target,6,0.25
-Takeru,do it!1688,target,6,0.25
-Takeru,do it!1689,target,6,0.25
+Takeru,do it!1687,target,5,0.25
+Takeru,do it!1688,target,5,0.25
+Takeru,do it!1689,target,5,0.25
 Takeru,do it!2941,actual,16,0.25
 Takeru,do it!3339,actual,6,0.25
 Takeru,do it!3592,actual,5,0.25
@@ -2820,16 +2815,16 @@ Takeru,doggie469,target,1,0.25
 Takeru,doggie470,target,1,0.25
 Takeru,don't want to2262,actual,11,0.25
 Takeru,don't want to3336,actual,2,0.25
-Takeru,don't want to433,target,3,0.25
-Takeru,don't want to434,target,3,0.25
+Takeru,don't want to433,target,6,0.25
+Takeru,don't want to434,target,6,0.25
 Takeru,elephant2303,actual,1,0.25
 Takeru,elephant2304,actual,5,0.25
 Takeru,elephant471,target,1,0.25
 Takeru,elephant472,target,1,0.25
 Takeru,flower2260,actual,3,0.25
 Takeru,flower2937,actual,9,0.25
-Takeru,flower431,target,2,0.25
-Takeru,flower432,target,2,0.25
+Takeru,flower431,target,3,0.25
+Takeru,flower432,target,3,0.25
 Takeru,food1693,target,1,0.25
 Takeru,food1694,target,1,0.25
 Takeru,food1695,target,1,0.25
@@ -2838,9 +2833,9 @@ Takeru,food3343,actual,1,0.25
 Takeru,food3344,actual,1,0.25
 Takeru,food3345,actual,1,0.25
 Takeru,food3346,actual,1,0.25
-Takeru,found it1801,target,2,0.25
-Takeru,found it1802,target,2,0.25
-Takeru,found it1803,target,2,0.25
+Takeru,found it1801,target,4,0.25
+Takeru,found it1802,target,4,0.25
+Takeru,found it1803,target,4,0.25
 Takeru,found it2934,actual,14,0.25
 Takeru,found it3590,actual,5,0.25
 Takeru,found it3591,actual,5,0.25
@@ -2848,15 +2843,15 @@ Takeru,go go2259,actual,8,0.25
 Takeru,go go3335,actual,8,0.25
 Takeru,go go429,target,4,0.25
 Takeru,go go430,target,4,0.25
-Takeru,good1192,target,6,0.25
-Takeru,good1193,target,6,0.25
-Takeru,good1194,target,6,0.25
+Takeru,good1192,target,7,0.25
+Takeru,good1193,target,7,0.25
+Takeru,good1194,target,7,0.25
 Takeru,good2261,actual,4,0.25
 Takeru,good2938,actual,9,0.25
 Takeru,good2939,actual,9,0.25
-Takeru,hooray1684,target,6,0.25
-Takeru,hooray1685,target,6,0.25
-Takeru,hooray1686,target,6,0.25
+Takeru,hooray1684,target,5,0.25
+Takeru,hooray1685,target,5,0.25
+Takeru,hooray1686,target,5,0.25
 Takeru,hooray2263,actual,4,0.25
 Takeru,hooray3337,actual,6,0.25
 Takeru,hooray3338,actual,3,0.25
@@ -2870,20 +2865,20 @@ Takeru,juice427,target,4,0.25
 Takeru,juice428,target,4,0.25
 Takeru,look!2270,actual,10,0.25
 Takeru,look!2271,actual,10,0.25
-Takeru,look!441,target,3,0.25
-Takeru,look!442,target,3,0.25
-Takeru,mom1690,target,3,0.25
-Takeru,mom1691,target,3,0.25
-Takeru,mom1692,target,3,0.25
+Takeru,look!441,target,4,0.25
+Takeru,look!442,target,4,0.25
+Takeru,mom1690,target,1,0.25
+Takeru,mom1691,target,1,0.25
+Takeru,mom1692,target,1,0.25
 Takeru,mom3340,actual,2,0.25
 Takeru,mom3341,actual,2,0.25
 Takeru,mom3342,actual,8,0.25
-Takeru,more1699,target,3,0.25
-Takeru,more1700,target,3,0.25
+Takeru,more1699,target,5,0.25
+Takeru,more1700,target,5,0.25
 Takeru,more1888,actual,6,0.25
 Takeru,more3349,actual,6,0.25
-Takeru,ouch1195,target,7,0.25
-Takeru,ouch1196,target,7,0.25
+Takeru,ouch1195,target,8,0.25
+Takeru,ouch1196,target,8,0.25
 Takeru,ouch1887,actual,11,0.25
 Takeru,ouch2940,actual,16,0.25
 Takeru,pigeon1707,target,1,0.25
@@ -2902,26 +2897,26 @@ Takeru,please2257,actual,3,0.25
 Takeru,please422,target,4,0.25
 Takeru,please423,target,4,0.25
 Takeru,please424,target,4,0.25
-Takeru,put it there1199,target,7,0.25
-Takeru,put it there1200,target,7,0.25
+Takeru,put it there1199,target,8,0.25
+Takeru,put it there1200,target,8,0.25
 Takeru,put it there2943,actual,16,0.25
 Takeru,put it there3150,actual,2,0.25
 Takeru,stuck2297,actual,2,0.25
 Takeru,stuck2298,actual,1,0.25
 Takeru,stuck2299,actual,11,0.25
-Takeru,stuck465,target,7,0.25
-Takeru,stuck466,target,7,0.25
-Takeru,stuck467,target,7,0.25
-Takeru,take1712,target,5,0.25
-Takeru,take1713,target,5,0.25
-Takeru,take1714,target,5,0.25
-Takeru,take1715,target,5,0.25
-Takeru,take1716,target,5,0.25
-Takeru,take1717,target,5,0.25
-Takeru,take1718,target,5,0.25
-Takeru,take1719,target,5,0.25
-Takeru,take1720,target,5,0.25
-Takeru,take1721,target,5,0.25
+Takeru,stuck465,target,8,0.25
+Takeru,stuck466,target,8,0.25
+Takeru,stuck467,target,8,0.25
+Takeru,take1712,target,4,0.25
+Takeru,take1713,target,4,0.25
+Takeru,take1714,target,4,0.25
+Takeru,take1715,target,4,0.25
+Takeru,take1716,target,4,0.25
+Takeru,take1717,target,4,0.25
+Takeru,take1718,target,4,0.25
+Takeru,take1719,target,4,0.25
+Takeru,take1720,target,4,0.25
+Takeru,take1721,target,4,0.25
 Takeru,take2294,actual,13,0.25
 Takeru,take2295,actual,10,0.25
 Takeru,take2296,actual,13,0.25
@@ -2932,10 +2927,10 @@ Takeru,take3365,actual,6,0.25
 Takeru,take3366,actual,6,0.25
 Takeru,take3367,actual,5,0.25
 Takeru,take3368,actual,5,0.25
-Takeru,that1188,target,6,0.25
-Takeru,that1189,target,6,0.25
-Takeru,that1190,target,6,0.25
-Takeru,that1191,target,6,0.25
+Takeru,that1188,target,7,0.25
+Takeru,that1189,target,7,0.25
+Takeru,that1190,target,7,0.25
+Takeru,that1191,target,7,0.25
 Takeru,that2723,actual,8,0.25
 Takeru,that2724,actual,8,0.25
 Takeru,that2725,actual,8,0.25
@@ -2944,12 +2939,12 @@ Takeru,train2266,actual,6,0.25
 Takeru,train2267,actual,9,0.25
 Takeru,train2268,actual,3,0.25
 Takeru,train2269,actual,2,0.25
-Takeru,train437,target,3,0.25
-Takeru,train438,target,3,0.25
-Takeru,train439,target,3,0.25
-Takeru,train440,target,3,0.25
-Takeru,wait!1697,target,3,0.25
-Takeru,wait!1698,target,3,0.25
+Takeru,train437,target,2,0.25
+Takeru,train438,target,2,0.25
+Takeru,train439,target,2,0.25
+Takeru,train440,target,2,0.25
+Takeru,wait!1697,target,5,0.25
+Takeru,wait!1698,target,5,0.25
 Takeru,wait!3347,actual,6,0.25
 Takeru,wait!3348,actual,6,0.25
 Takeru,what2276,actual,4,0.25
@@ -2970,24 +2965,24 @@ Takeru,what2290,actual,4,0.25
 Takeru,what2291,actual,4,0.25
 Takeru,what2292,actual,4,0.25
 Takeru,what2293,actual,4,0.25
-Takeru,what447,target,2,0.25
-Takeru,what448,target,2,0.25
-Takeru,what449,target,2,0.25
-Takeru,what450,target,2,0.25
-Takeru,what451,target,2,0.25
-Takeru,what452,target,2,0.25
-Takeru,what453,target,2,0.25
-Takeru,what454,target,2,0.25
-Takeru,what455,target,2,0.25
-Takeru,what456,target,2,0.25
-Takeru,what457,target,2,0.25
-Takeru,what458,target,2,0.25
-Takeru,what459,target,2,0.25
-Takeru,what460,target,2,0.25
-Takeru,what461,target,2,0.25
-Takeru,what462,target,2,0.25
-Takeru,what463,target,2,0.25
-Takeru,what464,target,2,0.25
+Takeru,what447,target,3,0.25
+Takeru,what448,target,3,0.25
+Takeru,what449,target,3,0.25
+Takeru,what450,target,3,0.25
+Takeru,what451,target,3,0.25
+Takeru,what452,target,3,0.25
+Takeru,what453,target,3,0.25
+Takeru,what454,target,3,0.25
+Takeru,what455,target,3,0.25
+Takeru,what456,target,3,0.25
+Takeru,what457,target,3,0.25
+Takeru,what458,target,3,0.25
+Takeru,what459,target,3,0.25
+Takeru,what460,target,3,0.25
+Takeru,what461,target,3,0.25
+Takeru,what462,target,3,0.25
+Takeru,what463,target,3,0.25
+Takeru,what464,target,3,0.25
 Takeru,who2251,actual,7,0.25
 Takeru,who2252,actual,10,0.25
 Takeru,who2253,actual,12,0.25
@@ -2995,8 +2990,8 @@ Takeru,who418,target,4,0.25
 Takeru,who419,target,4,0.25
 Takeru,who420,target,4,0.25
 Takeru,who421,target,4,0.25
-Takeru,whoops1804,target,2,0.25
-Takeru,whoops1805,target,2,0.25
+Takeru,whoops1804,target,4,0.25
+Takeru,whoops1805,target,4,0.25
 Takeru,whoops3350,actual,5,0.25
 Takeru,whoops3594,actual,5,0.25
 Takeru,yellow2264,actual,4,0.25
@@ -3097,8 +3092,8 @@ Taro,biting sound853,target,1,0.25
 Taro,biting sound854,target,1,0.25
 Taro,car3173,actual,5,0.25
 Taro,car825,target,2,0.25
-Taro,cookie1760,target,1,0.25
-Taro,cookie1761,target,1,0.25
+Taro,cookie1760,target,2,0.25
+Taro,cookie1761,target,2,0.25
 Taro,cookie3439,actual,1,0.25
 Taro,cookie3440,actual,1,0.25
 Taro,daddy3453,actual,3,0.25
@@ -3111,7 +3106,7 @@ Taro,doggy2556,actual,6,0.25
 Taro,doggy873,target,1,0.25
 Taro,doggy874,target,1,0.25
 Taro,doggy875,target,1,0.25
-Taro,found1329,target,2,0.25
+Taro,found1329,target,1,0.25
 Taro,found3066,actual,11,0.25
 Taro,here2546,actual,10,0.25
 Taro,here835,target,1,0.25
@@ -3122,8 +3117,8 @@ Taro,juice2545,actual,10,0.25
 Taro,juice832,target,2,0.25
 Taro,juice833,target,2,0.25
 Taro,juice834,target,2,0.25
-Taro,ouch1327,target,2,0.25
-Taro,ouch1328,target,2,0.25
+Taro,ouch1327,target,1,0.25
+Taro,ouch1328,target,1,0.25
 Taro,ouch3064,actual,11,0.25
 Taro,ouch3065,actual,8,0.25
 Taro,"pencil, writing2542",actual,3,0.25
@@ -3164,7 +3159,6 @@ Taro,train2534,actual,4,0.25
 Taro,train2535,actual,5,0.25
 Taro,train2536,actual,9,0.25
 Taro,train2537,actual,9,0.25
-Taro,went in1759,target,1,0.25
 Taro,went in3438,actual,3,0.25
 Tobias,a-boo1092,target,4,0.25
 Tobias,baby2148,actual,1,0.25
