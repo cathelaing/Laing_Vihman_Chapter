@@ -15,6 +15,7 @@ library(ggplot2)
 library(igraph)
 library(kableExtra)
 library(webshot2)
+library(ggraph)
 
 options("encoding" = "UTF-8")
 ```
@@ -189,7 +190,7 @@ Table3 <- distance_data %>% dplyr::select(Subject, Language, Gloss, IPAactual,
   dplyr::select(-nsyl_actual, -data_type) %>%
   rename("IPA" = IPAactual)
 
-names(Table3) <- sub(".*\\.", "", names(Table3))
+names(Table3) <- sub(".*.", "", names(Table3))
 names(Table3)
 
 kable(Table3) %>% kable_styling("striped") %>% save_kable("Table3.pdf")
@@ -223,7 +224,7 @@ Table4a <- distance_data %>%
                             "phuppo 'uncle'" = "phuppo"),
          )
 
-names(Table4a) <- sub(".*\\.", "", names(Table4a))
+names(Table4a) <- sub(".*.", "", names(Table4a))
 names(Table4a)
 
 Table4b <- distance_data %>%
@@ -248,7 +249,7 @@ Table4b <- distance_data %>%
                             "roska 'rubbish'" = "roska",
                             "cassé 'broken" = "cassé"))
 
-names(Table4b) <- sub(".*\\.", "", names(Table4b))
+names(Table4b) <- sub(".*.", "", names(Table4b))
 names(Table4b)
 
 Table4 <- rbind(Table4a, Table4b)
@@ -266,13 +267,360 @@ kable(Table4) %>% kable_styling("striped") %>% save_kable("Table4.pdf")
 ```
 
 
-```{r network graphs}
+```{r network graphs - summary}
 
-infant_lang <- main_data %>% group_by(Subject, Language, Age) %>% tally() %>%
-  rename("Speaker" = Subject)
+network_graphs_long <- network_graphs %>% pivot_longer(
+  cols = path_length:clust_coef_global,
+  names_to = "var",
+  values_to = "value"
+)
 
-network_graphs <- network_graphs %>% left_join(infant_lang) %>%
-  filter
+Fig1 <- network_graphs_long %>%
+  filter(!is.na(Speaker)) %>%
+  mutate(var = fct_recode(var,
+                          "Clustering coefficient" = "clust_coef_global",
+                          "Mean k" = "mean_k",
+                          "Path length" = "path_length")) %>%
+  ggplot(aes(x = Language, y = value, colour = data_type)) +
+  geom_boxplot(aes(fill = data_type), alpha = .1) +
+  geom_point(shape = 1, position = position_jitterdodge()) +
+  scale_colour_brewer(palette = "Set1") +
+  theme_bw(base_size = 14) +
+  theme(legend.title = element_blank(),
+        axis.text.x = element_text(angle = 45, vjust = 0.7)) +
+  facet_wrap(~var, ncol = 3, scales = "free")
+```
+
+Fig1
+
+```{r table 5}
+
+Table5_base <- network_graphs %>% filter(is.na(Speaker)) %>%
+  dplyr::select(-Speaker) %>%
+  pivot_wider(names_from = data_type,
+    values_from = c(clust_coef_global, mean_k, path_length))  %>%
+   mutate_if(is.numeric, ~round(., 2))
+
+Table5_means <-  Table5_base %>% 
+  summarise_if(is.numeric, mean, na.rm = TRUE) %>%
+ # mutate(Language = "Mean") %>% 
+  pivot_longer(
+  cols = 1:6,
+  names_to = "var",
+  values_to = "mean"
+  )
+
+Table5_sd <-  Table5_base %>% 
+  summarise_if(is.numeric, sd, na.rm = TRUE) %>%
+    pivot_longer(
+  cols = 1:6,
+  names_to = "var",
+  values_to = "sd"
+  )
+
+Table5_mean_sd <- cbind(Table5_means, Table5_sd) %>%
+  dplyr::select(-3) %>%
+  mutate_if(is.numeric, ~round(., 2)) %>%
+  mutate(sd = paste0("(", sd, ")")) %>%
+  unite("Mean (SD)", mean, sd, sep = " ") %>%
+  pivot_wider(names_from = var,
+    values_from = "Mean (SD)") %>%
+  mutate(Language = "Mean (SD)")
+
+Table5 <- rbind(Table5_base, Table5_mean_sd)%>%
+  rename(
+    "Clustering coeff. (A)" = clust_coef_global_actual,
+    "Clustering coeff. (T)" = clust_coef_global_target,
+    "Mean k (A)" = mean_k_actual,
+    "Mean k (T)" = mean_k_target,
+    "Path length (A)" = path_length_actual,
+    "Path length (T)" = path_length_target
+  )
+
+kable(Table5) %>% kable_styling("striped") %>% save_kable("Table5.pdf")
+```
+
+```{r iterative networks analysis}
+
+smallworlddata_it <- read_csv("globalsmallworlddata_iter.csv")
+
+disyl_data %>% group_by(Subject) %>% tally() %>% summarise(min = min(n),
+                                                           max = max(n))
+
+it_summary_networks <- smallworlddata_it %>% 
+  group_by(Speaker, Language) %>%
+  summarise(path_length = mean(path_length),
+            mean_k = mean(mean_k))
+
+Fig2 <- ggplot(smallworlddata_it, aes(mean_k, path_length, group = Speaker)) +
+  geom_point(aes(colour = Speaker), shape = 1, alpha = 0.8, position = position_jitter()) +
+    geom_point(data = it_summary_networks, aes(fill = Speaker), shape = 21, size = 3) +
+  xlab("Mean k") +
+  ylab("Mean path length") +
+  theme_bw(base_size = 12) +
+  theme(legend.position="none") +
+  facet_wrap(~Language, ncol = 3)
 
 ```
 
+Fig2
+
+```{r top and bottom infants}
+
+top_infants_meank <- it_summary_networks %>%
+  arrange(desc(mean_k)) %>%
+  head(5) %>%
+  dplyr::select(mean_k, Speaker, Language) %>%
+  mutate(Measure = "Mean k") %>%
+  rename("Value" = mean_k)
+
+top_infants_PL <- it_summary_networks %>%
+  arrange(path_length) %>%
+  head(5) %>%
+  dplyr::select(path_length, Speaker, Language) %>%
+  mutate(Measure = "Path length") %>%
+  rename("Value" = path_length)
+
+top_infants <- rbind(top_infants_meank, top_infants_PL) %>%
+  mutate_if(is.numeric, ~round(., 2)) %>%
+  dplyr::select(Measure, Speaker, Language, Value)
+
+bottom_infants_meank <- it_summary_networks %>%
+  arrange(mean_k) %>%
+  head(5) %>%
+  dplyr::select(mean_k, Speaker, Language) %>%
+  mutate(Measure = "Mean k") %>%
+  rename("Value" = mean_k)
+
+bottom_infants_PL <- it_summary_networks %>%
+  arrange(desc(path_length)) %>%
+  head(5) %>%
+  dplyr::select(path_length, Speaker, Language) %>%
+  mutate(Measure = "Path length") %>%
+  rename("Value" = path_length)
+
+bottom_infants <- rbind(bottom_infants_meank, bottom_infants_PL) %>%
+  mutate_if(is.numeric, ~round(., 2)) %>%
+  dplyr::select(Measure, Speaker, Language, Value)
+
+kable(bottom_infants) %>% kable_styling("striped") %>% save_kable("Table6b.pdf")
+kable(top_infants) %>% kable_styling("striped") %>% save_kable("Table6a.pdf")
+
+  
+```
+
+
+```{r network graphs for top infants - mean k}
+
+options(ggrepel.max.overlaps = Inf)
+
+basile_01_tab <- read.table("basile_01.txt",header=TRUE,row.names=1)
+
+basile_01 <- as.matrix(basile_01_tab)
+
+words_Basile_01 <- as.data.frame(dimnames(basile_01))
+
+words_Basile_01_alph <- gsub('[0-9.]', '', words_Basile_01[1])
+
+dimnames(basile_01) <- list(NULL, c("livre", "papa", "livre", "coin-coin", "livre", "encore", "encore", "nonnon", "maman", "lequel", "mouton", "voiture", "maman", "maman", "papa", "pin pon", "musique", "coucou", "pin pon", "maman"))
+  
+
+# standardize values
+
+Q1_basile_01 <- quantile(basile_01[basile_01 > 0], 0.25)
+
+basile_01 <- ifelse(basile_01>Q1_basile_01, NA, basile_01)
+basile_01 <- ifelse(basile_01==0, 0.1, basile_01)
+
+
+# Transform it in a network graph format
+network_basile_01 <- graph_from_adjacency_matrix(basile_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_basile_01 <- delete_edges(network_basile_01, 
+                                  E(network_basile_01)[is.na(E(network_basile_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+basile_01_graph <- ggraph(network_basile_01, layout = "lgl") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("3a. Basile: Highest mean k + nhighest path length") +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+
+```
+
+```{r network graphs for top infants - path length}
+
+eelis_01_tab <- read.table("eelis_01.txt",header=TRUE,row.names=1)
+
+eelis_01 <- as.matrix(eelis_01_tab)
+
+words_eelis_01 <- as.data.frame(dimnames(eelis_01))
+
+words_eelis_01_alph <- gsub('[0-9.]', '', words_eelis_01[1])
+
+dimnames(eelis_01) <- list(NULL, c("heppa", "kiinni", "heppa", "rikki", "kiikkaa", "kukka", "kiikkaa", "kiikkaa", "heppa", "ankka", "heppa", "pappa", "kiikkaa", "heppa", "kiikkaa", "pipi", "kiikkaa", "kiinni", "ankka", "istuu"))
+  
+
+# standardize values
+
+Q1_eelis_01 <- quantile(eelis_01[eelis_01 > 0], 0.25)
+
+eelis_01 <- ifelse(eelis_01>Q1_eelis_01, NA, eelis_01)
+eelis_01 <- ifelse(eelis_01==0, 0.1, eelis_01)
+
+
+# Transform it in a network graph format
+network_eelis_01 <- graph_from_adjacency_matrix(eelis_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_eelis_01 <- delete_edges(network_eelis_01, 
+                                  E(network_eelis_01)[is.na(E(network_eelis_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+eelis_01_graph <- ggraph(network_eelis_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size=14) +
+  ggtitle("3b. Eelis: Lowest path length") +
+  theme(
+    #legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+
+# library(matrixStats)
+# print(rowCounts(eelis_01, value = 0.1, na.rm = TRUE))
+# print(colAlls(eelis_01, value = 0.1))
+```
+
+```{r network graphs for bottom infants - mean k}
+
+gwyn_01_tab <- read.table("gwyn_01.txt",header=TRUE,row.names=1)
+
+gwyn_01 <- as.matrix(gwyn_01_tab)
+
+words_gwyn_01 <- as.data.frame(dimnames(gwyn_01))
+
+words_gwyn_01_alph <- gsub('[0-9.]', '', words_gwyn_01[1])
+
+dimnames(gwyn_01) <- list(NULL, c("helo", "dau, tri", "dau, tri", "Noa", "blodau", "sbinc-sbanc", "helo", "mwnci", "mwnci", "cwaccwac", "mwnci", "mwnci", "Guto", "dau, tri", "babi", "cadw", "tedi", "blodau", "adar", "blodau"))
+  
+
+# standardize values
+
+Q1_gwyn_01 <- quantile(gwyn_01[gwyn_01 > 0], 0.25)
+
+gwyn_01 <- ifelse(gwyn_01>Q1_gwyn_01, NA, gwyn_01)
+gwyn_01 <- ifelse(gwyn_01==0, 0.1, gwyn_01)
+
+
+# Transform it in a network graph format
+network_gwyn_01 <- graph_from_adjacency_matrix(gwyn_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_gwyn_01 <- delete_edges(network_gwyn_01, 
+                                  E(network_gwyn_01)[is.na(E(network_gwyn_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+gwyn_01_graph <- ggraph(network_gwyn_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("3c. Gwyn: Lowest mean k")  +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+
+```
+
+basile_01_graph
+eelis_01_graph
+gwyn_01_graph
+gridExtra::grid.arrange(basile_01_graph, eelis_01_graph,gwyn_01_graph,
+ncol = 3)
+
+```{r network graphs for bottom infants - mean k}
+
+ella_01_tab <- read.table("ella_01.txt",header=TRUE,row.names=1)
+
+ella_01 <- as.matrix(ella_01_tab)
+
+words_ella_01 <- as.data.frame(dimnames(ella_01))
+
+words_ella_01_alph <- gsub('[0-9.]', '', words_ella_01[1])
+
+dimnames(ella_01) <- list(NULL, c("piggie", "woof woof", "Michelle", "byebye", "pap pap", "Michelle", "mummy", "horsey", "rattle", "byebye", "Michelle", "horsey", "bottle", "bottle", "horsey", "glasses", "woof woof", "mummy", "piggie", "byebye"))
+  
+
+# standardize values
+
+Q1_ella_01 <- quantile(ella_01[ella_01 > 0], 0.25)
+
+ella_01 <- ifelse(ella_01>Q1_ella_01, NA, ella_01)
+ella_01 <- ifelse(ella_01==0, 0.1, ella_01)
+
+
+# Transform it in a network graph format
+network_ella_01 <- graph_from_adjacency_matrix(ella_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_ella_01 <- delete_edges(network_ella_01, 
+                                  E(network_ella_01)[is.na(E(network_ella_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+ella_01_graph <- ggraph(network_ella_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("3c. ella: Lowest mean k")  +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+
+```

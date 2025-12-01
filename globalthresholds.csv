@@ -1,283 +1,292 @@
 Speaker,gloss1,data_type,degree,threshold
-Adeline,au revoir1490,target,1,0.25
-Adeline,au revoir1491,target,1,0.25
-Adeline,au revoir1492,target,1,0.25
-Adeline,au revoir1493,target,1,0.25
-Adeline,au revoir1494,target,1,0.25
-Adeline,au revoir1495,target,1,0.25
-Adeline,au revoir1496,target,1,0.25
-Adeline,au revoir1497,target,1,0.25
-Adeline,au revoir3077,actual,8,0.25
-Adeline,au revoir3078,actual,8,0.25
-Adeline,au revoir3079,actual,9,0.25
-Adeline,au revoir3080,actual,2,0.25
-Adeline,au revoir3081,actual,8,0.25
-Adeline,au revoir3082,actual,9,0.25
-Adeline,au revoir3083,actual,8,0.25
-Adeline,bisou1003,target,1,0.25
-Adeline,bisou1004,target,1,0.25
-Adeline,bisou1005,target,1,0.25
-Adeline,bisou1006,target,1,0.25
-Adeline,bisou1007,target,1,0.25
-Adeline,bisou3084,actual,9,0.25
-Adeline,bisou3085,actual,9,0.25
-Adeline,bisou3086,actual,9,0.25
-Adeline,bisou3087,actual,9,0.25
-Adeline,bisou3088,actual,9,0.25
-Adeline,bobo1008,target,2,0.25
-Adeline,bobo1009,target,2,0.25
-Adeline,bobo1010,target,2,0.25
-Adeline,bobo3176,actual,2,0.25
-Adeline,bobo3177,actual,5,0.25
-Adeline,bobo3178,actual,5,0.25
-Adeline,chapeau1011,target,1,0.25
-Adeline,chapeau1012,target,1,0.25
-Adeline,chapeau1013,target,1,0.25
-Adeline,chapeau1014,target,1,0.25
-Adeline,chapeau1015,target,1,0.25
-Adeline,chapeau1016,target,1,0.25
-Adeline,chapeau1017,target,1,0.25
-Adeline,chapeau1018,target,1,0.25
-Adeline,chapeau1019,target,1,0.25
-Adeline,chapeau3089,actual,9,0.25
-Adeline,chapeau3090,actual,9,0.25
-Adeline,chapeau3091,actual,9,0.25
-Adeline,chapeau3092,actual,9,0.25
-Adeline,chapeau3093,actual,9,0.25
-Adeline,chapeau3094,actual,9,0.25
-Adeline,chapeau3095,actual,7,0.25
-Adeline,chapeau3096,actual,7,0.25
-Adeline,chapeau3097,actual,9,0.25
+Adeline,au revoir1468,target,1,0.25
+Adeline,au revoir1469,target,1,0.25
+Adeline,au revoir1470,target,1,0.25
+Adeline,au revoir1471,target,1,0.25
+Adeline,au revoir1472,target,1,0.25
+Adeline,au revoir1473,target,1,0.25
+Adeline,au revoir1474,target,1,0.25
+Adeline,au revoir1475,target,1,0.25
+Adeline,au revoir3031,actual,8,0.25
+Adeline,au revoir3032,actual,8,0.25
+Adeline,au revoir3033,actual,9,0.25
+Adeline,au revoir3034,actual,2,0.25
+Adeline,au revoir3035,actual,8,0.25
+Adeline,au revoir3036,actual,9,0.25
+Adeline,au revoir3037,actual,8,0.25
+Adeline,bisou3038,actual,9,0.25
+Adeline,bisou3039,actual,9,0.25
+Adeline,bisou3040,actual,9,0.25
+Adeline,bisou3041,actual,9,0.25
+Adeline,bisou3042,actual,9,0.25
+Adeline,bisou994,target,1,0.25
+Adeline,bisou995,target,1,0.25
+Adeline,bisou996,target,1,0.25
+Adeline,bisou997,target,1,0.25
+Adeline,bisou998,target,1,0.25
+Adeline,bobo1000,target,2,0.25
+Adeline,bobo1001,target,2,0.25
+Adeline,bobo3130,actual,2,0.25
+Adeline,bobo3131,actual,5,0.25
+Adeline,bobo3132,actual,5,0.25
+Adeline,bobo999,target,2,0.25
+Adeline,chapeau1002,target,1,0.25
+Adeline,chapeau1003,target,1,0.25
+Adeline,chapeau1004,target,1,0.25
+Adeline,chapeau1005,target,1,0.25
+Adeline,chapeau1006,target,1,0.25
+Adeline,chapeau1007,target,1,0.25
+Adeline,chapeau1008,target,1,0.25
+Adeline,chapeau1009,target,1,0.25
+Adeline,chapeau1010,target,1,0.25
+Adeline,chapeau3043,actual,9,0.25
+Adeline,chapeau3044,actual,9,0.25
+Adeline,chapeau3045,actual,9,0.25
+Adeline,chapeau3046,actual,9,0.25
+Adeline,chapeau3047,actual,9,0.25
+Adeline,chapeau3048,actual,9,0.25
+Adeline,chapeau3049,actual,7,0.25
+Adeline,chapeau3050,actual,7,0.25
+Adeline,chapeau3051,actual,9,0.25
+Adeline,coucou1011,target,1,0.25
+Adeline,coucou1012,target,1,0.25
+Adeline,coucou1013,target,1,0.25
+Adeline,coucou1014,target,1,0.25
+Adeline,coucou1015,target,1,0.25
+Adeline,coucou1016,target,1,0.25
+Adeline,coucou1017,target,1,0.25
+Adeline,coucou1018,target,1,0.25
+Adeline,coucou1019,target,1,0.25
 Adeline,coucou1020,target,1,0.25
-Adeline,coucou1021,target,1,0.25
-Adeline,coucou1022,target,1,0.25
-Adeline,coucou1023,target,1,0.25
-Adeline,coucou1024,target,1,0.25
-Adeline,coucou1025,target,1,0.25
-Adeline,coucou1026,target,1,0.25
-Adeline,coucou1027,target,1,0.25
-Adeline,coucou1028,target,1,0.25
-Adeline,coucou1029,target,1,0.25
-Adeline,coucou2638,actual,3,0.25
-Adeline,coucou2639,actual,3,0.25
-Adeline,coucou2640,actual,3,0.25
-Adeline,coucou2641,actual,3,0.25
-Adeline,coucou2642,actual,3,0.25
-Adeline,coucou2643,actual,3,0.25
-Adeline,coucou2644,actual,2,0.25
-Adeline,coucou3098,actual,8,0.25
-Adeline,dodo2645,actual,1,0.25
-Adeline,encore1348,target,1,0.25
-Adeline,encore1349,target,1,0.25
-Adeline,encore1350,target,1,0.25
-Adeline,encore1351,target,1,0.25
-Adeline,encore1352,target,1,0.25
-Adeline,encore1353,target,1,0.25
-Adeline,encore1354,target,1,0.25
-Adeline,encore1355,target,1,0.25
-Adeline,encore1356,target,1,0.25
-Adeline,encore1357,target,1,0.25
-Adeline,encore1358,target,1,0.25
-Adeline,encore1359,target,1,0.25
-Adeline,encore1360,target,1,0.25
-Adeline,encore1361,target,1,0.25
-Adeline,encore1986,actual,2,0.25
-Adeline,encore3099,actual,8,0.25
-Adeline,encore3100,actual,8,0.25
-Adeline,encore3101,actual,8,0.25
-Adeline,encore3102,actual,8,0.25
-Adeline,encore3103,actual,8,0.25
-Adeline,encore3104,actual,8,0.25
-Adeline,encore3105,actual,8,0.25
-Adeline,encore3106,actual,8,0.25
-Adeline,encore3107,actual,8,0.25
-Adeline,encore3108,actual,8,0.25
-Adeline,encore3109,actual,8,0.25
-Adeline,encore3110,actual,8,0.25
-Adeline,encore3111,actual,1,0.25
-Adeline,maman1031,target,1,0.25
-Adeline,maman1032,target,1,0.25
-Adeline,maman1033,target,1,0.25
-Adeline,maman2646,actual,1,0.25
-Adeline,maman2647,actual,1,0.25
-Adeline,maman2648,actual,1,0.25
-Adeline,oiseau3112,actual,1,0.25
-Adeline,papa1035,target,2,0.25
-Adeline,papa1036,target,2,0.25
-Adeline,papa1037,target,2,0.25
-Adeline,papa2649,actual,2,0.25
-Adeline,papa2650,actual,2,0.25
-Adeline,papa3181,actual,3,0.25
-Adeline,parti3113,actual,9,0.25
-Adeline,vachou3114,actual,8,0.25
-Adeline,voilà1040,target,1,0.25
-Adeline,voilà1041,target,1,0.25
-Adeline,voilà2651,actual,1,0.25
-Adeline,voilà3115,actual,7,0.25
-Adeline,voiture1042,target,1,0.25
-Adeline,voiture1043,target,1,0.25
-Adeline,voiture3116,actual,9,0.25
-Adeline,voiture3117,actual,9,0.25
-Afan,AUNTI1268,target,3,0.25
-Afan,AUNTI1269,target,3,0.25
-Afan,AUNTI2988,actual,3,0.25
-Afan,AUNTI3604,actual,1,0.25
-Afan,Bazil2417,actual,3,0.25
-Afan,Bazil3404,actual,2,0.25
-Afan,Bazil605,target,1,0.25
-Afan,Bazil606,target,1,0.25
-Afan,DOGGY BT2422,actual,1,0.25
-Afan,DOGGY BT616,target,2,0.25
-Afan,Durrain3405,actual,3,0.25
-Afan,Durrain3406,actual,3,0.25
-Afan,Durrain611,target,1,0.25
-Afan,Durrain612,target,1,0.25
-Afan,JUICE do3412,actual,1,0.25
-Afan,Rabia2425,actual,2,0.25
-Afan,UNCLE1275,target,1,0.25
-Afan,UNCLE1276,target,1,0.25
-Afan,UNCLE1277,target,1,0.25
-Afan,UNCLE1278,target,1,0.25
-Afan,UNCLE1279,target,1,0.25
-Afan,UNCLE1280,target,1,0.25
-Afan,UNCLE1281,target,1,0.25
-Afan,UNCLE2991,actual,4,0.25
-Afan,UNCLE2992,actual,1,0.25
-Afan,UNCLE2993,actual,4,0.25
-Afan,UNCLE2994,actual,4,0.25
-Afan,UNCLE2995,actual,4,0.25
-Afan,UNCLE2996,actual,4,0.25
-Afan,UNCLE2997,actual,4,0.25
-Afan,ajao1267,target,1,0.25
-Afan,ajao2728,actual,5,0.25
-Afan,anda1273,target,3,0.25
-Afan,anda1274,target,3,0.25
-Afan,anda2989,actual,3,0.25
-Afan,anda2990,actual,3,0.25
-Afan,baba2729,actual,5,0.25
-Afan,baba2730,actual,5,0.25
-Afan,baba2731,actual,5,0.25
-Afan,baba2732,actual,5,0.25
-Afan,baba2733,actual,5,0.25
-Afan,baba2734,actual,5,0.25
-Afan,baba3403,actual,1,0.25
-Afan,baba591,target,1,0.25
-Afan,baba592,target,1,0.25
-Afan,baba593,target,1,0.25
-Afan,baba594,target,1,0.25
-Afan,baba595,target,1,0.25
-Afan,baba596,target,1,0.25
-Afan,baba597,target,1,0.25
-Afan,bhow bhow2418,actual,3,0.25
-Afan,bhow bhow607,target,1,0.25
-Afan,chacha2424,actual,2,0.25
-Afan,chunti2419,actual,2,0.25
-Afan,chunti2420,actual,2,0.25
-Afan,chunti2421,actual,2,0.25
-Afan,chunti608,target,1,0.25
-Afan,chunti609,target,1,0.25
-Afan,chunti610,target,1,0.25
-Afan,dada3410,actual,3,0.25
-Afan,dada3411,actual,3,0.25
-Afan,dada621,target,3,0.25
-Afan,dada622,target,3,0.25
-Afan,dawaye1919,actual,6,0.25
-Afan,dawaye1920,actual,6,0.25
-Afan,dawaye1921,actual,6,0.25
-Afan,dawaye613,target,3,0.25
-Afan,dawaye614,target,3,0.25
-Afan,dawaye615,target,3,0.25
-Afan,ganda3407,actual,4,0.25
-Afan,ganda617,target,3,0.25
-Afan,idhar1270,target,2,0.25
-Afan,idhar1271,target,2,0.25
-Afan,idhar1272,target,2,0.25
-Afan,idhar1918,actual,6,0.25
-Afan,idhar3605,actual,4,0.25
-Afan,idhar3606,actual,4,0.25
-Afan,mama1909,actual,6,0.25
-Afan,mama1910,actual,6,0.25
-Afan,mama3395,actual,1,0.25
-Afan,mama3396,actual,1,0.25
-Afan,mama3397,actual,1,0.25
-Afan,mama3398,actual,1,0.25
-Afan,mama3399,actual,1,0.25
-Afan,mama3400,actual,1,0.25
-Afan,mama3401,actual,1,0.25
-Afan,mama3402,actual,1,0.25
+Adeline,coucou2603,actual,3,0.25
+Adeline,coucou2604,actual,3,0.25
+Adeline,coucou2605,actual,3,0.25
+Adeline,coucou2606,actual,3,0.25
+Adeline,coucou2607,actual,3,0.25
+Adeline,coucou2608,actual,3,0.25
+Adeline,coucou2609,actual,2,0.25
+Adeline,coucou3052,actual,8,0.25
+Adeline,dodo2610,actual,1,0.25
+Adeline,encore1326,target,1,0.25
+Adeline,encore1327,target,1,0.25
+Adeline,encore1328,target,1,0.25
+Adeline,encore1329,target,1,0.25
+Adeline,encore1330,target,1,0.25
+Adeline,encore1331,target,1,0.25
+Adeline,encore1332,target,1,0.25
+Adeline,encore1333,target,1,0.25
+Adeline,encore1334,target,1,0.25
+Adeline,encore1335,target,1,0.25
+Adeline,encore1336,target,1,0.25
+Adeline,encore1337,target,1,0.25
+Adeline,encore1338,target,1,0.25
+Adeline,encore1339,target,1,0.25
+Adeline,encore1956,actual,2,0.25
+Adeline,encore3053,actual,8,0.25
+Adeline,encore3054,actual,8,0.25
+Adeline,encore3055,actual,8,0.25
+Adeline,encore3056,actual,8,0.25
+Adeline,encore3057,actual,8,0.25
+Adeline,encore3058,actual,8,0.25
+Adeline,encore3059,actual,8,0.25
+Adeline,encore3060,actual,8,0.25
+Adeline,encore3061,actual,8,0.25
+Adeline,encore3062,actual,8,0.25
+Adeline,encore3063,actual,8,0.25
+Adeline,encore3064,actual,8,0.25
+Adeline,encore3065,actual,1,0.25
+Adeline,maman1022,target,1,0.25
+Adeline,maman1023,target,1,0.25
+Adeline,maman1024,target,1,0.25
+Adeline,maman2611,actual,1,0.25
+Adeline,maman2612,actual,1,0.25
+Adeline,maman2613,actual,1,0.25
+Adeline,oiseau3066,actual,1,0.25
+Adeline,papa1026,target,2,0.25
+Adeline,papa1027,target,2,0.25
+Adeline,papa1028,target,2,0.25
+Adeline,papa2614,actual,2,0.25
+Adeline,papa2615,actual,2,0.25
+Adeline,papa3135,actual,3,0.25
+Adeline,parti3067,actual,9,0.25
+Adeline,vachou3068,actual,8,0.25
+Adeline,voilà1031,target,1,0.25
+Adeline,voilà1032,target,1,0.25
+Adeline,voilà2616,actual,1,0.25
+Adeline,voilà3069,actual,7,0.25
+Adeline,voiture1033,target,1,0.25
+Adeline,voiture1034,target,1,0.25
+Adeline,voiture3070,actual,9,0.25
+Adeline,voiture3071,actual,9,0.25
+Afan,AUNTI1246,target,3,0.25
+Afan,AUNTI1247,target,3,0.25
+Afan,AUNTI2942,actual,3,0.25
+Afan,AUNTI3556,actual,1,0.25
+Afan,Bazil2382,actual,3,0.25
+Afan,Bazil3358,actual,2,0.25
+Afan,Bazil596,target,1,0.25
+Afan,Bazil597,target,1,0.25
+Afan,DOGGY BT2387,actual,1,0.25
+Afan,DOGGY BT607,target,2,0.25
+Afan,Durrain3359,actual,3,0.25
+Afan,Durrain3360,actual,3,0.25
+Afan,Durrain602,target,1,0.25
+Afan,Durrain603,target,1,0.25
+Afan,JUICE do3366,actual,1,0.25
+Afan,Rabia2390,actual,2,0.25
+Afan,UNCLE1253,target,1,0.25
+Afan,UNCLE1254,target,1,0.25
+Afan,UNCLE1255,target,1,0.25
+Afan,UNCLE1256,target,1,0.25
+Afan,UNCLE1257,target,1,0.25
+Afan,UNCLE1258,target,1,0.25
+Afan,UNCLE1259,target,1,0.25
+Afan,UNCLE2945,actual,4,0.25
+Afan,UNCLE2946,actual,1,0.25
+Afan,UNCLE2947,actual,4,0.25
+Afan,UNCLE2948,actual,4,0.25
+Afan,UNCLE2949,actual,4,0.25
+Afan,UNCLE2950,actual,4,0.25
+Afan,UNCLE2951,actual,4,0.25
+Afan,ajao1245,target,1,0.25
+Afan,ajao2692,actual,5,0.25
+Afan,anda1251,target,3,0.25
+Afan,anda1252,target,3,0.25
+Afan,anda2943,actual,3,0.25
+Afan,anda2944,actual,3,0.25
+Afan,baba2693,actual,5,0.25
+Afan,baba2694,actual,5,0.25
+Afan,baba2695,actual,5,0.25
+Afan,baba2696,actual,5,0.25
+Afan,baba2697,actual,5,0.25
+Afan,baba2698,actual,5,0.25
+Afan,baba3357,actual,1,0.25
+Afan,baba582,target,1,0.25
+Afan,baba583,target,1,0.25
+Afan,baba584,target,1,0.25
+Afan,baba585,target,1,0.25
+Afan,baba586,target,1,0.25
+Afan,baba587,target,1,0.25
+Afan,baba588,target,1,0.25
+Afan,bhow bhow2383,actual,3,0.25
+Afan,bhow bhow598,target,1,0.25
+Afan,chacha2389,actual,2,0.25
+Afan,chunti2384,actual,2,0.25
+Afan,chunti2385,actual,2,0.25
+Afan,chunti2386,actual,2,0.25
+Afan,chunti599,target,1,0.25
+Afan,chunti600,target,1,0.25
+Afan,chunti601,target,1,0.25
+Afan,dada3364,actual,3,0.25
+Afan,dada3365,actual,3,0.25
+Afan,dada612,target,3,0.25
+Afan,dada613,target,3,0.25
+Afan,dawaye1889,actual,6,0.25
+Afan,dawaye1890,actual,6,0.25
+Afan,dawaye1891,actual,6,0.25
+Afan,dawaye604,target,3,0.25
+Afan,dawaye605,target,3,0.25
+Afan,dawaye606,target,3,0.25
+Afan,ganda3361,actual,4,0.25
+Afan,ganda608,target,3,0.25
+Afan,idhar1248,target,2,0.25
+Afan,idhar1249,target,2,0.25
+Afan,idhar1250,target,2,0.25
+Afan,idhar1888,actual,6,0.25
+Afan,idhar3557,actual,4,0.25
+Afan,idhar3558,actual,4,0.25
+Afan,mama1879,actual,6,0.25
+Afan,mama1880,actual,6,0.25
+Afan,mama3349,actual,1,0.25
+Afan,mama3350,actual,1,0.25
+Afan,mama3351,actual,1,0.25
+Afan,mama3352,actual,1,0.25
+Afan,mama3353,actual,1,0.25
+Afan,mama3354,actual,1,0.25
+Afan,mama3355,actual,1,0.25
+Afan,mama3356,actual,1,0.25
+Afan,mama572,target,1,0.25
+Afan,mama573,target,1,0.25
+Afan,mama574,target,1,0.25
+Afan,mama575,target,1,0.25
+Afan,mama576,target,1,0.25
+Afan,mama577,target,1,0.25
+Afan,mama578,target,1,0.25
+Afan,mama579,target,1,0.25
+Afan,mama580,target,1,0.25
 Afan,mama581,target,1,0.25
-Afan,mama582,target,1,0.25
-Afan,mama583,target,1,0.25
-Afan,mama584,target,1,0.25
-Afan,mama585,target,1,0.25
-Afan,mama586,target,1,0.25
-Afan,mama587,target,1,0.25
-Afan,mama588,target,1,0.25
-Afan,mama589,target,1,0.25
-Afan,mama590,target,1,0.25
-Afan,na/ nahin1911,actual,5,0.25
-Afan,na/ nahin1912,actual,5,0.25
-Afan,na/ nahin1913,actual,5,0.25
-Afan,na/ nahin1914,actual,5,0.25
-Afan,na/ nahin1915,actual,5,0.25
-Afan,na/ nahin1916,actual,5,0.25
-Afan,na/ nahin1917,actual,5,0.25
-Afan,na/ nahin598,target,2,0.25
-Afan,na/ nahin599,target,2,0.25
-Afan,na/ nahin600,target,2,0.25
-Afan,na/ nahin601,target,2,0.25
-Afan,na/ nahin602,target,2,0.25
-Afan,na/ nahin603,target,2,0.25
-Afan,na/ nahin604,target,2,0.25
-Afan,ooper1283,target,1,0.25
-Afan,pani2423,actual,1,0.25
-Afan,pani3408,actual,2,0.25
-Afan,pani3409,actual,2,0.25
-Afan,pani618,target,1,0.25
-Afan,pani619,target,1,0.25
-Afan,pani620,target,1,0.25
-Afan,udhar1282,target,2,0.25
-Afan,udhar3607,actual,4,0.25
-Afan,yay hai1922,actual,4,0.25
-Afan,yay hai625,target,1,0.25
-Atte,Atti1773,target,1,0.25
-Atte,Atti1774,target,1,0.25
-Atte,Atti1775,target,1,0.25
-Atte,Atti1776,target,1,0.25
-Atte,Atti1777,target,1,0.25
-Atte,Atti1778,target,1,0.25
-Atte,Atti1779,target,1,0.25
-Atte,Atti1780,target,1,0.25
-Atte,Atti1781,target,1,0.25
-Atte,Atti1782,target,1,0.25
-Atte,Atti3506,actual,2,0.25
-Atte,Atti3507,actual,2,0.25
-Atte,Atti3508,actual,2,0.25
-Atte,Atti3509,actual,2,0.25
-Atte,Atti3510,actual,2,0.25
-Atte,Atti3511,actual,2,0.25
-Atte,Atti3512,actual,2,0.25
-Atte,Atti3513,actual,2,0.25
-Atte,Atti3514,actual,2,0.25
-Atte,Minni1512,target,1,0.25
-Atte,Minni1513,target,1,0.25
-Atte,Minni1514,target,1,0.25
-Atte,Minni1515,target,1,0.25
-Atte,Minni3209,actual,1,0.25
-Atte,Minni3210,actual,1,0.25
-Atte,Minni3211,actual,1,0.25
-Atte,Minni3212,actual,1,0.25
-Atte,aja1112,target,4,0.25
-Atte,aja1113,target,4,0.25
-Atte,aja3500,actual,2,0.25
-Atte,aja3501,actual,2,0.25
-Atte,ankka1769,target,1,0.25
-Atte,ankka1770,target,1,0.25
-Atte,ankka1771,target,1,0.25
-Atte,ankka1772,target,1,0.25
-Atte,ankka3502,actual,2,0.25
-Atte,ankka3504,actual,2,0.25
-Atte,ankka3505,actual,6,0.25
+Afan,na/ nahin1881,actual,5,0.25
+Afan,na/ nahin1882,actual,5,0.25
+Afan,na/ nahin1883,actual,5,0.25
+Afan,na/ nahin1884,actual,5,0.25
+Afan,na/ nahin1885,actual,5,0.25
+Afan,na/ nahin1886,actual,5,0.25
+Afan,na/ nahin1887,actual,5,0.25
+Afan,na/ nahin589,target,2,0.25
+Afan,na/ nahin590,target,2,0.25
+Afan,na/ nahin591,target,2,0.25
+Afan,na/ nahin592,target,2,0.25
+Afan,na/ nahin593,target,2,0.25
+Afan,na/ nahin594,target,2,0.25
+Afan,na/ nahin595,target,2,0.25
+Afan,ooper1261,target,1,0.25
+Afan,pani2388,actual,1,0.25
+Afan,pani3362,actual,2,0.25
+Afan,pani3363,actual,2,0.25
+Afan,pani609,target,1,0.25
+Afan,pani610,target,1,0.25
+Afan,pani611,target,1,0.25
+Afan,udhar1260,target,2,0.25
+Afan,udhar3559,actual,4,0.25
+Afan,yay hai1892,actual,4,0.25
+Afan,yay hai616,target,1,0.25
+Atte,Atti1751,target,1,0.25
+Atte,Atti1752,target,1,0.25
+Atte,Atti1753,target,1,0.25
+Atte,Atti1754,target,1,0.25
+Atte,Atti1755,target,1,0.25
+Atte,Atti1756,target,1,0.25
+Atte,Atti1757,target,1,0.25
+Atte,Atti1758,target,1,0.25
+Atte,Atti1759,target,1,0.25
+Atte,Atti1760,target,1,0.25
+Atte,Atti3460,actual,2,0.25
+Atte,Atti3461,actual,2,0.25
+Atte,Atti3462,actual,2,0.25
+Atte,Atti3463,actual,2,0.25
+Atte,Atti3464,actual,2,0.25
+Atte,Atti3465,actual,2,0.25
+Atte,Atti3466,actual,2,0.25
+Atte,Atti3467,actual,2,0.25
+Atte,Atti3468,actual,2,0.25
+Atte,Minni1490,target,1,0.25
+Atte,Minni1491,target,1,0.25
+Atte,Minni1492,target,1,0.25
+Atte,Minni1493,target,1,0.25
+Atte,Minni3163,actual,1,0.25
+Atte,Minni3164,actual,1,0.25
+Atte,Minni3165,actual,1,0.25
+Atte,Minni3166,actual,1,0.25
+Atte,aja1103,target,4,0.25
+Atte,aja1104,target,4,0.25
+Atte,aja3454,actual,2,0.25
+Atte,aja3455,actual,2,0.25
+Atte,ankka1747,target,1,0.25
+Atte,ankka1748,target,1,0.25
+Atte,ankka1749,target,1,0.25
+Atte,ankka1750,target,1,0.25
+Atte,ankka3456,actual,2,0.25
+Atte,ankka3458,actual,2,0.25
+Atte,ankka3459,actual,6,0.25
+Atte,auto1105,target,4,0.25
+Atte,auto1106,target,4,0.25
+Atte,auto1107,target,4,0.25
+Atte,auto1108,target,4,0.25
+Atte,auto1109,target,4,0.25
+Atte,auto1110,target,4,0.25
+Atte,auto1111,target,4,0.25
+Atte,auto1112,target,4,0.25
+Atte,auto1113,target,4,0.25
 Atte,auto1114,target,4,0.25
 Atte,auto1115,target,4,0.25
 Atte,auto1116,target,4,0.25
@@ -303,521 +312,512 @@ Atte,auto1135,target,4,0.25
 Atte,auto1136,target,4,0.25
 Atte,auto1137,target,4,0.25
 Atte,auto1138,target,4,0.25
-Atte,auto1139,target,4,0.25
-Atte,auto1140,target,4,0.25
-Atte,auto1141,target,4,0.25
-Atte,auto1142,target,4,0.25
-Atte,auto1143,target,4,0.25
-Atte,auto1144,target,4,0.25
-Atte,auto1145,target,4,0.25
-Atte,auto1146,target,4,0.25
-Atte,auto1147,target,4,0.25
-Atte,auto2711,actual,6,0.25
-Atte,auto2865,actual,6,0.25
-Atte,auto2866,actual,6,0.25
-Atte,auto2867,actual,6,0.25
-Atte,auto2868,actual,6,0.25
-Atte,auto2869,actual,6,0.25
-Atte,auto2870,actual,6,0.25
-Atte,auto2871,actual,6,0.25
-Atte,auto2872,actual,6,0.25
-Atte,auto2873,actual,6,0.25
-Atte,auto2874,actual,6,0.25
-Atte,auto2875,actual,6,0.25
-Atte,auto2876,actual,6,0.25
-Atte,auto2877,actual,6,0.25
-Atte,auto2878,actual,6,0.25
-Atte,auto2879,actual,6,0.25
-Atte,auto2880,actual,6,0.25
-Atte,auto2881,actual,6,0.25
-Atte,auto2882,actual,6,0.25
-Atte,auto2883,actual,6,0.25
-Atte,auto2884,actual,6,0.25
-Atte,auto2885,actual,6,0.25
-Atte,auto2886,actual,6,0.25
-Atte,auto3515,actual,2,0.25
-Atte,auto3516,actual,2,0.25
-Atte,auto3517,actual,2,0.25
-Atte,auto3518,actual,2,0.25
-Atte,auto3519,actual,2,0.25
-Atte,auto3520,actual,2,0.25
-Atte,auto3521,actual,2,0.25
-Atte,auto3522,actual,2,0.25
-Atte,auto3523,actual,2,0.25
-Atte,auto3524,actual,2,0.25
-Atte,auto3525,actual,2,0.25
-Atte,heppa1498,target,1,0.25
-Atte,heppa3526,actual,3,0.25
-Atte,isi1148,target,4,0.25
-Atte,isi1149,target,4,0.25
-Atte,isi1150,target,4,0.25
-Atte,isi1151,target,4,0.25
-Atte,isi1152,target,4,0.25
-Atte,isi1153,target,4,0.25
-Atte,isi1154,target,4,0.25
-Atte,isi1155,target,4,0.25
-Atte,isi2887,actual,6,0.25
-Atte,isi2888,actual,6,0.25
-Atte,isi2889,actual,3,0.25
-Atte,isi2890,actual,6,0.25
-Atte,isi2891,actual,6,0.25
-Atte,isi2892,actual,6,0.25
-Atte,isi2893,actual,6,0.25
-Atte,isi2894,actual,6,0.25
-Atte,kaksi2162,actual,1,0.25
+Atte,auto2676,actual,6,0.25
+Atte,auto2829,actual,6,0.25
+Atte,auto2830,actual,6,0.25
+Atte,auto2831,actual,6,0.25
+Atte,auto2832,actual,6,0.25
+Atte,auto2833,actual,6,0.25
+Atte,auto2834,actual,6,0.25
+Atte,auto2835,actual,6,0.25
+Atte,auto2836,actual,6,0.25
+Atte,auto2837,actual,6,0.25
+Atte,auto2838,actual,6,0.25
+Atte,auto2839,actual,6,0.25
+Atte,auto2840,actual,6,0.25
+Atte,auto2841,actual,6,0.25
+Atte,auto2842,actual,6,0.25
+Atte,auto2843,actual,6,0.25
+Atte,auto2844,actual,6,0.25
+Atte,auto2845,actual,6,0.25
+Atte,auto2846,actual,6,0.25
+Atte,auto2847,actual,6,0.25
+Atte,auto2848,actual,6,0.25
+Atte,auto2849,actual,6,0.25
+Atte,auto2850,actual,6,0.25
+Atte,auto3469,actual,2,0.25
+Atte,auto3470,actual,2,0.25
+Atte,auto3471,actual,2,0.25
+Atte,auto3472,actual,2,0.25
+Atte,auto3473,actual,2,0.25
+Atte,auto3474,actual,2,0.25
+Atte,auto3475,actual,2,0.25
+Atte,auto3476,actual,2,0.25
+Atte,auto3477,actual,2,0.25
+Atte,auto3478,actual,2,0.25
+Atte,auto3479,actual,2,0.25
+Atte,heppa1476,target,1,0.25
+Atte,heppa3480,actual,3,0.25
+Atte,isi1139,target,4,0.25
+Atte,isi1140,target,4,0.25
+Atte,isi1141,target,4,0.25
+Atte,isi1142,target,4,0.25
+Atte,isi1143,target,4,0.25
+Atte,isi1144,target,4,0.25
+Atte,isi1145,target,4,0.25
+Atte,isi1146,target,4,0.25
+Atte,isi2851,actual,6,0.25
+Atte,isi2852,actual,6,0.25
+Atte,isi2853,actual,3,0.25
+Atte,isi2854,actual,6,0.25
+Atte,isi2855,actual,6,0.25
+Atte,isi2856,actual,6,0.25
+Atte,isi2857,actual,6,0.25
+Atte,isi2858,actual,6,0.25
+Atte,kaksi2132,actual,1,0.25
 Atte,kala276,target,1,0.25
-Atte,kala2895,actual,4,0.25
-Atte,kello1499,target,3,0.25
-Atte,kello1500,target,3,0.25
-Atte,kello1501,target,3,0.25
-Atte,kello3527,actual,4,0.25
-Atte,kello3528,actual,4,0.25
-Atte,kello3529,actual,4,0.25
-Atte,kippaa1502,target,3,0.25
-Atte,kippaa1503,target,3,0.25
-Atte,kippaa3204,actual,3,0.25
-Atte,kippaa3205,actual,3,0.25
-Atte,loppu1504,target,1,0.25
-Atte,loppu1505,target,1,0.25
-Atte,loppu1506,target,1,0.25
-Atte,loppu1507,target,1,0.25
-Atte,loppu3530,actual,3,0.25
-Atte,loppu3531,actual,3,0.25
-Atte,loppu3532,actual,3,0.25
-Atte,loppu3533,actual,3,0.25
-Atte,matto1508,target,1,0.25
-Atte,matto1509,target,1,0.25
-Atte,matto1510,target,1,0.25
-Atte,matto1511,target,1,0.25
-Atte,matto3206,actual,2,0.25
-Atte,matto3207,actual,2,0.25
-Atte,matto3208,actual,2,0.25
-Atte,nalle1516,target,1,0.25
-Atte,nalle1517,target,1,0.25
-Atte,nalle3534,actual,4,0.25
-Atte,nalle3535,actual,4,0.25
-Atte,pallo1518,target,2,0.25
-Atte,pallo1519,target,2,0.25
-Atte,pallo1520,target,2,0.25
-Atte,pallo3213,actual,1,0.25
-Atte,pallo3536,actual,4,0.25
-Atte,pallo3537,actual,4,0.25
-Atte,pappa1521,target,3,0.25
-Atte,pappa1522,target,3,0.25
-Atte,pappa3214,actual,3,0.25
-Atte,pupu2163,actual,2,0.25
+Atte,kala2859,actual,4,0.25
+Atte,kello1477,target,3,0.25
+Atte,kello1478,target,3,0.25
+Atte,kello1479,target,3,0.25
+Atte,kello3481,actual,4,0.25
+Atte,kello3482,actual,4,0.25
+Atte,kello3483,actual,4,0.25
+Atte,kippaa1480,target,3,0.25
+Atte,kippaa1481,target,3,0.25
+Atte,kippaa3158,actual,3,0.25
+Atte,kippaa3159,actual,3,0.25
+Atte,loppu1482,target,1,0.25
+Atte,loppu1483,target,1,0.25
+Atte,loppu1484,target,1,0.25
+Atte,loppu1485,target,1,0.25
+Atte,loppu3484,actual,3,0.25
+Atte,loppu3485,actual,3,0.25
+Atte,loppu3486,actual,3,0.25
+Atte,loppu3487,actual,3,0.25
+Atte,matto1486,target,1,0.25
+Atte,matto1487,target,1,0.25
+Atte,matto1488,target,1,0.25
+Atte,matto1489,target,1,0.25
+Atte,matto3160,actual,2,0.25
+Atte,matto3161,actual,2,0.25
+Atte,matto3162,actual,2,0.25
+Atte,nalle1494,target,1,0.25
+Atte,nalle1495,target,1,0.25
+Atte,nalle3488,actual,4,0.25
+Atte,nalle3489,actual,4,0.25
+Atte,pallo1496,target,2,0.25
+Atte,pallo1497,target,2,0.25
+Atte,pallo1498,target,2,0.25
+Atte,pallo3167,actual,1,0.25
+Atte,pallo3490,actual,4,0.25
+Atte,pallo3491,actual,4,0.25
+Atte,pappa1499,target,3,0.25
+Atte,pappa1500,target,3,0.25
+Atte,pappa3168,actual,3,0.25
+Atte,pupu2133,actual,2,0.25
 Atte,pupu277,target,1,0.25
-Atte,ukko1783,target,1,0.25
-Atte,ukko1784,target,1,0.25
-Atte,ukko1785,target,1,0.25
-Atte,ukko1786,target,1,0.25
-Atte,ukko1787,target,1,0.25
-Atte,ukko1788,target,1,0.25
-Atte,ukko1789,target,1,0.25
-Atte,ukko3538,actual,2,0.25
-Atte,ukko3539,actual,2,0.25
-Atte,ukko3540,actual,1,0.25
-Atte,ukko3541,actual,2,0.25
-Atte,ukko3542,actual,2,0.25
-Atte,ukko3543,actual,2,0.25
-Atte,ukko3544,actual,2,0.25
+Atte,ukko1761,target,1,0.25
+Atte,ukko1762,target,1,0.25
+Atte,ukko1763,target,1,0.25
+Atte,ukko1764,target,1,0.25
+Atte,ukko1765,target,1,0.25
+Atte,ukko1766,target,1,0.25
+Atte,ukko1767,target,1,0.25
+Atte,ukko3492,actual,2,0.25
+Atte,ukko3493,actual,2,0.25
+Atte,ukko3494,actual,1,0.25
+Atte,ukko3495,actual,2,0.25
+Atte,ukko3496,actual,2,0.25
+Atte,ukko3497,actual,2,0.25
+Atte,ukko3498,actual,2,0.25
+Atte,äiti1093,target,4,0.25
+Atte,äiti1094,target,4,0.25
+Atte,äiti1095,target,4,0.25
+Atte,äiti1096,target,4,0.25
+Atte,äiti1097,target,4,0.25
+Atte,äiti1098,target,4,0.25
+Atte,äiti1099,target,4,0.25
+Atte,äiti1100,target,4,0.25
+Atte,äiti1101,target,4,0.25
 Atte,äiti1102,target,4,0.25
-Atte,äiti1103,target,4,0.25
-Atte,äiti1104,target,4,0.25
-Atte,äiti1105,target,4,0.25
-Atte,äiti1106,target,4,0.25
-Atte,äiti1107,target,4,0.25
-Atte,äiti1108,target,4,0.25
-Atte,äiti1109,target,4,0.25
-Atte,äiti1110,target,4,0.25
-Atte,äiti1111,target,4,0.25
-Atte,äiti2862,actual,6,0.25
-Atte,äiti2863,actual,6,0.25
-Atte,äiti2864,actual,6,0.25
-Atte,äiti3493,actual,2,0.25
-Atte,äiti3494,actual,2,0.25
-Atte,äiti3495,actual,2,0.25
-Atte,äiti3496,actual,2,0.25
-Atte,äiti3497,actual,2,0.25
-Atte,äiti3498,actual,2,0.25
-Atte,äiti3499,actual,2,0.25
-Atte,ääni1101,target,3,0.25
-Atte,ääni2861,actual,4,0.25
-Basile,bisou1927,actual,1,0.25
-Basile,bisou677,target,1,0.25
-Basile,bravo2456,actual,2,0.25
-Basile,bravo2457,actual,2,0.25
-Basile,bravo678,target,2,0.25
-Basile,bravo679,target,2,0.25
-Basile,canard/coin-coin1928,actual,1,0.25
-Basile,canard/coin-coin2458,actual,1,0.25
-Basile,canard/coin-coin2459,actual,1,0.25
-Basile,canard/coin-coin3002,actual,1,0.25
-Basile,canard/coin-coin3003,actual,1,0.25
-Basile,canard/coin-coin680,target,1,0.25
-Basile,canard/coin-coin681,target,1,0.25
-Basile,canard/coin-coin682,target,1,0.25
-Basile,canard/coin-coin683,target,1,0.25
-Basile,canard/coin-coin684,target,1,0.25
-Basile,coucou2460,actual,1,0.25
-Basile,coucou2461,actual,1,0.25
-Basile,coucou686,target,1,0.25
-Basile,coucou687,target,1,0.25
-Basile,encore1298,target,1,0.25
-Basile,encore1299,target,1,0.25
-Basile,encore1300,target,1,0.25
-Basile,encore1929,actual,1,0.25
-Basile,encore3005,actual,1,0.25
-Basile,encore3006,actual,1,0.25
-Basile,est là1301,target,1,0.25
-Basile,est là1302,target,1,0.25
-Basile,est là1303,target,1,0.25
-Basile,est là1930,actual,1,0.25
-Basile,est là3007,actual,1,0.25
-Basile,est là3008,actual,1,0.25
-Basile,lequel3009,actual,1,0.25
-Basile,livre1931,actual,1,0.25
-Basile,livre1932,actual,1,0.25
-Basile,livre1933,actual,1,0.25
-Basile,livre1934,actual,1,0.25
-Basile,livre1935,actual,1,0.25
-Basile,livre1936,actual,1,0.25
-Basile,livre1937,actual,1,0.25
-Basile,livre3010,actual,1,0.25
-Basile,livre3011,actual,1,0.25
+Atte,äiti2826,actual,6,0.25
+Atte,äiti2827,actual,6,0.25
+Atte,äiti2828,actual,6,0.25
+Atte,äiti3447,actual,2,0.25
+Atte,äiti3448,actual,2,0.25
+Atte,äiti3449,actual,2,0.25
+Atte,äiti3450,actual,2,0.25
+Atte,äiti3451,actual,2,0.25
+Atte,äiti3452,actual,2,0.25
+Atte,äiti3453,actual,2,0.25
+Atte,ääni1092,target,3,0.25
+Atte,ääni2825,actual,4,0.25
+Basile,bisou1897,actual,1,0.25
+Basile,bisou668,target,1,0.25
+Basile,bravo2421,actual,2,0.25
+Basile,bravo2422,actual,2,0.25
+Basile,bravo669,target,2,0.25
+Basile,bravo670,target,2,0.25
+Basile,canard/coin-coin1898,actual,1,0.25
+Basile,canard/coin-coin2423,actual,1,0.25
+Basile,canard/coin-coin2424,actual,1,0.25
+Basile,canard/coin-coin2956,actual,1,0.25
+Basile,canard/coin-coin2957,actual,1,0.25
+Basile,canard/coin-coin671,target,1,0.25
+Basile,canard/coin-coin672,target,1,0.25
+Basile,canard/coin-coin673,target,1,0.25
+Basile,canard/coin-coin674,target,1,0.25
+Basile,canard/coin-coin675,target,1,0.25
+Basile,coucou2425,actual,1,0.25
+Basile,coucou2426,actual,1,0.25
+Basile,coucou677,target,1,0.25
+Basile,coucou678,target,1,0.25
+Basile,encore1276,target,1,0.25
+Basile,encore1277,target,1,0.25
+Basile,encore1278,target,1,0.25
+Basile,encore1899,actual,1,0.25
+Basile,encore2959,actual,1,0.25
+Basile,encore2960,actual,1,0.25
+Basile,est là1279,target,1,0.25
+Basile,est là1280,target,1,0.25
+Basile,est là1281,target,1,0.25
+Basile,est là1900,actual,1,0.25
+Basile,est là2961,actual,1,0.25
+Basile,est là2962,actual,1,0.25
+Basile,lequel2963,actual,1,0.25
+Basile,livre1901,actual,1,0.25
+Basile,livre1902,actual,1,0.25
+Basile,livre1903,actual,1,0.25
+Basile,livre1904,actual,1,0.25
+Basile,livre1905,actual,1,0.25
+Basile,livre1906,actual,1,0.25
+Basile,livre1907,actual,1,0.25
+Basile,livre2964,actual,1,0.25
+Basile,livre2965,actual,1,0.25
+Basile,livre681,target,1,0.25
+Basile,livre682,target,1,0.25
+Basile,livre683,target,1,0.25
+Basile,livre684,target,1,0.25
+Basile,livre685,target,1,0.25
+Basile,livre686,target,1,0.25
+Basile,livre687,target,1,0.25
+Basile,livre688,target,1,0.25
+Basile,livre689,target,1,0.25
 Basile,livre690,target,1,0.25
-Basile,livre691,target,1,0.25
-Basile,livre692,target,1,0.25
-Basile,livre693,target,1,0.25
-Basile,livre694,target,1,0.25
-Basile,livre695,target,1,0.25
-Basile,livre696,target,1,0.25
-Basile,livre697,target,1,0.25
-Basile,livre698,target,1,0.25
-Basile,livre699,target,1,0.25
-Basile,maman2464,actual,1,0.25
-Basile,maman2466,actual,1,0.25
-Basile,maman2467,actual,1,0.25
-Basile,maman2468,actual,1,0.25
-Basile,maman2469,actual,1,0.25
-Basile,maman2470,actual,1,0.25
-Basile,maman3013,actual,1,0.25
-Basile,maman3155,actual,1,0.25
-Basile,maman3156,actual,1,0.25
+Basile,maman2429,actual,1,0.25
+Basile,maman2431,actual,1,0.25
+Basile,maman2432,actual,1,0.25
+Basile,maman2433,actual,1,0.25
+Basile,maman2434,actual,1,0.25
+Basile,maman2435,actual,1,0.25
+Basile,maman2967,actual,1,0.25
+Basile,maman3109,actual,1,0.25
+Basile,maman3110,actual,1,0.25
+Basile,maman691,target,1,0.25
+Basile,maman692,target,1,0.25
+Basile,maman693,target,1,0.25
+Basile,maman694,target,1,0.25
+Basile,maman695,target,1,0.25
+Basile,maman696,target,1,0.25
+Basile,maman697,target,1,0.25
+Basile,maman698,target,1,0.25
+Basile,maman699,target,1,0.25
 Basile,maman700,target,1,0.25
 Basile,maman701,target,1,0.25
-Basile,maman702,target,1,0.25
-Basile,maman703,target,1,0.25
-Basile,maman704,target,1,0.25
-Basile,maman705,target,1,0.25
-Basile,maman706,target,1,0.25
-Basile,maman707,target,1,0.25
-Basile,maman708,target,1,0.25
-Basile,maman709,target,1,0.25
-Basile,maman710,target,1,0.25
-Basile,musique2471,actual,1,0.25
-Basile,musique2472,actual,1,0.25
-Basile,musique2473,actual,1,0.25
-Basile,musique2474,actual,1,0.25
-Basile,musique2475,actual,1,0.25
-Basile,musique712,target,1,0.25
-Basile,musique713,target,1,0.25
-Basile,musique714,target,1,0.25
-Basile,musique715,target,1,0.25
-Basile,musique716,target,1,0.25
-Basile,nonnon717,target,1,0.25
-Basile,nonnon718,target,1,0.25
-Basile,papa2477,actual,2,0.25
-Basile,papa2478,actual,2,0.25
-Basile,papa2479,actual,2,0.25
-Basile,papa2480,actual,2,0.25
-Basile,papa719,target,1,0.25
-Basile,papa720,target,1,0.25
-Basile,papa721,target,1,0.25
-Basile,papa722,target,1,0.25
-Basile,pin pon1938,actual,2,0.25
-Basile,pin pon1939,actual,2,0.25
-Basile,pin pon1940,actual,2,0.25
-Basile,pin pon1941,actual,2,0.25
-Basile,pin pon1942,actual,2,0.25
-Basile,pin pon2481,actual,2,0.25
-Basile,pin pon723,target,1,0.25
-Basile,pin pon724,target,1,0.25
-Basile,pin pon725,target,1,0.25
-Basile,pin pon726,target,1,0.25
-Basile,pin pon727,target,1,0.25
-Basile,pin pon728,target,1,0.25
-Basile,pin pon729,target,1,0.25
-Basile,voiture731,target,1,0.25
-Basile,voiture732,target,1,0.25
-Carys,La-La2752,actual,5,0.25
-Carys,La-La928,target,2,0.25
-Carys,Lucy2587,actual,1,0.25
-Carys,Lucy930,target,3,0.25
-Carys,Meira1976,actual,3,0.25
-Carys,Meira2588,actual,3,0.25
-Carys,Meira931,target,3,0.25
-Carys,Meira932,target,3,0.25
-Carys,Meira933,target,3,0.25
-Carys,eira1332,target,5,0.25
-Carys,eira1333,target,5,0.25
-Carys,eira2580,actual,4,0.25
-Carys,eira2581,actual,4,0.25
-Carys,eisio1334,target,4,0.25
-Carys,eisio1335,target,4,0.25
-Carys,eisio2582,actual,5,0.25
-Carys,eisio3067,actual,5,0.25
-Carys,gaggag2583,actual,1,0.25
-Carys,gaggag923,target,2,0.25
-Carys,hiya2584,actual,3,0.25
-Carys,hiya2751,actual,5,0.25
-Carys,hiya924,target,2,0.25
-Carys,hiya925,target,2,0.25
-Carys,hwnna2585,actual,2,0.25
-Carys,hwnna3068,actual,4,0.25
-Carys,hwnna926,target,2,0.25
-Carys,hwnna927,target,2,0.25
-Carys,lorry929,target,4,0.25
-Carys,tata2589,actual,5,0.25
-Carys,tata2590,actual,5,0.25
-Carys,tata3069,actual,7,0.25
-Carys,tata934,target,2,0.25
-Carys,tata935,target,2,0.25
-Carys,tata936,target,2,0.25
-Carys,tedi2591,actual,3,0.25
-Carys,tedi937,target,2,0.25
-Carys,tedi938,target,2,0.25
-Carys,tedi939,target,2,0.25
-Eelis,Eetu1156,target,2,0.25
-Eelis,Eetu1157,target,2,0.25
-Eelis,Eetu1158,target,2,0.25
-Eelis,Eetu2896,actual,3,0.25
-Eelis,Eetu2897,actual,3,0.25
-Eelis,Eetu3553,actual,2,0.25
-Eelis,Hippi1539,target,1,0.25
-Eelis,Hippi1540,target,1,0.25
-Eelis,Hippi1541,target,1,0.25
-Eelis,Hippi3557,actual,4,0.25
-Eelis,Hippi3558,actual,4,0.25
-Eelis,Hippi3559,actual,4,0.25
-Eelis,ankka1790,target,1,0.25
-Eelis,ankka1791,target,1,0.25
-Eelis,ankka1792,target,1,0.25
-Eelis,ankka1793,target,1,0.25
-Eelis,ankka1794,target,1,0.25
-Eelis,ankka1795,target,1,0.25
-Eelis,ankka1796,target,1,0.25
-Eelis,ankka3545,actual,2,0.25
-Eelis,ankka3546,actual,2,0.25
-Eelis,ankka3547,actual,2,0.25
-Eelis,ankka3548,actual,2,0.25
-Eelis,ankka3549,actual,2,0.25
-Eelis,ankka3550,actual,2,0.25
-Eelis,ankka3551,actual,2,0.25
-Eelis,anna1797,target,1,0.25
-Eelis,heppa1523,target,1,0.25
-Eelis,heppa1524,target,1,0.25
-Eelis,heppa1525,target,1,0.25
-Eelis,heppa1526,target,1,0.25
-Eelis,heppa1527,target,1,0.25
-Eelis,heppa1528,target,1,0.25
-Eelis,heppa1529,target,1,0.25
-Eelis,heppa1530,target,1,0.25
-Eelis,heppa1531,target,1,0.25
-Eelis,heppa1532,target,1,0.25
-Eelis,heppa1533,target,1,0.25
-Eelis,heppa1534,target,1,0.25
-Eelis,heppa1535,target,1,0.25
-Eelis,heppa1536,target,1,0.25
-Eelis,heppa1537,target,1,0.25
-Eelis,heppa1538,target,1,0.25
-Eelis,heppa3215,actual,2,0.25
-Eelis,heppa3216,actual,2,0.25
-Eelis,heppa3217,actual,2,0.25
-Eelis,heppa3218,actual,2,0.25
-Eelis,heppa3219,actual,2,0.25
-Eelis,heppa3220,actual,2,0.25
-Eelis,heppa3221,actual,2,0.25
-Eelis,heppa3222,actual,2,0.25
-Eelis,heppa3223,actual,2,0.25
-Eelis,heppa3224,actual,2,0.25
-Eelis,heppa3225,actual,2,0.25
-Eelis,heppa3226,actual,2,0.25
-Eelis,heppa3227,actual,2,0.25
-Eelis,heppa3554,actual,4,0.25
-Eelis,heppa3555,actual,4,0.25
-Eelis,heppa3556,actual,4,0.25
-Eelis,istuu1159,target,1,0.25
-Eelis,istuu1160,target,1,0.25
-Eelis,istuu1161,target,1,0.25
-Eelis,istuu1162,target,1,0.25
-Eelis,istuu1163,target,1,0.25
-Eelis,istuu3560,actual,2,0.25
-Eelis,istuu3561,actual,2,0.25
-Eelis,istuu3562,actual,2,0.25
-Eelis,istuu3563,actual,2,0.25
-Eelis,istuu3564,actual,2,0.25
-Eelis,itkee1164,target,1,0.25
-Eelis,itkee3565,actual,2,0.25
-Eelis,kakka1542,target,2,0.25
-Eelis,kakka1543,target,2,0.25
-Eelis,kakka1544,target,2,0.25
-Eelis,kakka1545,target,2,0.25
-Eelis,kakka3228,actual,2,0.25
-Eelis,kakka3229,actual,2,0.25
-Eelis,kakka3230,actual,2,0.25
-Eelis,kakka3231,actual,2,0.25
-Eelis,kiikkaa1546,target,2,0.25
-Eelis,kiikkaa1547,target,2,0.25
-Eelis,kiikkaa1548,target,2,0.25
-Eelis,kiikkaa1549,target,2,0.25
-Eelis,kiikkaa1550,target,2,0.25
-Eelis,kiikkaa1551,target,2,0.25
-Eelis,kiikkaa1552,target,2,0.25
-Eelis,kiikkaa1553,target,2,0.25
-Eelis,kiikkaa1554,target,2,0.25
-Eelis,kiikkaa1555,target,2,0.25
-Eelis,kiikkaa1556,target,2,0.25
-Eelis,kiikkaa1831,actual,2,0.25
-Eelis,kiikkaa3232,actual,2,0.25
-Eelis,kiikkaa3233,actual,2,0.25
-Eelis,kiikkaa3234,actual,2,0.25
-Eelis,kiikkaa3235,actual,2,0.25
-Eelis,kiikkaa3236,actual,2,0.25
-Eelis,kiikkaa3237,actual,2,0.25
-Eelis,kiikkaa3238,actual,2,0.25
-Eelis,kiikkaa3239,actual,2,0.25
-Eelis,kiikkaa3240,actual,2,0.25
-Eelis,kiikkaa3241,actual,2,0.25
-Eelis,kiinni1557,target,2,0.25
-Eelis,kiinni1558,target,2,0.25
-Eelis,kiinni1559,target,2,0.25
-Eelis,kiinni1560,target,2,0.25
-Eelis,kiinni1561,target,2,0.25
-Eelis,kiinni1562,target,2,0.25
-Eelis,kiinni1563,target,2,0.25
-Eelis,kiinni1564,target,2,0.25
-Eelis,kiinni1832,actual,2,0.25
-Eelis,kiinni1833,actual,2,0.25
-Eelis,kiinni1834,actual,3,0.25
-Eelis,kiinni1835,actual,2,0.25
-Eelis,kiinni1836,actual,2,0.25
-Eelis,kiinni1837,actual,2,0.25
-Eelis,kiinni1838,actual,2,0.25
-Eelis,kiinni1839,actual,2,0.25
-Eelis,kiitos1840,actual,3,0.25
-Eelis,kukka1565,target,2,0.25
-Eelis,kukka1566,target,2,0.25
-Eelis,kukka3242,actual,2,0.25
-Eelis,kukka3243,actual,2,0.25
-Eelis,loppu1567,target,2,0.25
-Eelis,loppu1568,target,2,0.25
-Eelis,loppu1569,target,2,0.25
-Eelis,loppu1841,actual,1,0.25
-Eelis,loppu1842,actual,1,0.25
-Eelis,loppu3566,actual,4,0.25
-Eelis,mamma1570,target,1,0.25
-Eelis,mamma1571,target,1,0.25
-Eelis,mamma3244,actual,1,0.25
-Eelis,mamma3245,actual,1,0.25
-Eelis,nappi1572,target,1,0.25
-Eelis,nappi3567,actual,4,0.25
-Eelis,omppu1798,target,1,0.25
-Eelis,omppu1799,target,1,0.25
-Eelis,omppu1843,actual,1,0.25
-Eelis,omppu3568,actual,4,0.25
-Eelis,pappa1573,target,2,0.25
-Eelis,pappa3246,actual,2,0.25
-Eelis,pipi2164,actual,2,0.25
+Basile,musique2436,actual,1,0.25
+Basile,musique2437,actual,1,0.25
+Basile,musique2438,actual,1,0.25
+Basile,musique2439,actual,1,0.25
+Basile,musique2440,actual,1,0.25
+Basile,musique703,target,1,0.25
+Basile,musique704,target,1,0.25
+Basile,musique705,target,1,0.25
+Basile,musique706,target,1,0.25
+Basile,musique707,target,1,0.25
+Basile,nonnon708,target,1,0.25
+Basile,nonnon709,target,1,0.25
+Basile,papa2442,actual,2,0.25
+Basile,papa2443,actual,2,0.25
+Basile,papa2444,actual,2,0.25
+Basile,papa2445,actual,2,0.25
+Basile,papa710,target,1,0.25
+Basile,papa711,target,1,0.25
+Basile,papa712,target,1,0.25
+Basile,papa713,target,1,0.25
+Basile,pin pon1908,actual,2,0.25
+Basile,pin pon1909,actual,2,0.25
+Basile,pin pon1910,actual,2,0.25
+Basile,pin pon1911,actual,2,0.25
+Basile,pin pon1912,actual,2,0.25
+Basile,pin pon2446,actual,2,0.25
+Basile,pin pon714,target,1,0.25
+Basile,pin pon715,target,1,0.25
+Basile,pin pon716,target,1,0.25
+Basile,pin pon717,target,1,0.25
+Basile,pin pon718,target,1,0.25
+Basile,pin pon719,target,1,0.25
+Basile,pin pon720,target,1,0.25
+Basile,voiture722,target,1,0.25
+Basile,voiture723,target,1,0.25
+Carys,La-La2716,actual,5,0.25
+Carys,La-La919,target,2,0.25
+Carys,Lucy2552,actual,1,0.25
+Carys,Lucy921,target,3,0.25
+Carys,Meira1946,actual,3,0.25
+Carys,Meira2553,actual,3,0.25
+Carys,Meira922,target,3,0.25
+Carys,Meira923,target,3,0.25
+Carys,Meira924,target,3,0.25
+Carys,eira1310,target,5,0.25
+Carys,eira1311,target,5,0.25
+Carys,eira2545,actual,4,0.25
+Carys,eira2546,actual,4,0.25
+Carys,eisio1312,target,4,0.25
+Carys,eisio1313,target,4,0.25
+Carys,eisio2547,actual,5,0.25
+Carys,eisio3021,actual,5,0.25
+Carys,gaggag2548,actual,1,0.25
+Carys,gaggag914,target,2,0.25
+Carys,hiya2549,actual,3,0.25
+Carys,hiya2715,actual,5,0.25
+Carys,hiya915,target,2,0.25
+Carys,hiya916,target,2,0.25
+Carys,hwnna2550,actual,2,0.25
+Carys,hwnna3022,actual,4,0.25
+Carys,hwnna917,target,2,0.25
+Carys,hwnna918,target,2,0.25
+Carys,lorry920,target,4,0.25
+Carys,tata2554,actual,5,0.25
+Carys,tata2555,actual,5,0.25
+Carys,tata3023,actual,7,0.25
+Carys,tata925,target,2,0.25
+Carys,tata926,target,2,0.25
+Carys,tata927,target,2,0.25
+Carys,tedi2556,actual,3,0.25
+Carys,tedi928,target,2,0.25
+Carys,tedi929,target,2,0.25
+Carys,tedi930,target,2,0.25
+Eelis,Eetu1147,target,2,0.25
+Eelis,Eetu1148,target,2,0.25
+Eelis,Eetu1149,target,2,0.25
+Eelis,Eetu2860,actual,3,0.25
+Eelis,Eetu2861,actual,3,0.25
+Eelis,Eetu3507,actual,2,0.25
+Eelis,Hippi1517,target,1,0.25
+Eelis,Hippi1518,target,1,0.25
+Eelis,Hippi1519,target,1,0.25
+Eelis,Hippi3511,actual,4,0.25
+Eelis,Hippi3512,actual,4,0.25
+Eelis,Hippi3513,actual,4,0.25
+Eelis,ankka1768,target,1,0.25
+Eelis,ankka1769,target,1,0.25
+Eelis,ankka1770,target,1,0.25
+Eelis,ankka1771,target,1,0.25
+Eelis,ankka1772,target,1,0.25
+Eelis,ankka1773,target,1,0.25
+Eelis,ankka1774,target,1,0.25
+Eelis,ankka3499,actual,2,0.25
+Eelis,ankka3500,actual,2,0.25
+Eelis,ankka3501,actual,2,0.25
+Eelis,ankka3502,actual,2,0.25
+Eelis,ankka3503,actual,2,0.25
+Eelis,ankka3504,actual,2,0.25
+Eelis,ankka3505,actual,2,0.25
+Eelis,anna1775,target,1,0.25
+Eelis,heppa1501,target,1,0.25
+Eelis,heppa1502,target,1,0.25
+Eelis,heppa1503,target,1,0.25
+Eelis,heppa1504,target,1,0.25
+Eelis,heppa1505,target,1,0.25
+Eelis,heppa1506,target,1,0.25
+Eelis,heppa1507,target,1,0.25
+Eelis,heppa1508,target,1,0.25
+Eelis,heppa1509,target,1,0.25
+Eelis,heppa1510,target,1,0.25
+Eelis,heppa1511,target,1,0.25
+Eelis,heppa1512,target,1,0.25
+Eelis,heppa1513,target,1,0.25
+Eelis,heppa1514,target,1,0.25
+Eelis,heppa1515,target,1,0.25
+Eelis,heppa1516,target,1,0.25
+Eelis,heppa3169,actual,2,0.25
+Eelis,heppa3170,actual,2,0.25
+Eelis,heppa3171,actual,2,0.25
+Eelis,heppa3172,actual,2,0.25
+Eelis,heppa3173,actual,2,0.25
+Eelis,heppa3174,actual,2,0.25
+Eelis,heppa3175,actual,2,0.25
+Eelis,heppa3176,actual,2,0.25
+Eelis,heppa3177,actual,2,0.25
+Eelis,heppa3178,actual,2,0.25
+Eelis,heppa3179,actual,2,0.25
+Eelis,heppa3180,actual,2,0.25
+Eelis,heppa3181,actual,2,0.25
+Eelis,heppa3508,actual,4,0.25
+Eelis,heppa3509,actual,4,0.25
+Eelis,heppa3510,actual,4,0.25
+Eelis,istuu1150,target,1,0.25
+Eelis,istuu1151,target,1,0.25
+Eelis,istuu1152,target,1,0.25
+Eelis,istuu1153,target,1,0.25
+Eelis,istuu1154,target,1,0.25
+Eelis,istuu3514,actual,2,0.25
+Eelis,istuu3515,actual,2,0.25
+Eelis,istuu3516,actual,2,0.25
+Eelis,istuu3517,actual,2,0.25
+Eelis,istuu3518,actual,2,0.25
+Eelis,itkee1155,target,1,0.25
+Eelis,itkee3519,actual,2,0.25
+Eelis,kakka1520,target,2,0.25
+Eelis,kakka1521,target,2,0.25
+Eelis,kakka1522,target,2,0.25
+Eelis,kakka1523,target,2,0.25
+Eelis,kakka3182,actual,2,0.25
+Eelis,kakka3183,actual,2,0.25
+Eelis,kakka3184,actual,2,0.25
+Eelis,kakka3185,actual,2,0.25
+Eelis,kiikkaa1524,target,2,0.25
+Eelis,kiikkaa1525,target,2,0.25
+Eelis,kiikkaa1526,target,2,0.25
+Eelis,kiikkaa1527,target,2,0.25
+Eelis,kiikkaa1528,target,2,0.25
+Eelis,kiikkaa1529,target,2,0.25
+Eelis,kiikkaa1530,target,2,0.25
+Eelis,kiikkaa1531,target,2,0.25
+Eelis,kiikkaa1532,target,2,0.25
+Eelis,kiikkaa1533,target,2,0.25
+Eelis,kiikkaa1534,target,2,0.25
+Eelis,kiikkaa1807,actual,2,0.25
+Eelis,kiikkaa3186,actual,2,0.25
+Eelis,kiikkaa3187,actual,2,0.25
+Eelis,kiikkaa3188,actual,2,0.25
+Eelis,kiikkaa3189,actual,2,0.25
+Eelis,kiikkaa3190,actual,2,0.25
+Eelis,kiikkaa3191,actual,2,0.25
+Eelis,kiikkaa3192,actual,2,0.25
+Eelis,kiikkaa3193,actual,2,0.25
+Eelis,kiikkaa3194,actual,2,0.25
+Eelis,kiikkaa3195,actual,2,0.25
+Eelis,kiinni1535,target,2,0.25
+Eelis,kiinni1536,target,2,0.25
+Eelis,kiinni1537,target,2,0.25
+Eelis,kiinni1538,target,2,0.25
+Eelis,kiinni1539,target,2,0.25
+Eelis,kiinni1540,target,2,0.25
+Eelis,kiinni1541,target,2,0.25
+Eelis,kiinni1542,target,2,0.25
+Eelis,kiinni1808,actual,2,0.25
+Eelis,kiinni1809,actual,2,0.25
+Eelis,kiinni1810,actual,3,0.25
+Eelis,kiinni1811,actual,2,0.25
+Eelis,kiinni1812,actual,2,0.25
+Eelis,kiinni1813,actual,2,0.25
+Eelis,kiinni1814,actual,2,0.25
+Eelis,kiinni1815,actual,2,0.25
+Eelis,kiitos1816,actual,3,0.25
+Eelis,kukka1543,target,2,0.25
+Eelis,kukka1544,target,2,0.25
+Eelis,kukka3196,actual,2,0.25
+Eelis,kukka3197,actual,2,0.25
+Eelis,loppu1545,target,2,0.25
+Eelis,loppu1546,target,2,0.25
+Eelis,loppu1547,target,2,0.25
+Eelis,loppu1817,actual,1,0.25
+Eelis,loppu1818,actual,1,0.25
+Eelis,loppu3520,actual,4,0.25
+Eelis,mamma1548,target,1,0.25
+Eelis,mamma1549,target,1,0.25
+Eelis,mamma3198,actual,1,0.25
+Eelis,mamma3199,actual,1,0.25
+Eelis,nappi1550,target,1,0.25
+Eelis,nappi3521,actual,4,0.25
+Eelis,omppu1776,target,1,0.25
+Eelis,omppu1777,target,1,0.25
+Eelis,omppu1819,actual,1,0.25
+Eelis,omppu3522,actual,4,0.25
+Eelis,pappa1551,target,2,0.25
+Eelis,pappa3200,actual,2,0.25
+Eelis,pipi2134,actual,2,0.25
 Eelis,pipi279,target,2,0.25
 Eelis,pipi280,target,2,0.25
 Eelis,pipi281,target,2,0.25
-Eelis,pipi3247,actual,3,0.25
-Eelis,pipi3248,actual,3,0.25
-Eelis,poppa1574,target,2,0.25
-Eelis,poppa1575,target,2,0.25
-Eelis,poppa2165,actual,2,0.25
-Eelis,rikki1576,target,2,0.25
-Eelis,rikki1577,target,2,0.25
-Eelis,rikki3569,actual,2,0.25
-Eelis,rikki3570,actual,2,0.25
-Eelis,räppäa2898,actual,2,0.25
-Elen,Dipsi2622,actual,5,0.25
-Elen,La-La3073,actual,4,0.25
-Elen,La-La3074,actual,4,0.25
-Elen,La-La3075,actual,4,0.25
-Elen,La-La996,target,1,0.25
-Elen,La-La997,target,1,0.25
-Elen,La-La998,target,1,0.25
-Elen,babi2612,actual,1,0.25
-Elen,babi2613,actual,2,0.25
-Elen,babi2614,actual,2,0.25
-Elen,babi2615,actual,2,0.25
-Elen,babi2616,actual,2,0.25
-Elen,babi2617,actual,2,0.25
-Elen,babi974,target,1,0.25
-Elen,babi975,target,1,0.25
-Elen,babi976,target,1,0.25
-Elen,babi977,target,1,0.25
-Elen,babi978,target,1,0.25
-Elen,babi979,target,1,0.25
-Elen,"dau, tri2619",actual,4,0.25
-Elen,"dau, tri2620",actual,6,0.25
-Elen,"dau, tri2621",actual,4,0.25
-Elen,"dau, tri982",target,1,0.25
-Elen,"dau, tri983",target,1,0.25
-Elen,"dau, tri984",target,1,0.25
-Elen,"dau, tri985",target,1,0.25
-Elen,geegee2623,actual,3,0.25
-Elen,geegee987,target,1,0.25
-Elen,geegee988,target,1,0.25
-Elen,hello1984,actual,1,0.25
-Elen,hello2625,actual,5,0.25
-Elen,hello3072,actual,4,0.25
-Elen,hello989,target,3,0.25
-Elen,hello990,target,3,0.25
-Elen,hello991,target,3,0.25
-Elen,hiya2626,actual,4,0.25
-Elen,hiya2627,actual,3,0.25
-Elen,hiya992,target,3,0.25
-Elen,hiya993,target,3,0.25
-Elen,hwnna2628,actual,4,0.25
-Elen,hwnna994,target,2,0.25
-Elen,llyga1340,target,3,0.25
-Elen,llyga1341,target,3,0.25
-Elen,llyga2630,actual,4,0.25
-Elen,llyga2631,actual,1,0.25
-Elen,oh god1342,target,2,0.25
-Elen,oh god1343,target,2,0.25
-Elen,oh god1344,target,2,0.25
-Elen,oh god2632,actual,1,0.25
-Elen,oh god3076,actual,2,0.25
-Elen,seesaw999,target,2,0.25
-Elen,tata1000,target,2,0.25
-Elen,tata2633,actual,7,0.25
-Elen,tedi1001,target,3,0.25
-Elen,tedi1002,target,3,0.25
-Elen,tedi2629,actual,8,0.25
-Elen,tedi2634,actual,8,0.25
-Elen,tedi2635,actual,3,0.25
-Elen,tedi995,target,3,0.25
-Elen,uh-oh1345,target,2,0.25
-Elen,uh-oh1346,target,2,0.25
-Elen,uh-oh1347,target,2,0.25
-Elen,uh-oh2636,actual,4,0.25
-Elen,uh-oh2637,actual,2,0.25
-Elen,uh-oh3487,actual,1,0.25
-Eliisa,"haloo, hallo1578",target,2,0.25
-Eliisa,"haloo, hallo1579",target,2,0.25
-Eliisa,"haloo, hallo2712",actual,5,0.25
-Eliisa,"haloo, hallo2713",actual,5,0.25
-Eliisa,hauva1845,actual,4,0.25
-Eliisa,hauva1846,actual,4,0.25
-Eliisa,hauva1847,actual,4,0.25
-Eliisa,hauva2166,actual,1,0.25
-Eliisa,hauva2714,actual,5,0.25
-Eliisa,hauva2715,actual,5,0.25
-Eliisa,hauva2716,actual,5,0.25
+Eelis,pipi3201,actual,3,0.25
+Eelis,pipi3202,actual,3,0.25
+Eelis,poppa1552,target,2,0.25
+Eelis,poppa1553,target,2,0.25
+Eelis,poppa2135,actual,2,0.25
+Eelis,rikki1554,target,2,0.25
+Eelis,rikki1555,target,2,0.25
+Eelis,rikki3523,actual,2,0.25
+Eelis,rikki3524,actual,2,0.25
+Eelis,räppäa2862,actual,2,0.25
+Elen,Dipsi2587,actual,5,0.25
+Elen,La-La3027,actual,4,0.25
+Elen,La-La3028,actual,4,0.25
+Elen,La-La3029,actual,4,0.25
+Elen,La-La987,target,1,0.25
+Elen,La-La988,target,1,0.25
+Elen,La-La989,target,1,0.25
+Elen,babi2577,actual,1,0.25
+Elen,babi2578,actual,2,0.25
+Elen,babi2579,actual,2,0.25
+Elen,babi2580,actual,2,0.25
+Elen,babi2581,actual,2,0.25
+Elen,babi2582,actual,2,0.25
+Elen,babi965,target,1,0.25
+Elen,babi966,target,1,0.25
+Elen,babi967,target,1,0.25
+Elen,babi968,target,1,0.25
+Elen,babi969,target,1,0.25
+Elen,babi970,target,1,0.25
+Elen,"dau, tri2584",actual,4,0.25
+Elen,"dau, tri2585",actual,6,0.25
+Elen,"dau, tri2586",actual,4,0.25
+Elen,"dau, tri973",target,1,0.25
+Elen,"dau, tri974",target,1,0.25
+Elen,"dau, tri975",target,1,0.25
+Elen,"dau, tri976",target,1,0.25
+Elen,geegee2588,actual,3,0.25
+Elen,geegee978,target,1,0.25
+Elen,geegee979,target,1,0.25
+Elen,hello1954,actual,1,0.25
+Elen,hello2590,actual,5,0.25
+Elen,hello3026,actual,4,0.25
+Elen,hello980,target,3,0.25
+Elen,hello981,target,3,0.25
+Elen,hello982,target,3,0.25
+Elen,hiya2591,actual,4,0.25
+Elen,hiya2592,actual,3,0.25
+Elen,hiya983,target,3,0.25
+Elen,hiya984,target,3,0.25
+Elen,hwnna2593,actual,4,0.25
+Elen,hwnna985,target,2,0.25
+Elen,llyga1318,target,3,0.25
+Elen,llyga1319,target,3,0.25
+Elen,llyga2595,actual,4,0.25
+Elen,llyga2596,actual,1,0.25
+Elen,oh god1320,target,2,0.25
+Elen,oh god1321,target,2,0.25
+Elen,oh god1322,target,2,0.25
+Elen,oh god2597,actual,1,0.25
+Elen,oh god3030,actual,2,0.25
+Elen,seesaw990,target,2,0.25
+Elen,tata2598,actual,7,0.25
+Elen,tata991,target,2,0.25
+Elen,tedi2594,actual,8,0.25
+Elen,tedi2599,actual,8,0.25
+Elen,tedi2600,actual,3,0.25
+Elen,tedi986,target,3,0.25
+Elen,tedi992,target,3,0.25
+Elen,tedi993,target,3,0.25
+Elen,uh-oh1323,target,2,0.25
+Elen,uh-oh1324,target,2,0.25
+Elen,uh-oh1325,target,2,0.25
+Elen,uh-oh2601,actual,4,0.25
+Elen,uh-oh2602,actual,2,0.25
+Elen,uh-oh3441,actual,1,0.25
+Eliisa,"haloo, hallo1556",target,2,0.25
+Eliisa,"haloo, hallo1557",target,2,0.25
+Eliisa,"haloo, hallo2677",actual,5,0.25
+Eliisa,"haloo, hallo2678",actual,5,0.25
+Eliisa,hauva1821,actual,4,0.25
+Eliisa,hauva1822,actual,4,0.25
+Eliisa,hauva1823,actual,4,0.25
+Eliisa,hauva2136,actual,1,0.25
+Eliisa,hauva2679,actual,5,0.25
+Eliisa,hauva2680,actual,5,0.25
+Eliisa,hauva2681,actual,5,0.25
 Eliisa,hauva283,target,1,0.25
 Eliisa,hauva284,target,1,0.25
 Eliisa,hauva285,target,1,0.25
@@ -825,46 +825,46 @@ Eliisa,hauva286,target,1,0.25
 Eliisa,hauva287,target,1,0.25
 Eliisa,hauva288,target,1,0.25
 Eliisa,hauva289,target,1,0.25
+Eliisa,isi1156,target,3,0.25
+Eliisa,isi1157,target,3,0.25
+Eliisa,isi1158,target,3,0.25
+Eliisa,isi1159,target,3,0.25
+Eliisa,isi1160,target,3,0.25
+Eliisa,isi1161,target,3,0.25
+Eliisa,isi1162,target,3,0.25
+Eliisa,isi1163,target,3,0.25
+Eliisa,isi1164,target,3,0.25
 Eliisa,isi1165,target,3,0.25
 Eliisa,isi1166,target,3,0.25
 Eliisa,isi1167,target,3,0.25
-Eliisa,isi1168,target,3,0.25
-Eliisa,isi1169,target,3,0.25
-Eliisa,isi1170,target,3,0.25
-Eliisa,isi1171,target,3,0.25
-Eliisa,isi1172,target,3,0.25
-Eliisa,isi1173,target,3,0.25
-Eliisa,isi1174,target,3,0.25
-Eliisa,isi1175,target,3,0.25
-Eliisa,isi1176,target,3,0.25
-Eliisa,isi2899,actual,3,0.25
-Eliisa,isi2900,actual,3,0.25
-Eliisa,isi2901,actual,3,0.25
-Eliisa,isi2902,actual,3,0.25
-Eliisa,isi2903,actual,3,0.25
-Eliisa,isi2904,actual,3,0.25
-Eliisa,isi2905,actual,3,0.25
-Eliisa,isi2906,actual,3,0.25
-Eliisa,isi2907,actual,3,0.25
-Eliisa,isi2908,actual,3,0.25
-Eliisa,isi2909,actual,3,0.25
-Eliisa,isi2910,actual,3,0.25
-Eliisa,istu1177,target,2,0.25
-Eliisa,istu3571,actual,1,0.25
+Eliisa,isi2863,actual,3,0.25
+Eliisa,isi2864,actual,3,0.25
+Eliisa,isi2865,actual,3,0.25
+Eliisa,isi2866,actual,3,0.25
+Eliisa,isi2867,actual,3,0.25
+Eliisa,isi2868,actual,3,0.25
+Eliisa,isi2869,actual,3,0.25
+Eliisa,isi2870,actual,3,0.25
+Eliisa,isi2871,actual,3,0.25
+Eliisa,isi2872,actual,3,0.25
+Eliisa,isi2873,actual,3,0.25
+Eliisa,isi2874,actual,3,0.25
+Eliisa,istu1168,target,2,0.25
+Eliisa,istu3525,actual,1,0.25
+Eliisa,juusto2875,actual,2,0.25
+Eliisa,juusto2876,actual,2,0.25
+Eliisa,juusto2877,actual,2,0.25
+Eliisa,juusto2878,actual,2,0.25
+Eliisa,juusto2879,actual,2,0.25
+Eliisa,juusto2880,actual,2,0.25
+Eliisa,juusto2881,actual,2,0.25
+Eliisa,juusto2882,actual,2,0.25
+Eliisa,juusto2883,actual,2,0.25
+Eliisa,juusto2884,actual,2,0.25
+Eliisa,juusto2885,actual,2,0.25
 Eliisa,juusto290,target,2,0.25
 Eliisa,juusto291,target,2,0.25
-Eliisa,juusto2911,actual,2,0.25
-Eliisa,juusto2912,actual,2,0.25
-Eliisa,juusto2913,actual,2,0.25
-Eliisa,juusto2914,actual,2,0.25
-Eliisa,juusto2915,actual,2,0.25
-Eliisa,juusto2916,actual,2,0.25
-Eliisa,juusto2917,actual,2,0.25
-Eliisa,juusto2918,actual,2,0.25
-Eliisa,juusto2919,actual,2,0.25
 Eliisa,juusto292,target,2,0.25
-Eliisa,juusto2920,actual,2,0.25
-Eliisa,juusto2921,actual,2,0.25
 Eliisa,juusto293,target,2,0.25
 Eliisa,juusto294,target,2,0.25
 Eliisa,juusto295,target,2,0.25
@@ -873,153 +873,153 @@ Eliisa,juusto297,target,2,0.25
 Eliisa,juusto298,target,2,0.25
 Eliisa,juusto299,target,2,0.25
 Eliisa,juusto300,target,2,0.25
-Eliisa,kakku1580,target,2,0.25
-Eliisa,kakku3249,actual,2,0.25
-Eliisa,kiikkuu1581,target,2,0.25
-Eliisa,kiikkuu1582,target,2,0.25
-Eliisa,kiikkuu1583,target,2,0.25
-Eliisa,kiikkuu1584,target,2,0.25
-Eliisa,kiikkuu1585,target,2,0.25
-Eliisa,kiikkuu1586,target,2,0.25
-Eliisa,kiikkuu1587,target,2,0.25
-Eliisa,kiikkuu1588,target,2,0.25
-Eliisa,kiikkuu1848,actual,3,0.25
-Eliisa,kiikkuu2167,actual,1,0.25
-Eliisa,kiikkuu3250,actual,2,0.25
-Eliisa,kiikkuu3251,actual,2,0.25
-Eliisa,kiikkuu3252,actual,2,0.25
-Eliisa,kiikkuu3253,actual,2,0.25
-Eliisa,kiikkuu3254,actual,2,0.25
-Eliisa,kiikkuu3255,actual,2,0.25
-Eliisa,kirja1849,actual,3,0.25
-Eliisa,kirja1850,actual,3,0.25
-Eliisa,kirja1851,actual,3,0.25
+Eliisa,kakku1558,target,2,0.25
+Eliisa,kakku3203,actual,2,0.25
+Eliisa,kiikkuu1559,target,2,0.25
+Eliisa,kiikkuu1560,target,2,0.25
+Eliisa,kiikkuu1561,target,2,0.25
+Eliisa,kiikkuu1562,target,2,0.25
+Eliisa,kiikkuu1563,target,2,0.25
+Eliisa,kiikkuu1564,target,2,0.25
+Eliisa,kiikkuu1565,target,2,0.25
+Eliisa,kiikkuu1566,target,2,0.25
+Eliisa,kiikkuu1824,actual,3,0.25
+Eliisa,kiikkuu2137,actual,1,0.25
+Eliisa,kiikkuu3204,actual,2,0.25
+Eliisa,kiikkuu3205,actual,2,0.25
+Eliisa,kiikkuu3206,actual,2,0.25
+Eliisa,kiikkuu3207,actual,2,0.25
+Eliisa,kiikkuu3208,actual,2,0.25
+Eliisa,kiikkuu3209,actual,2,0.25
+Eliisa,kirja1825,actual,3,0.25
+Eliisa,kirja1826,actual,3,0.25
+Eliisa,kirja1827,actual,3,0.25
 Eliisa,kirja301,target,1,0.25
 Eliisa,kirja302,target,1,0.25
 Eliisa,kirja303,target,1,0.25
-Eliisa,kissa1589,target,1,0.25
-Eliisa,kissa1590,target,1,0.25
-Eliisa,kissa1591,target,1,0.25
-Eliisa,kissa1592,target,1,0.25
-Eliisa,kissa1593,target,1,0.25
-Eliisa,kissa3572,actual,2,0.25
-Eliisa,kissa3573,actual,2,0.25
-Eliisa,kissa3574,actual,2,0.25
-Eliisa,kissa3575,actual,2,0.25
-Eliisa,kissa3576,actual,2,0.25
-Eliisa,kukka1594,target,2,0.25
-Eliisa,kukka3256,actual,2,0.25
-Eliisa,litu1420,target,1,0.25
-Eliisa,litu1421,target,1,0.25
-Eliisa,litu1422,target,1,0.25
-Eliisa,litu1423,target,1,0.25
-Eliisa,litu1424,target,1,0.25
-Eliisa,litu1425,target,1,0.25
-Eliisa,litu2168,actual,2,0.25
-Eliisa,litu2169,actual,2,0.25
-Eliisa,litu2170,actual,2,0.25
-Eliisa,litu2171,actual,2,0.25
-Eliisa,litu2172,actual,2,0.25
-Eliisa,litu2173,actual,2,0.25
-Eliisa,mummu /muumu1595,target,2,0.25
-Eliisa,mummu /muumu1596,target,2,0.25
-Eliisa,mummu /muumu1597,target,2,0.25
-Eliisa,mummu /muumu1598,target,2,0.25
-Eliisa,mummu /muumu2174,actual,2,0.25
-Eliisa,mummu /muumu2175,actual,2,0.25
-Eliisa,mummu /muumu3257,actual,1,0.25
-Eliisa,muumi1853,actual,2,0.25
-Eliisa,muumi1854,actual,2,0.25
+Eliisa,kissa1567,target,1,0.25
+Eliisa,kissa1568,target,1,0.25
+Eliisa,kissa1569,target,1,0.25
+Eliisa,kissa1570,target,1,0.25
+Eliisa,kissa1571,target,1,0.25
+Eliisa,kissa3526,actual,2,0.25
+Eliisa,kissa3527,actual,2,0.25
+Eliisa,kissa3528,actual,2,0.25
+Eliisa,kissa3529,actual,2,0.25
+Eliisa,kissa3530,actual,2,0.25
+Eliisa,kukka1572,target,2,0.25
+Eliisa,kukka3210,actual,2,0.25
+Eliisa,litu1398,target,1,0.25
+Eliisa,litu1399,target,1,0.25
+Eliisa,litu1400,target,1,0.25
+Eliisa,litu1401,target,1,0.25
+Eliisa,litu1402,target,1,0.25
+Eliisa,litu1403,target,1,0.25
+Eliisa,litu2138,actual,2,0.25
+Eliisa,litu2139,actual,2,0.25
+Eliisa,litu2140,actual,2,0.25
+Eliisa,litu2141,actual,2,0.25
+Eliisa,litu2142,actual,2,0.25
+Eliisa,litu2143,actual,2,0.25
+Eliisa,mummu /muumu1573,target,2,0.25
+Eliisa,mummu /muumu1574,target,2,0.25
+Eliisa,mummu /muumu1575,target,2,0.25
+Eliisa,mummu /muumu1576,target,2,0.25
+Eliisa,mummu /muumu2144,actual,2,0.25
+Eliisa,mummu /muumu2145,actual,2,0.25
+Eliisa,mummu /muumu3211,actual,1,0.25
+Eliisa,muumi1829,actual,2,0.25
+Eliisa,muumi1830,actual,2,0.25
 Eliisa,muumi304,target,2,0.25
 Eliisa,muumi305,target,2,0.25
-Eliisa,nukke1599,target,2,0.25
-Eliisa,nukke1600,target,2,0.25
-Eliisa,nukke3258,actual,2,0.25
-Eliisa,nukke3259,actual,2,0.25
-Eliisa,nukkuu1601,target,2,0.25
-Eliisa,nukkuu1602,target,2,0.25
-Eliisa,nukkuu3260,actual,2,0.25
-Eliisa,nukkuu3261,actual,2,0.25
-Eliisa,oho1178,target,2,0.25
-Eliisa,oho1179,target,2,0.25
-Eliisa,oho1180,target,2,0.25
-Eliisa,oho1181,target,2,0.25
-Eliisa,oho2922,actual,3,0.25
-Eliisa,oho2923,actual,3,0.25
-Eliisa,oho2924,actual,3,0.25
-Eliisa,oho2925,actual,3,0.25
-Eliisa,pallo1603,target,2,0.25
-Eliisa,pallo1604,target,2,0.25
-Eliisa,pallo3262,actual,2,0.25
-Eliisa,pallo3263,actual,2,0.25
-Eliisa,pappa1605,target,3,0.25
-Eliisa,pappa1606,target,3,0.25
-Eliisa,pappa1607,target,3,0.25
-Eliisa,pappa1608,target,3,0.25
-Eliisa,pappa3264,actual,2,0.25
-Eliisa,pappa3265,actual,2,0.25
-Eliisa,pappa3266,actual,2,0.25
-Eliisa,pappa3267,actual,2,0.25
-Eliisa,piiloon2717,actual,5,0.25
-Eliisa,pomppi1609,target,1,0.25
-Eliisa,pomppi1610,target,1,0.25
-Eliisa,pomppi3268,actual,2,0.25
-Eliisa,pomppi3269,actual,2,0.25
-Eliisa,pupu2176,actual,2,0.25
-Eliisa,pupu2177,actual,2,0.25
-Eliisa,pupu2178,actual,2,0.25
+Eliisa,nukke1577,target,2,0.25
+Eliisa,nukke1578,target,2,0.25
+Eliisa,nukke3212,actual,2,0.25
+Eliisa,nukke3213,actual,2,0.25
+Eliisa,nukkuu1579,target,2,0.25
+Eliisa,nukkuu1580,target,2,0.25
+Eliisa,nukkuu3214,actual,2,0.25
+Eliisa,nukkuu3215,actual,2,0.25
+Eliisa,oho1169,target,2,0.25
+Eliisa,oho1170,target,2,0.25
+Eliisa,oho1171,target,2,0.25
+Eliisa,oho1172,target,2,0.25
+Eliisa,oho2886,actual,3,0.25
+Eliisa,oho2887,actual,3,0.25
+Eliisa,oho2888,actual,3,0.25
+Eliisa,oho2889,actual,3,0.25
+Eliisa,pallo1581,target,2,0.25
+Eliisa,pallo1582,target,2,0.25
+Eliisa,pallo3216,actual,2,0.25
+Eliisa,pallo3217,actual,2,0.25
+Eliisa,pappa1583,target,3,0.25
+Eliisa,pappa1584,target,3,0.25
+Eliisa,pappa1585,target,3,0.25
+Eliisa,pappa1586,target,3,0.25
+Eliisa,pappa3218,actual,2,0.25
+Eliisa,pappa3219,actual,2,0.25
+Eliisa,pappa3220,actual,2,0.25
+Eliisa,pappa3221,actual,2,0.25
+Eliisa,piiloon2682,actual,5,0.25
+Eliisa,pomppi1587,target,1,0.25
+Eliisa,pomppi1588,target,1,0.25
+Eliisa,pomppi3222,actual,2,0.25
+Eliisa,pomppi3223,actual,2,0.25
+Eliisa,pupu2146,actual,2,0.25
+Eliisa,pupu2147,actual,2,0.25
+Eliisa,pupu2148,actual,2,0.25
 Eliisa,pupu307,target,2,0.25
 Eliisa,pupu308,target,2,0.25
 Eliisa,pupu309,target,2,0.25
-Eliisa,rikki1611,target,2,0.25
-Eliisa,rikki3270,actual,2,0.25
-Eliisa,"tippu, tippuu1612",target,2,0.25
-Eliisa,"tippu, tippuu1613",target,2,0.25
-Eliisa,"tippu, tippuu3271",actual,2,0.25
-Eliisa,"tippu, tippuu3272",actual,2,0.25
-Eliisa,tyttö1614,target,2,0.25
-Eliisa,tyttö1615,target,2,0.25
-Eliisa,tyttö1616,target,2,0.25
-Eliisa,tyttö1617,target,2,0.25
-Eliisa,tyttö1618,target,2,0.25
-Eliisa,tyttö1619,target,2,0.25
-Eliisa,tyttö1620,target,2,0.25
-Eliisa,tyttö1621,target,2,0.25
-Eliisa,tyttö1622,target,2,0.25
-Eliisa,tyttö1623,target,2,0.25
-Eliisa,tyttö1624,target,2,0.25
-Eliisa,tyttö3191,actual,2,0.25
-Eliisa,tyttö3273,actual,2,0.25
-Eliisa,tyttö3274,actual,2,0.25
-Eliisa,tyttö3275,actual,2,0.25
-Eliisa,tyttö3276,actual,2,0.25
-Eliisa,tyttö3277,actual,2,0.25
-Eliisa,tyttö3278,actual,2,0.25
-Eliisa,tyttö3279,actual,2,0.25
-Eliisa,tyttö3280,actual,2,0.25
-Eliisa,tyttö3281,actual,2,0.25
-Eliisa,tyttö3282,actual,2,0.25
-Eliisa,vettä1625,target,1,0.25
-Eliisa,vettä2179,actual,2,0.25
+Eliisa,rikki1589,target,2,0.25
+Eliisa,rikki3224,actual,2,0.25
+Eliisa,"tippu, tippuu1590",target,2,0.25
+Eliisa,"tippu, tippuu1591",target,2,0.25
+Eliisa,"tippu, tippuu3225",actual,2,0.25
+Eliisa,"tippu, tippuu3226",actual,2,0.25
+Eliisa,tyttö1592,target,2,0.25
+Eliisa,tyttö1593,target,2,0.25
+Eliisa,tyttö1594,target,2,0.25
+Eliisa,tyttö1595,target,2,0.25
+Eliisa,tyttö1596,target,2,0.25
+Eliisa,tyttö1597,target,2,0.25
+Eliisa,tyttö1598,target,2,0.25
+Eliisa,tyttö1599,target,2,0.25
+Eliisa,tyttö1600,target,2,0.25
+Eliisa,tyttö1601,target,2,0.25
+Eliisa,tyttö1602,target,2,0.25
+Eliisa,tyttö3145,actual,2,0.25
+Eliisa,tyttö3227,actual,2,0.25
+Eliisa,tyttö3228,actual,2,0.25
+Eliisa,tyttö3229,actual,2,0.25
+Eliisa,tyttö3230,actual,2,0.25
+Eliisa,tyttö3231,actual,2,0.25
+Eliisa,tyttö3232,actual,2,0.25
+Eliisa,tyttö3233,actual,2,0.25
+Eliisa,tyttö3234,actual,2,0.25
+Eliisa,tyttö3235,actual,2,0.25
+Eliisa,tyttö3236,actual,2,0.25
+Eliisa,vettä1603,target,1,0.25
+Eliisa,vettä2149,actual,2,0.25
 Ella,Michelle102,target,1,0.25
 Ella,Michelle103,target,1,0.25
 Ella,Michelle104,target,1,0.25
 Ella,Michelle105,target,1,0.25
 Ella,Michelle106,target,1,0.25
 Ella,Michelle107,target,1,0.25
-Ella,Michelle1818,actual,6,0.25
-Ella,Michelle1819,actual,2,0.25
-Ella,Michelle1820,actual,2,0.25
-Ella,Michelle1821,actual,1,0.25
-Ella,Michelle3189,actual,1,0.25
-Ella,apple1054,target,2,0.25
-Ella,apple2791,actual,1,0.25
-Ella,baby2012,actual,10,0.25
-Ella,baby2013,actual,8,0.25
-Ella,baby2014,actual,3,0.25
-Ella,baby2015,actual,10,0.25
-Ella,baby2016,actual,8,0.25
-Ella,baby2652,actual,5,0.25
+Ella,Michelle1794,actual,6,0.25
+Ella,Michelle1795,actual,2,0.25
+Ella,Michelle1796,actual,2,0.25
+Ella,Michelle1797,actual,1,0.25
+Ella,Michelle3143,actual,1,0.25
+Ella,apple1045,target,2,0.25
+Ella,apple2755,actual,1,0.25
+Ella,baby1982,actual,10,0.25
+Ella,baby1983,actual,8,0.25
+Ella,baby1984,actual,3,0.25
+Ella,baby1985,actual,10,0.25
+Ella,baby1986,actual,8,0.25
+Ella,baby2617,actual,5,0.25
 Ella,baby56,target,3,0.25
 Ella,baby57,target,3,0.25
 Ella,baby58,target,3,0.25
@@ -1027,18 +1027,18 @@ Ella,baby59,target,3,0.25
 Ella,baby60,target,3,0.25
 Ella,baby61,target,3,0.25
 Ella,beep beep62,target,1,0.25
-Ella,bottle2017,actual,11,0.25
-Ella,bottle2018,actual,4,0.25
-Ella,bottle2019,actual,11,0.25
-Ella,bottle2020,actual,5,0.25
-Ella,bottle2021,actual,7,0.25
-Ella,bottle2022,actual,7,0.25
-Ella,bottle2023,actual,4,0.25
-Ella,bottle2024,actual,10,0.25
-Ella,bottle2025,actual,11,0.25
-Ella,bottle2026,actual,6,0.25
-Ella,bottle2027,actual,3,0.25
-Ella,bottle2028,actual,11,0.25
+Ella,bottle1987,actual,11,0.25
+Ella,bottle1988,actual,4,0.25
+Ella,bottle1989,actual,11,0.25
+Ella,bottle1990,actual,5,0.25
+Ella,bottle1991,actual,7,0.25
+Ella,bottle1992,actual,7,0.25
+Ella,bottle1993,actual,4,0.25
+Ella,bottle1994,actual,10,0.25
+Ella,bottle1995,actual,11,0.25
+Ella,bottle1996,actual,6,0.25
+Ella,bottle1997,actual,3,0.25
+Ella,bottle1998,actual,11,0.25
 Ella,bottle63,target,2,0.25
 Ella,bottle64,target,2,0.25
 Ella,bottle65,target,2,0.25
@@ -1051,13 +1051,13 @@ Ella,bottle71,target,2,0.25
 Ella,bottle72,target,2,0.25
 Ella,bottle73,target,2,0.25
 Ella,bottle74,target,2,0.25
-Ella,byebye2029,actual,8,0.25
-Ella,byebye2030,actual,5,0.25
-Ella,byebye2031,actual,5,0.25
-Ella,byebye2032,actual,6,0.25
-Ella,byebye2033,actual,5,0.25
-Ella,byebye2035,actual,5,0.25
-Ella,byebye2653,actual,1,0.25
+Ella,byebye1999,actual,8,0.25
+Ella,byebye2000,actual,5,0.25
+Ella,byebye2001,actual,5,0.25
+Ella,byebye2002,actual,6,0.25
+Ella,byebye2003,actual,5,0.25
+Ella,byebye2005,actual,5,0.25
+Ella,byebye2618,actual,1,0.25
 Ella,byebye75,target,3,0.25
 Ella,byebye76,target,3,0.25
 Ella,byebye77,target,3,0.25
@@ -1067,14 +1067,14 @@ Ella,byebye80,target,3,0.25
 Ella,byebye81,target,3,0.25
 Ella,byebye82,target,3,0.25
 Ella,byebye83,target,3,0.25
-Ella,cuddle2792,actual,5,0.25
-Ella,daddy2036,actual,1,0.25
-Ella,glasses2037,actual,1,0.25
-Ella,glasses2793,actual,3,0.25
-Ella,glasses2794,actual,2,0.25
-Ella,glasses3118,actual,2,0.25
-Ella,glasses3119,actual,4,0.25
-Ella,glasses3120,actual,1,0.25
+Ella,cuddle2756,actual,5,0.25
+Ella,daddy2006,actual,1,0.25
+Ella,glasses2007,actual,1,0.25
+Ella,glasses2757,actual,3,0.25
+Ella,glasses2758,actual,2,0.25
+Ella,glasses3072,actual,2,0.25
+Ella,glasses3073,actual,4,0.25
+Ella,glasses3074,actual,1,0.25
 Ella,glasses86,target,1,0.25
 Ella,glasses87,target,1,0.25
 Ella,glasses88,target,1,0.25
@@ -1084,13 +1084,13 @@ Ella,glasses91,target,1,0.25
 Ella,glasses92,target,1,0.25
 Ella,horsey100,target,1,0.25
 Ella,horsey101,target,1,0.25
-Ella,horsey2795,actual,14,0.25
-Ella,horsey2796,actual,4,0.25
-Ella,horsey2797,actual,1,0.25
-Ella,horsey2798,actual,4,0.25
-Ella,horsey2799,actual,14,0.25
-Ella,horsey2800,actual,14,0.25
-Ella,horsey2801,actual,4,0.25
+Ella,horsey2759,actual,14,0.25
+Ella,horsey2760,actual,4,0.25
+Ella,horsey2761,actual,1,0.25
+Ella,horsey2762,actual,4,0.25
+Ella,horsey2763,actual,14,0.25
+Ella,horsey2764,actual,14,0.25
+Ella,horsey2765,actual,4,0.25
 Ella,horsey93,target,1,0.25
 Ella,horsey94,target,1,0.25
 Ella,horsey95,target,1,0.25
@@ -1103,126 +1103,126 @@ Ella,mummy109,target,1,0.25
 Ella,mummy110,target,1,0.25
 Ella,mummy111,target,1,0.25
 Ella,mummy112,target,1,0.25
-Ella,mummy2038,actual,4,0.25
-Ella,mummy2039,actual,3,0.25
-Ella,mummy2040,actual,5,0.25
-Ella,mummy2041,actual,4,0.25
-Ella,mummy2042,actual,4,0.25
-Ella,open1055,target,1,0.25
-Ella,open2802,actual,3,0.25
+Ella,mummy2008,actual,4,0.25
+Ella,mummy2009,actual,3,0.25
+Ella,mummy2010,actual,5,0.25
+Ella,mummy2011,actual,4,0.25
+Ella,mummy2012,actual,4,0.25
+Ella,open1046,target,1,0.25
+Ella,open2766,actual,3,0.25
 Ella,pap pap113,target,1,0.25
 Ella,pap pap114,target,1,0.25
-Ella,pap pap2044,actual,2,0.25
+Ella,pap pap2014,actual,2,0.25
 Ella,piggie115,target,2,0.25
 Ella,piggie116,target,2,0.25
 Ella,piggie117,target,2,0.25
 Ella,piggie118,target,2,0.25
 Ella,piggie119,target,2,0.25
-Ella,piggie2045,actual,6,0.25
-Ella,piggie2046,actual,8,0.25
-Ella,piggie2047,actual,4,0.25
-Ella,piggie2048,actual,6,0.25
-Ella,piggie2049,actual,6,0.25
+Ella,piggie2015,actual,6,0.25
+Ella,piggie2016,actual,8,0.25
+Ella,piggie2017,actual,4,0.25
+Ella,piggie2018,actual,6,0.25
+Ella,piggie2019,actual,6,0.25
 Ella,rattle120,target,3,0.25
 Ella,rattle121,target,3,0.25
 Ella,rattle122,target,3,0.25
-Ella,woof woof1366,target,1,0.25
-Ella,woof woof1367,target,1,0.25
-Ella,woof woof1368,target,1,0.25
-Ella,woof woof1369,target,1,0.25
-Ella,woof woof2803,actual,2,0.25
-Ella,woof woof3122,actual,2,0.25
-Ella,woof woof3124,actual,1,0.25
-Ella,woof woof3625,actual,2,0.25
-Fflur,afal3070,actual,1,0.25
-Fflur,bwni2593,actual,3,0.25
-Fflur,bwni2594,actual,8,0.25
-Fflur,bwni2595,actual,4,0.25
-Fflur,bwni2596,actual,2,0.25
-Fflur,bwni2597,actual,8,0.25
-Fflur,bwni3474,actual,4,0.25
-Fflur,bwni3475,actual,4,0.25
-Fflur,bwni3476,actual,4,0.25
-Fflur,bwni3477,actual,4,0.25
-Fflur,bwni3478,actual,4,0.25
-Fflur,bwni3479,actual,4,0.25
+Ella,woof woof1344,target,1,0.25
+Ella,woof woof1345,target,1,0.25
+Ella,woof woof1346,target,1,0.25
+Ella,woof woof1347,target,1,0.25
+Ella,woof woof2767,actual,2,0.25
+Ella,woof woof3076,actual,2,0.25
+Ella,woof woof3078,actual,1,0.25
+Ella,woof woof3577,actual,2,0.25
+Fflur,afal3024,actual,1,0.25
+Fflur,bwni2558,actual,3,0.25
+Fflur,bwni2559,actual,8,0.25
+Fflur,bwni2560,actual,4,0.25
+Fflur,bwni2561,actual,2,0.25
+Fflur,bwni2562,actual,8,0.25
+Fflur,bwni3428,actual,4,0.25
+Fflur,bwni3429,actual,4,0.25
+Fflur,bwni3430,actual,4,0.25
+Fflur,bwni3431,actual,4,0.25
+Fflur,bwni3432,actual,4,0.25
+Fflur,bwni3433,actual,4,0.25
+Fflur,bwni933,target,3,0.25
+Fflur,bwni934,target,3,0.25
+Fflur,bwni935,target,3,0.25
+Fflur,bwni936,target,3,0.25
+Fflur,bwni937,target,3,0.25
+Fflur,bwni938,target,3,0.25
+Fflur,bwni939,target,3,0.25
+Fflur,bwni940,target,3,0.25
+Fflur,bwni941,target,3,0.25
 Fflur,bwni942,target,3,0.25
 Fflur,bwni943,target,3,0.25
-Fflur,bwni944,target,3,0.25
-Fflur,bwni945,target,3,0.25
-Fflur,bwni946,target,3,0.25
-Fflur,bwni947,target,3,0.25
-Fflur,bwni948,target,3,0.25
-Fflur,bwni949,target,3,0.25
-Fflur,bwni950,target,3,0.25
-Fflur,bwni951,target,3,0.25
-Fflur,bwni952,target,3,0.25
-Fflur,cwaccwac2598,actual,1,0.25
-Fflur,eto1337,target,1,0.25
-Fflur,eto1338,target,1,0.25
-Fflur,eto1339,target,1,0.25
-Fflur,eto1977,actual,3,0.25
-Fflur,eto2599,actual,3,0.25
-Fflur,eto2600,actual,1,0.25
-Fflur,fanna1980,actual,2,0.25
-Fflur,fanna1981,actual,3,0.25
-Fflur,fanna956,target,4,0.25
-Fflur,fanna957,target,4,0.25
-Fflur,fan’cw954,target,3,0.25
-Fflur,fan’cw955,target,3,0.25
-Fflur,fyna3480,actual,4,0.25
-Fflur,fyna3481,actual,1,0.25
-Fflur,fyna3482,actual,1,0.25
-Fflur,fyna958,target,4,0.25
-Fflur,fyna959,target,4,0.25
-Fflur,fyna960,target,4,0.25
-Fflur,hwnna2601,actual,3,0.25
-Fflur,hwnna2602,actual,7,0.25
-Fflur,hwnna3483,actual,4,0.25
-Fflur,hwnna961,target,3,0.25
-Fflur,hwnna962,target,3,0.25
-Fflur,hwnna963,target,3,0.25
-Fflur,moron2603,actual,3,0.25
-Fflur,moron2604,actual,1,0.25
-Fflur,moron2605,actual,2,0.25
-Fflur,moron2606,actual,1,0.25
-Fflur,moron2608,actual,3,0.25
-Fflur,moron964,target,1,0.25
-Fflur,moron965,target,1,0.25
-Fflur,moron966,target,1,0.25
-Fflur,moron967,target,1,0.25
-Fflur,moron968,target,1,0.25
-Fflur,moron969,target,1,0.25
-Fflur,moron970,target,1,0.25
-Fflur,mwnci2609,actual,1,0.25
-Fflur,mwnci3484,actual,4,0.25
-Fflur,mwnci971,target,2,0.25
-Fflur,mwnci972,target,2,0.25
-Fflur,mwnci973,target,2,0.25
-Fflur,syrthio1472,target,1,0.25
-Fflur,syrthio1473,target,1,0.25
-Fflur,syrthio1474,target,1,0.25
-Fflur,syrthio1475,target,1,0.25
-Fflur,syrthio2610,actual,6,0.25
-Fflur,syrthio2611,actual,6,0.25
-Fflur,syrthio3486,actual,2,0.25
+Fflur,cwaccwac2563,actual,1,0.25
+Fflur,eto1315,target,1,0.25
+Fflur,eto1316,target,1,0.25
+Fflur,eto1317,target,1,0.25
+Fflur,eto1947,actual,3,0.25
+Fflur,eto2564,actual,3,0.25
+Fflur,eto2565,actual,1,0.25
+Fflur,fanna1950,actual,2,0.25
+Fflur,fanna1951,actual,3,0.25
+Fflur,fanna947,target,4,0.25
+Fflur,fanna948,target,4,0.25
+Fflur,fan’cw945,target,3,0.25
+Fflur,fan’cw946,target,3,0.25
+Fflur,fyna3434,actual,4,0.25
+Fflur,fyna3435,actual,1,0.25
+Fflur,fyna3436,actual,1,0.25
+Fflur,fyna949,target,4,0.25
+Fflur,fyna950,target,4,0.25
+Fflur,fyna951,target,4,0.25
+Fflur,hwnna2566,actual,3,0.25
+Fflur,hwnna2567,actual,7,0.25
+Fflur,hwnna3437,actual,4,0.25
+Fflur,hwnna952,target,3,0.25
+Fflur,hwnna953,target,3,0.25
+Fflur,hwnna954,target,3,0.25
+Fflur,moron2568,actual,3,0.25
+Fflur,moron2569,actual,1,0.25
+Fflur,moron2570,actual,2,0.25
+Fflur,moron2571,actual,1,0.25
+Fflur,moron2573,actual,3,0.25
+Fflur,moron955,target,1,0.25
+Fflur,moron956,target,1,0.25
+Fflur,moron957,target,1,0.25
+Fflur,moron958,target,1,0.25
+Fflur,moron959,target,1,0.25
+Fflur,moron960,target,1,0.25
+Fflur,moron961,target,1,0.25
+Fflur,mwnci2574,actual,1,0.25
+Fflur,mwnci3438,actual,4,0.25
+Fflur,mwnci962,target,2,0.25
+Fflur,mwnci963,target,2,0.25
+Fflur,mwnci964,target,2,0.25
+Fflur,syrthio1450,target,1,0.25
+Fflur,syrthio1451,target,1,0.25
+Fflur,syrthio1452,target,1,0.25
+Fflur,syrthio1453,target,1,0.25
+Fflur,syrthio2575,actual,6,0.25
+Fflur,syrthio2576,actual,6,0.25
+Fflur,syrthio3440,actual,2,0.25
 Gaël,ballon1,target,1,0.25
 Gaël,bébé10,target,2,0.25
 Gaël,bébé11,target,2,0.25
 Gaël,bébé12,target,2,0.25
 Gaël,bébé13,target,2,0.25
-Gaël,bébé1988,actual,3,0.25
-Gaël,bébé1989,actual,3,0.25
-Gaël,bébé1990,actual,3,0.25
-Gaël,bébé1991,actual,3,0.25
-Gaël,bébé1992,actual,3,0.25
-Gaël,bébé1993,actual,3,0.25
-Gaël,bébé1994,actual,3,0.25
-Gaël,bébé1995,actual,3,0.25
-Gaël,bébé1996,actual,3,0.25
-Gaël,bébé1997,actual,3,0.25
-Gaël,bébé1998,actual,3,0.25
-Gaël,bébé1999,actual,3,0.25
+Gaël,bébé1958,actual,3,0.25
+Gaël,bébé1959,actual,3,0.25
+Gaël,bébé1960,actual,3,0.25
+Gaël,bébé1961,actual,3,0.25
+Gaël,bébé1962,actual,3,0.25
+Gaël,bébé1963,actual,3,0.25
+Gaël,bébé1964,actual,3,0.25
+Gaël,bébé1965,actual,3,0.25
+Gaël,bébé1966,actual,3,0.25
+Gaël,bébé1967,actual,3,0.25
+Gaël,bébé1968,actual,3,0.25
+Gaël,bébé1969,actual,3,0.25
 Gaël,bébé2,target,2,0.25
 Gaël,bébé3,target,2,0.25
 Gaël,bébé4,target,2,0.25
@@ -1237,76 +1237,76 @@ Gaël,c'est ça16,target,2,0.25
 Gaël,c'est ça17,target,2,0.25
 Gaël,c'est ça18,target,2,0.25
 Gaël,c'est ça19,target,2,0.25
+Gaël,c'est ça1970,actual,6,0.25
 Gaël,c'est ça20,target,2,0.25
-Gaël,c'est ça2000,actual,6,0.25
 Gaël,c'est ça21,target,2,0.25
 Gaël,c'est ça22,target,2,0.25
 Gaël,c'est ça23,target,2,0.25
 Gaël,c'est ça24,target,2,0.25
 Gaël,c'est ça25,target,2,0.25
 Gaël,c'est ça26,target,2,0.25
+Gaël,c'est ça2668,actual,1,0.25
 Gaël,c'est ça27,target,2,0.25
-Gaël,c'est ça2703,actual,1,0.25
-Gaël,c'est ça2754,actual,8,0.25
-Gaël,c'est ça2755,actual,8,0.25
-Gaël,c'est ça2756,actual,8,0.25
-Gaël,c'est ça2757,actual,8,0.25
-Gaël,c'est ça2758,actual,8,0.25
-Gaël,c'est ça2759,actual,8,0.25
-Gaël,c'est ça2760,actual,8,0.25
-Gaël,c'est ça2761,actual,8,0.25
-Gaël,c'est ça2762,actual,8,0.25
-Gaël,c'est ça2763,actual,8,0.25
-Gaël,c'est ça2764,actual,8,0.25
-Gaël,c'est ça2765,actual,8,0.25
-Gaël,c'est ça2766,actual,8,0.25
-Gaël,c'est ça2767,actual,8,0.25
-Gaël,c'est ça2768,actual,8,0.25
-Gaël,c'est ça2769,actual,8,0.25
-Gaël,c'est ça2770,actual,8,0.25
-Gaël,c'est ça2771,actual,8,0.25
+Gaël,c'est ça2718,actual,8,0.25
+Gaël,c'est ça2719,actual,8,0.25
+Gaël,c'est ça2720,actual,8,0.25
+Gaël,c'est ça2721,actual,8,0.25
+Gaël,c'est ça2722,actual,8,0.25
+Gaël,c'est ça2723,actual,8,0.25
+Gaël,c'est ça2724,actual,8,0.25
+Gaël,c'est ça2725,actual,8,0.25
+Gaël,c'est ça2726,actual,8,0.25
+Gaël,c'est ça2727,actual,8,0.25
+Gaël,c'est ça2728,actual,8,0.25
+Gaël,c'est ça2729,actual,8,0.25
+Gaël,c'est ça2730,actual,8,0.25
+Gaël,c'est ça2731,actual,8,0.25
+Gaël,c'est ça2732,actual,8,0.25
+Gaël,c'est ça2733,actual,8,0.25
+Gaël,c'est ça2734,actual,8,0.25
+Gaël,c'est ça2735,actual,8,0.25
 Gaël,c'est ça28,target,2,0.25
 Gaël,c'est ça29,target,2,0.25
 Gaël,c'est ça30,target,2,0.25
 Gaël,c'est ça31,target,2,0.25
 Gaël,c'est ça32,target,2,0.25
 Gaël,c'est ça33,target,2,0.25
-Gaël,casser2001,actual,6,0.25
-Gaël,casser2772,actual,8,0.25
+Gaël,casser1971,actual,6,0.25
+Gaël,casser2736,actual,8,0.25
 Gaël,casser34,target,1,0.25
 Gaël,casser35,target,1,0.25
-Gaël,chercher1362,target,2,0.25
-Gaël,chercher1363,target,2,0.25
-Gaël,chercher1364,target,2,0.25
-Gaël,chercher2002,actual,6,0.25
-Gaël,chercher2773,actual,7,0.25
-Gaël,chercher2774,actual,8,0.25
-Gaël,dedans2775,actual,6,0.25
+Gaël,chercher1340,target,2,0.25
+Gaël,chercher1341,target,2,0.25
+Gaël,chercher1342,target,2,0.25
+Gaël,chercher1972,actual,6,0.25
+Gaël,chercher2737,actual,7,0.25
+Gaël,chercher2738,actual,8,0.25
+Gaël,dedans2739,actual,6,0.25
 Gaël,dedans36,target,1,0.25
-Gaël,dodo2003,actual,5,0.25
+Gaël,dodo1973,actual,5,0.25
 Gaël,dodo37,target,1,0.25
-Gaël,dormir1811,actual,5,0.25
-Gaël,grelot2778,actual,4,0.25
+Gaël,dormir1787,actual,5,0.25
+Gaël,grelot2742,actual,4,0.25
 Gaël,grelot38,target,1,0.25
-Gaël,ici1046,target,3,0.25
-Gaël,ici1047,target,3,0.25
-Gaël,ici2704,actual,1,0.25
-Gaël,ici2779,actual,8,0.25
-Gaël,là bas2780,actual,8,0.25
-Gaël,là bas2781,actual,8,0.25
+Gaël,ici1037,target,3,0.25
+Gaël,ici1038,target,3,0.25
+Gaël,ici2669,actual,1,0.25
+Gaël,ici2743,actual,8,0.25
+Gaël,là bas2744,actual,8,0.25
+Gaël,là bas2745,actual,8,0.25
 Gaël,là bas39,target,1,0.25
 Gaël,là bas40,target,1,0.25
-Gaël,machine1812,actual,3,0.25
-Gaël,machine2782,actual,7,0.25
+Gaël,machine1788,actual,3,0.25
+Gaël,machine2746,actual,7,0.25
 Gaël,machine41,target,1,0.25
 Gaël,machine42,target,1,0.25
-Gaël,maman1813,actual,4,0.25
-Gaël,maman1814,actual,4,0.25
-Gaël,maman2004,actual,2,0.25
-Gaël,maman2005,actual,2,0.25
-Gaël,maman2006,actual,2,0.25
-Gaël,maman2007,actual,2,0.25
-Gaël,maman2783,actual,4,0.25
+Gaël,maman1789,actual,4,0.25
+Gaël,maman1790,actual,4,0.25
+Gaël,maman1974,actual,2,0.25
+Gaël,maman1975,actual,2,0.25
+Gaël,maman1976,actual,2,0.25
+Gaël,maman1977,actual,2,0.25
+Gaël,maman2747,actual,4,0.25
 Gaël,maman43,target,1,0.25
 Gaël,maman44,target,1,0.25
 Gaël,maman45,target,1,0.25
@@ -1314,333 +1314,285 @@ Gaël,maman46,target,1,0.25
 Gaël,maman47,target,1,0.25
 Gaël,maman48,target,1,0.25
 Gaël,maman49,target,1,0.25
-Gaël,ouvrir1048,target,2,0.25
-Gaël,ouvrir1049,target,2,0.25
-Gaël,ouvrir1050,target,2,0.25
-Gaël,ouvrir1051,target,2,0.25
-Gaël,ouvrir1052,target,2,0.25
-Gaël,ouvrir1053,target,2,0.25
-Gaël,ouvrir2784,actual,3,0.25
-Gaël,ouvrir2785,actual,3,0.25
-Gaël,ouvrir2786,actual,1,0.25
-Gaël,ouvrir2787,actual,1,0.25
-Gaël,ouvrir2788,actual,1,0.25
-Gaël,ouvrir2789,actual,1,0.25
-Gaël,ouvrir3621,actual,1,0.25
-Gaël,ouvrir3622,actual,1,0.25
-Gaël,ouvrir3623,actual,1,0.25
-Gaël,papa2008,actual,2,0.25
-Gaël,papa2790,actual,1,0.25
+Gaël,ouvrir1039,target,2,0.25
+Gaël,ouvrir1040,target,2,0.25
+Gaël,ouvrir1041,target,2,0.25
+Gaël,ouvrir1042,target,2,0.25
+Gaël,ouvrir1043,target,2,0.25
+Gaël,ouvrir1044,target,2,0.25
+Gaël,ouvrir2748,actual,3,0.25
+Gaël,ouvrir2749,actual,3,0.25
+Gaël,ouvrir2750,actual,1,0.25
+Gaël,ouvrir2751,actual,1,0.25
+Gaël,ouvrir2752,actual,1,0.25
+Gaël,ouvrir2753,actual,1,0.25
+Gaël,ouvrir3573,actual,1,0.25
+Gaël,ouvrir3574,actual,1,0.25
+Gaël,ouvrir3575,actual,1,0.25
+Gaël,papa1978,actual,2,0.25
+Gaël,papa2754,actual,1,0.25
 Gaël,papa50,target,2,0.25
 Gaël,papa51,target,2,0.25
 Gaël,papa52,target,2,0.25
-Gaël,tout seul2009,actual,5,0.25
-Gaël,voiture2010,actual,6,0.25
-Gaël,voiture2011,actual,6,0.25
+Gaël,tout seul1979,actual,5,0.25
+Gaël,voiture1980,actual,6,0.25
+Gaël,voiture1981,actual,6,0.25
 Gaël,voiture54,target,1,0.25
 Gaël,voiture55,target,1,0.25
-Gaël,écrit1044,target,1,0.25
-Gaël,écrit1045,target,1,0.25
-Gaël,écrit2776,actual,3,0.25
-Gaël,écrit2777,actual,3,0.25
-Gwyn,Bwgan2561,actual,1,0.25
-Gwyn,Bwgan888,target,2,0.25
-Gwyn,Bwgan889,target,2,0.25
-Gwyn,Guto2568,actual,1,0.25
-Gwyn,Guto902,target,4,0.25
-Gwyn,Lucy1972,actual,5,0.25
-Gwyn,Lucy1973,actual,5,0.25
-Gwyn,Lucy910,target,5,0.25
-Gwyn,Lucy911,target,5,0.25
-Gwyn,Noa1974,actual,4,0.25
-Gwyn,Noa920,target,3,0.25
-Gwyn,adar1330,target,2,0.25
-Gwyn,adar1331,target,2,0.25
-Gwyn,adar2557,actual,5,0.25
-Gwyn,adar2558,actual,5,0.25
-Gwyn,babi3455,actual,2,0.25
-Gwyn,babi3456,actual,2,0.25
-Gwyn,babi3457,actual,2,0.25
-Gwyn,babi3458,actual,2,0.25
-Gwyn,babi876,target,3,0.25
-Gwyn,babi877,target,3,0.25
-Gwyn,babi878,target,3,0.25
-Gwyn,babi879,target,3,0.25
-Gwyn,blodau3175,actual,2,0.25
-Gwyn,blodau3459,actual,2,0.25
-Gwyn,blodau3460,actual,2,0.25
-Gwyn,blodau3461,actual,2,0.25
-Gwyn,blodau3462,actual,2,0.25
-Gwyn,blodau3463,actual,2,0.25
-Gwyn,blodau3464,actual,2,0.25
-Gwyn,blodau880,target,1,0.25
-Gwyn,blodau881,target,1,0.25
-Gwyn,blodau882,target,1,0.25
-Gwyn,blodau883,target,1,0.25
-Gwyn,blodau884,target,1,0.25
-Gwyn,blodau885,target,1,0.25
-Gwyn,blodau886,target,1,0.25
-Gwyn,blodau887,target,1,0.25
-Gwyn,cadw3465,actual,1,0.25
-Gwyn,cadw890,target,3,0.25
-Gwyn,cwaccwac2562,actual,10,0.25
-Gwyn,cwaccwac3466,actual,2,0.25
-Gwyn,cwaccwac3489,actual,2,0.25
-Gwyn,cwaccwac891,target,1,0.25
-Gwyn,cwaccwac892,target,1,0.25
-Gwyn,cwaccwac893,target,1,0.25
-Gwyn,"dau, tri2563",actual,5,0.25
-Gwyn,"dau, tri2564",actual,5,0.25
-Gwyn,"dau, tri2565",actual,5,0.25
-Gwyn,"dau, tri2566",actual,5,0.25
-Gwyn,"dau, tri894",target,2,0.25
-Gwyn,"dau, tri895",target,2,0.25
-Gwyn,"dau, tri896",target,2,0.25
-Gwyn,"dau, tri897",target,2,0.25
-Gwyn,"dau, tri898",target,2,0.25
-Gwyn,eh-oh1810,target,5,0.25
-Gwyn,giraffe2567,actual,5,0.25
-Gwyn,giraffe899,target,1,0.25
-Gwyn,giraffe900,target,1,0.25
-Gwyn,giraffe901,target,1,0.25
-Gwyn,helo2569,actual,5,0.25
-Gwyn,helo2570,actual,5,0.25
-Gwyn,helo2571,actual,5,0.25
-Gwyn,helo2572,actual,5,0.25
-Gwyn,helo903,target,3,0.25
-Gwyn,helo904,target,3,0.25
-Gwyn,helo905,target,3,0.25
-Gwyn,helo906,target,3,0.25
-Gwyn,lala3468,actual,1,0.25
-Gwyn,lala3490,actual,2,0.25
-Gwyn,lala907,target,5,0.25
-Gwyn,lala908,target,5,0.25
-Gwyn,lala909,target,5,0.25
-Gwyn,mwnci2573,actual,2,0.25
-Gwyn,mwnci2574,actual,3,0.25
-Gwyn,mwnci2575,actual,4,0.25
-Gwyn,mwnci2576,actual,2,0.25
-Gwyn,mwnci2577,actual,1,0.25
-Gwyn,mwnci2578,actual,2,0.25
-Gwyn,mwnci3469,actual,10,0.25
-Gwyn,mwnci3470,actual,1,0.25
-Gwyn,mwnci912,target,1,0.25
-Gwyn,mwnci913,target,1,0.25
-Gwyn,mwnci914,target,1,0.25
-Gwyn,mwnci915,target,1,0.25
-Gwyn,mwnci916,target,1,0.25
-Gwyn,mwnci917,target,1,0.25
-Gwyn,mwnci918,target,1,0.25
-Gwyn,mwnci919,target,1,0.25
-Gwyn,tedi3471,actual,1,0.25
-Gwyn,tedi922,target,4,0.25
-Haruo,I want it2328,actual,6,0.25
-Haruo,I want it2329,actual,4,0.25
-Haruo,I want it493,target,4,0.25
-Haruo,I want it494,target,4,0.25
-Haruo,all gone2335,actual,14,0.25
-Haruo,all gone2336,actual,5,0.25
-Haruo,all gone2337,actual,5,0.25
-Haruo,all gone2338,actual,14,0.25
-Haruo,all gone2339,actual,20,0.25
-Haruo,all gone2340,actual,14,0.25
-Haruo,all gone2341,actual,14,0.25
-Haruo,all gone2342,actual,14,0.25
-Haruo,all gone2343,actual,5,0.25
-Haruo,all gone2344,actual,14,0.25
-Haruo,all gone2683,actual,3,0.25
+Gaël,écrit1035,target,1,0.25
+Gaël,écrit1036,target,1,0.25
+Gaël,écrit2740,actual,3,0.25
+Gaël,écrit2741,actual,3,0.25
+Gwyn,Bwgan2526,actual,1,0.25
+Gwyn,Bwgan879,target,2,0.25
+Gwyn,Bwgan880,target,2,0.25
+Gwyn,Guto2533,actual,1,0.25
+Gwyn,Guto893,target,4,0.25
+Gwyn,Lucy1942,actual,5,0.25
+Gwyn,Lucy1943,actual,5,0.25
+Gwyn,Lucy901,target,5,0.25
+Gwyn,Lucy902,target,5,0.25
+Gwyn,Noa1944,actual,4,0.25
+Gwyn,Noa911,target,3,0.25
+Gwyn,adar1308,target,2,0.25
+Gwyn,adar1309,target,2,0.25
+Gwyn,adar2522,actual,5,0.25
+Gwyn,adar2523,actual,5,0.25
+Gwyn,babi3409,actual,2,0.25
+Gwyn,babi3410,actual,2,0.25
+Gwyn,babi3411,actual,2,0.25
+Gwyn,babi3412,actual,2,0.25
+Gwyn,babi867,target,3,0.25
+Gwyn,babi868,target,3,0.25
+Gwyn,babi869,target,3,0.25
+Gwyn,babi870,target,3,0.25
+Gwyn,blodau3129,actual,2,0.25
+Gwyn,blodau3413,actual,2,0.25
+Gwyn,blodau3414,actual,2,0.25
+Gwyn,blodau3415,actual,2,0.25
+Gwyn,blodau3416,actual,2,0.25
+Gwyn,blodau3417,actual,2,0.25
+Gwyn,blodau3418,actual,2,0.25
+Gwyn,blodau871,target,1,0.25
+Gwyn,blodau872,target,1,0.25
+Gwyn,blodau873,target,1,0.25
+Gwyn,blodau874,target,1,0.25
+Gwyn,blodau875,target,1,0.25
+Gwyn,blodau876,target,1,0.25
+Gwyn,blodau877,target,1,0.25
+Gwyn,blodau878,target,1,0.25
+Gwyn,cadw3419,actual,1,0.25
+Gwyn,cadw881,target,3,0.25
+Gwyn,cwaccwac2527,actual,10,0.25
+Gwyn,cwaccwac3420,actual,2,0.25
+Gwyn,cwaccwac3443,actual,2,0.25
+Gwyn,cwaccwac882,target,1,0.25
+Gwyn,cwaccwac883,target,1,0.25
+Gwyn,cwaccwac884,target,1,0.25
+Gwyn,"dau, tri2528",actual,5,0.25
+Gwyn,"dau, tri2529",actual,5,0.25
+Gwyn,"dau, tri2530",actual,5,0.25
+Gwyn,"dau, tri2531",actual,5,0.25
+Gwyn,"dau, tri885",target,2,0.25
+Gwyn,"dau, tri886",target,2,0.25
+Gwyn,"dau, tri887",target,2,0.25
+Gwyn,"dau, tri888",target,2,0.25
+Gwyn,"dau, tri889",target,2,0.25
+Gwyn,eh-oh1786,target,5,0.25
+Gwyn,giraffe2532,actual,5,0.25
+Gwyn,giraffe890,target,1,0.25
+Gwyn,giraffe891,target,1,0.25
+Gwyn,giraffe892,target,1,0.25
+Gwyn,helo2534,actual,5,0.25
+Gwyn,helo2535,actual,5,0.25
+Gwyn,helo2536,actual,5,0.25
+Gwyn,helo2537,actual,5,0.25
+Gwyn,helo894,target,3,0.25
+Gwyn,helo895,target,3,0.25
+Gwyn,helo896,target,3,0.25
+Gwyn,helo897,target,3,0.25
+Gwyn,lala3422,actual,1,0.25
+Gwyn,lala3444,actual,2,0.25
+Gwyn,lala898,target,5,0.25
+Gwyn,lala899,target,5,0.25
+Gwyn,lala900,target,5,0.25
+Gwyn,mwnci2538,actual,2,0.25
+Gwyn,mwnci2539,actual,3,0.25
+Gwyn,mwnci2540,actual,4,0.25
+Gwyn,mwnci2541,actual,2,0.25
+Gwyn,mwnci2542,actual,1,0.25
+Gwyn,mwnci2543,actual,2,0.25
+Gwyn,mwnci3423,actual,10,0.25
+Gwyn,mwnci3424,actual,1,0.25
+Gwyn,mwnci903,target,1,0.25
+Gwyn,mwnci904,target,1,0.25
+Gwyn,mwnci905,target,1,0.25
+Gwyn,mwnci906,target,1,0.25
+Gwyn,mwnci907,target,1,0.25
+Gwyn,mwnci908,target,1,0.25
+Gwyn,mwnci909,target,1,0.25
+Gwyn,mwnci910,target,1,0.25
+Gwyn,tedi3425,actual,1,0.25
+Gwyn,tedi913,target,4,0.25
+Haruo,I want it2296,actual,3,0.25
+Haruo,I want it2297,actual,3,0.25
+Haruo,I want it493,target,3,0.25
+Haruo,I want it494,target,3,0.25
+Haruo,all gone2302,actual,11,0.25
+Haruo,all gone2303,actual,5,0.25
+Haruo,all gone2304,actual,5,0.25
+Haruo,all gone2305,actual,11,0.25
+Haruo,all gone2306,actual,15,0.25
+Haruo,all gone2307,actual,11,0.25
+Haruo,all gone2308,actual,11,0.25
+Haruo,all gone2309,actual,11,0.25
+Haruo,all gone2310,actual,5,0.25
+Haruo,all gone2311,actual,11,0.25
+Haruo,all gone2648,actual,2,0.25
+Haruo,all gone499,target,2,0.25
+Haruo,all gone500,target,2,0.25
+Haruo,all gone501,target,2,0.25
+Haruo,all gone502,target,2,0.25
+Haruo,all gone503,target,2,0.25
 Haruo,all gone504,target,2,0.25
 Haruo,all gone505,target,2,0.25
 Haruo,all gone506,target,2,0.25
 Haruo,all gone507,target,2,0.25
 Haruo,all gone508,target,2,0.25
 Haruo,all gone509,target,2,0.25
-Haruo,all gone510,target,2,0.25
-Haruo,all gone511,target,2,0.25
-Haruo,all gone512,target,2,0.25
-Haruo,all gone513,target,2,0.25
-Haruo,all gone514,target,2,0.25
-Haruo,baby3151,actual,5,0.25
+Haruo,baby3105,actual,5,0.25
 Haruo,baby476,target,2,0.25
-Haruo,byebye2309,actual,17,0.25
-Haruo,byebye2310,actual,17,0.25
-Haruo,byebye2311,actual,8,0.25
+Haruo,byebye2277,actual,17,0.25
+Haruo,byebye2278,actual,17,0.25
+Haruo,byebye2279,actual,7,0.25
 Haruo,byebye473,target,2,0.25
 Haruo,byebye474,target,2,0.25
 Haruo,byebye475,target,2,0.25
-Haruo,car1889,actual,22,0.25
-Haruo,car2314,actual,16,0.25
-Haruo,car2315,actual,27,0.25
-Haruo,car2726,actual,26,0.25
-Haruo,car3371,actual,5,0.25
+Haruo,car1865,actual,18,0.25
+Haruo,car2282,actual,14,0.25
+Haruo,car2283,actual,19,0.25
+Haruo,car2691,actual,21,0.25
+Haruo,car3325,actual,5,0.25
 Haruo,car477,target,2,0.25
 Haruo,car478,target,2,0.25
 Haruo,car479,target,2,0.25
 Haruo,car480,target,2,0.25
 Haruo,car481,target,2,0.25
-Haruo,cheers1432,target,1,0.25
-Haruo,cheers1433,target,1,0.25
-Haruo,cheers2312,actual,20,0.25
-Haruo,cheers2313,actual,20,0.25
-Haruo,choochoo1729,target,2,0.25
-Haruo,choochoo1730,target,2,0.25
-Haruo,choochoo2346,actual,15,0.25
-Haruo,choochoo2347,actual,17,0.25
-Haruo,doggie2350,actual,1,0.25
-Haruo,don't1890,actual,15,0.25
+Haruo,cheers1410,target,1,0.25
+Haruo,cheers1411,target,1,0.25
+Haruo,cheers2280,actual,18,0.25
+Haruo,cheers2281,actual,18,0.25
+Haruo,choochoo1707,target,2,0.25
+Haruo,choochoo1708,target,2,0.25
+Haruo,choochoo2313,actual,15,0.25
+Haruo,choochoo2314,actual,17,0.25
+Haruo,doggie2315,actual,1,0.25
+Haruo,don't1866,actual,11,0.25
 Haruo,don't482,target,3,0.25
-Haruo,effort sound1896,actual,2,0.25
-Haruo,effort sound1897,actual,2,0.25
-Haruo,effort sound1898,actual,27,0.25
-Haruo,effort sound2330,actual,24,0.25
-Haruo,effort sound2727,actual,1,0.25
-Haruo,effort sound495,target,6,0.25
-Haruo,effort sound496,target,6,0.25
-Haruo,effort sound497,target,6,0.25
-Haruo,effort sound498,target,6,0.25
-Haruo,effort sound499,target,6,0.25
-Haruo,foot1201,target,7,0.25
-Haruo,foot1202,target,7,0.25
-Haruo,foot1203,target,7,0.25
-Haruo,foot2305,actual,23,0.25
-Haruo,foot2306,actual,26,0.25
-Haruo,foot3595,actual,4,0.25
-Haruo,hello1894,actual,22,0.25
-Haruo,hello492,target,3,0.25
-Haruo,"here it is, found it1806",target,3,0.25
-Haruo,"here it is, found it1807",target,3,0.25
-Haruo,"here it is, found it3596",actual,8,0.25
-Haruo,"here it is, found it3597",actual,8,0.25
-Haruo,here2331,actual,17,0.25
-Haruo,here2332,actual,19,0.25
-Haruo,here500,target,5,0.25
-Haruo,here501,target,5,0.25
-Haruo,hold me1724,target,3,0.25
-Haruo,hold me1725,target,3,0.25
-Haruo,hold me1726,target,3,0.25
-Haruo,hold me2317,actual,6,0.25
-Haruo,hold me3372,actual,7,0.25
-Haruo,hot1211,target,10,0.25
-Haruo,hot1212,target,10,0.25
-Haruo,hot1213,target,10,0.25
-Haruo,hot3598,actual,5,0.25
-Haruo,hot3599,actual,5,0.25
-Haruo,hot3600,actual,5,0.25
-Haruo,juice2323,actual,3,0.25
-Haruo,juice2324,actual,24,0.25
-Haruo,juice2325,actual,3,0.25
-Haruo,juice2326,actual,3,0.25
-Haruo,juice2327,actual,3,0.25
-Haruo,juice3374,actual,9,0.25
-Haruo,juice3375,actual,5,0.25
-Haruo,juice485,target,7,0.25
-Haruo,juice486,target,7,0.25
-Haruo,juice487,target,7,0.25
-Haruo,juice488,target,7,0.25
-Haruo,juice489,target,7,0.25
-Haruo,juice490,target,7,0.25
-Haruo,juice491,target,7,0.25
-Haruo,jump1435,target,1,0.25
-Haruo,jump1436,target,1,0.25
-Haruo,jump1437,target,1,0.25
-Haruo,jump1438,target,1,0.25
-Haruo,jump1439,target,1,0.25
-Haruo,jump1440,target,1,0.25
-Haruo,jump1891,actual,1,0.25
-Haruo,jump1892,actual,1,0.25
-Haruo,jump2321,actual,2,0.25
-Haruo,jump2322,actual,18,0.25
-Haruo,jump3373,actual,2,0.25
-Haruo,mummy2334,actual,8,0.25
-Haruo,mummy503,target,1,0.25
-Haruo,"no, don't want to1214",target,5,0.25
-Haruo,"no, don't want to1215",target,5,0.25
-Haruo,"no, don't want to1216",target,5,0.25
-Haruo,"no, don't want to1217",target,5,0.25
-Haruo,"no, don't want to1218",target,5,0.25
-Haruo,"no, don't want to1219",target,5,0.25
-Haruo,"no, don't want to1895",actual,26,0.25
-Haruo,"no, don't want to2949",actual,25,0.25
-Haruo,"no, don't want to2950",actual,25,0.25
-Haruo,"no, don't want to2951",actual,25,0.25
-Haruo,"no, don't want to2952",actual,25,0.25
-Haruo,"no, don't want to2953",actual,25,0.25
-Haruo,ouch1220,target,10,0.25
-Haruo,ouch1221,target,10,0.25
-Haruo,ouch1222,target,10,0.25
-Haruo,ouch1223,target,10,0.25
-Haruo,ouch1224,target,10,0.25
-Haruo,ouch2954,actual,27,0.25
-Haruo,ouch2955,actual,27,0.25
-Haruo,ouch2956,actual,27,0.25
-Haruo,ouch2957,actual,27,0.25
-Haruo,ouch3152,actual,6,0.25
-Haruo,please2319,actual,1,0.25
-Haruo,please483,target,6,0.25
-Haruo,rolling sound? lying down?1899,actual,2,0.25
-Haruo,rolling sound? lying down?1900,actual,2,0.25
-Haruo,rolling sound? lying down?519,target,2,0.25
-Haruo,rolling sound? lying down?520,target,2,0.25
-Haruo,shoes1727,target,3,0.25
-Haruo,shoes1728,target,3,0.25
-Haruo,shoes3376,actual,7,0.25
-Haruo,shoes3377,actual,7,0.25
-Haruo,stand up!2348,actual,19,0.25
-Haruo,stand up!2349,actual,7,0.25
-Haruo,stand up!516,target,7,0.25
-Haruo,stand up!517,target,7,0.25
-Haruo,take off clothes2345,actual,20,0.25
-Haruo,take off clothes515,target,1,0.25
-Haruo,telephone2318,actual,20,0.25
-Haruo,this2333,actual,15,0.25
-Haruo,this502,target,3,0.25
-Haruo,"what's up, this is odd'1204",target,8,0.25
-Haruo,"what's up, this is odd'1205",target,8,0.25
-Haruo,"what's up, this is odd'1206",target,8,0.25
-Haruo,"what's up, this is odd'1207",target,8,0.25
-Haruo,"what's up, this is odd'1208",target,8,0.25
-Haruo,"what's up, this is odd'1209",target,8,0.25
-Haruo,"what's up, this is odd'1210",target,8,0.25
-Haruo,"what's up, this is odd'2307",actual,24,0.25
-Haruo,"what's up, this is odd'2308",actual,11,0.25
-Haruo,"what's up, this is odd'2944",actual,17,0.25
-Haruo,"what's up, this is odd'2945",actual,25,0.25
-Haruo,"what's up, this is odd'2946",actual,17,0.25
-Haruo,"what's up, this is odd'2947",actual,17,0.25
-Haruo,"what's up, this is odd'2948",actual,17,0.25
-Haruo,where2320,actual,20,0.25
-Haruo,where484,target,6,0.25
-Hiromi,Barney1868,actual,6,0.25
+Haruo,foot1192,target,4,0.25
+Haruo,foot1193,target,4,0.25
+Haruo,foot1194,target,4,0.25
+Haruo,foot2275,actual,15,0.25
+Haruo,foot2276,actual,19,0.25
+Haruo,foot3549,actual,3,0.25
+Haruo,hello1870,actual,15,0.25
+Haruo,hello492,target,2,0.25
+Haruo,here2298,actual,15,0.25
+Haruo,here2299,actual,16,0.25
+Haruo,here495,target,4,0.25
+Haruo,here496,target,4,0.25
+Haruo,hold me1702,target,3,0.25
+Haruo,hold me1703,target,3,0.25
+Haruo,hold me1704,target,3,0.25
+Haruo,hold me2285,actual,4,0.25
+Haruo,hold me3326,actual,5,0.25
+Haruo,hot1195,target,5,0.25
+Haruo,hot1196,target,5,0.25
+Haruo,hot1197,target,5,0.25
+Haruo,hot3550,actual,4,0.25
+Haruo,hot3551,actual,4,0.25
+Haruo,hot3552,actual,4,0.25
+Haruo,juice2291,actual,2,0.25
+Haruo,juice2292,actual,21,0.25
+Haruo,juice2293,actual,2,0.25
+Haruo,juice2294,actual,2,0.25
+Haruo,juice2295,actual,2,0.25
+Haruo,juice3328,actual,6,0.25
+Haruo,juice3329,actual,3,0.25
+Haruo,juice485,target,5,0.25
+Haruo,juice486,target,5,0.25
+Haruo,juice487,target,5,0.25
+Haruo,juice488,target,5,0.25
+Haruo,juice489,target,5,0.25
+Haruo,juice490,target,5,0.25
+Haruo,juice491,target,5,0.25
+Haruo,jump1413,target,1,0.25
+Haruo,jump1414,target,1,0.25
+Haruo,jump1415,target,1,0.25
+Haruo,jump1416,target,1,0.25
+Haruo,jump1417,target,1,0.25
+Haruo,jump1418,target,1,0.25
+Haruo,jump1867,actual,1,0.25
+Haruo,jump1868,actual,1,0.25
+Haruo,jump2289,actual,2,0.25
+Haruo,jump2290,actual,16,0.25
+Haruo,jump3327,actual,2,0.25
+Haruo,mummy2301,actual,7,0.25
+Haruo,mummy498,target,1,0.25
+Haruo,ouch1198,target,5,0.25
+Haruo,ouch1199,target,5,0.25
+Haruo,ouch1200,target,5,0.25
+Haruo,ouch1201,target,5,0.25
+Haruo,ouch1202,target,5,0.25
+Haruo,ouch2908,actual,21,0.25
+Haruo,ouch2909,actual,21,0.25
+Haruo,ouch2910,actual,20,0.25
+Haruo,ouch2911,actual,20,0.25
+Haruo,ouch3106,actual,5,0.25
+Haruo,please2287,actual,1,0.25
+Haruo,please483,target,5,0.25
+Haruo,shoes1705,target,3,0.25
+Haruo,shoes1706,target,3,0.25
+Haruo,shoes3330,actual,7,0.25
+Haruo,shoes3331,actual,7,0.25
+Haruo,take off clothes2312,actual,15,0.25
+Haruo,take off clothes510,target,1,0.25
+Haruo,telephone2286,actual,18,0.25
+Haruo,this2300,actual,10,0.25
+Haruo,this497,target,2,0.25
+Haruo,where2288,actual,16,0.25
+Haruo,where484,target,5,0.25
+Hiromi,Barney1844,actual,6,0.25
 Hiromi,Barney367,target,1,0.25
-Hiromi,baby2209,actual,8,0.25
+Hiromi,baby2179,actual,8,0.25
 Hiromi,baby368,target,3,0.25
-Hiromi,ball1869,actual,6,0.25
-Hiromi,ball1870,actual,6,0.25
+Hiromi,ball1845,actual,6,0.25
+Hiromi,ball1846,actual,6,0.25
 Hiromi,ball369,target,3,0.25
 Hiromi,ball370,target,3,0.25
 Hiromi,butterfly410,target,2,0.25
 Hiromi,butterfly411,target,2,0.25
-Hiromi,cake2215,actual,5,0.25
-Hiromi,cake2216,actual,5,0.25
-Hiromi,cake2217,actual,5,0.25
+Hiromi,cake2185,actual,5,0.25
+Hiromi,cake2186,actual,5,0.25
+Hiromi,cake2187,actual,5,0.25
 Hiromi,cake376,target,2,0.25
 Hiromi,cake377,target,2,0.25
 Hiromi,cake378,target,2,0.25
-Hiromi,"car, vroom1670",target,2,0.25
-Hiromi,"car, vroom1671",target,2,0.25
-Hiromi,"car, vroom2210",actual,8,0.25
-Hiromi,"car, vroom3326",actual,3,0.25
-Hiromi,cute1872,actual,7,0.25
-Hiromi,cute1873,actual,7,0.25
+Hiromi,"car, vroom1648",target,2,0.25
+Hiromi,"car, vroom1649",target,2,0.25
+Hiromi,"car, vroom2180",actual,8,0.25
+Hiromi,"car, vroom3280",actual,3,0.25
+Hiromi,cute1848,actual,7,0.25
+Hiromi,cute1849,actual,7,0.25
 Hiromi,cute374,target,3,0.25
 Hiromi,cute375,target,3,0.25
-Hiromi,daddy2238,actual,8,0.25
-Hiromi,daddy2239,actual,9,0.25
-Hiromi,daddy2240,actual,7,0.25
-Hiromi,daddy2241,actual,7,0.25
-Hiromi,daddy2242,actual,9,0.25
-Hiromi,daddy2243,actual,9,0.25
-Hiromi,daddy2244,actual,9,0.25
+Hiromi,daddy2208,actual,8,0.25
+Hiromi,daddy2209,actual,9,0.25
+Hiromi,daddy2210,actual,7,0.25
+Hiromi,daddy2211,actual,7,0.25
+Hiromi,daddy2212,actual,9,0.25
+Hiromi,daddy2213,actual,9,0.25
+Hiromi,daddy2214,actual,9,0.25
 Hiromi,daddy403,target,2,0.25
 Hiromi,daddy404,target,2,0.25
 Hiromi,daddy405,target,2,0.25
@@ -1648,67 +1600,67 @@ Hiromi,daddy406,target,2,0.25
 Hiromi,daddy407,target,2,0.25
 Hiromi,daddy408,target,2,0.25
 Hiromi,daddy409,target,2,0.25
-Hiromi,duck1673,target,1,0.25
-Hiromi,duck2213,actual,5,0.25
-Hiromi,ear2230,actual,2,0.25
-Hiromi,ear2231,actual,2,0.25
-Hiromi,ear2232,actual,2,0.25
+Hiromi,duck1651,target,1,0.25
+Hiromi,duck2183,actual,5,0.25
+Hiromi,ear2200,actual,2,0.25
+Hiromi,ear2201,actual,2,0.25
+Hiromi,ear2202,actual,2,0.25
 Hiromi,ear395,target,1,0.25
 Hiromi,ear396,target,1,0.25
 Hiromi,ear397,target,1,0.25
 Hiromi,eight371,target,1,0.25
-Hiromi,foot1184,target,1,0.25
-Hiromi,foot1185,target,1,0.25
-Hiromi,foot2930,actual,2,0.25
-Hiromi,foot2931,actual,2,0.25
-Hiromi,hippopotamus2212,actual,7,0.25
+Hiromi,foot1175,target,1,0.25
+Hiromi,foot1176,target,1,0.25
+Hiromi,foot2894,actual,2,0.25
+Hiromi,foot2895,actual,2,0.25
+Hiromi,hippopotamus2182,actual,7,0.25
 Hiromi,hippopotamus372,target,3,0.25
-Hiromi,mom2224,actual,2,0.25
-Hiromi,mom2225,actual,3,0.25
-Hiromi,mom2226,actual,2,0.25
-Hiromi,mom2227,actual,2,0.25
-Hiromi,mom2228,actual,2,0.25
-Hiromi,mom2229,actual,2,0.25
+Hiromi,mom2194,actual,2,0.25
+Hiromi,mom2195,actual,3,0.25
+Hiromi,mom2196,actual,2,0.25
+Hiromi,mom2197,actual,2,0.25
+Hiromi,mom2198,actual,2,0.25
+Hiromi,mom2199,actual,2,0.25
 Hiromi,mom389,target,1,0.25
 Hiromi,mom390,target,1,0.25
 Hiromi,mom391,target,1,0.25
 Hiromi,mom392,target,1,0.25
 Hiromi,mom393,target,1,0.25
 Hiromi,mom394,target,1,0.25
-Hiromi,neko 'cat2233,actual,2,0.25
-Hiromi,neko 'cat2234,actual,2,0.25
-Hiromi,neko 'cat2235,actual,2,0.25
-Hiromi,neko 'cat2236,actual,2,0.25
-Hiromi,neko 'cat2237,actual,2,0.25
+Hiromi,neko 'cat2203,actual,2,0.25
+Hiromi,neko 'cat2204,actual,2,0.25
+Hiromi,neko 'cat2205,actual,2,0.25
+Hiromi,neko 'cat2206,actual,2,0.25
+Hiromi,neko 'cat2207,actual,2,0.25
 Hiromi,neko 'cat398,target,1,0.25
 Hiromi,neko 'cat399,target,1,0.25
 Hiromi,neko 'cat400,target,1,0.25
 Hiromi,neko 'cat401,target,1,0.25
 Hiromi,neko 'cat402,target,1,0.25
-Hiromi,panda1428,target,1,0.25
-Hiromi,panda1429,target,1,0.25
-Hiromi,panda1430,target,1,0.25
-Hiromi,panda1878,actual,6,0.25
-Hiromi,panda1879,actual,6,0.25
-Hiromi,panda1880,actual,6,0.25
-Hiromi,sleep1674,target,1,0.25
-Hiromi,sleep1675,target,1,0.25
-Hiromi,sleep1676,target,1,0.25
-Hiromi,sleep1677,target,1,0.25
-Hiromi,sleep3327,actual,1,0.25
-Hiromi,sleep3328,actual,1,0.25
-Hiromi,sleep3329,actual,1,0.25
-Hiromi,sleep3330,actual,1,0.25
-Hiromi,this1874,actual,7,0.25
-Hiromi,this1875,actual,7,0.25
-Hiromi,this1876,actual,4,0.25
-Hiromi,this1877,actual,7,0.25
-Hiromi,this2218,actual,5,0.25
-Hiromi,this2219,actual,6,0.25
-Hiromi,this2220,actual,6,0.25
-Hiromi,this2221,actual,6,0.25
-Hiromi,this2222,actual,6,0.25
-Hiromi,this2223,actual,6,0.25
+Hiromi,panda1406,target,1,0.25
+Hiromi,panda1407,target,1,0.25
+Hiromi,panda1408,target,1,0.25
+Hiromi,panda1854,actual,6,0.25
+Hiromi,panda1855,actual,6,0.25
+Hiromi,panda1856,actual,6,0.25
+Hiromi,sleep1652,target,1,0.25
+Hiromi,sleep1653,target,1,0.25
+Hiromi,sleep1654,target,1,0.25
+Hiromi,sleep1655,target,1,0.25
+Hiromi,sleep3281,actual,1,0.25
+Hiromi,sleep3282,actual,1,0.25
+Hiromi,sleep3283,actual,1,0.25
+Hiromi,sleep3284,actual,1,0.25
+Hiromi,this1850,actual,7,0.25
+Hiromi,this1851,actual,7,0.25
+Hiromi,this1852,actual,4,0.25
+Hiromi,this1853,actual,7,0.25
+Hiromi,this2188,actual,5,0.25
+Hiromi,this2189,actual,6,0.25
+Hiromi,this2190,actual,6,0.25
+Hiromi,this2191,actual,6,0.25
+Hiromi,this2192,actual,6,0.25
+Hiromi,this2193,actual,6,0.25
 Hiromi,this379,target,2,0.25
 Hiromi,this380,target,2,0.25
 Hiromi,this381,target,2,0.25
@@ -1719,7 +1671,7 @@ Hiromi,this385,target,2,0.25
 Hiromi,this386,target,2,0.25
 Hiromi,this387,target,2,0.25
 Hiromi,this388,target,2,0.25
-Hiromi,turtle2214,actual,7,0.25
+Hiromi,turtle2184,actual,7,0.25
 Hiromi,turtle373,target,2,0.25
 Ivy,baby123,target,3,0.25
 Ivy,baby124,target,3,0.25
@@ -1728,36 +1680,36 @@ Ivy,baby126,target,3,0.25
 Ivy,baby127,target,3,0.25
 Ivy,baby128,target,3,0.25
 Ivy,baby129,target,3,0.25
-Ivy,baby2050,actual,9,0.25
-Ivy,baby2051,actual,11,0.25
-Ivy,baby2052,actual,5,0.25
-Ivy,baby2053,actual,10,0.25
-Ivy,baby2054,actual,9,0.25
-Ivy,baby2055,actual,11,0.25
-Ivy,baby2056,actual,11,0.25
-Ivy,balloon2804,actual,8,0.25
+Ivy,baby2020,actual,9,0.25
+Ivy,baby2021,actual,11,0.25
+Ivy,baby2022,actual,5,0.25
+Ivy,baby2023,actual,10,0.25
+Ivy,baby2024,actual,9,0.25
+Ivy,baby2025,actual,11,0.25
+Ivy,baby2026,actual,11,0.25
+Ivy,balloon2768,actual,8,0.25
 Ivy,bye bye131,target,3,0.25
-Ivy,bye bye2057,actual,9,0.25
+Ivy,bye bye2027,actual,9,0.25
 Ivy,daddy133,target,4,0.25
 Ivy,daddy134,target,4,0.25
 Ivy,daddy135,target,4,0.25
-Ivy,daddy2058,actual,6,0.25
-Ivy,daddy2060,actual,6,0.25
+Ivy,daddy2028,actual,6,0.25
+Ivy,daddy2030,actual,6,0.25
 Ivy,giraffe136,target,1,0.25
 Ivy,giraffe137,target,1,0.25
 Ivy,giraffe138,target,1,0.25
 Ivy,giraffe139,target,1,0.25
-Ivy,giraffe2061,actual,3,0.25
-Ivy,giraffe2805,actual,15,0.25
-Ivy,giraffe2806,actual,12,0.25
-Ivy,giraffe2807,actual,15,0.25
-Ivy,jumpy1370,target,2,0.25
-Ivy,jumpy1371,target,2,0.25
-Ivy,jumpy1372,target,2,0.25
-Ivy,jumpy1373,target,2,0.25
-Ivy,jumpy2062,actual,4,0.25
-Ivy,jumpy2063,actual,1,0.25
-Ivy,jumpy2064,actual,6,0.25
+Ivy,giraffe2031,actual,3,0.25
+Ivy,giraffe2769,actual,15,0.25
+Ivy,giraffe2770,actual,12,0.25
+Ivy,giraffe2771,actual,15,0.25
+Ivy,jumpy1348,target,2,0.25
+Ivy,jumpy1349,target,2,0.25
+Ivy,jumpy1350,target,2,0.25
+Ivy,jumpy1351,target,2,0.25
+Ivy,jumpy2032,actual,4,0.25
+Ivy,jumpy2033,actual,1,0.25
+Ivy,jumpy2034,actual,6,0.25
 Ivy,lion140,target,1,0.25
 Ivy,lion141,target,1,0.25
 Ivy,lion142,target,1,0.25
@@ -1765,14 +1717,14 @@ Ivy,lion143,target,1,0.25
 Ivy,lion144,target,1,0.25
 Ivy,lion145,target,1,0.25
 Ivy,lion146,target,1,0.25
-Ivy,lion2065,actual,3,0.25
-Ivy,lion2066,actual,3,0.25
-Ivy,lion2808,actual,13,0.25
-Ivy,lion3125,actual,2,0.25
-Ivy,lion3126,actual,4,0.25
-Ivy,lion3127,actual,3,0.25
-Ivy,lion3128,actual,4,0.25
-Ivy,monkey3190,actual,5,0.25
+Ivy,lion2035,actual,3,0.25
+Ivy,lion2036,actual,3,0.25
+Ivy,lion2772,actual,13,0.25
+Ivy,lion3079,actual,2,0.25
+Ivy,lion3080,actual,4,0.25
+Ivy,lion3081,actual,3,0.25
+Ivy,lion3082,actual,4,0.25
+Ivy,monkey3144,actual,5,0.25
 Ivy,mummy147,target,2,0.25
 Ivy,mummy148,target,2,0.25
 Ivy,mummy149,target,2,0.25
@@ -1780,25 +1732,25 @@ Ivy,mummy150,target,2,0.25
 Ivy,mummy151,target,2,0.25
 Ivy,mummy152,target,2,0.25
 Ivy,mummy153,target,2,0.25
-Ivy,mummy2067,actual,5,0.25
-Ivy,mummy2068,actual,5,0.25
-Ivy,mummy2069,actual,8,0.25
-Ivy,mummy2070,actual,5,0.25
-Ivy,mummy2071,actual,5,0.25
-Ivy,mummy2072,actual,5,0.25
-Ivy,mummy2073,actual,8,0.25
+Ivy,mummy2037,actual,5,0.25
+Ivy,mummy2038,actual,5,0.25
+Ivy,mummy2039,actual,8,0.25
+Ivy,mummy2040,actual,5,0.25
+Ivy,mummy2041,actual,5,0.25
+Ivy,mummy2042,actual,5,0.25
+Ivy,mummy2043,actual,8,0.25
 Ivy,quack quack165,target,1,0.25
 Ivy,quack quack166,target,1,0.25
-Ivy,quack quack2809,actual,13,0.25
+Ivy,quack quack2773,actual,13,0.25
 Ivy,rabbit154,target,1,0.25
-Ivy,rabbit2074,actual,3,0.25
+Ivy,rabbit2044,actual,3,0.25
 Ivy,ribbit167,target,1,0.25
 Ivy,ribbit168,target,1,0.25
 Ivy,ribbit169,target,1,0.25
 Ivy,ribbit170,target,1,0.25
-Ivy,ribbit2083,actual,8,0.25
-Ivy,ribbit2662,actual,3,0.25
-Ivy,ribbit3134,actual,5,0.25
+Ivy,ribbit2053,actual,8,0.25
+Ivy,ribbit2627,actual,3,0.25
+Ivy,ribbit3088,actual,5,0.25
 Ivy,row row155,target,2,0.25
 Ivy,row row156,target,2,0.25
 Ivy,row row157,target,2,0.25
@@ -1806,103 +1758,125 @@ Ivy,row row158,target,2,0.25
 Ivy,row row159,target,2,0.25
 Ivy,row row160,target,2,0.25
 Ivy,row row161,target,2,0.25
-Ivy,row row2075,actual,5,0.25
-Ivy,row row2076,actual,8,0.25
-Ivy,row row3129,actual,6,0.25
-Ivy,row row3130,actual,6,0.25
-Ivy,row row3131,actual,4,0.25
-Ivy,row row3132,actual,3,0.25
+Ivy,row row2045,actual,5,0.25
+Ivy,row row2046,actual,8,0.25
+Ivy,row row3083,actual,6,0.25
+Ivy,row row3084,actual,6,0.25
+Ivy,row row3085,actual,4,0.25
+Ivy,row row3086,actual,3,0.25
 Ivy,teddy162,target,4,0.25
 Ivy,teddy163,target,4,0.25
-Ivy,teddy2077,actual,5,0.25
-Ivy,teddy2078,actual,6,0.25
-Ivy,tractor1375,target,2,0.25
-Ivy,what's that?1376,target,1,0.25
-Ivy,what's that?1377,target,1,0.25
-Ivy,what's that?1378,target,1,0.25
-Ivy,what's that?1379,target,1,0.25
-Ivy,what's that?1380,target,1,0.25
-Ivy,what's that?2081,actual,1,0.25
-Ivy,woof1381,target,1,0.25
-Ivy,woof1382,target,1,0.25
-Ivy,woof2660,actual,1,0.25
-Ivy,woof3628,actual,1,0.25
+Ivy,teddy2047,actual,5,0.25
+Ivy,teddy2048,actual,6,0.25
+Ivy,tractor1353,target,2,0.25
+Ivy,what's that?1354,target,1,0.25
+Ivy,what's that?1355,target,1,0.25
+Ivy,what's that?1356,target,1,0.25
+Ivy,what's that?1357,target,1,0.25
+Ivy,what's that?1358,target,1,0.25
+Ivy,what's that?2051,actual,1,0.25
+Ivy,woof1359,target,1,0.25
+Ivy,woof1360,target,1,0.25
+Ivy,woof2625,actual,1,0.25
+Ivy,woof3580,actual,1,0.25
 Ivy,zebra164,target,4,0.25
-Ivy,zebra2082,actual,10,0.25
-Julien,Boubou2484,actual,2,0.25
-Julien,Boubou2485,actual,2,0.25
-Julien,Boubou2486,actual,2,0.25
-Julien,Boubou733,target,2,0.25
-Julien,Boubou734,target,2,0.25
-Julien,Boubou735,target,2,0.25
-Julien,Papa2495,actual,3,0.25
-Julien,Papa2496,actual,3,0.25
-Julien,Papa2497,actual,3,0.25
-Julien,Papa745,target,3,0.25
-Julien,Papa746,target,3,0.25
-Julien,Papa747,target,3,0.25
-Julien,Petit748,target,1,0.25
-Julien,Pin pon2498,actual,3,0.25
-Julien,Pin pon2499,actual,1,0.25
-Julien,Pin pon749,target,3,0.25
-Julien,Pin pon750,target,3,0.25
-Julien,Pin pon751,target,3,0.25
-Julien,Popi2500,actual,1,0.25
-Julien,Popi752,target,3,0.25
-Julien,Tonton2501,actual,1,0.25
-Julien,Tonton2502,actual,1,0.25
-Julien,Tonton753,target,2,0.25
-Julien,Tonton754,target,2,0.25
-Julien,cot cot2488,actual,1,0.25
-Julien,croco2489,actual,1,0.25
-Julien,croco2490,actual,1,0.25
-Julien,croco2491,actual,1,0.25
-Julien,croco737,target,1,0.25
-Julien,croco738,target,1,0.25
-Julien,croco739,target,1,0.25
-Julien,croco740,target,1,0.25
-Kazuko,Big Bird1441,target,2,0.25
-Kazuko,Big Bird1442,target,2,0.25
-Kazuko,"all gone, put away1908",actual,3,0.25
-Kazuko,"all gone, put away2407",actual,6,0.25
-Kazuko,"all gone, put away2408",actual,6,0.25
-Kazuko,"all gone, put away3193",actual,6,0.25
-Kazuko,"all gone, put away577",target,2,0.25
-Kazuko,"all gone, put away578",target,2,0.25
-Kazuko,"all gone, put away579",target,2,0.25
-Kazuko,"all gone, put away580",target,2,0.25
-Kazuko,car1901,actual,8,0.25
-Kazuko,car1902,actual,8,0.25
-Kazuko,car2372,actual,6,0.25
-Kazuko,car2373,actual,6,0.25
-Kazuko,car2374,actual,6,0.25
-Kazuko,car2375,actual,6,0.25
-Kazuko,car2376,actual,6,0.25
-Kazuko,car2377,actual,6,0.25
-Kazuko,car2378,actual,3,0.25
-Kazuko,car2379,actual,3,0.25
-Kazuko,car2380,actual,3,0.25
-Kazuko,car2381,actual,6,0.25
+Ivy,zebra2052,actual,10,0.25
+Julien,Boubou2449,actual,2,0.25
+Julien,Boubou2450,actual,2,0.25
+Julien,Boubou2451,actual,2,0.25
+Julien,Boubou724,target,2,0.25
+Julien,Boubou725,target,2,0.25
+Julien,Boubou726,target,2,0.25
+Julien,Papa2460,actual,3,0.25
+Julien,Papa2461,actual,3,0.25
+Julien,Papa2462,actual,3,0.25
+Julien,Papa736,target,3,0.25
+Julien,Papa737,target,3,0.25
+Julien,Papa738,target,3,0.25
+Julien,Petit739,target,1,0.25
+Julien,Pin pon2463,actual,3,0.25
+Julien,Pin pon2464,actual,1,0.25
+Julien,Pin pon740,target,3,0.25
+Julien,Pin pon741,target,3,0.25
+Julien,Pin pon742,target,3,0.25
+Julien,Popi2465,actual,1,0.25
+Julien,Popi743,target,3,0.25
+Julien,Tonton2466,actual,1,0.25
+Julien,Tonton2467,actual,1,0.25
+Julien,Tonton744,target,2,0.25
+Julien,Tonton745,target,2,0.25
+Julien,cot cot2453,actual,1,0.25
+Julien,croco2454,actual,1,0.25
+Julien,croco2455,actual,1,0.25
+Julien,croco2456,actual,1,0.25
+Julien,croco728,target,1,0.25
+Julien,croco729,target,1,0.25
+Julien,croco730,target,1,0.25
+Julien,croco731,target,1,0.25
+Kazuko,Big Bird1419,target,2,0.25
+Kazuko,Big Bird1420,target,2,0.25
+Kazuko,"all gone, put away1878",actual,3,0.25
+Kazuko,"all gone, put away2372",actual,6,0.25
+Kazuko,"all gone, put away2373",actual,6,0.25
+Kazuko,"all gone, put away3147",actual,6,0.25
+Kazuko,"all gone, put away568",target,2,0.25
+Kazuko,"all gone, put away569",target,2,0.25
+Kazuko,"all gone, put away570",target,2,0.25
+Kazuko,"all gone, put away571",target,2,0.25
+Kazuko,car1871,actual,8,0.25
+Kazuko,car1872,actual,8,0.25
+Kazuko,car2337,actual,6,0.25
+Kazuko,car2338,actual,6,0.25
+Kazuko,car2339,actual,6,0.25
+Kazuko,car2340,actual,6,0.25
+Kazuko,car2341,actual,6,0.25
+Kazuko,car2342,actual,6,0.25
+Kazuko,car2343,actual,3,0.25
+Kazuko,car2344,actual,3,0.25
+Kazuko,car2345,actual,3,0.25
+Kazuko,car2346,actual,6,0.25
+Kazuko,car522,target,3,0.25
+Kazuko,car523,target,3,0.25
+Kazuko,car524,target,3,0.25
+Kazuko,car525,target,3,0.25
+Kazuko,car526,target,3,0.25
+Kazuko,car527,target,3,0.25
+Kazuko,car528,target,3,0.25
+Kazuko,car529,target,3,0.25
+Kazuko,car530,target,3,0.25
 Kazuko,car531,target,3,0.25
 Kazuko,car532,target,3,0.25
 Kazuko,car533,target,3,0.25
-Kazuko,car534,target,3,0.25
-Kazuko,car535,target,3,0.25
-Kazuko,car536,target,3,0.25
-Kazuko,car537,target,3,0.25
-Kazuko,car538,target,3,0.25
-Kazuko,car539,target,3,0.25
-Kazuko,car540,target,3,0.25
-Kazuko,car541,target,3,0.25
-Kazuko,car542,target,3,0.25
-Kazuko,cloud2404,actual,3,0.25
-Kazuko,cloud2405,actual,3,0.25
-Kazuko,cloud573,target,2,0.25
-Kazuko,cloud574,target,2,0.25
-Kazuko,cloud575,target,2,0.25
-Kazuko,comb576,target,2,0.25
-Kazuko,doesn't exist1266,target,2,0.25
-Kazuko,doesn't exist1907,actual,6,0.25
+Kazuko,cloud2369,actual,3,0.25
+Kazuko,cloud2370,actual,3,0.25
+Kazuko,cloud564,target,2,0.25
+Kazuko,cloud565,target,2,0.25
+Kazuko,cloud566,target,2,0.25
+Kazuko,comb567,target,2,0.25
+Kazuko,doesn't exist1244,target,2,0.25
+Kazuko,doesn't exist1877,actual,6,0.25
+Kazuko,foot1207,target,3,0.25
+Kazuko,foot1208,target,3,0.25
+Kazuko,foot1209,target,3,0.25
+Kazuko,foot1210,target,3,0.25
+Kazuko,foot1211,target,3,0.25
+Kazuko,foot1212,target,3,0.25
+Kazuko,foot1213,target,3,0.25
+Kazuko,foot1214,target,3,0.25
+Kazuko,foot1215,target,3,0.25
+Kazuko,foot1216,target,3,0.25
+Kazuko,foot1217,target,3,0.25
+Kazuko,foot1218,target,3,0.25
+Kazuko,foot1219,target,3,0.25
+Kazuko,foot1220,target,3,0.25
+Kazuko,foot1221,target,3,0.25
+Kazuko,foot1222,target,3,0.25
+Kazuko,foot1223,target,3,0.25
+Kazuko,foot1224,target,3,0.25
+Kazuko,foot1225,target,3,0.25
+Kazuko,foot1226,target,3,0.25
+Kazuko,foot1227,target,3,0.25
+Kazuko,foot1228,target,3,0.25
 Kazuko,foot1229,target,3,0.25
 Kazuko,foot1230,target,3,0.25
 Kazuko,foot1231,target,3,0.25
@@ -1918,100 +1892,87 @@ Kazuko,foot1240,target,3,0.25
 Kazuko,foot1241,target,3,0.25
 Kazuko,foot1242,target,3,0.25
 Kazuko,foot1243,target,3,0.25
-Kazuko,foot1244,target,3,0.25
-Kazuko,foot1245,target,3,0.25
-Kazuko,foot1246,target,3,0.25
-Kazuko,foot1247,target,3,0.25
-Kazuko,foot1248,target,3,0.25
-Kazuko,foot1249,target,3,0.25
-Kazuko,foot1250,target,3,0.25
-Kazuko,foot1251,target,3,0.25
-Kazuko,foot1252,target,3,0.25
-Kazuko,foot1253,target,3,0.25
-Kazuko,foot1254,target,3,0.25
-Kazuko,foot1255,target,3,0.25
-Kazuko,foot1256,target,3,0.25
-Kazuko,foot1257,target,3,0.25
-Kazuko,foot1258,target,3,0.25
-Kazuko,foot1259,target,3,0.25
-Kazuko,foot1260,target,3,0.25
-Kazuko,foot1261,target,3,0.25
-Kazuko,foot1262,target,3,0.25
-Kazuko,foot1263,target,3,0.25
-Kazuko,foot1264,target,3,0.25
-Kazuko,foot1265,target,3,0.25
-Kazuko,foot2351,actual,16,0.25
-Kazuko,foot2352,actual,11,0.25
-Kazuko,foot2353,actual,13,0.25
-Kazuko,foot2354,actual,16,0.25
-Kazuko,foot2355,actual,11,0.25
-Kazuko,foot2356,actual,13,0.25
-Kazuko,foot2357,actual,16,0.25
-Kazuko,foot2358,actual,19,0.25
-Kazuko,foot2359,actual,9,0.25
-Kazuko,foot2360,actual,10,0.25
-Kazuko,foot2361,actual,19,0.25
-Kazuko,foot2962,actual,19,0.25
-Kazuko,foot2963,actual,20,0.25
-Kazuko,foot2964,actual,7,0.25
-Kazuko,foot2965,actual,19,0.25
-Kazuko,foot2966,actual,19,0.25
-Kazuko,foot2967,actual,20,0.25
-Kazuko,foot2968,actual,20,0.25
-Kazuko,foot2969,actual,14,0.25
-Kazuko,foot2970,actual,14,0.25
-Kazuko,foot2971,actual,20,0.25
-Kazuko,foot2972,actual,14,0.25
-Kazuko,foot2973,actual,7,0.25
-Kazuko,foot2974,actual,14,0.25
-Kazuko,foot2975,actual,14,0.25
-Kazuko,foot2976,actual,19,0.25
-Kazuko,foot2977,actual,6,0.25
-Kazuko,foot2978,actual,19,0.25
-Kazuko,foot2979,actual,16,0.25
-Kazuko,foot2980,actual,11,0.25
-Kazuko,foot2981,actual,12,0.25
-Kazuko,foot2982,actual,6,0.25
-Kazuko,foot2983,actual,16,0.25
-Kazuko,foot2984,actual,16,0.25
-Kazuko,foot3153,actual,1,0.25
-Kazuko,foot3379,actual,4,0.25
-Kazuko,hat2363,actual,13,0.25
-Kazuko,hat2364,actual,13,0.25
-Kazuko,hat2365,actual,8,0.25
-Kazuko,hat2366,actual,13,0.25
-Kazuko,hat2367,actual,8,0.25
-Kazuko,hat2368,actual,8,0.25
-Kazuko,hat2369,actual,13,0.25
-Kazuko,hat2370,actual,13,0.25
-Kazuko,hat2371,actual,13,0.25
+Kazuko,foot2316,actual,16,0.25
+Kazuko,foot2317,actual,11,0.25
+Kazuko,foot2318,actual,13,0.25
+Kazuko,foot2319,actual,16,0.25
+Kazuko,foot2320,actual,11,0.25
+Kazuko,foot2321,actual,13,0.25
+Kazuko,foot2322,actual,16,0.25
+Kazuko,foot2323,actual,19,0.25
+Kazuko,foot2324,actual,9,0.25
+Kazuko,foot2325,actual,10,0.25
+Kazuko,foot2326,actual,19,0.25
+Kazuko,foot2916,actual,19,0.25
+Kazuko,foot2917,actual,20,0.25
+Kazuko,foot2918,actual,7,0.25
+Kazuko,foot2919,actual,19,0.25
+Kazuko,foot2920,actual,19,0.25
+Kazuko,foot2921,actual,20,0.25
+Kazuko,foot2922,actual,20,0.25
+Kazuko,foot2923,actual,14,0.25
+Kazuko,foot2924,actual,14,0.25
+Kazuko,foot2925,actual,20,0.25
+Kazuko,foot2926,actual,14,0.25
+Kazuko,foot2927,actual,7,0.25
+Kazuko,foot2928,actual,14,0.25
+Kazuko,foot2929,actual,14,0.25
+Kazuko,foot2930,actual,19,0.25
+Kazuko,foot2931,actual,6,0.25
+Kazuko,foot2932,actual,19,0.25
+Kazuko,foot2933,actual,16,0.25
+Kazuko,foot2934,actual,11,0.25
+Kazuko,foot2935,actual,12,0.25
+Kazuko,foot2936,actual,6,0.25
+Kazuko,foot2937,actual,16,0.25
+Kazuko,foot2938,actual,16,0.25
+Kazuko,foot3107,actual,1,0.25
+Kazuko,foot3333,actual,4,0.25
+Kazuko,hat2328,actual,13,0.25
+Kazuko,hat2329,actual,13,0.25
+Kazuko,hat2330,actual,8,0.25
+Kazuko,hat2331,actual,13,0.25
+Kazuko,hat2332,actual,8,0.25
+Kazuko,hat2333,actual,8,0.25
+Kazuko,hat2334,actual,13,0.25
+Kazuko,hat2335,actual,13,0.25
+Kazuko,hat2336,actual,13,0.25
+Kazuko,hat512,target,3,0.25
+Kazuko,hat513,target,3,0.25
+Kazuko,hat514,target,3,0.25
+Kazuko,hat515,target,3,0.25
+Kazuko,hat516,target,3,0.25
+Kazuko,hat517,target,3,0.25
+Kazuko,hat518,target,3,0.25
+Kazuko,hat519,target,3,0.25
+Kazuko,hat520,target,3,0.25
 Kazuko,hat521,target,3,0.25
-Kazuko,hat522,target,3,0.25
-Kazuko,hat523,target,3,0.25
-Kazuko,hat524,target,3,0.25
-Kazuko,hat525,target,3,0.25
-Kazuko,hat526,target,3,0.25
-Kazuko,hat527,target,3,0.25
-Kazuko,hat528,target,3,0.25
-Kazuko,hat529,target,3,0.25
-Kazuko,hat530,target,3,0.25
-Kazuko,hello1904,actual,10,0.25
-Kazuko,hello2393,actual,6,0.25
-Kazuko,hello2394,actual,8,0.25
-Kazuko,hello2395,actual,7,0.25
-Kazuko,hello2396,actual,8,0.25
-Kazuko,hello2397,actual,10,0.25
-Kazuko,hello2398,actual,8,0.25
-Kazuko,hello2399,actual,8,0.25
-Kazuko,hello2400,actual,16,0.25
-Kazuko,hello2401,actual,7,0.25
-Kazuko,hello2402,actual,8,0.25
-Kazuko,hello2985,actual,16,0.25
-Kazuko,hello2986,actual,16,0.25
-Kazuko,hello2987,actual,5,0.25
-Kazuko,hello3601,actual,1,0.25
-Kazuko,hello3602,actual,1,0.25
-Kazuko,hello3603,actual,1,0.25
+Kazuko,hello1874,actual,10,0.25
+Kazuko,hello2358,actual,6,0.25
+Kazuko,hello2359,actual,8,0.25
+Kazuko,hello2360,actual,7,0.25
+Kazuko,hello2361,actual,8,0.25
+Kazuko,hello2362,actual,10,0.25
+Kazuko,hello2363,actual,8,0.25
+Kazuko,hello2364,actual,8,0.25
+Kazuko,hello2365,actual,16,0.25
+Kazuko,hello2366,actual,7,0.25
+Kazuko,hello2367,actual,8,0.25
+Kazuko,hello2939,actual,16,0.25
+Kazuko,hello2940,actual,16,0.25
+Kazuko,hello2941,actual,5,0.25
+Kazuko,hello3553,actual,1,0.25
+Kazuko,hello3554,actual,1,0.25
+Kazuko,hello3555,actual,1,0.25
+Kazuko,hello542,target,1,0.25
+Kazuko,hello543,target,1,0.25
+Kazuko,hello544,target,1,0.25
+Kazuko,hello545,target,1,0.25
+Kazuko,hello546,target,1,0.25
+Kazuko,hello547,target,1,0.25
+Kazuko,hello548,target,1,0.25
+Kazuko,hello549,target,1,0.25
+Kazuko,hello550,target,1,0.25
 Kazuko,hello551,target,1,0.25
 Kazuko,hello552,target,1,0.25
 Kazuko,hello553,target,1,0.25
@@ -2021,129 +1982,129 @@ Kazuko,hello556,target,1,0.25
 Kazuko,hello557,target,1,0.25
 Kazuko,hello558,target,1,0.25
 Kazuko,hello559,target,1,0.25
-Kazuko,hello560,target,1,0.25
-Kazuko,hello561,target,1,0.25
-Kazuko,hello562,target,1,0.25
-Kazuko,hello563,target,1,0.25
-Kazuko,hello564,target,1,0.25
-Kazuko,hello565,target,1,0.25
-Kazuko,hello566,target,1,0.25
-Kazuko,hello567,target,1,0.25
-Kazuko,hello568,target,1,0.25
-Kazuko,hold me1731,target,1,0.25
-Kazuko,hold me1732,target,1,0.25
-Kazuko,hold me3380,actual,1,0.25
-Kazuko,hold me3381,actual,2,0.25
-Kazuko,kitty1743,target,2,0.25
-Kazuko,kitty1744,target,2,0.25
-Kazuko,kitty1745,target,2,0.25
-Kazuko,kitty1746,target,2,0.25
-Kazuko,kitty1747,target,2,0.25
-Kazuko,kitty1748,target,2,0.25
-Kazuko,kitty1749,target,2,0.25
-Kazuko,kitty1750,target,2,0.25
-Kazuko,kitty1751,target,2,0.25
-Kazuko,kitty1752,target,2,0.25
-Kazuko,kitty2409,actual,6,0.25
-Kazuko,kitty2410,actual,6,0.25
-Kazuko,kitty2411,actual,6,0.25
-Kazuko,kitty2412,actual,4,0.25
-Kazuko,kitty2413,actual,6,0.25
-Kazuko,kitty2414,actual,6,0.25
-Kazuko,kitty2415,actual,6,0.25
-Kazuko,kitty2416,actual,6,0.25
-Kazuko,kitty3394,actual,3,0.25
-Kazuko,mouth2403,actual,9,0.25
-Kazuko,mouth2686,actual,3,0.25
-Kazuko,mouth571,target,2,0.25
-Kazuko,mouth572,target,2,0.25
-Kazuko,people1905,actual,1,0.25
-Kazuko,people1906,actual,1,0.25
-Kazuko,people569,target,2,0.25
-Kazuko,people570,target,2,0.25
-Kazuko,pig1903,actual,8,0.25
-Kazuko,pig2382,actual,3,0.25
-Kazuko,pig2383,actual,3,0.25
-Kazuko,pig543,target,3,0.25
-Kazuko,pig544,target,3,0.25
-Kazuko,pig545,target,3,0.25
-Kazuko,please2389,actual,14,0.25
-Kazuko,please2390,actual,8,0.25
-Kazuko,please2391,actual,3,0.25
-Kazuko,please546,target,1,0.25
-Kazuko,please547,target,1,0.25
-Kazuko,please548,target,1,0.25
-Kazuko,please549,target,1,0.25
-Kazuko,rain1225,target,3,0.25
-Kazuko,rain1226,target,3,0.25
-Kazuko,rain1227,target,3,0.25
-Kazuko,rain1228,target,3,0.25
-Kazuko,rain2958,actual,8,0.25
-Kazuko,rain2959,actual,10,0.25
-Kazuko,rain2960,actual,10,0.25
-Kazuko,rain2961,actual,10,0.25
-Kazuko,sleeping1733,target,2,0.25
-Kazuko,sleeping1734,target,2,0.25
-Kazuko,sleeping1735,target,2,0.25
-Kazuko,sleeping1736,target,2,0.25
-Kazuko,sleeping1737,target,2,0.25
-Kazuko,sleeping1738,target,2,0.25
-Kazuko,sleeping1739,target,2,0.25
-Kazuko,sleeping1740,target,2,0.25
-Kazuko,sleeping1741,target,2,0.25
-Kazuko,sleeping1742,target,2,0.25
-Kazuko,sleeping3384,actual,3,0.25
-Kazuko,sleeping3385,actual,3,0.25
-Kazuko,sleeping3386,actual,3,0.25
-Kazuko,sleeping3387,actual,3,0.25
-Kazuko,sleeping3388,actual,3,0.25
-Kazuko,sleeping3389,actual,3,0.25
-Kazuko,sleeping3390,actual,3,0.25
-Kazuko,sleeping3391,actual,3,0.25
-Kazuko,sleeping3392,actual,3,0.25
-Kazuko,sleeping3393,actual,3,0.25
-Kazuko,telephone1443,target,1,0.25
-Kazuko,telephone1444,target,1,0.25
-Kazuko,telephone1445,target,1,0.25
-Kazuko,telephone1446,target,1,0.25
-Kazuko,telephone1447,target,1,0.25
-Kazuko,telephone2384,actual,2,0.25
-Kazuko,telephone2385,actual,7,0.25
-Kazuko,telephone2386,actual,4,0.25
-Kazuko,telephone2387,actual,5,0.25
-Kazuko,telephone2388,actual,2,0.25
-Lewis,all gone1476,target,1,0.25
-Lewis,all gone1477,target,1,0.25
-Lewis,all gone1478,target,1,0.25
-Lewis,all gone1479,target,1,0.25
-Lewis,all gone1480,target,1,0.25
-Lewis,all gone1481,target,1,0.25
-Lewis,all gone1482,target,1,0.25
-Lewis,all gone1483,target,1,0.25
-Lewis,all gone2084,actual,1,0.25
-Lewis,all gone2810,actual,3,0.25
-Lewis,all gone2811,actual,1,0.25
-Lewis,all gone2812,actual,3,0.25
-Lewis,all gone2813,actual,2,0.25
-Lewis,all gone3196,actual,1,0.25
-Lewis,apple2085,actual,4,0.25
+Kazuko,hold me1709,target,1,0.25
+Kazuko,hold me1710,target,1,0.25
+Kazuko,hold me3334,actual,1,0.25
+Kazuko,hold me3335,actual,2,0.25
+Kazuko,kitty1721,target,2,0.25
+Kazuko,kitty1722,target,2,0.25
+Kazuko,kitty1723,target,2,0.25
+Kazuko,kitty1724,target,2,0.25
+Kazuko,kitty1725,target,2,0.25
+Kazuko,kitty1726,target,2,0.25
+Kazuko,kitty1727,target,2,0.25
+Kazuko,kitty1728,target,2,0.25
+Kazuko,kitty1729,target,2,0.25
+Kazuko,kitty1730,target,2,0.25
+Kazuko,kitty2374,actual,6,0.25
+Kazuko,kitty2375,actual,6,0.25
+Kazuko,kitty2376,actual,6,0.25
+Kazuko,kitty2377,actual,4,0.25
+Kazuko,kitty2378,actual,6,0.25
+Kazuko,kitty2379,actual,6,0.25
+Kazuko,kitty2380,actual,6,0.25
+Kazuko,kitty2381,actual,6,0.25
+Kazuko,kitty3348,actual,3,0.25
+Kazuko,mouth2368,actual,9,0.25
+Kazuko,mouth2651,actual,3,0.25
+Kazuko,mouth562,target,2,0.25
+Kazuko,mouth563,target,2,0.25
+Kazuko,people1875,actual,1,0.25
+Kazuko,people1876,actual,1,0.25
+Kazuko,people560,target,2,0.25
+Kazuko,people561,target,2,0.25
+Kazuko,pig1873,actual,8,0.25
+Kazuko,pig2347,actual,3,0.25
+Kazuko,pig2348,actual,3,0.25
+Kazuko,pig534,target,3,0.25
+Kazuko,pig535,target,3,0.25
+Kazuko,pig536,target,3,0.25
+Kazuko,please2354,actual,14,0.25
+Kazuko,please2355,actual,8,0.25
+Kazuko,please2356,actual,3,0.25
+Kazuko,please537,target,1,0.25
+Kazuko,please538,target,1,0.25
+Kazuko,please539,target,1,0.25
+Kazuko,please540,target,1,0.25
+Kazuko,rain1203,target,3,0.25
+Kazuko,rain1204,target,3,0.25
+Kazuko,rain1205,target,3,0.25
+Kazuko,rain1206,target,3,0.25
+Kazuko,rain2912,actual,8,0.25
+Kazuko,rain2913,actual,10,0.25
+Kazuko,rain2914,actual,10,0.25
+Kazuko,rain2915,actual,10,0.25
+Kazuko,sleeping1711,target,2,0.25
+Kazuko,sleeping1712,target,2,0.25
+Kazuko,sleeping1713,target,2,0.25
+Kazuko,sleeping1714,target,2,0.25
+Kazuko,sleeping1715,target,2,0.25
+Kazuko,sleeping1716,target,2,0.25
+Kazuko,sleeping1717,target,2,0.25
+Kazuko,sleeping1718,target,2,0.25
+Kazuko,sleeping1719,target,2,0.25
+Kazuko,sleeping1720,target,2,0.25
+Kazuko,sleeping3338,actual,3,0.25
+Kazuko,sleeping3339,actual,3,0.25
+Kazuko,sleeping3340,actual,3,0.25
+Kazuko,sleeping3341,actual,3,0.25
+Kazuko,sleeping3342,actual,3,0.25
+Kazuko,sleeping3343,actual,3,0.25
+Kazuko,sleeping3344,actual,3,0.25
+Kazuko,sleeping3345,actual,3,0.25
+Kazuko,sleeping3346,actual,3,0.25
+Kazuko,sleeping3347,actual,3,0.25
+Kazuko,telephone1421,target,1,0.25
+Kazuko,telephone1422,target,1,0.25
+Kazuko,telephone1423,target,1,0.25
+Kazuko,telephone1424,target,1,0.25
+Kazuko,telephone1425,target,1,0.25
+Kazuko,telephone2349,actual,2,0.25
+Kazuko,telephone2350,actual,7,0.25
+Kazuko,telephone2351,actual,4,0.25
+Kazuko,telephone2352,actual,5,0.25
+Kazuko,telephone2353,actual,2,0.25
+Lewis,all gone1454,target,1,0.25
+Lewis,all gone1455,target,1,0.25
+Lewis,all gone1456,target,1,0.25
+Lewis,all gone1457,target,1,0.25
+Lewis,all gone1458,target,1,0.25
+Lewis,all gone1459,target,1,0.25
+Lewis,all gone1460,target,1,0.25
+Lewis,all gone1461,target,1,0.25
+Lewis,all gone2054,actual,1,0.25
+Lewis,all gone2774,actual,3,0.25
+Lewis,all gone2775,actual,1,0.25
+Lewis,all gone2776,actual,3,0.25
+Lewis,all gone2777,actual,2,0.25
+Lewis,all gone3150,actual,1,0.25
+Lewis,apple2055,actual,4,0.25
 Lewis,choo-choo176,target,1,0.25
 Lewis,choo-choo177,target,1,0.25
 Lewis,choo-choo178,target,1,0.25
 Lewis,choo-choo179,target,1,0.25
 Lewis,choo-choo180,target,1,0.25
-Lewis,choo-choo2099,actual,2,0.25
-Lewis,choo-choo3199,actual,7,0.25
-Lewis,choo-choo3200,actual,2,0.25
+Lewis,choo-choo2069,actual,2,0.25
+Lewis,choo-choo3153,actual,7,0.25
+Lewis,choo-choo3154,actual,2,0.25
 Lewis,circle171,target,1,0.25
 Lewis,circle172,target,1,0.25
 Lewis,circle173,target,1,0.25
 Lewis,circle174,target,1,0.25
-Lewis,circle2086,actual,9,0.25
-Lewis,circle2087,actual,9,0.25
-Lewis,circle2088,actual,9,0.25
-Lewis,circle2089,actual,5,0.25
-Lewis,ladder2090,actual,4,0.25
+Lewis,circle2056,actual,9,0.25
+Lewis,circle2057,actual,9,0.25
+Lewis,circle2058,actual,9,0.25
+Lewis,circle2059,actual,5,0.25
+Lewis,ladder2060,actual,4,0.25
+Lewis,oh no1048,target,2,0.25
+Lewis,oh no1049,target,2,0.25
+Lewis,oh no1050,target,2,0.25
+Lewis,oh no1051,target,2,0.25
+Lewis,oh no1052,target,2,0.25
+Lewis,oh no1053,target,2,0.25
+Lewis,oh no1054,target,2,0.25
+Lewis,oh no1055,target,2,0.25
+Lewis,oh no1056,target,2,0.25
 Lewis,oh no1057,target,2,0.25
 Lewis,oh no1058,target,2,0.25
 Lewis,oh no1059,target,2,0.25
@@ -2151,81 +2112,72 @@ Lewis,oh no1060,target,2,0.25
 Lewis,oh no1061,target,2,0.25
 Lewis,oh no1062,target,2,0.25
 Lewis,oh no1063,target,2,0.25
-Lewis,oh no1064,target,2,0.25
-Lewis,oh no1065,target,2,0.25
-Lewis,oh no1066,target,2,0.25
-Lewis,oh no1067,target,2,0.25
-Lewis,oh no1068,target,2,0.25
-Lewis,oh no1069,target,2,0.25
-Lewis,oh no1070,target,2,0.25
-Lewis,oh no1071,target,2,0.25
-Lewis,oh no1072,target,2,0.25
-Lewis,oh no2091,actual,5,0.25
-Lewis,oh no2092,actual,5,0.25
-Lewis,oh no2814,actual,4,0.25
-Lewis,oh no2815,actual,4,0.25
-Lewis,oh no2816,actual,4,0.25
-Lewis,oh no2817,actual,4,0.25
-Lewis,oh no2818,actual,4,0.25
-Lewis,oh no2819,actual,4,0.25
-Lewis,oh no2820,actual,4,0.25
-Lewis,oh no2821,actual,4,0.25
-Lewis,oh no2822,actual,4,0.25
-Lewis,oh no2823,actual,4,0.25
-Lewis,oh no2824,actual,4,0.25
-Lewis,oh no2825,actual,4,0.25
-Lewis,oh no3135,actual,2,0.25
-Lewis,oh no3136,actual,2,0.25
-Lewis,tractor1384,target,1,0.25
-Lewis,tractor1385,target,1,0.25
-Lewis,tractor1386,target,1,0.25
-Lewis,tractor1387,target,1,0.25
-Lewis,tractor1388,target,1,0.25
-Lewis,tractor2093,actual,1,0.25
-Lewis,tractor2095,actual,4,0.25
-Lewis,tractor3488,actual,5,0.25
+Lewis,oh no2061,actual,5,0.25
+Lewis,oh no2062,actual,5,0.25
+Lewis,oh no2778,actual,4,0.25
+Lewis,oh no2779,actual,4,0.25
+Lewis,oh no2780,actual,4,0.25
+Lewis,oh no2781,actual,4,0.25
+Lewis,oh no2782,actual,4,0.25
+Lewis,oh no2783,actual,4,0.25
+Lewis,oh no2784,actual,4,0.25
+Lewis,oh no2785,actual,4,0.25
+Lewis,oh no2786,actual,4,0.25
+Lewis,oh no2787,actual,4,0.25
+Lewis,oh no2788,actual,4,0.25
+Lewis,oh no2789,actual,4,0.25
+Lewis,oh no3089,actual,2,0.25
+Lewis,oh no3090,actual,2,0.25
+Lewis,tractor1362,target,1,0.25
+Lewis,tractor1363,target,1,0.25
+Lewis,tractor1364,target,1,0.25
+Lewis,tractor1365,target,1,0.25
+Lewis,tractor1366,target,1,0.25
+Lewis,tractor2063,actual,1,0.25
+Lewis,tractor2065,actual,4,0.25
+Lewis,tractor3442,actual,5,0.25
+Lewis,uh-oh1064,target,2,0.25
+Lewis,uh-oh1065,target,2,0.25
+Lewis,uh-oh1066,target,2,0.25
+Lewis,uh-oh1067,target,2,0.25
+Lewis,uh-oh1068,target,2,0.25
+Lewis,uh-oh1069,target,2,0.25
+Lewis,uh-oh1070,target,2,0.25
+Lewis,uh-oh1071,target,2,0.25
+Lewis,uh-oh1072,target,2,0.25
 Lewis,uh-oh1073,target,2,0.25
 Lewis,uh-oh1074,target,2,0.25
 Lewis,uh-oh1075,target,2,0.25
-Lewis,uh-oh1076,target,2,0.25
-Lewis,uh-oh1077,target,2,0.25
-Lewis,uh-oh1078,target,2,0.25
-Lewis,uh-oh1079,target,2,0.25
-Lewis,uh-oh1080,target,2,0.25
-Lewis,uh-oh1081,target,2,0.25
-Lewis,uh-oh1082,target,2,0.25
-Lewis,uh-oh1083,target,2,0.25
-Lewis,uh-oh1084,target,2,0.25
-Lewis,uh-oh2096,actual,7,0.25
-Lewis,uh-oh2097,actual,2,0.25
-Lewis,uh-oh2098,actual,7,0.25
-Lewis,uh-oh2826,actual,6,0.25
-Lewis,uh-oh2827,actual,6,0.25
-Lewis,uh-oh2828,actual,6,0.25
-Lewis,uh-oh2829,actual,6,0.25
-Lewis,uh-oh2830,actual,6,0.25
-Lewis,uh-oh2831,actual,3,0.25
-Lewis,uh-oh2832,actual,6,0.25
-Lewis,uh-oh2833,actual,6,0.25
-Lewis,woof woof1389,target,1,0.25
-Lewis,woof woof1390,target,1,0.25
-Lewis,woof woof3138,actual,2,0.25
-Mira,Muumi/Moomin2191,actual,2,0.25
+Lewis,uh-oh2066,actual,7,0.25
+Lewis,uh-oh2067,actual,2,0.25
+Lewis,uh-oh2068,actual,7,0.25
+Lewis,uh-oh2790,actual,6,0.25
+Lewis,uh-oh2791,actual,6,0.25
+Lewis,uh-oh2792,actual,6,0.25
+Lewis,uh-oh2793,actual,6,0.25
+Lewis,uh-oh2794,actual,6,0.25
+Lewis,uh-oh2795,actual,3,0.25
+Lewis,uh-oh2796,actual,6,0.25
+Lewis,uh-oh2797,actual,6,0.25
+Lewis,woof woof1367,target,1,0.25
+Lewis,woof woof1368,target,1,0.25
+Lewis,woof woof3092,actual,2,0.25
+Mira,Muumi/Moomin2161,actual,2,0.25
+Mira,Muumi/Moomin3244,actual,2,0.25
+Mira,Muumi/Moomin3245,actual,2,0.25
+Mira,Muumi/Moomin3246,actual,2,0.25
+Mira,Muumi/Moomin3247,actual,2,0.25
+Mira,Muumi/Moomin3248,actual,2,0.25
+Mira,Muumi/Moomin3249,actual,2,0.25
 Mira,Muumi/Moomin325,target,3,0.25
+Mira,Muumi/Moomin3250,actual,2,0.25
+Mira,Muumi/Moomin3251,actual,2,0.25
+Mira,Muumi/Moomin3252,actual,2,0.25
+Mira,Muumi/Moomin3253,actual,2,0.25
 Mira,Muumi/Moomin326,target,3,0.25
 Mira,Muumi/Moomin327,target,3,0.25
 Mira,Muumi/Moomin328,target,3,0.25
 Mira,Muumi/Moomin329,target,3,0.25
-Mira,Muumi/Moomin3290,actual,2,0.25
-Mira,Muumi/Moomin3291,actual,2,0.25
-Mira,Muumi/Moomin3292,actual,2,0.25
-Mira,Muumi/Moomin3293,actual,2,0.25
-Mira,Muumi/Moomin3294,actual,2,0.25
-Mira,Muumi/Moomin3295,actual,2,0.25
-Mira,Muumi/Moomin3296,actual,2,0.25
-Mira,Muumi/Moomin3297,actual,2,0.25
-Mira,Muumi/Moomin3298,actual,2,0.25
-Mira,Muumi/Moomin3299,actual,2,0.25
 Mira,Muumi/Moomin330,target,3,0.25
 Mira,Muumi/Moomin331,target,3,0.25
 Mira,Muumi/Moomin332,target,3,0.25
@@ -2235,69 +2187,69 @@ Mira,Muumi/Moomin335,target,3,0.25
 Mira,häntä310,target,1,0.25
 Mira,häntä311,target,1,0.25
 Mira,häntä312,target,1,0.25
-Mira,häntä3283,actual,2,0.25
-Mira,häntä3284,actual,2,0.25
-Mira,häntä3285,actual,2,0.25
-Mira,jalka2180,actual,3,0.25
-Mira,jalka2181,actual,2,0.25
+Mira,häntä3237,actual,2,0.25
+Mira,häntä3238,actual,2,0.25
+Mira,häntä3239,actual,2,0.25
+Mira,jalka2150,actual,3,0.25
+Mira,jalka2151,actual,2,0.25
 Mira,jalka313,target,1,0.25
 Mira,jalka314,target,1,0.25
-Mira,juna2182,actual,2,0.25
+Mira,juna2152,actual,2,0.25
 Mira,juna315,target,2,0.25
-Mira,kaataa2183,actual,2,0.25
-Mira,kaataa2184,actual,2,0.25
+Mira,kaataa2153,actual,2,0.25
+Mira,kaataa2154,actual,2,0.25
 Mira,kaataa316,target,3,0.25
 Mira,kaataa317,target,3,0.25
-Mira,kala2185,actual,2,0.25
-Mira,kala2186,actual,2,0.25
+Mira,kala2155,actual,2,0.25
+Mira,kala2156,actual,2,0.25
 Mira,kala318,target,2,0.25
 Mira,kala319,target,2,0.25
-Mira,kenkä2187,actual,2,0.25
-Mira,kenkä2188,actual,2,0.25
+Mira,kenkä2157,actual,2,0.25
+Mira,kenkä2158,actual,2,0.25
 Mira,kenkä320,target,1,0.25
 Mira,kenkä321,target,1,0.25
-Mira,kukka3286,actual,1,0.25
-Mira,lintu2189,actual,3,0.25
-Mira,loppu3287,actual,1,0.25
-Mira,luumu2190,actual,2,0.25
+Mira,kukka3240,actual,1,0.25
+Mira,lintu2159,actual,3,0.25
+Mira,loppu3241,actual,1,0.25
+Mira,luumu2160,actual,2,0.25
 Mira,luumu323,target,2,0.25
 Mira,luumu324,target,2,0.25
-Mira,luumu3288,actual,2,0.25
-Mira,mummu1628,target,1,0.25
-Mira,mummu3289,actual,2,0.25
-Mira,nalle1629,target,1,0.25
-Mira,nalle3300,actual,1,0.25
-Mira,napa2192,actual,2,0.25
-Mira,napa2193,actual,2,0.25
+Mira,luumu3242,actual,2,0.25
+Mira,mummu1606,target,1,0.25
+Mira,mummu3243,actual,2,0.25
+Mira,nalle1607,target,1,0.25
+Mira,nalle3254,actual,1,0.25
+Mira,napa2162,actual,2,0.25
+Mira,napa2163,actual,2,0.25
 Mira,napa336,target,1,0.25
 Mira,napa337,target,1,0.25
-Mira,nenä2194,actual,2,0.25
+Mira,nenä2164,actual,2,0.25
 Mira,nenä338,target,2,0.25
-Mira,paapaa2195,actual,2,0.25
-Mira,pelle1630,target,1,0.25
-Mira,pelle3301,actual,1,0.25
-Mira,piiloon2196,actual,2,0.25
-Mira,setä2197,actual,3,0.25
+Mira,paapaa2165,actual,2,0.25
+Mira,pelle1608,target,1,0.25
+Mira,pelle3255,actual,1,0.25
+Mira,piiloon2166,actual,2,0.25
+Mira,setä2167,actual,3,0.25
 Mira,setä341,target,1,0.25
-Mira,tonttu1632,target,1,0.25
-Mira,tonttu1633,target,1,0.25
-Mira,tonttu1634,target,1,0.25
-Mira,tonttu2198,actual,3,0.25
-Mira,tonttu2199,actual,3,0.25
-Mira,tonttu2200,actual,3,0.25
-Mira,tyttö1635,target,1,0.25
-Mira,tyttö1636,target,1,0.25
-Mira,tyttö1637,target,1,0.25
-Mira,tyttö1638,target,1,0.25
-Mira,tyttö1855,actual,1,0.25
-Mira,tyttö3302,actual,2,0.25
-Mira,tyttö3303,actual,2,0.25
-Mira,tyttö3304,actual,2,0.25
-Mira,tyyny2201,actual,2,0.25
+Mira,tonttu1610,target,1,0.25
+Mira,tonttu1611,target,1,0.25
+Mira,tonttu1612,target,1,0.25
+Mira,tonttu2168,actual,3,0.25
+Mira,tonttu2169,actual,3,0.25
+Mira,tonttu2170,actual,3,0.25
+Mira,tyttö1613,target,1,0.25
+Mira,tyttö1614,target,1,0.25
+Mira,tyttö1615,target,1,0.25
+Mira,tyttö1616,target,1,0.25
+Mira,tyttö1831,actual,1,0.25
+Mira,tyttö3256,actual,2,0.25
+Mira,tyttö3257,actual,2,0.25
+Mira,tyttö3258,actual,2,0.25
+Mira,tyyny2171,actual,2,0.25
 Mira,tyyny342,target,3,0.25
 Mira,tyyny343,target,3,0.25
-Mira,täällä1631,target,1,0.25
-Mira,täällä2926,actual,3,0.25
+Mira,täällä1609,target,1,0.25
+Mira,täällä2890,actual,3,0.25
 Patrick,D2184,target,6,0.25
 Patrick,D2185,target,6,0.25
 Patrick,D2186,target,6,0.25
@@ -2307,29 +2259,29 @@ Patrick,D2189,target,6,0.25
 Patrick,D2190,target,6,0.25
 Patrick,D2191,target,6,0.25
 Patrick,D2192,target,6,0.25
-Patrick,D22102,actual,4,0.25
-Patrick,D22103,actual,1,0.25
-Patrick,D22104,actual,1,0.25
-Patrick,D22106,actual,3,0.25
-Patrick,D22665,actual,4,0.25
-Patrick,D22667,actual,1,0.25
-Patrick,D22668,actual,4,0.25
+Patrick,D22072,actual,4,0.25
+Patrick,D22073,actual,1,0.25
+Patrick,D22074,actual,1,0.25
+Patrick,D22076,actual,3,0.25
+Patrick,D22630,actual,4,0.25
+Patrick,D22632,actual,1,0.25
+Patrick,D22633,actual,4,0.25
 Patrick,Doody203,target,7,0.25
 Patrick,Doody204,target,7,0.25
 Patrick,Doody205,target,7,0.25
 Patrick,Doody206,target,7,0.25
 Patrick,Doody207,target,7,0.25
 Patrick,Doody208,target,7,0.25
-Patrick,Doody2117,actual,4,0.25
-Patrick,Doody2118,actual,1,0.25
-Patrick,Doody2119,actual,4,0.25
-Patrick,Doody2120,actual,3,0.25
-Patrick,Doody2121,actual,4,0.25
-Patrick,Doody2122,actual,4,0.25
+Patrick,Doody2087,actual,4,0.25
+Patrick,Doody2088,actual,1,0.25
+Patrick,Doody2089,actual,4,0.25
+Patrick,Doody2090,actual,3,0.25
+Patrick,Doody2091,actual,4,0.25
+Patrick,Doody2092,actual,4,0.25
 Patrick,baby181,target,6,0.25
 Patrick,baby182,target,6,0.25
-Patrick,baby2100,actual,1,0.25
-Patrick,baby2101,actual,1,0.25
+Patrick,baby2070,actual,1,0.25
+Patrick,baby2071,actual,1,0.25
 Patrick,beebies183,target,1,0.25
 Patrick,daddy193,target,7,0.25
 Patrick,daddy194,target,7,0.25
@@ -2341,56 +2293,56 @@ Patrick,daddy199,target,7,0.25
 Patrick,daddy200,target,7,0.25
 Patrick,daddy201,target,7,0.25
 Patrick,daddy202,target,7,0.25
-Patrick,daddy2107,actual,4,0.25
-Patrick,daddy2109,actual,4,0.25
-Patrick,daddy2110,actual,3,0.25
-Patrick,daddy2111,actual,4,0.25
-Patrick,daddy2112,actual,4,0.25
-Patrick,daddy2113,actual,4,0.25
-Patrick,daddy2114,actual,4,0.25
-Patrick,daddy2115,actual,4,0.25
-Patrick,daddy2116,actual,4,0.25
+Patrick,daddy2077,actual,4,0.25
+Patrick,daddy2079,actual,4,0.25
+Patrick,daddy2080,actual,3,0.25
+Patrick,daddy2081,actual,4,0.25
+Patrick,daddy2082,actual,4,0.25
+Patrick,daddy2083,actual,4,0.25
+Patrick,daddy2084,actual,4,0.25
+Patrick,daddy2085,actual,4,0.25
+Patrick,daddy2086,actual,4,0.25
 Patrick,hello209,target,4,0.25
+Patrick,hello2093,actual,6,0.25
 Patrick,hello210,target,4,0.25
-Patrick,hello2123,actual,6,0.25
-Patrick,hello2835,actual,3,0.25
+Patrick,hello2799,actual,3,0.25
 Patrick,horsey211,target,6,0.25
 Patrick,horsey212,target,6,0.25
 Patrick,horsey213,target,6,0.25
 Patrick,horsey214,target,6,0.25
 Patrick,horsey215,target,6,0.25
 Patrick,horsey216,target,6,0.25
-Patrick,horsey2836,actual,2,0.25
-Patrick,horsey2837,actual,2,0.25
-Patrick,horsey2838,actual,6,0.25
-Patrick,horsey2839,actual,6,0.25
+Patrick,horsey2800,actual,2,0.25
+Patrick,horsey2801,actual,2,0.25
+Patrick,horsey2802,actual,6,0.25
+Patrick,horsey2803,actual,6,0.25
 Patrick,quack quack224,target,1,0.25
 Patrick,quack quack225,target,1,0.25
 Patrick,quack quack226,target,1,0.25
-Patrick,quack quack2845,actual,2,0.25
-Patrick,quack quack2846,actual,1,0.25
-Patrick,squeak squeak1394,target,1,0.25
-Patrick,squeak squeak1395,target,1,0.25
-Patrick,squeak squeak2847,actual,1,0.25
-Patrick,tractor1391,target,3,0.25
-Patrick,tractor1392,target,3,0.25
-Patrick,tractor2669,actual,2,0.25
-Patrick,uh oh1085,target,7,0.25
-Patrick,uh oh1086,target,7,0.25
-Patrick,uh oh1087,target,7,0.25
-Patrick,uh oh1088,target,7,0.25
-Patrick,uh oh1089,target,7,0.25
-Patrick,uh oh2840,actual,1,0.25
-Patrick,uh oh2841,actual,6,0.25
-Patrick,uh oh2842,actual,1,0.25
-Patrick,uh oh2843,actual,6,0.25
-Patrick,uh oh2844,actual,1,0.25
-Patrick,water2127,actual,2,0.25
-Patrick,water2128,actual,2,0.25
-Patrick,water2129,actual,1,0.25
-Patrick,water2131,actual,2,0.25
-Patrick,water2132,actual,2,0.25
-Patrick,water2133,actual,2,0.25
+Patrick,quack quack2809,actual,2,0.25
+Patrick,quack quack2810,actual,1,0.25
+Patrick,squeak squeak1372,target,1,0.25
+Patrick,squeak squeak1373,target,1,0.25
+Patrick,squeak squeak2811,actual,1,0.25
+Patrick,tractor1369,target,3,0.25
+Patrick,tractor1370,target,3,0.25
+Patrick,tractor2634,actual,2,0.25
+Patrick,uh oh1076,target,7,0.25
+Patrick,uh oh1077,target,7,0.25
+Patrick,uh oh1078,target,7,0.25
+Patrick,uh oh1079,target,7,0.25
+Patrick,uh oh1080,target,7,0.25
+Patrick,uh oh2804,actual,1,0.25
+Patrick,uh oh2805,actual,6,0.25
+Patrick,uh oh2806,actual,1,0.25
+Patrick,uh oh2807,actual,6,0.25
+Patrick,uh oh2808,actual,1,0.25
+Patrick,water2097,actual,2,0.25
+Patrick,water2098,actual,2,0.25
+Patrick,water2099,actual,1,0.25
+Patrick,water2101,actual,2,0.25
+Patrick,water2102,actual,2,0.25
+Patrick,water2103,actual,2,0.25
 Patrick,water217,target,6,0.25
 Patrick,water218,target,6,0.25
 Patrick,water219,target,6,0.25
@@ -2398,573 +2350,573 @@ Patrick,water220,target,6,0.25
 Patrick,water221,target,6,0.25
 Patrick,water222,target,6,0.25
 Patrick,water223,target,6,0.25
-Patrick,woof woof2134,actual,1,0.25
-Rachel,Beba2139,actual,3,0.25
-Rachel,Beba2140,actual,7,0.25
+Patrick,woof woof2104,actual,1,0.25
+Rachel,Beba2109,actual,3,0.25
+Rachel,Beba2110,actual,7,0.25
 Rachel,Beba230,target,3,0.25
 Rachel,Beba231,target,3,0.25
-Rachel,Daisy1824,actual,2,0.25
+Rachel,Daisy1800,actual,2,0.25
 Rachel,Daisy233,target,1,0.25
-Rachel,Mummy2146,actual,9,0.25
+Rachel,Mummy2116,actual,9,0.25
 Rachel,Mummy242,target,2,0.25
 Rachel,Mummy243,target,2,0.25
 Rachel,Mummy244,target,2,0.25
-Rachel,Mummy3141,actual,10,0.25
-Rachel,Mummy3617,actual,3,0.25
-Rachel,all gone2135,actual,14,0.25
-Rachel,apple2671,actual,2,0.25
-Rachel,away1091,target,1,0.25
-Rachel,baby2136,actual,10,0.25
-Rachel,baby2137,actual,6,0.25
-Rachel,baby2138,actual,11,0.25
+Rachel,Mummy3095,actual,10,0.25
+Rachel,Mummy3569,actual,3,0.25
+Rachel,all gone2105,actual,14,0.25
+Rachel,apple2636,actual,2,0.25
+Rachel,away1082,target,1,0.25
+Rachel,baby2106,actual,10,0.25
+Rachel,baby2107,actual,6,0.25
+Rachel,baby2108,actual,11,0.25
 Rachel,baby227,target,3,0.25
 Rachel,baby228,target,3,0.25
 Rachel,baby229,target,3,0.25
 Rachel,beep beep232,target,1,0.25
-Rachel,beep beep2672,actual,7,0.25
-Rachel,biscuits2141,actual,1,0.25
-Rachel,biscuits3627,actual,1,0.25
-Rachel,doggy2142,actual,14,0.25
-Rachel,doggy2143,actual,14,0.25
-Rachel,doggy2144,actual,7,0.25
+Rachel,beep beep2637,actual,7,0.25
+Rachel,biscuits2111,actual,1,0.25
+Rachel,biscuits3579,actual,1,0.25
+Rachel,doggy2112,actual,14,0.25
+Rachel,doggy2113,actual,14,0.25
+Rachel,doggy2114,actual,7,0.25
 Rachel,doggy234,target,3,0.25
 Rachel,doggy235,target,3,0.25
 Rachel,doggy236,target,3,0.25
 Rachel,doggy237,target,3,0.25
 Rachel,doggy238,target,3,0.25
 Rachel,doggy239,target,3,0.25
-Rachel,doggy2673,actual,11,0.25
-Rachel,doggy2674,actual,10,0.25
-Rachel,flowers1397,target,1,0.25
-Rachel,flowers1398,target,1,0.25
-Rachel,flowers3140,actual,5,0.25
-Rachel,get you2145,actual,11,0.25
-Rachel,hello2848,actual,11,0.25
-Rachel,night night1399,target,1,0.25
-Rachel,night night1400,target,1,0.25
-Rachel,night night1826,actual,8,0.25
+Rachel,doggy2638,actual,11,0.25
+Rachel,doggy2639,actual,10,0.25
+Rachel,flowers1375,target,1,0.25
+Rachel,flowers1376,target,1,0.25
+Rachel,flowers3094,actual,5,0.25
+Rachel,get you2115,actual,11,0.25
+Rachel,hello2812,actual,11,0.25
+Rachel,night night1377,target,1,0.25
+Rachel,night night1378,target,1,0.25
+Rachel,night night1802,actual,8,0.25
 Rachel,piggy245,target,2,0.25
-Rachel,piggy2675,actual,5,0.25
+Rachel,piggy2640,actual,5,0.25
 Rachel,quack quack246,target,1,0.25
 Rachel,quack quack247,target,1,0.25
-Rachel,quack quack3142,actual,10,0.25
-Rachel,quack quack3185,actual,5,0.25
-Radia,Allah1284,target,1,0.25
-Radia,Allah3609,actual,3,0.25
-Radia,BOTTLE2427,actual,2,0.25
-Radia,BOTTLE2428,actual,1,0.25
-Radia,BOTTLE628,target,1,0.25
-Radia,BOTTLE629,target,1,0.25
-Radia,MAMA630,target,1,0.25
-Radia,MAMA631,target,1,0.25
-Radia,PILLOW2432,actual,4,0.25
-Radia,PILLOW3417,actual,3,0.25
-Radia,PILLOW637,target,2,0.25
-Radia,PILLOW638,target,2,0.25
-Radia,acha2999,actual,3,0.25
-Radia,ayee!1287,target,1,0.25
-Radia,ayee!2735,actual,5,0.25
-Radia,chalo3413,actual,2,0.25
-Radia,daalu3418,actual,4,0.25
-Radia,daalu640,target,1,0.25
-Radia,dadi2436,actual,2,0.25
-Radia,dadi2437,actual,2,0.25
-Radia,dadi643,target,3,0.25
-Radia,dadi644,target,3,0.25
-Radia,davayee1924,actual,2,0.25
-Radia,davayee649,target,1,0.25
-Radia,gir gaya2442,actual,5,0.25
-Radia,kapra2441,actual,4,0.25
-Radia,"kha lo,kha lun2443",actual,4,0.25
-Radia,"kha lo,kha lun650",target,2,0.25
-Radia,khana2429,actual,3,0.25
-Radia,khana633,target,3,0.25
-Radia,machar2430,actual,1,0.25
-Radia,machar2431,actual,1,0.25
-Radia,machar635,target,1,0.25
-Radia,machar636,target,1,0.25
-Radia,nahin1923,actual,2,0.25
-Radia,nahin632,target,1,0.25
-Radia,nino BT2439,actual,3,0.25
-Radia,nino BT2440,actual,3,0.25
-Radia,nino BT646,target,3,0.25
-Radia,nino BT647,target,3,0.25
-Radia,oho!1285,target,2,0.25
-Radia,oho!2998,actual,3,0.25
-Radia,sona2445,actual,4,0.25
-Radia,sona2446,actual,4,0.25
-Radia,sona3419,actual,6,0.25
-Radia,sona651,target,4,0.25
-Radia,sona652,target,4,0.25
-Radia,sona653,target,4,0.25
-Radia,theek hai2444,actual,3,0.25
-Radia,vava BT2434,actual,1,0.25
-Radia,vava BT2435,actual,1,0.25
-Radia,vava BT641,target,1,0.25
-Radia,vava BT642,target,1,0.25
-Romuald,allô1304,target,4,0.25
-Romuald,allô3019,actual,6,0.25
-Romuald,alors1305,target,4,0.25
-Romuald,alors1306,target,4,0.25
-Romuald,alors3020,actual,6,0.25
-Romuald,ballon2504,actual,6,0.25
-Romuald,ballon756,target,1,0.25
-Romuald,bobo2505,actual,4,0.25
-Romuald,bobo2506,actual,4,0.25
-Romuald,bobo2688,actual,3,0.25
-Romuald,bobo2689,actual,3,0.25
-Romuald,bobo757,target,2,0.25
-Romuald,bobo758,target,2,0.25
-Romuald,bobo759,target,2,0.25
-Romuald,bobo760,target,2,0.25
-Romuald,cassé2507,actual,2,0.25
-Romuald,cassé2508,actual,4,0.25
-Romuald,cassé2509,actual,4,0.25
-Romuald,cassé2510,actual,4,0.25
-Romuald,cassé2511,actual,2,0.25
-Romuald,cassé2512,actual,2,0.25
-Romuald,cassé2513,actual,2,0.25
-Romuald,cassé2514,actual,4,0.25
-Romuald,cassé3021,actual,4,0.25
-Romuald,cassé3437,actual,1,0.25
+Rachel,quack quack3096,actual,10,0.25
+Rachel,quack quack3139,actual,5,0.25
+Radia,Allah1262,target,1,0.25
+Radia,Allah3561,actual,3,0.25
+Radia,BOTTLE2392,actual,2,0.25
+Radia,BOTTLE2393,actual,1,0.25
+Radia,BOTTLE619,target,1,0.25
+Radia,BOTTLE620,target,1,0.25
+Radia,MAMA621,target,1,0.25
+Radia,MAMA622,target,1,0.25
+Radia,PILLOW2397,actual,4,0.25
+Radia,PILLOW3371,actual,3,0.25
+Radia,PILLOW628,target,2,0.25
+Radia,PILLOW629,target,2,0.25
+Radia,acha2953,actual,3,0.25
+Radia,ayee!1265,target,1,0.25
+Radia,ayee!2699,actual,5,0.25
+Radia,chalo3367,actual,2,0.25
+Radia,daalu3372,actual,4,0.25
+Radia,daalu631,target,1,0.25
+Radia,dadi2401,actual,2,0.25
+Radia,dadi2402,actual,2,0.25
+Radia,dadi634,target,3,0.25
+Radia,dadi635,target,3,0.25
+Radia,davayee1894,actual,2,0.25
+Radia,davayee640,target,1,0.25
+Radia,gir gaya2407,actual,5,0.25
+Radia,kapra2406,actual,4,0.25
+Radia,"kha lo,kha lun2408",actual,4,0.25
+Radia,"kha lo,kha lun641",target,2,0.25
+Radia,khana2394,actual,3,0.25
+Radia,khana624,target,3,0.25
+Radia,machar2395,actual,1,0.25
+Radia,machar2396,actual,1,0.25
+Radia,machar626,target,1,0.25
+Radia,machar627,target,1,0.25
+Radia,nahin1893,actual,2,0.25
+Radia,nahin623,target,1,0.25
+Radia,nino BT2404,actual,3,0.25
+Radia,nino BT2405,actual,3,0.25
+Radia,nino BT637,target,3,0.25
+Radia,nino BT638,target,3,0.25
+Radia,oho!1263,target,2,0.25
+Radia,oho!2952,actual,3,0.25
+Radia,sona2410,actual,4,0.25
+Radia,sona2411,actual,4,0.25
+Radia,sona3373,actual,6,0.25
+Radia,sona642,target,4,0.25
+Radia,sona643,target,4,0.25
+Radia,sona644,target,4,0.25
+Radia,theek hai2409,actual,3,0.25
+Radia,vava BT2399,actual,1,0.25
+Radia,vava BT2400,actual,1,0.25
+Radia,vava BT632,target,1,0.25
+Radia,vava BT633,target,1,0.25
+Romuald,allô1282,target,4,0.25
+Romuald,allô2973,actual,6,0.25
+Romuald,alors1283,target,4,0.25
+Romuald,alors1284,target,4,0.25
+Romuald,alors2974,actual,6,0.25
+Romuald,ballon2469,actual,6,0.25
+Romuald,ballon747,target,1,0.25
+Romuald,bobo2470,actual,4,0.25
+Romuald,bobo2471,actual,4,0.25
+Romuald,bobo2653,actual,3,0.25
+Romuald,bobo2654,actual,3,0.25
+Romuald,bobo748,target,2,0.25
+Romuald,bobo749,target,2,0.25
+Romuald,bobo750,target,2,0.25
+Romuald,bobo751,target,2,0.25
+Romuald,cassé2472,actual,2,0.25
+Romuald,cassé2473,actual,4,0.25
+Romuald,cassé2474,actual,4,0.25
+Romuald,cassé2475,actual,4,0.25
+Romuald,cassé2476,actual,2,0.25
+Romuald,cassé2477,actual,2,0.25
+Romuald,cassé2478,actual,2,0.25
+Romuald,cassé2479,actual,4,0.25
+Romuald,cassé2975,actual,4,0.25
+Romuald,cassé3391,actual,1,0.25
+Romuald,cassé752,target,2,0.25
+Romuald,cassé753,target,2,0.25
+Romuald,cassé754,target,2,0.25
+Romuald,cassé755,target,2,0.25
+Romuald,cassé756,target,2,0.25
+Romuald,cassé757,target,2,0.25
+Romuald,cassé758,target,2,0.25
+Romuald,cassé759,target,2,0.25
+Romuald,cassé760,target,2,0.25
 Romuald,cassé761,target,2,0.25
-Romuald,cassé762,target,2,0.25
-Romuald,cassé763,target,2,0.25
-Romuald,cassé764,target,2,0.25
-Romuald,cassé765,target,2,0.25
-Romuald,cassé766,target,2,0.25
-Romuald,cassé767,target,2,0.25
-Romuald,cassé768,target,2,0.25
-Romuald,cassé769,target,2,0.25
-Romuald,cassé770,target,2,0.25
-Romuald,cheval2515,actual,1,0.25
-Romuald,cochon2516,actual,5,0.25
-Romuald,cochon2517,actual,5,0.25
-Romuald,cochon772,target,2,0.25
-Romuald,cochon773,target,2,0.25
-Romuald,hop-là1486,target,2,0.25
-Romuald,hop-là1487,target,2,0.25
-Romuald,hop-là1488,target,2,0.25
-Romuald,hop-là1489,target,2,0.25
-Romuald,hop-là3022,actual,5,0.25
-Romuald,hop-là3023,actual,5,0.25
-Romuald,l'avion2503,actual,1,0.25
-Romuald,la tête2518,actual,5,0.25
-Romuald,mouton1943,actual,4,0.25
-Romuald,mouton1944,actual,4,0.25
-Romuald,mouton3024,actual,6,0.25
-Romuald,mouton3025,actual,6,0.25
-Romuald,mouton3026,actual,6,0.25
-Romuald,mouton776,target,1,0.25
-Romuald,mouton777,target,1,0.25
-Romuald,mouton778,target,1,0.25
-Romuald,mouton779,target,1,0.25
-Romuald,mouton780,target,1,0.25
-Romuald,papa2520,actual,3,0.25
-Romuald,papa781,target,1,0.25
-Romuald,un livre1307,target,2,0.25
-Romuald,un livre1308,target,2,0.25
-Romuald,un livre2521,actual,4,0.25
-Romuald,un livre2522,actual,6,0.25
-Romuald,voilà3027,actual,6,0.25
-Shazim,AUNTI1291,target,2,0.25
-Shazim,AUNTI1292,target,2,0.25
-Shazim,AUNTI1293,target,2,0.25
-Shazim,AUNTI3610,actual,4,0.25
-Shazim,AUNTI3611,actual,4,0.25
-Shazim,CATTY BT2447,actual,3,0.25
-Shazim,CATTY BT2448,actual,1,0.25
-Shazim,CATTY BT2449,actual,5,0.25
-Shazim,CATTY BT3420,actual,5,0.25
-Shazim,CATTY BT3421,actual,3,0.25
-Shazim,CATTY BT654,target,3,0.25
-Shazim,CATTY BT655,target,3,0.25
-Shazim,CATTY BT656,target,3,0.25
-Shazim,CATTY BT657,target,3,0.25
-Shazim,CATTY BT658,target,3,0.25
-Shazim,DOGGY BT3433,actual,5,0.25
-Shazim,EYES1294,target,4,0.25
-Shazim,EYES1295,target,4,0.25
-Shazim,EYES2739,actual,5,0.25
-Shazim,EYES3000,actual,2,0.25
-Shazim,MAMA1753,target,2,0.25
-Shazim,MAMA1754,target,2,0.25
-Shazim,MAMA1755,target,2,0.25
-Shazim,MAMA2452,actual,2,0.25
-Shazim,MAMA3425,actual,2,0.25
-Shazim,MAMA3426,actual,2,0.25
-Shazim,TRACTOR3422,actual,5,0.25
-Shazim,ajao1296,target,4,0.25
-Shazim,ajao1297,target,4,0.25
-Shazim,ajao3001,actual,3,0.25
-Shazim,ajao3613,actual,4,0.25
-Shazim,"ajjan, BT1808",target,2,0.25
-Shazim,"ajjan, BT3614",actual,1,0.25
-Shazim,ayee!1288,target,5,0.25
-Shazim,ayee!1289,target,5,0.25
-Shazim,ayee!1290,target,5,0.25
-Shazim,ayee!2736,actual,5,0.25
-Shazim,ayee!2737,actual,5,0.25
-Shazim,ayee!2738,actual,5,0.25
-Shazim,baba2454,actual,2,0.25
-Shazim,baba3430,actual,3,0.25
-Shazim,baba3431,actual,3,0.25
-Shazim,baba671,target,2,0.25
-Shazim,baba672,target,2,0.25
-Shazim,baba673,target,2,0.25
-Shazim,baow baowBT2453,actual,2,0.25
-Shazim,baow baowBT666,target,2,0.25
-Shazim,bhayee1926,actual,2,0.25
-Shazim,bhayee664,target,2,0.25
-Shazim,billi3432,actual,1,0.25
-Shazim,chachu3436,actual,5,0.25
-Shazim,chachu676,target,1,0.25
-Shazim,chuchu BT3427,actual,5,0.25
-Shazim,chuchu BT667,target,1,0.25
-Shazim,chunti2455,actual,5,0.25
-Shazim,dado3435,actual,3,0.25
-Shazim,duddu BT3424,actual,3,0.25
-Shazim,duddu BT665,target,1,0.25
-Shazim,khala2451,actual,1,0.25
-Shazim,khala3423,actual,2,0.25
-Shazim,khala662,target,2,0.25
-Shazim,khala663,target,2,0.25
-Shazim,mamu3428,actual,2,0.25
-Shazim,mamu669,target,3,0.25
-Shazim,mamu670,target,3,0.25
-Shazim,miyon BT1925,actual,1,0.25
-Shazim,miyon BT659,target,2,0.25
-Shazim,phuppo3434,actual,1,0.25
-Sini,hauhau2721,actual,4,0.25
-Sini,heihei2718,actual,4,0.25
-Sini,heppa1639,target,2,0.25
-Sini,heppa3578,actual,3,0.25
-Sini,istuu3579,actual,2,0.25
-Sini,juna2719,actual,4,0.25
+Romuald,cheval2480,actual,1,0.25
+Romuald,cochon2481,actual,5,0.25
+Romuald,cochon2482,actual,5,0.25
+Romuald,cochon763,target,2,0.25
+Romuald,cochon764,target,2,0.25
+Romuald,hop-là1464,target,2,0.25
+Romuald,hop-là1465,target,2,0.25
+Romuald,hop-là1466,target,2,0.25
+Romuald,hop-là1467,target,2,0.25
+Romuald,hop-là2976,actual,5,0.25
+Romuald,hop-là2977,actual,5,0.25
+Romuald,l'avion2468,actual,1,0.25
+Romuald,la tête2483,actual,5,0.25
+Romuald,mouton1913,actual,4,0.25
+Romuald,mouton1914,actual,4,0.25
+Romuald,mouton2978,actual,6,0.25
+Romuald,mouton2979,actual,6,0.25
+Romuald,mouton2980,actual,6,0.25
+Romuald,mouton767,target,1,0.25
+Romuald,mouton768,target,1,0.25
+Romuald,mouton769,target,1,0.25
+Romuald,mouton770,target,1,0.25
+Romuald,mouton771,target,1,0.25
+Romuald,papa2485,actual,3,0.25
+Romuald,papa772,target,1,0.25
+Romuald,un livre1285,target,2,0.25
+Romuald,un livre1286,target,2,0.25
+Romuald,un livre2486,actual,4,0.25
+Romuald,un livre2487,actual,6,0.25
+Romuald,voilà2981,actual,6,0.25
+Shazim,AUNTI1269,target,2,0.25
+Shazim,AUNTI1270,target,2,0.25
+Shazim,AUNTI1271,target,2,0.25
+Shazim,AUNTI3562,actual,4,0.25
+Shazim,AUNTI3563,actual,4,0.25
+Shazim,CATTY BT2412,actual,3,0.25
+Shazim,CATTY BT2413,actual,1,0.25
+Shazim,CATTY BT2414,actual,5,0.25
+Shazim,CATTY BT3374,actual,5,0.25
+Shazim,CATTY BT3375,actual,3,0.25
+Shazim,CATTY BT645,target,3,0.25
+Shazim,CATTY BT646,target,3,0.25
+Shazim,CATTY BT647,target,3,0.25
+Shazim,CATTY BT648,target,3,0.25
+Shazim,CATTY BT649,target,3,0.25
+Shazim,DOGGY BT3387,actual,5,0.25
+Shazim,EYES1272,target,4,0.25
+Shazim,EYES1273,target,4,0.25
+Shazim,EYES2703,actual,5,0.25
+Shazim,EYES2954,actual,2,0.25
+Shazim,MAMA1731,target,2,0.25
+Shazim,MAMA1732,target,2,0.25
+Shazim,MAMA1733,target,2,0.25
+Shazim,MAMA2417,actual,2,0.25
+Shazim,MAMA3379,actual,2,0.25
+Shazim,MAMA3380,actual,2,0.25
+Shazim,TRACTOR3376,actual,5,0.25
+Shazim,ajao1274,target,4,0.25
+Shazim,ajao1275,target,4,0.25
+Shazim,ajao2955,actual,3,0.25
+Shazim,ajao3565,actual,4,0.25
+Shazim,"ajjan, BT1784",target,2,0.25
+Shazim,"ajjan, BT3566",actual,1,0.25
+Shazim,ayee!1266,target,5,0.25
+Shazim,ayee!1267,target,5,0.25
+Shazim,ayee!1268,target,5,0.25
+Shazim,ayee!2700,actual,5,0.25
+Shazim,ayee!2701,actual,5,0.25
+Shazim,ayee!2702,actual,5,0.25
+Shazim,baba2419,actual,2,0.25
+Shazim,baba3384,actual,3,0.25
+Shazim,baba3385,actual,3,0.25
+Shazim,baba662,target,2,0.25
+Shazim,baba663,target,2,0.25
+Shazim,baba664,target,2,0.25
+Shazim,baow baowBT2418,actual,2,0.25
+Shazim,baow baowBT657,target,2,0.25
+Shazim,bhayee1896,actual,2,0.25
+Shazim,bhayee655,target,2,0.25
+Shazim,billi3386,actual,1,0.25
+Shazim,chachu3390,actual,5,0.25
+Shazim,chachu667,target,1,0.25
+Shazim,chuchu BT3381,actual,5,0.25
+Shazim,chuchu BT658,target,1,0.25
+Shazim,chunti2420,actual,5,0.25
+Shazim,dado3389,actual,3,0.25
+Shazim,duddu BT3378,actual,3,0.25
+Shazim,duddu BT656,target,1,0.25
+Shazim,khala2416,actual,1,0.25
+Shazim,khala3377,actual,2,0.25
+Shazim,khala653,target,2,0.25
+Shazim,khala654,target,2,0.25
+Shazim,mamu3382,actual,2,0.25
+Shazim,mamu660,target,3,0.25
+Shazim,mamu661,target,3,0.25
+Shazim,miyon BT1895,actual,1,0.25
+Shazim,miyon BT650,target,2,0.25
+Shazim,phuppo3388,actual,1,0.25
+Sini,hauhau2686,actual,4,0.25
+Sini,heihei2683,actual,4,0.25
+Sini,heppa1617,target,2,0.25
+Sini,heppa3532,actual,3,0.25
+Sini,istuu3533,actual,2,0.25
+Sini,juna2684,actual,4,0.25
 Sini,juna345,target,1,0.25
-Sini,kakku1640,target,4,0.25
-Sini,kakku3305,actual,2,0.25
-Sini,kiikkaa1641,target,4,0.25
-Sini,kiikkaa1642,target,4,0.25
-Sini,kiikkaa1643,target,4,0.25
-Sini,kiikkaa3306,actual,2,0.25
-Sini,kiikkaa3307,actual,2,0.25
-Sini,kiikkaa3308,actual,2,0.25
-Sini,kirja1857,actual,4,0.25
-Sini,kirja1858,actual,4,0.25
+Sini,kakku1618,target,4,0.25
+Sini,kakku3259,actual,2,0.25
+Sini,kiikkaa1619,target,4,0.25
+Sini,kiikkaa1620,target,4,0.25
+Sini,kiikkaa1621,target,4,0.25
+Sini,kiikkaa3260,actual,2,0.25
+Sini,kiikkaa3261,actual,2,0.25
+Sini,kiikkaa3262,actual,2,0.25
+Sini,kirja1833,actual,4,0.25
+Sini,kirja1834,actual,4,0.25
 Sini,kirja346,target,2,0.25
 Sini,kirja347,target,2,0.25
-Sini,korkki1644,target,1,0.25
-Sini,korkki1645,target,1,0.25
-Sini,korkki1646,target,1,0.25
-Sini,korkki3309,actual,2,0.25
-Sini,korkki3310,actual,2,0.25
-Sini,korkki3311,actual,2,0.25
-Sini,korva1859,actual,4,0.25
+Sini,korkki1622,target,1,0.25
+Sini,korkki1623,target,1,0.25
+Sini,korkki1624,target,1,0.25
+Sini,korkki3263,actual,2,0.25
+Sini,korkki3264,actual,2,0.25
+Sini,korkki3265,actual,2,0.25
+Sini,korva1835,actual,4,0.25
 Sini,korva348,target,1,0.25
-Sini,koti2202,actual,1,0.25
+Sini,koti2172,actual,1,0.25
 Sini,koti349,target,3,0.25
-Sini,kukka1647,target,4,0.25
-Sini,kukka3312,actual,2,0.25
-Sini,kuppi1648,target,3,0.25
-Sini,kuppi3313,actual,2,0.25
-Sini,kvaak-kvaak1426,target,1,0.25
-Sini,kvaak-kvaak3324,actual,1,0.25
-Sini,kynä1860,actual,4,0.25
+Sini,kukka1625,target,4,0.25
+Sini,kukka3266,actual,2,0.25
+Sini,kuppi1626,target,3,0.25
+Sini,kuppi3267,actual,2,0.25
+Sini,kvaak-kvaak1404,target,1,0.25
+Sini,kvaak-kvaak3278,actual,1,0.25
+Sini,kynä1836,actual,4,0.25
 Sini,kynä350,target,2,0.25
-Sini,laukku1649,target,3,0.25
-Sini,laukku3580,actual,2,0.25
-Sini,leipä2927,actual,3,0.25
+Sini,laukku1627,target,3,0.25
+Sini,laukku3534,actual,2,0.25
+Sini,leipä2891,actual,3,0.25
 Sini,leipä351,target,3,0.25
-Sini,loppu1650,target,5,0.25
-Sini,loppu1651,target,5,0.25
-Sini,loppu1652,target,5,0.25
-Sini,loppu1653,target,5,0.25
-Sini,loppu1654,target,5,0.25
-Sini,loppu3314,actual,2,0.25
-Sini,loppu3315,actual,3,0.25
-Sini,loppu3581,actual,3,0.25
-Sini,loppu3582,actual,3,0.25
-Sini,loppu3583,actual,3,0.25
-Sini,minun1861,actual,2,0.25
-Sini,mummi1655,target,1,0.25
-Sini,mummi3192,actual,1,0.25
-Sini,nam-nam1427,target,1,0.25
-Sini,nami2928,actual,2,0.25
+Sini,loppu1628,target,5,0.25
+Sini,loppu1629,target,5,0.25
+Sini,loppu1630,target,5,0.25
+Sini,loppu1631,target,5,0.25
+Sini,loppu1632,target,5,0.25
+Sini,loppu3268,actual,2,0.25
+Sini,loppu3269,actual,3,0.25
+Sini,loppu3535,actual,3,0.25
+Sini,loppu3536,actual,3,0.25
+Sini,loppu3537,actual,3,0.25
+Sini,minun1837,actual,2,0.25
+Sini,mummi1633,target,1,0.25
+Sini,mummi3146,actual,1,0.25
+Sini,nam-nam1405,target,1,0.25
+Sini,nami2892,actual,2,0.25
 Sini,nami353,target,1,0.25
-Sini,napa2929,actual,3,0.25
+Sini,napa2893,actual,3,0.25
 Sini,napa354,target,4,0.25
-Sini,nappi1656,target,4,0.25
-Sini,nappi1657,target,4,0.25
-Sini,nappi1658,target,4,0.25
-Sini,nappi2203,actual,2,0.25
-Sini,nappi3316,actual,3,0.25
-Sini,nappi3584,actual,3,0.25
-Sini,pallo1659,target,2,0.25
-Sini,pallo1660,target,2,0.25
-Sini,pallo1661,target,2,0.25
-Sini,pallo1862,actual,3,0.25
-Sini,pallo1863,actual,3,0.25
-Sini,piilo1864,actual,3,0.25
+Sini,nappi1634,target,4,0.25
+Sini,nappi1635,target,4,0.25
+Sini,nappi1636,target,4,0.25
+Sini,nappi2173,actual,2,0.25
+Sini,nappi3270,actual,3,0.25
+Sini,nappi3538,actual,3,0.25
+Sini,pallo1637,target,2,0.25
+Sini,pallo1638,target,2,0.25
+Sini,pallo1639,target,2,0.25
+Sini,pallo1838,actual,3,0.25
+Sini,pallo1839,actual,3,0.25
+Sini,piilo1840,actual,3,0.25
 Sini,piilo355,target,4,0.25
-Sini,pupu2204,actual,2,0.25
-Sini,pupu2205,actual,2,0.25
+Sini,pupu2174,actual,2,0.25
+Sini,pupu2175,actual,2,0.25
 Sini,pupu356,target,4,0.25
 Sini,pupu357,target,4,0.25
-Sini,puuro1865,actual,3,0.25
+Sini,puuro1841,actual,3,0.25
 Sini,puuro358,target,3,0.25
-Sini,pyörä1866,actual,3,0.25
+Sini,pyörä1842,actual,3,0.25
 Sini,pyörä359,target,3,0.25
-Sini,rikki1662,target,4,0.25
-Sini,rikki1663,target,4,0.25
-Sini,rikki3318,actual,2,0.25
-Sini,rikki3585,actual,2,0.25
-Sini,roska3586,actual,2,0.25
-Sini,sakset3319,actual,2,0.25
-Sini,setä2206,actual,2,0.25
+Sini,rikki1640,target,4,0.25
+Sini,rikki1641,target,4,0.25
+Sini,rikki3272,actual,2,0.25
+Sini,rikki3539,actual,2,0.25
+Sini,roska3540,actual,2,0.25
+Sini,sakset3273,actual,2,0.25
+Sini,setä2176,actual,2,0.25
 Sini,setä362,target,3,0.25
-Sini,suklaa3587,actual,2,0.25
-Sini,tiktak2208,actual,1,0.25
+Sini,suklaa3541,actual,2,0.25
+Sini,tiktak2178,actual,1,0.25
 Sini,tiktak366,target,1,0.25
-Sini,tutti1665,target,5,0.25
-Sini,tutti3320,actual,2,0.25
-Sini,tyttö1666,target,5,0.25
-Sini,tyttö1667,target,5,0.25
-Sini,tyttö1668,target,5,0.25
-Sini,tyttö3321,actual,2,0.25
-Sini,tyttö3322,actual,2,0.25
-Sini,tyttö3323,actual,2,0.25
-Sini,tässä1664,target,2,0.25
-Sini,tässä1867,actual,3,0.25
-Sini,täti2207,actual,2,0.25
+Sini,tutti1643,target,5,0.25
+Sini,tutti3274,actual,2,0.25
+Sini,tyttö1644,target,5,0.25
+Sini,tyttö1645,target,5,0.25
+Sini,tyttö1646,target,5,0.25
+Sini,tyttö3275,actual,2,0.25
+Sini,tyttö3276,actual,2,0.25
+Sini,tyttö3277,actual,2,0.25
+Sini,tässä1642,target,2,0.25
+Sini,tässä1843,actual,3,0.25
+Sini,täti2177,actual,2,0.25
 Sini,täti364,target,4,0.25
-Sini,ukki1800,target,3,0.25
-Sini,ukki3588,actual,2,0.25
-Sini,vettä1669,target,1,0.25
-Sini,vettä3589,actual,2,0.25
-Sini,viili2720,actual,4,0.25
+Sini,ukki1778,target,3,0.25
+Sini,ukki3542,actual,2,0.25
+Sini,vettä1647,target,1,0.25
+Sini,vettä3543,actual,2,0.25
+Sini,viili2685,actual,4,0.25
 Sini,viili365,target,1,0.25
-Sini,yhtään3577,actual,2,0.25
-Takeru,Barney1881,actual,8,0.25
-Takeru,Barney2247,actual,6,0.25
+Sini,yhtään3531,actual,2,0.25
+Takeru,Barney1857,actual,8,0.25
+Takeru,Barney2217,actual,6,0.25
 Takeru,Barney412,target,5,0.25
 Takeru,Barney413,target,5,0.25
-Takeru,all gone2272,actual,4,0.25
-Takeru,all gone2273,actual,4,0.25
-Takeru,all gone2274,actual,4,0.25
-Takeru,all gone2275,actual,4,0.25
+Takeru,all gone2242,actual,4,0.25
+Takeru,all gone2243,actual,4,0.25
+Takeru,all gone2244,actual,4,0.25
+Takeru,all gone2245,actual,4,0.25
 Takeru,all gone443,target,3,0.25
 Takeru,all gone444,target,3,0.25
 Takeru,all gone445,target,3,0.25
 Takeru,all gone446,target,3,0.25
-Takeru,aye-aye1186,target,4,0.25
-Takeru,aye-aye1187,target,4,0.25
-Takeru,aye-aye2722,actual,8,0.25
-Takeru,aye-aye2932,actual,6,0.25
-Takeru,ball1882,actual,8,0.25
-Takeru,ball1883,actual,1,0.25
-Takeru,ball2248,actual,6,0.25
-Takeru,ball2249,actual,4,0.25
+Takeru,aye-aye1177,target,4,0.25
+Takeru,aye-aye1178,target,4,0.25
+Takeru,aye-aye2687,actual,8,0.25
+Takeru,aye-aye2896,actual,6,0.25
+Takeru,ball1858,actual,8,0.25
+Takeru,ball1859,actual,1,0.25
+Takeru,ball2218,actual,6,0.25
+Takeru,ball2219,actual,4,0.25
 Takeru,ball414,target,5,0.25
 Takeru,ball415,target,5,0.25
 Takeru,ball416,target,5,0.25
 Takeru,ball417,target,5,0.25
-Takeru,big1197,target,5,0.25
-Takeru,big1198,target,5,0.25
-Takeru,big2942,actual,7,0.25
-Takeru,big3593,actual,1,0.25
-Takeru,bread1701,target,1,0.25
-Takeru,bread1702,target,1,0.25
-Takeru,bread1703,target,1,0.25
-Takeru,bread1704,target,1,0.25
-Takeru,bread1705,target,1,0.25
-Takeru,bread1706,target,1,0.25
-Takeru,bread3351,actual,3,0.25
-Takeru,bread3352,actual,2,0.25
-Takeru,bread3353,actual,3,0.25
-Takeru,bread3354,actual,3,0.25
-Takeru,bread3355,actual,3,0.25
-Takeru,bread3356,actual,3,0.25
-Takeru,choochoo1678,target,1,0.25
-Takeru,choochoo1679,target,1,0.25
-Takeru,choochoo1680,target,1,0.25
-Takeru,choochoo2250,actual,8,0.25
-Takeru,choochoo2935,actual,3,0.25
-Takeru,choochoo2936,actual,1,0.25
-Takeru,choochoo3624,actual,3,0.25
-Takeru,combine1681,target,4,0.25
-Takeru,combine1682,target,4,0.25
-Takeru,combine1683,target,4,0.25
-Takeru,combine3332,actual,5,0.25
-Takeru,combine3333,actual,8,0.25
-Takeru,combine3334,actual,5,0.25
-Takeru,daddy1722,target,4,0.25
-Takeru,daddy1723,target,4,0.25
-Takeru,daddy3369,actual,6,0.25
-Takeru,daddy3370,actual,8,0.25
-Takeru,do it!1687,target,5,0.25
-Takeru,do it!1688,target,5,0.25
-Takeru,do it!1689,target,5,0.25
-Takeru,do it!2941,actual,16,0.25
-Takeru,do it!3339,actual,6,0.25
-Takeru,do it!3592,actual,5,0.25
-Takeru,doggie2301,actual,3,0.25
-Takeru,doggie2302,actual,3,0.25
+Takeru,big1188,target,5,0.25
+Takeru,big1189,target,5,0.25
+Takeru,big2906,actual,7,0.25
+Takeru,big3547,actual,1,0.25
+Takeru,bread1679,target,1,0.25
+Takeru,bread1680,target,1,0.25
+Takeru,bread1681,target,1,0.25
+Takeru,bread1682,target,1,0.25
+Takeru,bread1683,target,1,0.25
+Takeru,bread1684,target,1,0.25
+Takeru,bread3305,actual,3,0.25
+Takeru,bread3306,actual,2,0.25
+Takeru,bread3307,actual,3,0.25
+Takeru,bread3308,actual,3,0.25
+Takeru,bread3309,actual,3,0.25
+Takeru,bread3310,actual,3,0.25
+Takeru,choochoo1656,target,1,0.25
+Takeru,choochoo1657,target,1,0.25
+Takeru,choochoo1658,target,1,0.25
+Takeru,choochoo2220,actual,8,0.25
+Takeru,choochoo2899,actual,3,0.25
+Takeru,choochoo2900,actual,1,0.25
+Takeru,choochoo3576,actual,3,0.25
+Takeru,combine1659,target,4,0.25
+Takeru,combine1660,target,4,0.25
+Takeru,combine1661,target,4,0.25
+Takeru,combine3286,actual,5,0.25
+Takeru,combine3287,actual,8,0.25
+Takeru,combine3288,actual,5,0.25
+Takeru,daddy1700,target,4,0.25
+Takeru,daddy1701,target,4,0.25
+Takeru,daddy3323,actual,6,0.25
+Takeru,daddy3324,actual,8,0.25
+Takeru,do it!1665,target,5,0.25
+Takeru,do it!1666,target,5,0.25
+Takeru,do it!1667,target,5,0.25
+Takeru,do it!2905,actual,16,0.25
+Takeru,do it!3293,actual,6,0.25
+Takeru,do it!3546,actual,5,0.25
+Takeru,doggie2271,actual,3,0.25
+Takeru,doggie2272,actual,3,0.25
 Takeru,doggie468,target,1,0.25
 Takeru,doggie469,target,1,0.25
 Takeru,doggie470,target,1,0.25
-Takeru,don't want to2262,actual,11,0.25
-Takeru,don't want to3336,actual,2,0.25
+Takeru,don't want to2232,actual,11,0.25
+Takeru,don't want to3290,actual,2,0.25
 Takeru,don't want to433,target,6,0.25
 Takeru,don't want to434,target,6,0.25
-Takeru,elephant2303,actual,1,0.25
-Takeru,elephant2304,actual,5,0.25
+Takeru,elephant2273,actual,1,0.25
+Takeru,elephant2274,actual,5,0.25
 Takeru,elephant471,target,1,0.25
 Takeru,elephant472,target,1,0.25
-Takeru,flower2260,actual,3,0.25
-Takeru,flower2937,actual,9,0.25
+Takeru,flower2230,actual,3,0.25
+Takeru,flower2901,actual,9,0.25
 Takeru,flower431,target,3,0.25
 Takeru,flower432,target,3,0.25
-Takeru,food1693,target,1,0.25
-Takeru,food1694,target,1,0.25
-Takeru,food1695,target,1,0.25
-Takeru,food1696,target,1,0.25
-Takeru,food3343,actual,1,0.25
-Takeru,food3344,actual,1,0.25
-Takeru,food3345,actual,1,0.25
-Takeru,food3346,actual,1,0.25
-Takeru,found it1801,target,4,0.25
-Takeru,found it1802,target,4,0.25
-Takeru,found it1803,target,4,0.25
-Takeru,found it2934,actual,14,0.25
-Takeru,found it3590,actual,5,0.25
-Takeru,found it3591,actual,5,0.25
-Takeru,go go2259,actual,8,0.25
-Takeru,go go3335,actual,8,0.25
+Takeru,food1671,target,1,0.25
+Takeru,food1672,target,1,0.25
+Takeru,food1673,target,1,0.25
+Takeru,food1674,target,1,0.25
+Takeru,food3297,actual,1,0.25
+Takeru,food3298,actual,1,0.25
+Takeru,food3299,actual,1,0.25
+Takeru,food3300,actual,1,0.25
+Takeru,found it1779,target,4,0.25
+Takeru,found it1780,target,4,0.25
+Takeru,found it1781,target,4,0.25
+Takeru,found it2898,actual,14,0.25
+Takeru,found it3544,actual,5,0.25
+Takeru,found it3545,actual,5,0.25
+Takeru,go go2229,actual,8,0.25
+Takeru,go go3289,actual,8,0.25
 Takeru,go go429,target,4,0.25
 Takeru,go go430,target,4,0.25
-Takeru,good1192,target,7,0.25
-Takeru,good1193,target,7,0.25
-Takeru,good1194,target,7,0.25
-Takeru,good2261,actual,4,0.25
-Takeru,good2938,actual,9,0.25
-Takeru,good2939,actual,9,0.25
-Takeru,hooray1684,target,5,0.25
-Takeru,hooray1685,target,5,0.25
-Takeru,hooray1686,target,5,0.25
-Takeru,hooray2263,actual,4,0.25
-Takeru,hooray3337,actual,6,0.25
-Takeru,hooray3338,actual,3,0.25
-Takeru,juice1884,actual,5,0.25
-Takeru,juice1885,actual,4,0.25
-Takeru,juice1886,actual,10,0.25
-Takeru,juice2258,actual,15,0.25
+Takeru,good1183,target,7,0.25
+Takeru,good1184,target,7,0.25
+Takeru,good1185,target,7,0.25
+Takeru,good2231,actual,4,0.25
+Takeru,good2902,actual,9,0.25
+Takeru,good2903,actual,9,0.25
+Takeru,hooray1662,target,5,0.25
+Takeru,hooray1663,target,5,0.25
+Takeru,hooray1664,target,5,0.25
+Takeru,hooray2233,actual,4,0.25
+Takeru,hooray3291,actual,6,0.25
+Takeru,hooray3292,actual,3,0.25
+Takeru,juice1860,actual,5,0.25
+Takeru,juice1861,actual,4,0.25
+Takeru,juice1862,actual,10,0.25
+Takeru,juice2228,actual,15,0.25
 Takeru,juice425,target,4,0.25
 Takeru,juice426,target,4,0.25
 Takeru,juice427,target,4,0.25
 Takeru,juice428,target,4,0.25
-Takeru,look!2270,actual,10,0.25
-Takeru,look!2271,actual,10,0.25
+Takeru,look!2240,actual,10,0.25
+Takeru,look!2241,actual,10,0.25
 Takeru,look!441,target,4,0.25
 Takeru,look!442,target,4,0.25
-Takeru,mom1690,target,1,0.25
-Takeru,mom1691,target,1,0.25
-Takeru,mom1692,target,1,0.25
-Takeru,mom3340,actual,2,0.25
-Takeru,mom3341,actual,2,0.25
-Takeru,mom3342,actual,8,0.25
-Takeru,more1699,target,5,0.25
-Takeru,more1700,target,5,0.25
-Takeru,more1888,actual,6,0.25
-Takeru,more3349,actual,6,0.25
-Takeru,ouch1195,target,8,0.25
-Takeru,ouch1196,target,8,0.25
-Takeru,ouch1887,actual,11,0.25
-Takeru,ouch2940,actual,16,0.25
-Takeru,pigeon1707,target,1,0.25
-Takeru,pigeon1708,target,1,0.25
-Takeru,pigeon1709,target,1,0.25
-Takeru,pigeon1710,target,1,0.25
-Takeru,pigeon1711,target,1,0.25
-Takeru,pigeon3357,actual,3,0.25
-Takeru,pigeon3358,actual,3,0.25
-Takeru,pigeon3359,actual,3,0.25
-Takeru,pigeon3360,actual,2,0.25
-Takeru,pigeon3361,actual,3,0.25
-Takeru,please2255,actual,17,0.25
-Takeru,please2256,actual,14,0.25
-Takeru,please2257,actual,3,0.25
+Takeru,mom1668,target,1,0.25
+Takeru,mom1669,target,1,0.25
+Takeru,mom1670,target,1,0.25
+Takeru,mom3294,actual,2,0.25
+Takeru,mom3295,actual,2,0.25
+Takeru,mom3296,actual,8,0.25
+Takeru,more1677,target,5,0.25
+Takeru,more1678,target,5,0.25
+Takeru,more1864,actual,6,0.25
+Takeru,more3303,actual,6,0.25
+Takeru,ouch1186,target,8,0.25
+Takeru,ouch1187,target,8,0.25
+Takeru,ouch1863,actual,11,0.25
+Takeru,ouch2904,actual,16,0.25
+Takeru,pigeon1685,target,1,0.25
+Takeru,pigeon1686,target,1,0.25
+Takeru,pigeon1687,target,1,0.25
+Takeru,pigeon1688,target,1,0.25
+Takeru,pigeon1689,target,1,0.25
+Takeru,pigeon3311,actual,3,0.25
+Takeru,pigeon3312,actual,3,0.25
+Takeru,pigeon3313,actual,3,0.25
+Takeru,pigeon3314,actual,2,0.25
+Takeru,pigeon3315,actual,3,0.25
+Takeru,please2225,actual,17,0.25
+Takeru,please2226,actual,14,0.25
+Takeru,please2227,actual,3,0.25
 Takeru,please422,target,4,0.25
 Takeru,please423,target,4,0.25
 Takeru,please424,target,4,0.25
-Takeru,put it there1199,target,8,0.25
-Takeru,put it there1200,target,8,0.25
-Takeru,put it there2943,actual,16,0.25
-Takeru,put it there3150,actual,2,0.25
-Takeru,stuck2297,actual,2,0.25
-Takeru,stuck2298,actual,1,0.25
-Takeru,stuck2299,actual,11,0.25
+Takeru,put it there1190,target,8,0.25
+Takeru,put it there1191,target,8,0.25
+Takeru,put it there2907,actual,16,0.25
+Takeru,put it there3104,actual,2,0.25
+Takeru,stuck2267,actual,2,0.25
+Takeru,stuck2268,actual,1,0.25
+Takeru,stuck2269,actual,11,0.25
 Takeru,stuck465,target,8,0.25
 Takeru,stuck466,target,8,0.25
 Takeru,stuck467,target,8,0.25
-Takeru,take1712,target,4,0.25
-Takeru,take1713,target,4,0.25
-Takeru,take1714,target,4,0.25
-Takeru,take1715,target,4,0.25
-Takeru,take1716,target,4,0.25
-Takeru,take1717,target,4,0.25
-Takeru,take1718,target,4,0.25
-Takeru,take1719,target,4,0.25
-Takeru,take1720,target,4,0.25
-Takeru,take1721,target,4,0.25
-Takeru,take2294,actual,13,0.25
-Takeru,take2295,actual,10,0.25
-Takeru,take2296,actual,13,0.25
-Takeru,take3362,actual,6,0.25
-Takeru,take3363,actual,6,0.25
-Takeru,take3364,actual,6,0.25
-Takeru,take3365,actual,6,0.25
-Takeru,take3366,actual,6,0.25
-Takeru,take3367,actual,5,0.25
-Takeru,take3368,actual,5,0.25
-Takeru,that1188,target,7,0.25
-Takeru,that1189,target,7,0.25
-Takeru,that1190,target,7,0.25
-Takeru,that1191,target,7,0.25
-Takeru,that2723,actual,8,0.25
-Takeru,that2724,actual,8,0.25
-Takeru,that2725,actual,8,0.25
-Takeru,that2933,actual,8,0.25
-Takeru,train2266,actual,6,0.25
-Takeru,train2267,actual,9,0.25
-Takeru,train2268,actual,3,0.25
-Takeru,train2269,actual,2,0.25
+Takeru,take1690,target,4,0.25
+Takeru,take1691,target,4,0.25
+Takeru,take1692,target,4,0.25
+Takeru,take1693,target,4,0.25
+Takeru,take1694,target,4,0.25
+Takeru,take1695,target,4,0.25
+Takeru,take1696,target,4,0.25
+Takeru,take1697,target,4,0.25
+Takeru,take1698,target,4,0.25
+Takeru,take1699,target,4,0.25
+Takeru,take2264,actual,13,0.25
+Takeru,take2265,actual,10,0.25
+Takeru,take2266,actual,13,0.25
+Takeru,take3316,actual,6,0.25
+Takeru,take3317,actual,6,0.25
+Takeru,take3318,actual,6,0.25
+Takeru,take3319,actual,6,0.25
+Takeru,take3320,actual,6,0.25
+Takeru,take3321,actual,5,0.25
+Takeru,take3322,actual,5,0.25
+Takeru,that1179,target,7,0.25
+Takeru,that1180,target,7,0.25
+Takeru,that1181,target,7,0.25
+Takeru,that1182,target,7,0.25
+Takeru,that2688,actual,8,0.25
+Takeru,that2689,actual,8,0.25
+Takeru,that2690,actual,8,0.25
+Takeru,that2897,actual,8,0.25
+Takeru,train2236,actual,6,0.25
+Takeru,train2237,actual,9,0.25
+Takeru,train2238,actual,3,0.25
+Takeru,train2239,actual,2,0.25
 Takeru,train437,target,2,0.25
 Takeru,train438,target,2,0.25
 Takeru,train439,target,2,0.25
 Takeru,train440,target,2,0.25
-Takeru,wait!1697,target,5,0.25
-Takeru,wait!1698,target,5,0.25
-Takeru,wait!3347,actual,6,0.25
-Takeru,wait!3348,actual,6,0.25
-Takeru,what2276,actual,4,0.25
-Takeru,what2277,actual,4,0.25
-Takeru,what2278,actual,4,0.25
-Takeru,what2279,actual,4,0.25
-Takeru,what2280,actual,4,0.25
-Takeru,what2281,actual,4,0.25
-Takeru,what2282,actual,4,0.25
-Takeru,what2283,actual,4,0.25
-Takeru,what2284,actual,4,0.25
-Takeru,what2285,actual,4,0.25
-Takeru,what2286,actual,4,0.25
-Takeru,what2287,actual,4,0.25
-Takeru,what2288,actual,4,0.25
-Takeru,what2289,actual,4,0.25
-Takeru,what2290,actual,4,0.25
-Takeru,what2291,actual,4,0.25
-Takeru,what2292,actual,4,0.25
-Takeru,what2293,actual,4,0.25
+Takeru,wait!1675,target,5,0.25
+Takeru,wait!1676,target,5,0.25
+Takeru,wait!3301,actual,6,0.25
+Takeru,wait!3302,actual,6,0.25
+Takeru,what2246,actual,4,0.25
+Takeru,what2247,actual,4,0.25
+Takeru,what2248,actual,4,0.25
+Takeru,what2249,actual,4,0.25
+Takeru,what2250,actual,4,0.25
+Takeru,what2251,actual,4,0.25
+Takeru,what2252,actual,4,0.25
+Takeru,what2253,actual,4,0.25
+Takeru,what2254,actual,4,0.25
+Takeru,what2255,actual,4,0.25
+Takeru,what2256,actual,4,0.25
+Takeru,what2257,actual,4,0.25
+Takeru,what2258,actual,4,0.25
+Takeru,what2259,actual,4,0.25
+Takeru,what2260,actual,4,0.25
+Takeru,what2261,actual,4,0.25
+Takeru,what2262,actual,4,0.25
+Takeru,what2263,actual,4,0.25
 Takeru,what447,target,3,0.25
 Takeru,what448,target,3,0.25
 Takeru,what449,target,3,0.25
@@ -2983,237 +2935,237 @@ Takeru,what461,target,3,0.25
 Takeru,what462,target,3,0.25
 Takeru,what463,target,3,0.25
 Takeru,what464,target,3,0.25
-Takeru,who2251,actual,7,0.25
-Takeru,who2252,actual,10,0.25
-Takeru,who2253,actual,12,0.25
+Takeru,who2221,actual,7,0.25
+Takeru,who2222,actual,10,0.25
+Takeru,who2223,actual,12,0.25
 Takeru,who418,target,4,0.25
 Takeru,who419,target,4,0.25
 Takeru,who420,target,4,0.25
 Takeru,who421,target,4,0.25
-Takeru,whoops1804,target,4,0.25
-Takeru,whoops1805,target,4,0.25
-Takeru,whoops3350,actual,5,0.25
-Takeru,whoops3594,actual,5,0.25
-Takeru,yellow2264,actual,4,0.25
-Takeru,yellow2265,actual,9,0.25
+Takeru,whoops1782,target,4,0.25
+Takeru,whoops1783,target,4,0.25
+Takeru,whoops3304,actual,5,0.25
+Takeru,whoops3548,actual,5,0.25
+Takeru,yellow2234,actual,4,0.25
+Takeru,yellow2235,actual,9,0.25
 Takeru,yellow435,target,4,0.25
 Takeru,yellow436,target,4,0.25
-Taro,all gone2547,actual,1,0.25
-Taro,all gone842,target,2,0.25
-Taro,alligator1958,actual,7,0.25
-Taro,alligator1959,actual,7,0.25
-Taro,alligator1960,actual,7,0.25
-Taro,alligator1961,actual,7,0.25
-Taro,alligator1962,actual,7,0.25
-Taro,alligator1963,actual,7,0.25
-Taro,alligator1964,actual,7,0.25
-Taro,alligator1965,actual,7,0.25
-Taro,alligator1966,actual,7,0.25
-Taro,alligator1967,actual,7,0.25
-Taro,alligator1968,actual,7,0.25
-Taro,alligator1969,actual,7,0.25
-Taro,alligator1970,actual,7,0.25
-Taro,alligator2552,actual,9,0.25
-Taro,alligator2553,actual,3,0.25
+Taro,all gone2512,actual,1,0.25
+Taro,all gone833,target,2,0.25
+Taro,alligator1928,actual,7,0.25
+Taro,alligator1929,actual,7,0.25
+Taro,alligator1930,actual,7,0.25
+Taro,alligator1931,actual,7,0.25
+Taro,alligator1932,actual,7,0.25
+Taro,alligator1933,actual,7,0.25
+Taro,alligator1934,actual,7,0.25
+Taro,alligator1935,actual,7,0.25
+Taro,alligator1936,actual,7,0.25
+Taro,alligator1937,actual,7,0.25
+Taro,alligator1938,actual,7,0.25
+Taro,alligator1939,actual,7,0.25
+Taro,alligator1940,actual,7,0.25
+Taro,alligator2517,actual,9,0.25
+Taro,alligator2518,actual,3,0.25
+Taro,alligator849,target,2,0.25
+Taro,alligator850,target,2,0.25
+Taro,alligator851,target,2,0.25
+Taro,alligator852,target,2,0.25
+Taro,alligator853,target,2,0.25
+Taro,alligator854,target,2,0.25
+Taro,alligator855,target,2,0.25
+Taro,alligator856,target,2,0.25
+Taro,alligator857,target,2,0.25
 Taro,alligator858,target,2,0.25
 Taro,alligator859,target,2,0.25
 Taro,alligator860,target,2,0.25
 Taro,alligator861,target,2,0.25
 Taro,alligator862,target,2,0.25
 Taro,alligator863,target,2,0.25
-Taro,alligator864,target,2,0.25
-Taro,alligator865,target,2,0.25
-Taro,alligator866,target,2,0.25
-Taro,alligator867,target,2,0.25
-Taro,alligator868,target,2,0.25
-Taro,alligator869,target,2,0.25
-Taro,alligator870,target,2,0.25
-Taro,alligator871,target,2,0.25
-Taro,alligator872,target,2,0.25
-Taro,apple1468,target,1,0.25
-Taro,apple1469,target,1,0.25
-Taro,apple1470,target,1,0.25
-Taro,apple2549,actual,6,0.25
-Taro,apple2550,actual,6,0.25
-Taro,apple2551,actual,6,0.25
-Taro,baby2529,actual,8,0.25
-Taro,baby2530,actual,8,0.25
-Taro,baby2531,actual,9,0.25
-Taro,baby2532,actual,9,0.25
-Taro,baby3172,actual,5,0.25
-Taro,baby816,target,2,0.25
-Taro,baby817,target,2,0.25
-Taro,baby818,target,2,0.25
-Taro,baby819,target,2,0.25
-Taro,baby820,target,2,0.25
-Taro,ball1949,actual,8,0.25
-Taro,ball1950,actual,1,0.25
-Taro,ball1951,actual,2,0.25
-Taro,ball1952,actual,2,0.25
-Taro,ball821,target,1,0.25
-Taro,ball822,target,1,0.25
-Taro,ball823,target,1,0.25
-Taro,ball824,target,1,0.25
-Taro,bath/sound of pouring water2538,actual,3,0.25
-Taro,bath/sound of pouring water2539,actual,8,0.25
-Taro,bath/sound of pouring water2540,actual,10,0.25
-Taro,bath/sound of pouring water2541,actual,8,0.25
-Taro,bath/sound of pouring water2691,actual,12,0.25
-Taro,bath/sound of pouring water826,target,2,0.25
-Taro,bath/sound of pouring water827,target,2,0.25
-Taro,bath/sound of pouring water828,target,2,0.25
-Taro,bath/sound of pouring water829,target,2,0.25
-Taro,bath/sound of pouring water830,target,2,0.25
-Taro,bird2548,actual,8,0.25
-Taro,bird857,target,2,0.25
-Taro,biting sound1953,actual,1,0.25
-Taro,biting sound1954,actual,1,0.25
-Taro,biting sound1955,actual,1,0.25
-Taro,biting sound1956,actual,1,0.25
-Taro,biting sound1957,actual,1,0.25
-Taro,biting sound2744,actual,1,0.25
-Taro,biting sound2745,actual,1,0.25
-Taro,biting sound2746,actual,1,0.25
-Taro,biting sound2747,actual,1,0.25
-Taro,biting sound2748,actual,1,0.25
-Taro,biting sound2749,actual,1,0.25
-Taro,biting sound2750,actual,1,0.25
+Taro,apple1446,target,1,0.25
+Taro,apple1447,target,1,0.25
+Taro,apple1448,target,1,0.25
+Taro,apple2514,actual,6,0.25
+Taro,apple2515,actual,6,0.25
+Taro,apple2516,actual,6,0.25
+Taro,baby2494,actual,8,0.25
+Taro,baby2495,actual,8,0.25
+Taro,baby2496,actual,9,0.25
+Taro,baby2497,actual,9,0.25
+Taro,baby3126,actual,5,0.25
+Taro,baby807,target,2,0.25
+Taro,baby808,target,2,0.25
+Taro,baby809,target,2,0.25
+Taro,baby810,target,2,0.25
+Taro,baby811,target,2,0.25
+Taro,ball1919,actual,8,0.25
+Taro,ball1920,actual,1,0.25
+Taro,ball1921,actual,2,0.25
+Taro,ball1922,actual,2,0.25
+Taro,ball812,target,1,0.25
+Taro,ball813,target,1,0.25
+Taro,ball814,target,1,0.25
+Taro,ball815,target,1,0.25
+Taro,bath/sound of pouring water2503,actual,3,0.25
+Taro,bath/sound of pouring water2504,actual,8,0.25
+Taro,bath/sound of pouring water2505,actual,10,0.25
+Taro,bath/sound of pouring water2506,actual,8,0.25
+Taro,bath/sound of pouring water2656,actual,12,0.25
+Taro,bath/sound of pouring water817,target,2,0.25
+Taro,bath/sound of pouring water818,target,2,0.25
+Taro,bath/sound of pouring water819,target,2,0.25
+Taro,bath/sound of pouring water820,target,2,0.25
+Taro,bath/sound of pouring water821,target,2,0.25
+Taro,bird2513,actual,8,0.25
+Taro,bird848,target,2,0.25
+Taro,biting sound1923,actual,1,0.25
+Taro,biting sound1924,actual,1,0.25
+Taro,biting sound1925,actual,1,0.25
+Taro,biting sound1926,actual,1,0.25
+Taro,biting sound1927,actual,1,0.25
+Taro,biting sound2708,actual,1,0.25
+Taro,biting sound2709,actual,1,0.25
+Taro,biting sound2710,actual,1,0.25
+Taro,biting sound2711,actual,1,0.25
+Taro,biting sound2712,actual,1,0.25
+Taro,biting sound2713,actual,1,0.25
+Taro,biting sound2714,actual,1,0.25
+Taro,biting sound834,target,1,0.25
+Taro,biting sound835,target,1,0.25
+Taro,biting sound836,target,1,0.25
+Taro,biting sound837,target,1,0.25
+Taro,biting sound838,target,1,0.25
+Taro,biting sound839,target,1,0.25
+Taro,biting sound840,target,1,0.25
+Taro,biting sound841,target,1,0.25
+Taro,biting sound842,target,1,0.25
 Taro,biting sound843,target,1,0.25
 Taro,biting sound844,target,1,0.25
 Taro,biting sound845,target,1,0.25
-Taro,biting sound846,target,1,0.25
-Taro,biting sound847,target,1,0.25
-Taro,biting sound848,target,1,0.25
-Taro,biting sound849,target,1,0.25
-Taro,biting sound850,target,1,0.25
-Taro,biting sound851,target,1,0.25
-Taro,biting sound852,target,1,0.25
-Taro,biting sound853,target,1,0.25
-Taro,biting sound854,target,1,0.25
-Taro,car3173,actual,5,0.25
-Taro,car825,target,2,0.25
-Taro,cookie1760,target,2,0.25
-Taro,cookie1761,target,2,0.25
-Taro,cookie3439,actual,1,0.25
-Taro,cookie3440,actual,1,0.25
-Taro,daddy3453,actual,3,0.25
-Taro,daddy3454,actual,3,0.25
-Taro,daddy855,target,2,0.25
-Taro,daddy856,target,2,0.25
-Taro,doggy2554,actual,6,0.25
-Taro,doggy2555,actual,6,0.25
-Taro,doggy2556,actual,6,0.25
-Taro,doggy873,target,1,0.25
-Taro,doggy874,target,1,0.25
-Taro,doggy875,target,1,0.25
-Taro,found1329,target,1,0.25
-Taro,found3066,actual,11,0.25
-Taro,here2546,actual,10,0.25
-Taro,here835,target,1,0.25
-Taro,hot3063,actual,2,0.25
-Taro,juice2543,actual,12,0.25
-Taro,juice2544,actual,4,0.25
-Taro,juice2545,actual,10,0.25
-Taro,juice832,target,2,0.25
-Taro,juice833,target,2,0.25
-Taro,juice834,target,2,0.25
-Taro,ouch1327,target,1,0.25
-Taro,ouch1328,target,1,0.25
-Taro,ouch3064,actual,11,0.25
-Taro,ouch3065,actual,8,0.25
-Taro,"pencil, writing2542",actual,3,0.25
-Taro,"pencil, writing831",target,2,0.25
-Taro,shoes3441,actual,7,0.25
-Taro,shoes3442,actual,3,0.25
-Taro,shoes3443,actual,7,0.25
-Taro,shoes3444,actual,4,0.25
-Taro,shoes3445,actual,7,0.25
-Taro,shoes3446,actual,7,0.25
-Taro,shoes836,target,1,0.25
-Taro,shoes837,target,1,0.25
-Taro,shoes838,target,1,0.25
-Taro,shoes839,target,1,0.25
-Taro,shoes840,target,1,0.25
-Taro,shoes841,target,1,0.25
-Taro,sleep1762,target,2,0.25
-Taro,sleep1763,target,2,0.25
-Taro,sleep1764,target,2,0.25
-Taro,sleep1765,target,2,0.25
-Taro,sleep1766,target,2,0.25
-Taro,sleep1767,target,2,0.25
-Taro,sleep1768,target,2,0.25
-Taro,sleep3174,actual,2,0.25
-Taro,sleep3447,actual,3,0.25
-Taro,sleep3448,actual,2,0.25
-Taro,sleep3449,actual,3,0.25
-Taro,sleep3450,actual,2,0.25
-Taro,sleep3451,actual,2,0.25
-Taro,sleep3452,actual,2,0.25
-Taro,train1463,target,1,0.25
-Taro,train1464,target,1,0.25
-Taro,train1465,target,1,0.25
-Taro,train1466,target,1,0.25
-Taro,train1467,target,1,0.25
-Taro,train2533,actual,3,0.25
-Taro,train2534,actual,4,0.25
-Taro,train2535,actual,5,0.25
-Taro,train2536,actual,9,0.25
-Taro,train2537,actual,9,0.25
-Taro,went in3438,actual,3,0.25
-Tobias,a-boo1092,target,4,0.25
-Tobias,baby2148,actual,1,0.25
-Tobias,baby2149,actual,1,0.25
-Tobias,baby2150,actual,1,0.25
+Taro,car3127,actual,5,0.25
+Taro,car816,target,2,0.25
+Taro,cookie1738,target,2,0.25
+Taro,cookie1739,target,2,0.25
+Taro,cookie3393,actual,1,0.25
+Taro,cookie3394,actual,1,0.25
+Taro,daddy3407,actual,3,0.25
+Taro,daddy3408,actual,3,0.25
+Taro,daddy846,target,2,0.25
+Taro,daddy847,target,2,0.25
+Taro,doggy2519,actual,6,0.25
+Taro,doggy2520,actual,6,0.25
+Taro,doggy2521,actual,6,0.25
+Taro,doggy864,target,1,0.25
+Taro,doggy865,target,1,0.25
+Taro,doggy866,target,1,0.25
+Taro,found1307,target,1,0.25
+Taro,found3020,actual,11,0.25
+Taro,here2511,actual,10,0.25
+Taro,here826,target,1,0.25
+Taro,hot3017,actual,2,0.25
+Taro,juice2508,actual,12,0.25
+Taro,juice2509,actual,4,0.25
+Taro,juice2510,actual,10,0.25
+Taro,juice823,target,2,0.25
+Taro,juice824,target,2,0.25
+Taro,juice825,target,2,0.25
+Taro,ouch1305,target,1,0.25
+Taro,ouch1306,target,1,0.25
+Taro,ouch3018,actual,11,0.25
+Taro,ouch3019,actual,8,0.25
+Taro,"pencil, writing2507",actual,3,0.25
+Taro,"pencil, writing822",target,2,0.25
+Taro,shoes3395,actual,7,0.25
+Taro,shoes3396,actual,3,0.25
+Taro,shoes3397,actual,7,0.25
+Taro,shoes3398,actual,4,0.25
+Taro,shoes3399,actual,7,0.25
+Taro,shoes3400,actual,7,0.25
+Taro,shoes827,target,1,0.25
+Taro,shoes828,target,1,0.25
+Taro,shoes829,target,1,0.25
+Taro,shoes830,target,1,0.25
+Taro,shoes831,target,1,0.25
+Taro,shoes832,target,1,0.25
+Taro,sleep1740,target,2,0.25
+Taro,sleep1741,target,2,0.25
+Taro,sleep1742,target,2,0.25
+Taro,sleep1743,target,2,0.25
+Taro,sleep1744,target,2,0.25
+Taro,sleep1745,target,2,0.25
+Taro,sleep1746,target,2,0.25
+Taro,sleep3128,actual,2,0.25
+Taro,sleep3401,actual,3,0.25
+Taro,sleep3402,actual,2,0.25
+Taro,sleep3403,actual,3,0.25
+Taro,sleep3404,actual,2,0.25
+Taro,sleep3405,actual,2,0.25
+Taro,sleep3406,actual,2,0.25
+Taro,train1441,target,1,0.25
+Taro,train1442,target,1,0.25
+Taro,train1443,target,1,0.25
+Taro,train1444,target,1,0.25
+Taro,train1445,target,1,0.25
+Taro,train2498,actual,3,0.25
+Taro,train2499,actual,4,0.25
+Taro,train2500,actual,5,0.25
+Taro,train2501,actual,9,0.25
+Taro,train2502,actual,9,0.25
+Taro,went in3392,actual,3,0.25
+Tobias,a-boo1083,target,4,0.25
+Tobias,baby2118,actual,1,0.25
+Tobias,baby2119,actual,1,0.25
+Tobias,baby2120,actual,1,0.25
 Tobias,baby248,target,3,0.25
 Tobias,baby249,target,3,0.25
 Tobias,baby250,target,3,0.25
-Tobias,eek eek1100,target,1,0.25
-Tobias,eek eek1830,actual,1,0.25
-Tobias,eeyore1093,target,3,0.25
-Tobias,eeyore1094,target,3,0.25
-Tobias,eeyore1095,target,3,0.25
-Tobias,eeyore1096,target,3,0.25
-Tobias,eeyore1097,target,3,0.25
-Tobias,eeyore1098,target,3,0.25
-Tobias,eeyore1099,target,3,0.25
-Tobias,eeyore2151,actual,6,0.25
-Tobias,eeyore2849,actual,12,0.25
-Tobias,eeyore2850,actual,12,0.25
-Tobias,eeyore2851,actual,12,0.25
-Tobias,eeyore2852,actual,12,0.25
-Tobias,eeyore3143,actual,2,0.25
-Tobias,eeyore3144,actual,4,0.25
+Tobias,eek eek1091,target,1,0.25
+Tobias,eek eek1806,actual,1,0.25
+Tobias,eeyore1084,target,3,0.25
+Tobias,eeyore1085,target,3,0.25
+Tobias,eeyore1086,target,3,0.25
+Tobias,eeyore1087,target,3,0.25
+Tobias,eeyore1088,target,3,0.25
+Tobias,eeyore1089,target,3,0.25
+Tobias,eeyore1090,target,3,0.25
+Tobias,eeyore2121,actual,6,0.25
+Tobias,eeyore2813,actual,12,0.25
+Tobias,eeyore2814,actual,12,0.25
+Tobias,eeyore2815,actual,12,0.25
+Tobias,eeyore2816,actual,12,0.25
+Tobias,eeyore3097,actual,2,0.25
+Tobias,eeyore3098,actual,4,0.25
 Tobias,hippo251,target,3,0.25
-Tobias,honk honk1401,target,1,0.25
-Tobias,honk honk1402,target,1,0.25
-Tobias,honk honk1403,target,1,0.25
-Tobias,honk honk1404,target,1,0.25
-Tobias,honk honk1405,target,1,0.25
-Tobias,honk honk1406,target,1,0.25
-Tobias,honk honk1407,target,1,0.25
-Tobias,honk honk1827,actual,7,0.25
-Tobias,honk honk2706,actual,11,0.25
-Tobias,honk honk2707,actual,1,0.25
-Tobias,honk honk2853,actual,9,0.25
-Tobias,honk honk2854,actual,10,0.25
-Tobias,honk honk2855,actual,11,0.25
-Tobias,honk honk3201,actual,5,0.25
-Tobias,hoo hoo2709,actual,1,0.25
+Tobias,honk honk1379,target,1,0.25
+Tobias,honk honk1380,target,1,0.25
+Tobias,honk honk1381,target,1,0.25
+Tobias,honk honk1382,target,1,0.25
+Tobias,honk honk1383,target,1,0.25
+Tobias,honk honk1384,target,1,0.25
+Tobias,honk honk1385,target,1,0.25
+Tobias,honk honk1803,actual,7,0.25
+Tobias,honk honk2671,actual,11,0.25
+Tobias,honk honk2672,actual,1,0.25
+Tobias,honk honk2817,actual,9,0.25
+Tobias,honk honk2818,actual,10,0.25
+Tobias,honk honk2819,actual,11,0.25
+Tobias,honk honk3155,actual,5,0.25
+Tobias,hoo hoo2674,actual,1,0.25
 Tobias,hoo hoo275,target,1,0.25
-Tobias,monkey1408,target,1,0.25
-Tobias,monkey1409,target,1,0.25
-Tobias,neenaw2152,actual,7,0.25
+Tobias,monkey1386,target,1,0.25
+Tobias,monkey1387,target,1,0.25
+Tobias,neenaw2122,actual,7,0.25
 Tobias,neenaw252,target,2,0.25
 Tobias,neenaw253,target,2,0.25
-Tobias,neenaw2856,actual,8,0.25
-Tobias,peacock2153,actual,1,0.25
+Tobias,neenaw2820,actual,8,0.25
+Tobias,peacock2123,actual,1,0.25
 Tobias,peacock254,target,1,0.25
-Tobias,quack quack1828,actual,1,0.25
-Tobias,quack quack2154,actual,4,0.25
-Tobias,quack quack2155,actual,4,0.25
-Tobias,quack quack2156,actual,4,0.25
-Tobias,quack quack2157,actual,4,0.25
-Tobias,quack quack2158,actual,4,0.25
+Tobias,quack quack1804,actual,1,0.25
+Tobias,quack quack2124,actual,4,0.25
+Tobias,quack quack2125,actual,4,0.25
+Tobias,quack quack2126,actual,4,0.25
+Tobias,quack quack2127,actual,4,0.25
+Tobias,quack quack2128,actual,4,0.25
 Tobias,quack quack255,target,1,0.25
 Tobias,quack quack256,target,1,0.25
 Tobias,quack quack257,target,1,0.25
@@ -3224,158 +3176,158 @@ Tobias,quack quack261,target,1,0.25
 Tobias,quack quack262,target,1,0.25
 Tobias,quack quack263,target,1,0.25
 Tobias,quack quack264,target,1,0.25
-Tobias,quack quack2677,actual,2,0.25
-Tobias,quack quack2678,actual,2,0.25
-Tobias,quack quack2698,actual,2,0.25
-Tobias,quack quack3145,actual,1,0.25
+Tobias,quack quack2642,actual,2,0.25
+Tobias,quack quack2643,actual,2,0.25
+Tobias,quack quack2663,actual,2,0.25
+Tobias,quack quack3099,actual,1,0.25
 Tobias,ribbit ribbit265,target,2,0.25
 Tobias,ribbit ribbit266,target,2,0.25
 Tobias,ribbit ribbit267,target,2,0.25
-Tobias,ribbit ribbit3146,actual,2,0.25
-Tobias,ribbit ribbit3186,actual,1,0.25
-Tobias,ribbit ribbit3187,actual,1,0.25
-Tobias,tick tock2159,actual,1,0.25
-Tobias,toot toot2160,actual,7,0.25
-Tobias,toot toot2681,actual,1,0.25
-Tobias,toot toot2682,actual,1,0.25
+Tobias,ribbit ribbit3100,actual,2,0.25
+Tobias,ribbit ribbit3140,actual,1,0.25
+Tobias,ribbit ribbit3141,actual,1,0.25
+Tobias,tick tock2129,actual,1,0.25
+Tobias,toot toot2130,actual,7,0.25
+Tobias,toot toot2646,actual,1,0.25
+Tobias,toot toot2647,actual,1,0.25
 Tobias,toot toot270,target,2,0.25
 Tobias,toot toot271,target,2,0.25
 Tobias,toot toot272,target,2,0.25
 Tobias,toot toot273,target,2,0.25
-Tobias,tortoise2161,actual,3,0.25
+Tobias,tortoise2131,actual,3,0.25
 Tobias,tortoise274,target,1,0.25
-Tobias,what's that1410,target,1,0.25
-Tobias,what's that1411,target,1,0.25
-Tobias,what's that1412,target,1,0.25
-Tobias,what's that1413,target,1,0.25
-Tobias,what's that1414,target,1,0.25
-Tobias,what's that2857,actual,2,0.25
-Tobias,what's that2858,actual,1,0.25
-Tobias,what's that3147,actual,1,0.25
-Tobias,what's that3148,actual,1,0.25
-Tobias,what's that3149,actual,1,0.25
-Tobias,what's that3626,actual,1,0.25
-Tobias,woof woof1415,target,1,0.25
-Tobias,woof woof1416,target,1,0.25
-Tobias,woof woof1417,target,1,0.25
-Tobias,woof woof1418,target,1,0.25
-Tobias,woof woof1829,actual,6,0.25
-Tobias,woof woof2708,actual,11,0.25
-Tobias,woof woof2859,actual,5,0.25
-Tobias,woof woof2860,actual,5,0.25
-Vincent,a pas1309,target,5,0.25
-Vincent,a pas3028,actual,11,0.25
-Vincent,accroche1310,target,2,0.25
-Vincent,accroche3029,actual,2,0.25
-Vincent,allô1311,target,4,0.25
-Vincent,allô1312,target,4,0.25
-Vincent,allô1313,target,4,0.25
-Vincent,allô1314,target,4,0.25
-Vincent,allô1315,target,4,0.25
-Vincent,allô2743,actual,8,0.25
-Vincent,allô3030,actual,9,0.25
-Vincent,allô3031,actual,9,0.25
-Vincent,allô3032,actual,9,0.25
-Vincent,allô3033,actual,9,0.25
-Vincent,attends1316,target,6,0.25
-Vincent,attends3034,actual,11,0.25
-Vincent,bravo3035,actual,10,0.25
-Vincent,bravo3036,actual,4,0.25
-Vincent,bravo3037,actual,10,0.25
-Vincent,bravo3038,actual,10,0.25
-Vincent,bravo3039,actual,10,0.25
-Vincent,bravo783,target,1,0.25
-Vincent,bravo784,target,1,0.25
-Vincent,bravo785,target,1,0.25
-Vincent,bravo786,target,1,0.25
-Vincent,bravo787,target,1,0.25
-Vincent,caché3040,actual,11,0.25
-Vincent,caché788,target,3,0.25
-Vincent,caché789,target,3,0.25
-Vincent,casser3160,actual,1,0.25
-Vincent,casser790,target,3,0.25
-Vincent,chercher1452,target,3,0.25
-Vincent,chercher1453,target,3,0.25
-Vincent,chercher3161,actual,2,0.25
-Vincent,chercher3162,actual,2,0.25
-Vincent,encore1317,target,2,0.25
-Vincent,encore3041,actual,11,0.25
-Vincent,entends1318,target,6,0.25
-Vincent,entends3042,actual,11,0.25
-Vincent,essaye1319,target,2,0.25
-Vincent,essaye1320,target,2,0.25
-Vincent,essaye3043,actual,11,0.25
-Vincent,essaye3163,actual,1,0.25
-Vincent,fermé3044,actual,4,0.25
-Vincent,garage3045,actual,2,0.25
-Vincent,ici1321,target,8,0.25
-Vincent,ici1322,target,8,0.25
-Vincent,ici3046,actual,9,0.25
-Vincent,ici3047,actual,9,0.25
-Vincent,l'avion2523,actual,1,0.25
-Vincent,l'avion2524,actual,1,0.25
-Vincent,l'avion792,target,2,0.25
-Vincent,l'avion793,target,2,0.25
-Vincent,l'avion794,target,2,0.25
-Vincent,la lune2525,actual,2,0.25
-Vincent,la lune2526,actual,1,0.25
-Vincent,la lune2527,actual,1,0.25
-Vincent,la lune2528,actual,2,0.25
-Vincent,la lune2690,actual,2,0.25
-Vincent,la lune2700,actual,1,0.25
-Vincent,la lune3165,actual,1,0.25
-Vincent,la lune795,target,1,0.25
-Vincent,la lune796,target,1,0.25
-Vincent,la lune797,target,1,0.25
-Vincent,la lune798,target,1,0.25
-Vincent,la lune799,target,1,0.25
-Vincent,la lune800,target,1,0.25
-Vincent,la lune801,target,1,0.25
-Vincent,la lune802,target,1,0.25
-Vincent,le chien3048,actual,9,0.25
-Vincent,le chien807,target,1,0.25
-Vincent,le pain3049,actual,11,0.25
-Vincent,le pain3050,actual,11,0.25
-Vincent,le pain3051,actual,11,0.25
-Vincent,le pain3052,actual,11,0.25
-Vincent,le pain808,target,4,0.25
-Vincent,le pain809,target,4,0.25
-Vincent,le pain810,target,4,0.25
-Vincent,le pain811,target,4,0.25
-Vincent,là-haut1945,actual,2,0.25
-Vincent,là-haut1946,actual,2,0.25
-Vincent,là-haut1947,actual,2,0.25
-Vincent,là-haut1948,actual,2,0.25
-Vincent,là-haut803,target,2,0.25
-Vincent,là-haut804,target,2,0.25
-Vincent,là-haut805,target,2,0.25
-Vincent,là-haut806,target,2,0.25
-Vincent,marche pas1455,target,1,0.25
-Vincent,marche pas1456,target,1,0.25
-Vincent,marche pas1457,target,1,0.25
-Vincent,marche pas1458,target,1,0.25
-Vincent,marche pas1459,target,1,0.25
-Vincent,marche pas1460,target,1,0.25
-Vincent,marche pas1461,target,1,0.25
-Vincent,marche pas3053,actual,8,0.25
-Vincent,marche pas3166,actual,2,0.25
-Vincent,marche pas3167,actual,2,0.25
-Vincent,marche pas3168,actual,2,0.25
-Vincent,marche pas3169,actual,2,0.25
-Vincent,marche pas3170,actual,2,0.25
-Vincent,marche pas3171,actual,2,0.25
-Vincent,micro3054,actual,10,0.25
-Vincent,ok1323,target,6,0.25
-Vincent,ok3055,actual,10,0.25
-Vincent,super3056,actual,11,0.25
-Vincent,super812,target,2,0.25
-Vincent,un deux1325,target,6,0.25
-Vincent,un deux1326,target,6,0.25
-Vincent,un deux3058,actual,11,0.25
-Vincent,un deux3059,actual,11,0.25
-Vincent,voilà3060,actual,9,0.25
-Vincent,voilà3061,actual,9,0.25
-Vincent,voilà3062,actual,9,0.25
-Vincent,voilà813,target,1,0.25
-Vincent,voilà814,target,1,0.25
-Vincent,voilà815,target,1,0.25
+Tobias,what's that1388,target,1,0.25
+Tobias,what's that1389,target,1,0.25
+Tobias,what's that1390,target,1,0.25
+Tobias,what's that1391,target,1,0.25
+Tobias,what's that1392,target,1,0.25
+Tobias,what's that2821,actual,2,0.25
+Tobias,what's that2822,actual,1,0.25
+Tobias,what's that3101,actual,1,0.25
+Tobias,what's that3102,actual,1,0.25
+Tobias,what's that3103,actual,1,0.25
+Tobias,what's that3578,actual,1,0.25
+Tobias,woof woof1393,target,1,0.25
+Tobias,woof woof1394,target,1,0.25
+Tobias,woof woof1395,target,1,0.25
+Tobias,woof woof1396,target,1,0.25
+Tobias,woof woof1805,actual,6,0.25
+Tobias,woof woof2673,actual,11,0.25
+Tobias,woof woof2823,actual,5,0.25
+Tobias,woof woof2824,actual,5,0.25
+Vincent,a pas1287,target,5,0.25
+Vincent,a pas2982,actual,11,0.25
+Vincent,accroche1288,target,2,0.25
+Vincent,accroche2983,actual,2,0.25
+Vincent,allô1289,target,4,0.25
+Vincent,allô1290,target,4,0.25
+Vincent,allô1291,target,4,0.25
+Vincent,allô1292,target,4,0.25
+Vincent,allô1293,target,4,0.25
+Vincent,allô2707,actual,8,0.25
+Vincent,allô2984,actual,9,0.25
+Vincent,allô2985,actual,9,0.25
+Vincent,allô2986,actual,9,0.25
+Vincent,allô2987,actual,9,0.25
+Vincent,attends1294,target,6,0.25
+Vincent,attends2988,actual,11,0.25
+Vincent,bravo2989,actual,10,0.25
+Vincent,bravo2990,actual,4,0.25
+Vincent,bravo2991,actual,10,0.25
+Vincent,bravo2992,actual,10,0.25
+Vincent,bravo2993,actual,10,0.25
+Vincent,bravo774,target,1,0.25
+Vincent,bravo775,target,1,0.25
+Vincent,bravo776,target,1,0.25
+Vincent,bravo777,target,1,0.25
+Vincent,bravo778,target,1,0.25
+Vincent,caché2994,actual,11,0.25
+Vincent,caché779,target,3,0.25
+Vincent,caché780,target,3,0.25
+Vincent,casser3114,actual,1,0.25
+Vincent,casser781,target,3,0.25
+Vincent,chercher1430,target,3,0.25
+Vincent,chercher1431,target,3,0.25
+Vincent,chercher3115,actual,2,0.25
+Vincent,chercher3116,actual,2,0.25
+Vincent,encore1295,target,2,0.25
+Vincent,encore2995,actual,11,0.25
+Vincent,entends1296,target,6,0.25
+Vincent,entends2996,actual,11,0.25
+Vincent,essaye1297,target,2,0.25
+Vincent,essaye1298,target,2,0.25
+Vincent,essaye2997,actual,11,0.25
+Vincent,essaye3117,actual,1,0.25
+Vincent,fermé2998,actual,4,0.25
+Vincent,garage2999,actual,2,0.25
+Vincent,ici1299,target,8,0.25
+Vincent,ici1300,target,8,0.25
+Vincent,ici3000,actual,9,0.25
+Vincent,ici3001,actual,9,0.25
+Vincent,l'avion2488,actual,1,0.25
+Vincent,l'avion2489,actual,1,0.25
+Vincent,l'avion783,target,2,0.25
+Vincent,l'avion784,target,2,0.25
+Vincent,l'avion785,target,2,0.25
+Vincent,la lune2490,actual,2,0.25
+Vincent,la lune2491,actual,1,0.25
+Vincent,la lune2492,actual,1,0.25
+Vincent,la lune2493,actual,2,0.25
+Vincent,la lune2655,actual,2,0.25
+Vincent,la lune2665,actual,1,0.25
+Vincent,la lune3119,actual,1,0.25
+Vincent,la lune786,target,1,0.25
+Vincent,la lune787,target,1,0.25
+Vincent,la lune788,target,1,0.25
+Vincent,la lune789,target,1,0.25
+Vincent,la lune790,target,1,0.25
+Vincent,la lune791,target,1,0.25
+Vincent,la lune792,target,1,0.25
+Vincent,la lune793,target,1,0.25
+Vincent,le chien3002,actual,9,0.25
+Vincent,le chien798,target,1,0.25
+Vincent,le pain3003,actual,11,0.25
+Vincent,le pain3004,actual,11,0.25
+Vincent,le pain3005,actual,11,0.25
+Vincent,le pain3006,actual,11,0.25
+Vincent,le pain799,target,4,0.25
+Vincent,le pain800,target,4,0.25
+Vincent,le pain801,target,4,0.25
+Vincent,le pain802,target,4,0.25
+Vincent,là-haut1915,actual,2,0.25
+Vincent,là-haut1916,actual,2,0.25
+Vincent,là-haut1917,actual,2,0.25
+Vincent,là-haut1918,actual,2,0.25
+Vincent,là-haut794,target,2,0.25
+Vincent,là-haut795,target,2,0.25
+Vincent,là-haut796,target,2,0.25
+Vincent,là-haut797,target,2,0.25
+Vincent,marche pas1433,target,1,0.25
+Vincent,marche pas1434,target,1,0.25
+Vincent,marche pas1435,target,1,0.25
+Vincent,marche pas1436,target,1,0.25
+Vincent,marche pas1437,target,1,0.25
+Vincent,marche pas1438,target,1,0.25
+Vincent,marche pas1439,target,1,0.25
+Vincent,marche pas3007,actual,8,0.25
+Vincent,marche pas3120,actual,2,0.25
+Vincent,marche pas3121,actual,2,0.25
+Vincent,marche pas3122,actual,2,0.25
+Vincent,marche pas3123,actual,2,0.25
+Vincent,marche pas3124,actual,2,0.25
+Vincent,marche pas3125,actual,2,0.25
+Vincent,micro3008,actual,10,0.25
+Vincent,ok1301,target,6,0.25
+Vincent,ok3009,actual,10,0.25
+Vincent,super3010,actual,11,0.25
+Vincent,super803,target,2,0.25
+Vincent,un deux1303,target,6,0.25
+Vincent,un deux1304,target,6,0.25
+Vincent,un deux3012,actual,11,0.25
+Vincent,un deux3013,actual,11,0.25
+Vincent,voilà3014,actual,9,0.25
+Vincent,voilà3015,actual,9,0.25
+Vincent,voilà3016,actual,9,0.25
+Vincent,voilà804,target,1,0.25
+Vincent,voilà805,target,1,0.25
+Vincent,voilà806,target,1,0.25

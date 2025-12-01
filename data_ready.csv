@@ -1635,15 +1635,15 @@
 "Japanese","Haruo","20","foot","açi","ʔɔʤɪ:",2
 "Japanese","Haruo","20","foot","açi","ʰʌçɪ:",2
 "Japanese","Haruo","20","foot","açi","ʌt:jʰɪ:",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","aɾe:",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","aja::",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","aɾa:",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","ʔʌdɛ:",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","ʔʌɾɛ:",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","aɾe:",2
-"Japanese","Haruo","20","what's up, this is odd'","aɾe","aɾe:",2
-"Japanese","Haruo","20","here it is, found it","at:a","at:a",2
-"Japanese","Haruo","20","here it is, found it","at:a","at:ʰa",2
+"Japanese","Haruo","20","what's up","aɾe","aɾe:",NA
+"Japanese","Haruo","20","what's up","aɾe","aja::",NA
+"Japanese","Haruo","20","what's up","aɾe","aɾa:",NA
+"Japanese","Haruo","20","what's up","aɾe","ʔʌdɛ:",NA
+"Japanese","Haruo","20","what's up","aɾe","ʔʌɾɛ:",NA
+"Japanese","Haruo","20","what's up","aɾe","aɾe:",NA
+"Japanese","Haruo","20","what's up","aɾe","aɾe:",NA
+"Japanese","Haruo","20","here it is","at:a","at:a",NA
+"Japanese","Haruo","20","here it is","at:a","at:ʰa",NA
 "Japanese","Haruo","20","hot","aʨ:i","ʌt:ɕi:",2
 "Japanese","Haruo","20","hot","aʨ:i","ʌt:ɕi:",2
 "Japanese","Haruo","20","hot","aʨ:i","ʌt:ɕi:",2
@@ -1665,9 +1665,9 @@
 "Japanese","Haruo","20","telephone","deŋ=wa","daba:",2
 "Japanese","Haruo","20","please","do:zo","dʲɔ:dʲɔ:",2
 "Japanese","Haruo","20","where","doko","doko",2
-"Japanese","Haruo","20","fall-down sound","doŋ","dʌm",1
-"Japanese","Haruo","20","fall-down sound","doŋ","dɔn",1
-"Japanese","Haruo","20","fall-down sound","doŋ","dæ:",1
+"Japanese","Haruo","20","fall-down","doŋ","dʌm",NA
+"Japanese","Haruo","20","fall-down","doŋ","dɔn",NA
+"Japanese","Haruo","20","fall-down","doŋ","dæ:",NA
 "Japanese","Haruo","20","jump","dʑam=pɯ","dʲap:ɯ:",2
 "Japanese","Haruo","20","jump","dʑam=pɯ","dʲʌ:n",2
 "Japanese","Haruo","20","jump","dʑam=pɯ","danpɯ:",2
@@ -1684,12 +1684,12 @@
 "Japanese","Haruo","20","hello","haɾo:","hɯ:",2
 "Japanese","Haruo","20","I want it","hoɕi:","hotçi:",2
 "Japanese","Haruo","20","I want it","hoɕi:","hotʨi:",2
-"Japanese","Haruo","20","no, don't want to","ija","ɪja",2
-"Japanese","Haruo","20","no, don't want to","ija","ɪjɔ:",2
-"Japanese","Haruo","20","no, don't want to","ija","ɪjaɔ",2
-"Japanese","Haruo","20","no, don't want to","ija","ja:",2
-"Japanese","Haruo","20","no, don't want to","ija","ɪ:jaʰ",2
-"Japanese","Haruo","20","no, don't want to","ija","ɪja",2
+"Japanese","Haruo","20","no","ija","ɪja",1
+"Japanese","Haruo","20","no","ija","ɪjɔ:",1
+"Japanese","Haruo","20","no","ija","ɪjaɔ",1
+"Japanese","Haruo","20","no","ija","ja:",1
+"Japanese","Haruo","20","no","ija","ɪ:jaʰ",1
+"Japanese","Haruo","20","no","ija","ɪja",1
 "Japanese","Haruo","20","peek-a-boo","inaiinai","naɪnaɪ",4
 "Japanese","Haruo","20","peek-a-boo","inaiinai","ⁿdænaɪ",4
 "Japanese","Haruo","20","peek-a-boo","inaiinai","næna:ɪ",4
@@ -1709,11 +1709,6 @@
 "Japanese","Haruo","20","ouch","itai","ɪda:ɪ",2
 "Japanese","Haruo","20","ouch","itai","ɪ:daɪ",2
 "Japanese","Haruo","20","please no!","jadajo","jædæjʌ::",3
-"Japanese","Haruo","20","effort sound","joiɕo","jəʃ",2
-"Japanese","Haruo","20","effort sound","joiɕo","hɯʃ",2
-"Japanese","Haruo","20","effort sound","joiɕo","ʃɯ",2
-"Japanese","Haruo","20","effort sound","joiɕo","ɪʃ",2
-"Japanese","Haruo","20","effort sound","joiɕo","ʔəʃɯ",2
 "Japanese","Haruo","20","here","koko","koko",2
 "Japanese","Haruo","20","here","koko","koxo",2
 "Japanese","Haruo","20","this","koɾe","koʀe",2
@@ -1738,16 +1733,14 @@
 "Japanese","Haruo","20","take off clothes","nɯgɯ","nɯgɯ",2
 "Japanese","Haruo","20","fell down","oʨiʨat:a","ɑʔdʑidʑʲat:a:",4
 "Japanese","Haruo","20","it's over","owaʨ:at:a","ɔdɛda:",4
-"Japanese","Haruo","20","horsey/gallop sd.","pakapaka","n:bak:abɯkabɯkabɯkabɯxa",4
+"Japanese","Haruo","20","gallop","pakapaka","n:bak:abɯkabɯkabɯkabɯxa",NA
 "Japanese","Haruo","20","choochoo","pop:o","pʰapa:",2
 "Japanese","Haruo","20","choochoo","pop:o","bɯ:bɯ:",2
-"Japanese","Haruo","20","stand up!","taʨ:I","tʰæ:tʰʊ",2
-"Japanese","Haruo","20","stand up!","taʨ:I","ʔʌtʧʊ",2
+"Japanese","Haruo","20","stand up","taʨ:I","tʰæ:tʰʊ",NA
+"Japanese","Haruo","20","stand up","taʨ:I","ʔʌtʧʊ",NA
 "Japanese","Haruo","20","doggie","waŋwaŋ","wʌwan",2
 "Japanese","Haruo","20","banana","namɯnamɯ","naməna",4
 "Japanese","Haruo","20","roar sound","gao","gɯa:ɔ",1
-"Japanese","Haruo","20","rolling sound? lying down?","goɾoŋ","gɯ:m",2
-"Japanese","Haruo","20","rolling sound? lying down?","goɾoŋ","gɯ:m",2
 "Japanese","Haruo","20","no","no:","nɔnɔɾɔnɔnɔ",1
 "Japanese","Kazuko","15","shake hands","akushu","hækʊ:tʲʊʔ",3
 "Japanese","Kazuko","15","shake hands","akushu","ɑ:kʊtʰʊ",3
