@@ -468,6 +468,9 @@ basile_01_graph <- ggraph(network_basile_01, layout = "lgl") +
 eelis_01_tab <- read.table("eelis_01.txt",header=TRUE,row.names=1)
 
 eelis_01 <- as.matrix(eelis_01_tab)
+Q1_eelis_01 <- quantile(eelis_01, 0.25)
+eelis_01[upper.tri(eelis_01)] <- NA
+diag(eelis_01) <- NA
 
 words_eelis_01 <- as.data.frame(dimnames(eelis_01))
 
@@ -478,7 +481,7 @@ dimnames(eelis_01) <- list(NULL, c("heppa", "kiinni", "heppa", "rikki", "kiikkaa
 
 # standardize values
 
-Q1_eelis_01 <- quantile(eelis_01[eelis_01 > 0], 0.25)
+Q1_eelis_01 <- quantile(eelis_01, 0.25)
 
 eelis_01 <- ifelse(eelis_01>Q1_eelis_01, NA, eelis_01)
 eelis_01 <- ifelse(eelis_01==0, 0.1, eelis_01)
@@ -508,7 +511,7 @@ eelis_01_graph <- ggraph(network_eelis_01, layout = "stress") +
   theme_void(base_size=14) +
   ggtitle("3b. Eelis: Lowest path length") +
   theme(
-    #legend.position="none",
+    legend.position="none",
     plot.margin=unit(rep(1,4), "cm")
   )
 
