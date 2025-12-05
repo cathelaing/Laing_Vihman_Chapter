@@ -4852,6 +4852,11 @@ write.table(mira_01_A,file="mira_01_A.txt")
 afan_01_A <- global_matrix_iter_A[["Afan_1_A"]]
 write.table(afan_01_A,file="afan_01_A.txt")
 
+carys_01_A <- global_matrix_iter_A[["Carys_1"]]
+write.table(carys_01_A,file="carys_01_A.txt")
+adeline_01_A <- global_matrix_iter_A[["Adeline_1"]]
+write.table(adeline_01_A,file="adeline_01_A.txt")
+
 ## bottom infants
 gwyn_01_A <- global_matrix_iter_A[["Gwyn_1_A"]]
 write.table(gwyn_01_A,file="gwyn_01_A.txt")
@@ -4863,6 +4868,14 @@ radia_01_A <- global_matrix_iter_A[["Radia_1_A"]]
 write.table(radia_01_A,file="radia_01_A.txt")
 carys_01_A <- global_matrix_iter_A[["Carys_1_A"]]
 write.table(carys_01_A,file="carys_01_A.txt")
+
+lewis_01_A <- global_matrix_iter_A[["Lewis_1"]]
+write.table(lewis_01_A,file="lewis_01_A.txt")
+tobias_01_A <- global_matrix_iter_A[["Tobias_1"]]
+write.table(tobias_01_A,file="tobias_01_A.txt")
+sini_01_A <- global_matrix_iter_A[["Sini_1"]]
+write.table(sini_01_A,file="sini_01_A.txt")
+
 
 
 # Take Euclidean distances from each infant's data and turn into a single dataframe
