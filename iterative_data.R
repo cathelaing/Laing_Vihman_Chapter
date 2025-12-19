@@ -1,8 +1,13 @@
+source("preprocessing.R")
+source("data_prep.R")
+library(tidyverse)
 set.seed(24)
 
 output_df <- read_csv("output_df.csv")
 
-distance_df <- read_csv("distance_df.csv")
+distance_df <- output_df %>%
+  mutate(GlossID = paste(Gloss, ID, sep="")) %>%
+  write_csv("distance_df.csv")
 
 ####################### TARGET FORMS ############################
 
@@ -16,7 +21,7 @@ sample_size <- 20
 data_list_iter_base_T <- distance_df %>%   
   ungroup() %>%
   filter(data_type == "target")
-
+  
 # create an empty list to store the samples
 samples_list_T <- list()
 
@@ -2464,10 +2469,7 @@ sample_size <- 20
 
 data_list_iter_base <- distance_df %>%   
   ungroup() %>%
-  filter(data_type == "actual")# %>%
-#group_by(Subject)# %>%
-# slice_sample(n=20) %>%
-# split(., f = .$Subject)
+  filter(data_type == "actual")
 
 # create an empty list to store the samples
 samples_list <- list()
@@ -4839,17 +4841,17 @@ global_matrix_iter_A <- lapply(data_list_iter_A, FUN = function(element) {
 
 ## create some graphs for visualization purposes:
 ## top infants
-basile_01_A <- global_matrix_iter_A[["Basile_1_A"]]
+basile_01_A <- global_matrix_iter_A[["Basile_1"]]
 write.table(basile_01_A,file="basile_01_A.txt")
-adeline_01_A <- global_matrix_iter_A[["Adeline_1_A"]]
+adeline_01_A <- global_matrix_iter_A[["Adeline_1"]]
 write.table(adeline_01_A,file="adeline_01_A.txt")
-vincent_01_A <- global_matrix_iter_A[["Vincent_1_A"]]
+vincent_01_A <- global_matrix_iter_A[["Vincent_1"]]
 write.table(vincent_01_A,file="vincent_01_A.txt")
-eelis_01_A <- global_matrix_iter_A[["Eelis_1_A"]]
+eelis_01_A <- global_matrix_iter_A[["Eelis_1"]]
 write.table(eelis_01_A,file="eelis_01_A.txt")
-mira_01_A <- global_matrix_iter_A[["Mira_1_A"]]
+mira_01_A <- global_matrix_iter_A[["Mira_1"]]
 write.table(mira_01_A,file="mira_01_A.txt")
-afan_01_A <- global_matrix_iter_A[["Afan_1_A"]]
+afan_01_A <- global_matrix_iter_A[["Afan_1"]]
 write.table(afan_01_A,file="afan_01_A.txt")
 
 carys_01_A <- global_matrix_iter_A[["Carys_1"]]
@@ -4857,16 +4859,21 @@ write.table(carys_01_A,file="carys_01_A.txt")
 adeline_01_A <- global_matrix_iter_A[["Adeline_1"]]
 write.table(adeline_01_A,file="adeline_01_A.txt")
 
+
+
 ## bottom infants
-gwyn_01_A <- global_matrix_iter_A[["Gwyn_1_A"]]
+gwyn_01_A <- global_matrix_iter_A[["Gwyn_1"]]
 write.table(gwyn_01_A,file="gwyn_01_A.txt")
-ella_01_A <- global_matrix_iter_A[["Ella_1_A"]]
+ella_01_A <- global_matrix_iter_A[["Ella_1"]]
 write.table(ella_01_A,file="ella_01_A.txt")
-tobias_01_A <- global_matrix_iter_A[["Tobias_1_A"]]
+
+ella_66_A <- global_matrix_iter_A[["Ella_66"]]
+write.table(ella_66_A,file="ella_66_A.txt")
+tobias_01_A <- global_matrix_iter_A[["Tobias_1"]]
 write.table(tobias_01_A,file="tobias_01_A.txt")
-radia_01_A <- global_matrix_iter_A[["Radia_1_A"]]
+radia_01_A <- global_matrix_iter_A[["Radia_1"]]
 write.table(radia_01_A,file="radia_01_A.txt")
-carys_01_A <- global_matrix_iter_A[["Carys_1_A"]]
+carys_01_A <- global_matrix_iter_A[["Carys_1"]]
 write.table(carys_01_A,file="carys_01_A.txt")
 
 lewis_01_A <- global_matrix_iter_A[["Lewis_1"]]
@@ -4875,8 +4882,32 @@ tobias_01_A <- global_matrix_iter_A[["Tobias_1"]]
 write.table(tobias_01_A,file="tobias_01_A.txt")
 sini_01_A <- global_matrix_iter_A[["Sini_1"]]
 write.table(sini_01_A,file="sini_01_A.txt")
+taro_01_A <- global_matrix_iter_A[["Taro_1"]]
+write.table(taro_01_A,file="taro_01_A.txt")
 
+taro_18_A <- global_matrix_iter_A[["Taro_18"]]
+write.table(taro_18_A,file="taro_18_A.txt")
 
+julien_01_A <- global_matrix_iter_A[["Julien_1"]]
+write.table(julien_01_A,file="julien_01_A.txt")
+
+## top and bottom 3 infants according to template analysis
+
+# Atte-Finnish
+# Basile-French
+# Rachel-English
+atte_01_A <- global_matrix_iter_A[["Atte_1"]]
+write.table(atte_01_A,file="atte_01_A.txt")
+rachel_01_A <- global_matrix_iter_A[["Rachel_1"]]
+write.table(rachel_01_A,file="rachel_01_A.txt")
+
+# Lewis-English
+# Elen-Welsh
+# Radia-Urdu
+elen_01_A <- global_matrix_iter_A[["Elen_1"]]
+write.table(elen_01_A,file="elen_01_A.txt")
+radia_01_A <- global_matrix_iter_A[["Radia_1"]]
+write.table(radia_01_A,file="radia_01_A.txt")
 
 # Take Euclidean distances from each infant's data and turn into a single dataframe
 
@@ -5056,7 +5087,7 @@ globalgraphdata_subj_IT <- lapply(infants_list_subj_IT, FUN = function(element) 
   net_plot_threshold <- delete_edges(net_plot, which(E(net_plot)$weight > cut.off))    # delete edges with a threshold above .25
 })
 
-plot(globalgraphdata_subj_IT$Afan_1)
+#plot(globalgraphdata_subj_IT$Afan_1)
 
 ######################## Calculating small-world properties - age data #####################
 
@@ -5138,7 +5169,7 @@ globalgraphdata_subj_IA <- lapply(infants_list_subj_IA, FUN = function(element) 
   net_plot_threshold <- delete_edges(net_plot, which(E(net_plot)$weight > cut.off))    # delete edges with a threshold above .25
 })
 
-plot(globalgraphdata_subj_IA$Afan_1)
+#plot(globalgraphdata_subj_IA$Afan_1)
 
 ######################## Calculating small-world properties - age data #####################
 

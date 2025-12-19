@@ -1347,8 +1347,8 @@
 "Japanese","Hiromi","21","hippopotamus","kaba","kaba",2
 "Japanese","Hiromi","21","duck","kakːa","kaka",2
 "Japanese","Hiromi","21","turtle","kame","kaβa",2
-"Japanese","Hiromi","21","cute","kawaiː","kai",2
-"Japanese","Hiromi","21","cute","kawaiː","kai",2
+"Japanese","Hiromi","21","cute","kawaiː","kai",3
+"Japanese","Hiromi","21","cute","kawaiː","kai",3
 "Japanese","Hiromi","21","cake","keːki","kiki",2
 "Japanese","Hiromi","21","cake","keːki","kiki",2
 "Japanese","Hiromi","21","cake","keːki","kiki",2
@@ -1635,15 +1635,15 @@
 "Japanese","Haruo","20","foot","açi","ʔɔʤɪ:",2
 "Japanese","Haruo","20","foot","açi","ʰʌçɪ:",2
 "Japanese","Haruo","20","foot","açi","ʌt:jʰɪ:",2
-"Japanese","Haruo","20","what's up","aɾe","aɾe:",NA
-"Japanese","Haruo","20","what's up","aɾe","aja::",NA
-"Japanese","Haruo","20","what's up","aɾe","aɾa:",NA
-"Japanese","Haruo","20","what's up","aɾe","ʔʌdɛ:",NA
-"Japanese","Haruo","20","what's up","aɾe","ʔʌɾɛ:",NA
-"Japanese","Haruo","20","what's up","aɾe","aɾe:",NA
-"Japanese","Haruo","20","what's up","aɾe","aɾe:",NA
-"Japanese","Haruo","20","here it is","at:a","at:a",NA
-"Japanese","Haruo","20","here it is","at:a","at:ʰa",NA
+"Japanese","Haruo","20","what's up","aɾe","aɾe:",2
+"Japanese","Haruo","20","what's up","aɾe","aja::",2
+"Japanese","Haruo","20","what's up","aɾe","aɾa:",2
+"Japanese","Haruo","20","what's up","aɾe","ʔʌdɛ:",2
+"Japanese","Haruo","20","what's up","aɾe","ʔʌɾɛ:",2
+"Japanese","Haruo","20","what's up","aɾe","aɾe:",2
+"Japanese","Haruo","20","what's up","aɾe","aɾe:",2
+"Japanese","Haruo","20","here it is","at:a","at:a",2
+"Japanese","Haruo","20","here it is","at:a","at:ʰa",2
 "Japanese","Haruo","20","hot","aʨ:i","ʌt:ɕi:",2
 "Japanese","Haruo","20","hot","aʨ:i","ʌt:ɕi:",2
 "Japanese","Haruo","20","hot","aʨ:i","ʌt:ɕi:",2
@@ -1665,9 +1665,9 @@
 "Japanese","Haruo","20","telephone","deŋ=wa","daba:",2
 "Japanese","Haruo","20","please","do:zo","dʲɔ:dʲɔ:",2
 "Japanese","Haruo","20","where","doko","doko",2
-"Japanese","Haruo","20","fall-down","doŋ","dʌm",NA
-"Japanese","Haruo","20","fall-down","doŋ","dɔn",NA
-"Japanese","Haruo","20","fall-down","doŋ","dæ:",NA
+"Japanese","Haruo","20","fall-down","doŋ","dʌm",1
+"Japanese","Haruo","20","fall-down","doŋ","dɔn",1
+"Japanese","Haruo","20","fall-down","doŋ","dæ:",1
 "Japanese","Haruo","20","jump","dʑam=pɯ","dʲap:ɯ:",2
 "Japanese","Haruo","20","jump","dʑam=pɯ","dʲʌ:n",2
 "Japanese","Haruo","20","jump","dʑam=pɯ","danpɯ:",2
@@ -1733,11 +1733,11 @@
 "Japanese","Haruo","20","take off clothes","nɯgɯ","nɯgɯ",2
 "Japanese","Haruo","20","fell down","oʨiʨat:a","ɑʔdʑidʑʲat:a:",4
 "Japanese","Haruo","20","it's over","owaʨ:at:a","ɔdɛda:",4
-"Japanese","Haruo","20","gallop","pakapaka","n:bak:abɯkabɯkabɯkabɯxa",NA
+"Japanese","Haruo","20","gallop","pakapaka","n:bak:abɯkabɯkabɯkabɯxa",4
 "Japanese","Haruo","20","choochoo","pop:o","pʰapa:",2
 "Japanese","Haruo","20","choochoo","pop:o","bɯ:bɯ:",2
-"Japanese","Haruo","20","stand up","taʨ:I","tʰæ:tʰʊ",NA
-"Japanese","Haruo","20","stand up","taʨ:I","ʔʌtʧʊ",NA
+"Japanese","Haruo","20","stand up","taʨ:I","tʰæ:tʰʊ",2
+"Japanese","Haruo","20","stand up","taʨ:I","ʔʌtʧʊ",2
 "Japanese","Haruo","20","doggie","waŋwaŋ","wʌwan",2
 "Japanese","Haruo","20","banana","namɯnamɯ","naməna",4
 "Japanese","Haruo","20","roar sound","gao","gɯa:ɔ",1
@@ -1921,10 +1921,10 @@
 "Japanese","Kazuko","15","ear-chan","mimitʃan","mɪmɪtɑ",3
 "Japanese","Kazuko","15","ear-chan","mimitʃan","mɪmɪ",3
 "Japanese","Kazuko","15","chewing sound","mushamusha","mi:tæmʊtɑmʊtɑ",4
-"Japanese","Kazuko","15","all gone, put away","nainai","n:ɑ",2
-"Japanese","Kazuko","15","all gone, put away","nainai","njɑ",2
-"Japanese","Kazuko","15","all gone, put away","nainai","nɑ:nɑʔ",2
-"Japanese","Kazuko","15","all gone, put away","nainai","nɑɪnɔ:ɪ",2
+"Japanese","Kazuko","15","all gone, put away","nainai","n:ɑ",3
+"Japanese","Kazuko","15","all gone, put away","nainai","njɑ",3
+"Japanese","Kazuko","15","all gone, put away","nainai","nɑ:nɑʔ",3
+"Japanese","Kazuko","15","all gone, put away","nainai","nɑɪnɔ:ɪ",3
 "Japanese","Kazuko","15","sleeping","nen:e","nɛn:e",2
 "Japanese","Kazuko","15","sleeping","nen:e","nen:e",2
 "Japanese","Kazuko","15","sleeping","nen:e","næn:i",2
@@ -2133,7 +2133,6 @@
 "Urdu","Radia","19","machar","mətʃʰər","mətʃəl",2
 "Urdu","Radia","19","machar","mətʃʰər","mu:tʃəl",2
 "Urdu","Radia","19","PILLOW","pilo","pil:i:",2
-"Urdu","Radia","19","PILLOW","pilo","ʃole",2
 "Urdu","Radia","19","ganda","gəndə","ganda",2
 "Urdu","Radia","19","Allahuakbar","əllahuakbar","əl:auk",5
 "Urdu","Radia","19","daalu","ɖa:llu","da:l:e",2

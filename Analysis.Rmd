@@ -25,7 +25,6 @@ options("encoding" = "UTF-8")
 main_data <- read_csv("data_ready.csv")
 distance_data<- read.csv("output_df.csv", header = TRUE, fileEncoding = "UTF-8")
 #check <- distance_data %>% dplyr::select(S2CF1.S2CF1, Gloss, IPAactual)
-network_graphs <- read_csv("globalsmallworlddata.csv")
 ```
 
 ## Data
@@ -142,7 +141,7 @@ Table1 <- cbind(infants, ages, n_typ, n_tok, n_typ_disyl, n_tok_disyl) %>%
 kable(Table1) %>% kable_styling("striped") %>% save_kable("Table1.pdf")
 ```
 
-```{r syllable numbers - Table 2}
+```{r Table 2 - Syllable numbers}
 
 distance_data %>% filter(data_type == "actual" & nsyl_actual == 2)
 
@@ -169,6 +168,29 @@ Table2 <- distance_data %>% filter(data_type == "actual") %>%
   
 kable(Table2) %>% kable_styling("striped") %>% save_kable("Table2.pdf")
 
+
+prop_syls <- main_data %>%
+  group_by(Subject, Language, Gloss) %>% slice(1) %>%
+  ungroup() %>%
+  group_by(Language) %>%
+  tally() %>%
+  rename("total" = "n")
+
+Table2_allsyls <- main_data %>%
+  group_by(Language, Subject, Gloss) %>%
+  slice(1) %>%
+  ungroup() %>%
+  mutate(syllables = ifelse(nsyl_target >2, 3, nsyl_target)) %>%
+  group_by(Language, syllables) %>%
+  tally() %>%
+  left_join(prop_syls) %>%
+  mutate(proportion = n/total) %>%
+  dplyr::select(-total, -n) %>%
+  pivot_wider(names_from = Language, values_from = proportion) %>%
+  mutate_all(~replace(., is.na(.), 0)) %>%
+  rename("n syllables" = syllables) %>%
+  mutate_if(is.numeric, ~round(., 2))
+
 ```
 
 ```{r ex of distance table}
@@ -190,8 +212,7 @@ Table3 <- distance_data %>% dplyr::select(Subject, Language, Gloss, IPAactual,
   dplyr::select(-nsyl_actual, -data_type) %>%
   rename("IPA" = IPAactual)
 
-names(Table3) <- sub(".*.", "", names(Table3))
-names(Table3)
+names(Table3) <- c("Infant", "Language", "Gloss", "IPA", "Syl1-C1", "Syl2-C1", "FinalSyl-C1", "FinalC")
 
 kable(Table3) %>% kable_styling("striped") %>% save_kable("Table3.pdf")
 
@@ -200,61 +221,61 @@ kable(Table3) %>% kable_styling("striped") %>% save_kable("Table3.pdf")
 ```{r ex of distance table - geminates}
 #set.seed(24)
 
-Table4a <- distance_data %>%
-  filter(
-    geminate_T == T,
-    data_type == "target") %>%
-  group_by(Language, Gloss)  %>%
-  slice(1) %>%
-  mutate(`Data type` = ifelse(Subject == "Atte", "Target", "")
-         ) %>%
-  dplyr::select(`Data type`,Subject, Language, Gloss, IPAtarget,
-                                S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
-                                S1CF1.S1CF1, S1CF2.S1CF2,
-                                S2C1.S2C1, S2CF1.S2CF1, #S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
-                                SFC1.SFC1, #SFC2.SFC2,
-                                #SFCF1.SFCF1, SFCF2.SFCF2,
-                                ) %>%
-  filter(Gloss %in% c("ankka", "hot", "cookie", "phuppo")) %>%
-  rename("IPA" = IPAtarget) %>%
-  mutate(Gloss = fct_recode(Gloss,
-                            "ankka 'duck'" = "ankka",
-                            "kukki 'cookie'" = "cookie",
-                            "atsui 'hot" = "hot",
-                            "phuppo 'uncle'" = "phuppo"),
-         )
-
-names(Table4a) <- sub(".*.", "", names(Table4a))
-names(Table4a)
-
-Table4b <- distance_data %>%
-  filter(
-    geminate_A == T,
-    data_type == "actual") %>%
-  group_by(Language, Gloss)  %>%
-  slice(1) %>%
-  mutate(`Data type` = ifelse(Subject == "Mira", "Actual", "")
-         ) %>%
-  dplyr::select(`Data type`, Subject, Language, Gloss, IPAactual,
-                                S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
-                                S1CF1.S1CF1, S1CF2.S1CF2,
-                                S2C1.S2C1, S2CF1.S2CF1,#S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
-                                SFC1.SFC1, #SFC2.SFC2,
-                                #SFCF1.SFCF1, SFCF2.SFCF2
-                                ) %>%
-   filter(Gloss %in% c("häntä", "roska", "cassé", "Mummy")) %>%
-   rename("IPA" = IPAactual) %>%
-  mutate(Gloss = fct_recode(Gloss,
-                            "häntä 'him'" = "häntä",
-                            "roska 'rubbish'" = "roska",
-                            "cassé 'broken" = "cassé"))
-
-names(Table4b) <- sub(".*.", "", names(Table4b))
-names(Table4b)
-
-Table4 <- rbind(Table4a, Table4b)
-
-kable(Table4) %>% kable_styling("striped") %>% save_kable("Table4.pdf")
+# Table4a <- distance_data %>%
+#   filter(
+#     geminate_T == T,
+#     data_type == "target") %>%
+#   group_by(Language, Gloss)  %>%
+#   slice(1) %>%
+#   mutate(`Data type` = ifelse(Subject == "Atte", "Target", "")
+#          ) %>%
+#   dplyr::select(`Data type`,Subject, Language, Gloss, IPAtarget,
+#                                 S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
+#                                 S1CF1.S1CF1, S1CF2.S1CF2,
+#                                 S2C1.S2C1, S2CF1.S2CF1, #S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
+#                                 SFC1.SFC1, #SFC2.SFC2,
+#                                 #SFCF1.SFCF1, SFCF2.SFCF2,
+#                                 ) %>%
+#   filter(Gloss %in% c("ankka", "hot", "cookie", "phuppo")) %>%
+#   rename("IPA" = IPAtarget) %>%
+#   mutate(Gloss = fct_recode(Gloss,
+#                             "ankka 'duck'" = "ankka",
+#                             "kukki 'cookie'" = "cookie",
+#                             "atsui 'hot" = "hot",
+#                             "phuppo 'uncle'" = "phuppo"),
+#          )
+# 
+# names(Table4a) <- sub(".*.", "", names(Table4a))
+# names(Table4a)
+# 
+# Table4b <- distance_data %>%
+#   filter(
+#     geminate_A == T,
+#     data_type == "actual") %>%
+#   group_by(Language, Gloss)  %>%
+#   slice(1) %>%
+#   mutate(`Data type` = ifelse(Subject == "Mira", "Actual", "")
+#          ) %>%
+#   dplyr::select(`Data type`, Subject, Language, Gloss, IPAactual,
+#                                 S1C1.S1C1, #S1C2.S1C2, S1C3.S1C3, S1C4.S1C4,
+#                                 S1CF1.S1CF1, S1CF2.S1CF2,
+#                                 S2C1.S2C1, S2CF1.S2CF1,#S2C2.S2C2, S2C3.S2C3, S2C4.S2C4,
+#                                 SFC1.SFC1, #SFC2.SFC2,
+#                                 #SFCF1.SFCF1, SFCF2.SFCF2
+#                                 ) %>%
+#    filter(Gloss %in% c("häntä", "roska", "cassé", "Mummy")) %>%
+#    rename("IPA" = IPAactual) %>%
+#   mutate(Gloss = fct_recode(Gloss,
+#                             "häntä 'him'" = "häntä",
+#                             "roska 'rubbish'" = "roska",
+#                             "cassé 'broken" = "cassé"))
+# 
+# names(Table4b) <- sub(".*.", "", names(Table4b))
+# names(Table4b)
+# 
+# Table4 <- rbind(Table4a, Table4b)
+# 
+# kable(Table4) %>% kable_styling("striped") %>% save_kable("Table4.pdf")
 
 ```
 
@@ -345,12 +366,13 @@ Table5 <- Table5_base %>%
 kable(Table5) %>% kable_styling("striped") %>% save_kable("Table5.pdf")
 ```
 
-```{r}
+```{r Figure 1}
 
 # disyl_data %>% group_by(Subject) %>% tally() %>% summarise(min = min(n),
 #                                                            max = max(n))
 
 it_summary_networks <- smallworlddata_it %>% 
+  filter(data_type == "iter_A") %>%
   group_by(Speaker, Language) %>%
   summarise(path_length = mean(path_length),
             mean_k = mean(mean_k),
@@ -410,7 +432,8 @@ top_infants_CC <- it_summary_networks %>%
 
 top_infants <- rbind(top_infants_CC, top_infants_meank, top_infants_PL) %>%
   mutate_if(is.numeric, ~round(., 2)) %>%
-  dplyr::select(Measure, Speaker, Language, Value)
+  dplyr::select(Measure, Speaker, Language, Value) %>%
+  mutate(order = "top")
 
 bottom_infants_meank <- it_summary_networks %>%
   arrange(mean_k) %>%
@@ -435,119 +458,49 @@ bottom_infants_CC <- it_summary_networks %>%
 
 bottom_infants <- rbind(bottom_infants_CC, bottom_infants_meank, bottom_infants_PL) %>%
   mutate_if(is.numeric, ~round(., 2)) %>%
-  dplyr::select(Measure, Speaker, Language, Value)
+  dplyr::select(Measure, Speaker, Language, Value) %>%
+  mutate(order = "bottom")
 
 kable(bottom_infants) %>% kable_styling("striped") %>% save_kable("Table6b.pdf")
 kable(top_infants) %>% kable_styling("striped") %>% save_kable("Table6a.pdf")
 
-  
+all_infants <- rbind(top_infants, bottom_infants) %>% group_by(Speaker, order) %>% tally()
 ```
 
+## Comparison with template analysis
 
-```{r network graphs for top infants - mean k and clustering coef}
+```{r network graphs for high template infants - Atte}
 
-options(ggrepel.max.overlaps = Inf)
+atte_01_tab <- read.table("atte_01_A.txt",header=TRUE,row.names=1)   ### need to update these
 
-carys_01_tab <- read.table("carys_01_A.txt",header=TRUE,row.names=1)   ### need to update these
+atte_01 <- as.matrix(atte_01_tab)
 
-carys_01 <- as.matrix(carys_01_tab)
+words_atte_01 <- as.data.frame(dimnames(atte_01))
 
-words_carys_01 <- as.data.frame(dimnames(carys_01))
+words_atte_01_alph <- gsub('[0-9.]', '', words_atte_01[1])
 
-words_carys_01_alph <- gsub('[0-9.]', '', words_carys_01[1])
-
-dimnames(carys_01) <- list(NULL, c("gaggag", "lorry", "tata", "tata", "hiya", "tedi", "eisio", "tractor", "eisio", "hwnna", "Meira", "eira", "Lucy", "tedi", "eira", "hiya", "hwnna", "La-La", "tedi", "Meira"))
-  
-
-# standardize values
-
-Q1_carys_01 <- quantile(carys_01[carys_01 > 0], 0.25)
-
-carys_01 <- ifelse(carys_01>Q1_carys_01, NA, carys_01)
-carys_01 <- ifelse(carys_01==0, 0.1, carys_01)
-
-
-# Transform it in a network graph format
-network_carys_01 <- graph_from_adjacency_matrix(carys_01, weighted = TRUE, diag=F)
-
-# Remove edges with NA weights
-network_carys_01 <- delete_edges(network_carys_01, 
-                                  E(network_carys_01)[is.na(E(network_carys_01)$weight)])
-
-flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
-
-# Make the graph
-carys_01_graph <- ggraph(network_carys_01) +
-  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
-                     edge_colour = weight),
-                # edge_colour="grey", 
-                 edge_alpha=0.2) +
-  geom_node_point(fill="#69b3a2", 
-                  colour = "grey36",
-                  size=3, stroke = 1.2, shape = 21) +
-  geom_node_text(aes(label=name),
-                 repel = TRUE, size=4#, color="#69b3a2"
-                 ) +
-  theme_void(base_size = 14) +
-  ggtitle("3a. Carys: Highest clustering coefficient") +
-  theme(
-    legend.position="none",
-    plot.margin=unit(rep(1,4), "cm")
-    
-carys_01_graph2 <- ggraph(network_carys_01) +
-  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
-                     edge_colour = weight),
-                # edge_colour="grey", 
-                 edge_alpha=0.2) +
-  geom_node_point(fill="#69b3a2", 
-                  colour = "grey36",
-                  size=3, stroke = 1.2, shape = 21) +
-  geom_node_text(aes(label=name),
-                 repel = TRUE, size=4#, color="#69b3a2"
-                 ) +
-  theme_void(base_size = 14) +
-  ggtitle("3c. Carys: Highest mean k") +
-  theme(
-    legend.position="none",
-    plot.margin=unit(rep(1,4), "cm")
-  )
-
-```
-carys_01_graph
-carys_01_graph2
-
-```{r network graphs for top infants - path length}
-
-adeline_01_tab <- read.table("adeline_01_A.txt",header=TRUE,row.names=1)   ### need to update these
-
-adeline_01 <- as.matrix(adeline_01_tab)
-
-words_adeline_01 <- as.data.frame(dimnames(adeline_01))
-
-words_adeline_01_alph <- gsub('[0-9.]', '', words_adeline_01[1])
-
-dimnames(adeline_01) <- list(NULL, c("encore", "encore", "au revoir", "au revoir", "au revoir", "encore", "encore", "au revoir", "encore", "voiture", "chapeau", "encore", "encore", "maman", "bisou", "coucou", "encore", "coucou", "encore", "oiseau"))
+dimnames(atte_01) <- list(NULL, c("matto", "Atti", "auto", "auto", "ukko", "Minni", "auto", "auto", "auto", "auto", "Atti", "ukko", "isi", "äiti", "loppu", "matto", "äiti", "äiti", "Atti", "ääni"))
   
 
 # standardize values
 
-Q1_adeline_01 <- quantile(adeline_01[adeline_01 > 0], 0.25)
+Q1_atte_01 <- quantile(atte_01[atte_01 > 0], 0.25)
 
-adeline_01 <- ifelse(adeline_01>Q1_adeline_01, NA, adeline_01)
-adeline_01 <- ifelse(adeline_01==0, 0.1, adeline_01)
+atte_01 <- ifelse(atte_01>Q1_atte_01, NA, atte_01)
+atte_01 <- ifelse(atte_01==0, 0.1, atte_01)
 
 
 # Transform it in a network graph format
-network_adeline_01 <- graph_from_adjacency_matrix(adeline_01, weighted = TRUE, diag=F)
+network_atte_01 <- graph_from_adjacency_matrix(atte_01, weighted = TRUE, diag=F)
 
 # Remove edges with NA weights
-network_adeline_01 <- delete_edges(network_adeline_01, 
-                                  E(network_adeline_01)[is.na(E(network_adeline_01)$weight)])
+network_atte_01 <- delete_edges(network_atte_01, 
+                                  E(network_atte_01)[is.na(E(network_atte_01)$weight)])
 
 flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
 
 # Make the graph
-adeline_01_graph <- ggraph(network_adeline_01, layout = "stress") +
+atte_01_graph <- ggraph(network_atte_01, layout = "stress") +
   geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
                      edge_colour = weight),
                 # edge_colour="grey", 
@@ -559,17 +512,222 @@ adeline_01_graph <- ggraph(network_adeline_01, layout = "stress") +
                  repel = TRUE, size=4#, color="#69b3a2"
                  ) +
   theme_void(base_size = 14) +
-  ggtitle("3e. Adeline: Lowest path length") +
+  ggtitle("Atte (Finnish): 100% templates") +
   theme(
     legend.position="none",
     plot.margin=unit(rep(1,4), "cm")
   )
+```
+atte_01_graph
 
+```{r network graphs for high template infants - eelis}
+
+eelis_01_tab <- read.table("eelis_01_A.txt",header=TRUE,row.names=1)   ### need to update these
+
+eelis_01 <- as.matrix(eelis_01_tab)
+
+words_eelis_01 <- as.data.frame(dimnames(eelis_01))
+
+words_eelis_01_alph <- gsub('[0-9.]', '', words_eelis_01[1])
+
+dimnames(eelis_01) <- list(NULL, c("Hippi", "heppa", "heppa", "heppa", "istuu", "kiinni", "pappa", "heppa", "kiinni", "loppu", "heppa", "ankka", "heppa", "istuu", "heppa", "kiinni", "kakka", "Hippi", "heppa", "kukka"))
+  
+
+# standardize values
+
+Q1_eelis_01 <- quantile(eelis_01[eelis_01 > 0], 0.25)
+
+eelis_01 <- ifelse(eelis_01>Q1_eelis_01, NA, eelis_01)
+eelis_01 <- ifelse(eelis_01==0, 0.1, eelis_01)
+
+
+# Transform it in a network graph format
+network_eelis_01 <- graph_from_adjacency_matrix(eelis_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_eelis_01 <- delete_edges(network_eelis_01, 
+                                  E(network_eelis_01)[is.na(E(network_eelis_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+eelis_01_graph <- ggraph(network_eelis_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("Eelis (Finnish): 88% templates") +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
 ```
 
-adeline_01_graph
+eelis_01_graph
 
-```{r network graphs for bottom infants - clustering coefficient}
+```{r network graphs for high template infants - basile}
+
+basile_01_tab <- read.table("basile_01_A.txt",header=TRUE,row.names=1)   ### need to update these
+
+basile_01 <- as.matrix(basile_01_tab)
+
+words_basile_01 <- as.data.frame(dimnames(basile_01))
+
+words_basile_01_alph <- gsub('[0-9.]', '', words_basile_01[1])
+
+dimnames(basile_01) <- list(NULL, c("pin pon", "teuton", "canard/coin-coin", "encore", "livre", "divan", "canard/coin-coin", "canard/coin-coin", "lequel", "maman", "pin pon", "coucou", "pin pon", "musique", "bravo", "maman", "maman", "maman", "maman", "mouton"))
+  
+
+# standardize values
+
+Q1_basile_01 <- quantile(basile_01[basile_01 > 0], 0.25)
+
+basile_01 <- ifelse(basile_01>Q1_basile_01, NA, basile_01)
+basile_01 <- ifelse(basile_01==0, 0.1, basile_01)
+
+
+# Transform it in a network graph format
+network_basile_01 <- graph_from_adjacency_matrix(basile_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_basile_01 <- delete_edges(network_basile_01, 
+                                  E(network_basile_01)[is.na(E(network_basile_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+basile_01_graph <- ggraph(network_basile_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("Basile (French): 93% templates") +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+```
+
+basile_01_graph
+
+```{r network graphs for low template infants - radia}
+
+radia_01_tab <- read.table("radia_01_A.txt",header=TRUE,row.names=1)   ### need to update these
+
+radia_01 <- as.matrix(radia_01_tab)
+
+words_radia_01 <- as.data.frame(dimnames(radia_01))
+
+words_radia_01_alph <- gsub('[0-9.]', '', words_radia_01[1])
+
+dimnames(radia_01) <- list(NULL, c("toba", "machar", "machar", "MAMA", "MAMA", "ayee", "acha", "dadi", "oho", "BOTTLE", "theek hai", "khana", "ganda", "BASKET", "nino", "vava", "BOTTLE", "sona", "vava", "Allah"))
+
+# standardize values
+
+Q1_radia_01 <- quantile(radia_01[radia_01 > 0], 0.25)
+
+radia_01 <- ifelse(radia_01>Q1_radia_01, NA, radia_01)
+radia_01 <- ifelse(radia_01==0, 0.1, radia_01)
+
+
+# Transform it in a network graph format
+network_radia_01 <- graph_from_adjacency_matrix(radia_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_radia_01 <- delete_edges(network_radia_01, 
+                                  E(network_radia_01)[is.na(E(network_radia_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+radia_01_graph <- ggraph(network_radia_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("Radia (Urdu): 22% templates") +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+```
+
+radia_01_graph
+
+```{r network graphs for low template infants - julien}
+
+julien_01_tab <- read.table("julien_01_A.txt",header=TRUE,row.names=1)   ### need to update these
+
+julien_01 <- as.matrix(julien_01_tab)
+
+words_julien_01 <- as.data.frame(dimnames(julien_01))
+
+words_julien_01_alph <- gsub('[0-9.]', '', words_julien_01[1])
+
+dimnames(julien_01) <- list(NULL, c("croco", "Tonton", "croco", "Pin pon", "Popi", "Papa", "Nana", "Corinne", "Maman", "plus grand", "Papa", "croco", "Papa", "croco", "Boubou", "les deux", "Boubou", "Pin pon", "Tonton", "Boubou"))
+  
+
+# standardize values
+
+Q1_julien_01 <- quantile(julien_01[julien_01 > 0], 0.25)
+
+julien_01 <- ifelse(julien_01>Q1_julien_01, NA, julien_01)
+julien_01 <- ifelse(julien_01==0, 0.1, julien_01)
+
+
+# Transform it in a network graph format
+network_julien_01 <- graph_from_adjacency_matrix(julien_01, weighted = TRUE, diag=F)
+
+# Remove edges with NA weights
+network_julien_01 <- delete_edges(network_julien_01, 
+                                  E(network_julien_01)[is.na(E(network_julien_01)$weight)])
+
+flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+
+# Make the graph
+julien_01_graph <- ggraph(network_julien_01, layout = "stress") +
+  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
+                     edge_colour = weight),
+                # edge_colour="grey", 
+                 edge_alpha=0.2) +
+  geom_node_point(fill="#69b3a2", 
+                  colour = "grey36",
+                  size=3, stroke = 1.2, shape = 21) +
+  geom_node_text(aes(label=name),
+                 repel = TRUE, size=4#, color="#69b3a2"
+                 ) +
+  theme_void(base_size = 14) +
+  ggtitle("Julien (French): 0% templates") +
+  theme(
+    legend.position="none",
+    plot.margin=unit(rep(1,4), "cm")
+  )
+```
+
+julien_01_graph
+
+```{r network graphs for low template infants - lewis}
 
 lewis_01_tab <- read.table("lewis_01_A.txt",header=TRUE,row.names=1)   ### need to update these
 
@@ -579,7 +737,7 @@ words_lewis_01 <- as.data.frame(dimnames(lewis_01))
 
 words_lewis_01_alph <- gsub('[0-9.]', '', words_lewis_01[1])
 
-dimnames(lewis_01) <- list(NULL, c("choo-choo", "all gone", "choo-choo", "choo-choo", "ladder", "oh no", "all gone", "circle", "uh-oh", "oh no", "all gone", "oh no", "all gone", "all gone", "all gone", "choo-choo", "uh-oh", "uh-oh", "woof woof", "oh no"))
+dimnames(lewis_01) <- list(NULL, c("uh-oh", "pushchair", "choo-choo", "oh no", "all gone", "tractor", "apple", "all gone", "uh-oh", "uh-oh", "all gone", "oh no", "choo-choo", "all gone", "choo-choo", "tractor", "all gone", "oh no", "oh no", "all gone"))
   
 
 # standardize values
@@ -612,152 +770,50 @@ lewis_01_graph <- ggraph(network_lewis_01, layout = "stress") +
                  repel = TRUE, size=4#, color="#69b3a2"
                  ) +
   theme_void(base_size = 14) +
-  ggtitle("3b. Lewis: Lowest clustering coefficient") +
+  ggtitle("Lewis (English): 30% templates") +
   theme(
     legend.position="none",
     plot.margin=unit(rep(1,4), "cm")
   )
 ```
+
 lewis_01_graph
-```{r network graphs for bottom infants - mean k}
-
-tobias_01_tab <- read.table("tobias_01_A.txt",header=TRUE,row.names=1)   ### need to update these
-
-tobias_01 <- as.matrix(tobias_01_tab)
-
-words_tobias_01 <- as.data.frame(dimnames(tobias_01))
-
-words_tobias_01_alph <- gsub('[0-9.]', '', words_tobias_01[1])
-
-dimnames(tobias_01) <- list(NULL, c("peacock", "monkey", "quack quack", "quack quack", "quack quack", "tortoise", "ribbit ribbit", "baby", "what's that", "eeyore", "neenaw", "eeyore", "toot toot", "quack quack", "monkey", "quack quack", "quack quack", "honk honk", "woof woof", "what's that"))
-  
-
-# standardize values
-
-Q1_tobias_01 <- quantile(tobias_01[tobias_01 > 0], 0.25)
-
-tobias_01 <- ifelse(tobias_01>Q1_tobias_01, NA, tobias_01)
-tobias_01 <- ifelse(tobias_01==0, 0.1, tobias_01)
 
 
-# Transform it in a network graph format
-network_tobias_01 <- graph_from_adjacency_matrix(tobias_01, weighted = TRUE, diag=F)
+```{r julien example}
 
-# Remove edges with NA weights
-network_tobias_01 <- delete_edges(network_tobias_01, 
-                                  E(network_tobias_01)[is.na(E(network_tobias_01)$weight)])
+words_julien_01 <- as.data.frame(words_julien_01)
 
-flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
+colnames(words_julien_01)[1] <- "words"
 
-# Make the graph
-tobias_01_graph <- ggraph(network_tobias_01, layout = "stress") +
-  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
-                     edge_colour = weight),
-                # edge_colour="grey", 
-                 edge_alpha=0.2) +
-  geom_node_point(fill="#69b3a2", 
-                  colour = "grey36",
-                  size=3, stroke = 1.2, shape = 21) +
-  geom_node_text(aes(label=name),
-                 repel = TRUE, size=4#, color="#69b3a2"
-                 ) +
-  theme_void(base_size = 14) +
-  ggtitle("3d. Tobias: Lowest mean k") +
-  theme(
-    legend.position="none",
-    plot.margin=unit(rep(1,4), "cm")
-  )
+julien_IPA<- distance_data %>% unite(GlossID, "Gloss", "ID", sep = "", remove = F) %>%
+  filter(GlossID %in% words_julien_01$words) %>%
+  dplyr::select(Subject, Language, Gloss, IPAactual, 
+                                S1C1.S1C1,
+                S2C1.S2C1,
+                                SFC1.SFC1, 
+                                data_type) %>%
+  filter(Subject == "Julien" & data_type == "actual") %>%
+  group_by(Gloss) %>%
+  slice(1) %>%
+  dplyr::select(Gloss, IPAactual)
+
+julien_ex <- distance_data %>% unite(GlossID, "Gloss", "ID", sep = "", remove = F) %>%
+  filter(GlossID %in% words_julien_01$words) %>%
+  dplyr::select(Subject, Language, Gloss, IPAactual, 
+                                S1C1.S1C1,
+                S2C1.S2C1,
+                                SFC1.SFC1, 
+                                data_type) %>%
+  filter(      Subject == "Julien" &
+               data_type == "actual"
+               ) %>%
+  dplyr::select(-Subject, -Language, -data_type) %>%
+  group_by(Gloss, S1C1.S1C1, S2C1.S2C1, SFC1.SFC1) %>% tally() %>%
+  left_join(julien_IPA) %>%
+  dplyr::select(Gloss, IPAactual, S1C1.S1C1, S2C1.S2C1, SFC1.SFC1, n)
+
+
+kable(julien_ex) %>% kable_styling("striped") %>% save_kable("julien_ex.pdf")
+
 ```
-
-tobias_01_graph
-
-```{r network graphs for bottom infants - [mean path length}
-
-sini_01_tab <- read.table("sini_01_A.txt",header=TRUE,row.names=1)   ### need to update these
-
-sini_01 <- as.matrix(sini_01_tab)
-
-words_sini_01 <- as.data.frame(dimnames(sini_01))
-
-words_sini_01_alph <- gsub('[0-9.]', '', words_sini_01[1])
-
-dimnames(sini_01) <- list(NULL, c("kakku", "täti", "mummi", "kynä", "ukki", "leipä", "viili", "pupu", "loppu", "kiikkaa", "loppu", "heihei", "rikki", "kukka", "tyttö", "kirja", "tyttö", "roska", "hauhau", "sakset"))
-  
-
-# standardize values
-
-Q1_sini_01 <- quantile(sini_01[sini_01 > 0], 0.25)
-
-sini_01 <- ifelse(sini_01>Q1_sini_01, NA, sini_01)
-sini_01 <- ifelse(sini_01==0, 0.1, sini_01)
-
-
-# Transform it in a network graph format
-network_sini_01 <- graph_from_adjacency_matrix(sini_01, weighted = TRUE, diag=F)
-
-# Remove edges with NA weights
-network_sini_01 <- delete_edges(network_sini_01, 
-                                  E(network_sini_01)[is.na(E(network_sini_01)$weight)])
-
-flip <- function(x) max(x)-x+1  # function to flip the values so that wider edges = closer connection
-
-# Make the graph
-sini_01_graph <- ggraph(network_sini_01, layout = "stress") +
-  geom_edge_link(aes(edge_width=(edge_width=flip(weight)),
-                     edge_colour = weight),
-                # edge_colour="grey", 
-                 edge_alpha=0.2) +
-  geom_node_point(fill="#69b3a2", 
-                  colour = "grey36",
-                  size=3, stroke = 1.2, shape = 21) +
-  geom_node_text(aes(label=name),
-                 repel = TRUE, size=4#, color="#69b3a2"
-                 ) +
-  theme_void(base_size = 14) +
-  ggtitle("3f. Sini: Highest path length") +
-  theme(
-    legend.position="none",
-    plot.margin=unit(rep(1,4), "cm")
-  )
-```
-
-sini_01_graph
-
-### OLD
-
-
-```{r network graphs - summary}
-
-network_graphs_long <- network_graphs %>% pivot_longer(
-  cols = path_length:clust_coef_global,
-  names_to = "var",
-  values_to = "value"
-)
-
-Fig1 <- network_graphs_long %>%
-  filter(!is.na(Speaker)) %>%
-  mutate(var = fct_recode(var,
-                          "Clustering coefficient" = "clust_coef_global",
-                          "Mean k" = "mean_k",
-                          "Path length" = "path_length")) %>%
-  ggplot(aes(x = Language, y = value, colour = data_type)) +
-  geom_boxplot(aes(fill = data_type), alpha = .1) +
-  geom_point(shape = 1, position = position_jitterdodge()) +
-  scale_colour_brewer(palette = "Set1") +
-  theme_bw(base_size = 14) +
-  theme(legend.title = element_blank(),
-        axis.text.x = element_text(angle = 45, vjust = 0.7)) +
-  facet_wrap(~var, ncol = 3, scales = "free")
-```
-
-Fig1
-
-
-# Fig2 <- ggplot(smallworlddata_it, aes(mean_k, path_length, group = Speaker)) +
-#   geom_point(aes(colour = Speaker), shape = 1, alpha = 0.8, position = position_jitter()) +
-#     geom_point(data = it_summary_networks, aes(fill = Speaker), shape = 21, size = 3) +
-#   xlab("Mean k") +
-#   ylab("Mean path length") +
-#   theme_bw(base_size = 12) +
-#   theme(legend.position="none") +
-#   facet_wrap(~Language, ncol = 3)
